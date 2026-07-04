@@ -8,23 +8,22 @@ L'objectif de ce projet est de construire une base de compétences solide en ing
 
 ## Compétences acquises
 
-En progressant à travers les chapitres de cette formation, j'ai développé une expertise technique sur les piliers suivants :
-
-* **Administration système et réseaux** :
-    * Maîtrise de l'environnement Linux, gestion des droits, des processus et des journaux système.
-    * Configuration des protocoles réseau, gestion des pare-feux et sécurisation des accès distants.
-* **Conteneurisation et virtualisation** :
-    * Conception d'architectures basées sur des conteneurs isolés via Docker et orchestration multi-conteneurs avec Docker Compose.
-    * Déploiement et gestion d'environnements virtualisés pour assurer l'isolation des services.
-* **Infrastructure as Code (IaC) et Automatisation** :
-    * Automatisation complète de la configuration des serveurs via Ansible, garantissant la reproductibilité des environnements.
-    * Réduction des erreurs manuelles par la transformation des procédures d'administration en code versionné.
-* **CI/CD et cycle de vie logiciel** :
-    * Mise en place de pipelines d'intégration et de déploiement continus pour automatiser les tests, le build et la livraison du code.
-    * Intégration de la sécurité directement dans le processus de développement (DevSecOps).
-* **Observabilité et Cloud** :
-    * Mise en œuvre de solutions de monitoring (métriques) et de journalisation (logs) pour anticiper les incidents et analyser les performances.
-    * Compréhension et déploiement d'architectures sur des fournisseurs Cloud, optimisant la scalabilité et la haute disponibilité.
+* **Orchestration et Cloud (Le cœur du métier)** :
+    * **Kubernetes (K8s)** : Gestion de clusters, déploiement d'applications, Ingress, ConfigMaps et cycles de vie des pods.
+    * **Cloud & Infrastructure** : Déploiement et gestion d'architectures sur fournisseurs Cloud avec haute disponibilité et scalabilité.
+* **Infrastructure as Code (IaC) et GitOps** :
+    * **Terraform** : Provisionnement d'infrastructure (création de ressources, gestion d'état, modules).
+    * **Ansible** : Automatisation de la configuration système, gestion des rôles et inventaires.
+    * **GitOps** : Automatisation du déploiement continu avec des outils comme ArgoCD.
+* **Conteneurisation et CI/CD** :
+    * **Docker** : Conception d'architectures basées sur des conteneurs, optimisation des images.
+    * **Pipeline CI/CD** : Automatisation des tests et de la livraison logicielle.
+* **Sécurité et Observabilité** :
+    * **Sécurité déclarative** : Policy-as-Code pour l'audit et la sécurisation des infrastructures.
+    * **Observabilité** : Mise en place de monitoring (métriques) et de journalisation (logs) pour la visibilité des services.
+* **Fondamentaux Système** :
+    * **Administration Linux** : Gestion des droits, processus, SSH hardening et réseaux (pare-feux).
+    *
 
 ## Structure du dépôt
 
