@@ -4,6 +4,15 @@
 > Source : https://blog.stephane-robert.info/docs/pipeline-cicd/
 > Les liens sont relatifs au site (chemins `/docs/...`).
 
+## Checklist globale
+- [ ] Phase A — Définir, comprendre les échecs, bonnes pratiques terminée
+- [ ] Phase B — Track principal : GitHub Actions terminée
+- [ ] Phase C — Second track : GitLab CI terminée
+- [ ] Phase D — GitOps (Argo CD puis Flux) terminée
+- [ ] Phase E — Dagger & Jenkins terminée
+- [ ] Phase F — Sécurité transverse du pipeline & annexes terminée
+- [ ] Dossier validé
+
 ## Vision du dossier
 Ce dossier transforme le code et l'infrastructure en flux de livraison automatisé : intégration continue, déploiement continu, GitOps et sécurisation du pipeline.
 
@@ -1343,12 +1352,3 @@ Gates sécu, scan de secrets, durcissement — lien explicite avec `05-securite`
 - Écrire et industrialiser des pipelines GitLab CI (y compris via labs)
 - Mettre en place un déploiement GitOps avec Argo CD (et situer Flux)
 - Ajouter des contrôles sécurité (secrets, supply chain, permissions) au pipeline
-
-## Checklist globale
-- [ ] Phase A — Définir, comprendre les échecs, bonnes pratiques terminée
-- [ ] Phase B — Track principal : GitHub Actions terminée
-- [ ] Phase C — Second track : GitLab CI terminée
-- [ ] Phase D — GitOps (Argo CD puis Flux) terminée
-- [ ] Phase E — Dagger & Jenkins terminée
-- [ ] Phase F — Sécurité transverse du pipeline & annexes terminée
-- [ ] Dossier validé

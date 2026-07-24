@@ -4,6 +4,14 @@
 > Source : https://blog.stephane-robert.info/docs/documenter/
 > Les liens sont relatifs au site (chemins `/docs/...`).
 
+## Checklist globale
+
+- [ ] Phase A terminée
+- [ ] Phase B terminée
+- [ ] Phase C terminée
+- [ ] Phase D terminée
+- [ ] Dossier validé
+
 ## Vision du dossier
 
 Documenter n’est pas une tâche annexe : c’est ce qui rend une équipe scalable, un incident récupérable et une décision d’architecture traçable. Ce dossier te fait passer de « on a un wiki mort » à une culture Docs-as-Code avec artefacts concrets (ADR, runbooks, postmortems) et une stack de publication adaptée.
@@ -233,11 +241,3 @@ On évite de choisir un générateur avant d’avoir clarifié le besoin et les 
 - Rédiger ADR, service overview, runbooks, postmortems et checklists
 - Choisir un outil de publication adapté (MkDocs, Hugo, Docusaurus, Antora, Starlight…)
 - Produire des slides versionnées et des schémas C4 cohérents
-
-## Checklist globale
-
-- [ ] Phase A terminée
-- [ ] Phase B terminée
-- [ ] Phase C terminée
-- [ ] Phase D terminée
-- [ ] Dossier validé

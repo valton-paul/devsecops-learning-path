@@ -4,6 +4,17 @@
 > Source : https://blog.stephane-robert.info/docs/services/
 > Les liens sont relatifs au site (chemins `/docs/...`).
 
+## Checklist globale
+
+- [ ] Phase A — Services web terminée
+- [ ] Phase B — Bases de données terminée
+- [ ] Phase C — Identité terminée
+- [ ] Phase D — Stockage terminée
+- [ ] Phase E — Réseau services terminée
+- [ ] Phase F — Scheduling terminée
+- [ ] Phase G — Tooling DevOps terminée
+- [ ] Dossier validé
+
 ## Vision du dossier
 
 Administrer des services, c’est faire tourner durablement ce dont les applications dépendent : web, bases de données, identité, stockage, exposition réseau, ordonnancement et forges DevOps. Ce dossier transforme un Linux correctement administré (`02`) et un réseau compris (`03`) en plateforme opérationnelle.
@@ -1028,14 +1039,3 @@ Forges self-managed, runners, gestion d’infra (CMDB/IPAM), supervision de proc
 - Exposer des services via Traefik/HAProxy avec TLS
 - Installer une forge Git self-managed et ses runners
 - Ordonnancer des jobs (Rundeck/Airflow/dkron)
-
-## Checklist globale
-
-- [ ] Phase A — Services web terminée
-- [ ] Phase B — Bases de données terminée
-- [ ] Phase C — Identité terminée
-- [ ] Phase D — Stockage terminée
-- [ ] Phase E — Réseau services terminée
-- [ ] Phase F — Scheduling terminée
-- [ ] Phase G — Tooling DevOps terminée
-- [ ] Dossier validé

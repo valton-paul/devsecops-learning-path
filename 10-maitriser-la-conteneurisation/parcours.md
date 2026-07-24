@@ -4,6 +4,15 @@
 > Source : https://blog.stephane-robert.info/docs/conteneurs/
 > Les liens sont relatifs au site (chemins `/docs/...`).
 
+## Checklist globale
+- [ ] Phase A — Images de conteneurs terminée
+- [ ] Phase B — Moteurs (Docker puis alternatives) terminée
+- [ ] Phase C — Registres terminée
+- [ ] Phase D — Orchestration (vers Kubernetes) terminée
+- [ ] Phase E — Cloud-native terminée
+- [ ] Phase F — Outils transverses & annexes terminée
+- [ ] Dossier validé
+
 ## Vision du dossier
 Ce dossier couvre le cycle de vie des charges conteneurisées : images, moteurs d'exécution, registres, orchestration (surtout Kubernetes) et culture cloud-native.
 
@@ -2189,12 +2198,3 @@ Principes CNCF, service mesh et serverless après la pratique K8s.
 - Publier et consommer des images via un registre
 - Déployer sur Kubernetes (manifests, réseau, storage, scale)
 - Utiliser kubectl/Helm/Kustomize et appliquer des bases de sécurité cluster
-
-## Checklist globale
-- [ ] Phase A — Images de conteneurs terminée
-- [ ] Phase B — Moteurs (Docker puis alternatives) terminée
-- [ ] Phase C — Registres terminée
-- [ ] Phase D — Orchestration (vers Kubernetes) terminée
-- [ ] Phase E — Cloud-native terminée
-- [ ] Phase F — Outils transverses & annexes terminée
-- [ ] Dossier validé

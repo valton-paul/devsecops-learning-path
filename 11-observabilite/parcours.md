@@ -4,6 +4,13 @@
 > Source : https://blog.stephane-robert.info/docs/observabilite/
 > Les liens sont relatifs au site (chemins `/docs/...`).
 
+## Checklist globale
+
+- [ ] Phase A terminée
+- [ ] Phase B terminée
+- [ ] Phase C terminée
+- [ ] Dossier validé
+
 ## Vision du dossier
 
 L’observabilité, c’est la capacité à comprendre l’état interne d’un système à partir de ses sorties externes (métriques, logs, traces) — pas seulement « avoir un dashboard vert ». Ce dossier construit d’abord les modèles mentaux et les trois piliers, puis les pratiques (alerting, dashboards, incidents, K8s), et termine par des labs concrets (Prometheus, Grafana, Loki).
@@ -231,10 +238,3 @@ On ne commence pas par Grafana : sans modèle mental, on produit des graphiques 
 - Définir SLI/SLO et des pratiques de gouvernance / alerting / dashboards
 - Relier alertes, runbooks et incidents ; situer l’obs Kubernetes
 - Mettre en place un lab Prometheus + Grafana + alerting + Loki
-
-## Checklist globale
-
-- [ ] Phase A terminée
-- [ ] Phase B terminée
-- [ ] Phase C terminée
-- [ ] Dossier validé

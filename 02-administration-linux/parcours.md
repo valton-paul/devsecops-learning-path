@@ -4,6 +4,20 @@
 > Source : [https://blog.stephane-robert.info/docs/admin-serveurs/](https://blog.stephane-robert.info/docs/admin-serveurs/)
 > Les liens sont relatifs au site (chemins `/docs/...`).
 
+## Checklist globale
+
+- [ ] Phase A — Cadre métier terminée
+- [ ] Phase B — Lab installé (VM ou VPS)
+- [ ] Phases C–F — Fondamentaux validés (fichiers, shell, users, paquets, réseau/logs)
+- [ ] Phases G–I — Exploitation + systemd + maintenance
+- [ ] Phase J — Stockage pratiqué (au moins partitions + LVM + fstab)
+- [ ] Phases K–M — Réseau Linux, sécu socle, dépannage
+- [ ] Phase N — Validation
+- [ ] Phase O — (optionnel) internals / eBPF
+- [ ] Annexes P–Q consultées au besoin
+- [ ] Phase R — (optionnel) plan de certification
+- [ ] Dossier `02-administration-linux` validé — prêt pour `03` / `08` / suite du cursus
+
 ## Vision du dossier
 
 Ce dossier est le **socle technique** de toute la formation : sans Linux maîtrisé, le réseau, la sécu, l'IaC, les conteneurs et le CI/CD restent des recettes copiées. Tu y apprends à installer un lab, naviguer le système, automatiser au shell, faire tourner des services via systemd, gérer le stockage, sécuriser le minimum vital, et dépanner avec méthode.
@@ -2922,19 +2936,3 @@ En fin de parcours : LFCS puis RHCSA pour structurer la révision, une fois la p
 - Configurer le réseau Linux (ip, Netplan/NetworkManager) et diagnostiquer
 - Appliquer un socle de sécurisation OS et une méthode de dépannage
 - Situer namespaces/cgroups/eBPF pour la suite (conteneurs, obs)
-
-
-
-## Checklist globale
-
-- [ ] Phase A — Cadre métier terminée
-- [ ] Phase B — Lab installé (VM ou VPS)
-- [ ] Phases C–F — Fondamentaux validés (fichiers, shell, users, paquets, réseau/logs)
-- [ ] Phases G–I — Exploitation + systemd + maintenance
-- [ ] Phase J — Stockage pratiqué (au moins partitions + LVM + fstab)
-- [ ] Phases K–M — Réseau Linux, sécu socle, dépannage
-- [ ] Phase N — Validation
-- [ ] Phase O — (optionnel) internals / eBPF
-- [ ] Annexes P–Q consultées au besoin
-- [ ] Phase R — (optionnel) plan de certification
-- [ ] Dossier `02-administration-linux` validé — prêt pour `03` / `08` / suite du cursus

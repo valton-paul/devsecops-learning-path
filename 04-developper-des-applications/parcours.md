@@ -4,6 +4,19 @@
 > Source : https://blog.stephane-robert.info/docs/developper/
 > Les liens sont relatifs au site (chemins `/docs/...`).
 
+## Checklist globale
+
+- [ ] Phase A — Bases transverses terminée
+- [ ] Phase B — Git et versioning terminée
+- [ ] Phase C — Python fondamentaux terminée
+- [ ] Phase D — Python intermédiaire terminée
+- [ ] Phase E — Python DevOps terminée
+- [ ] Phase F — Artefacts et dépendances terminée
+- [ ] Phase G — Autres langages (au moins YAML/HCL/SQL) terminée
+- [ ] Phase H — Outillage développeur terminée
+- [ ] Phase I — MCP/IA (optionnelle / avancée) terminée ou reportée
+- [ ] Dossier validé
+
 ## Vision du dossier
 
 Ce dossier pose le socle « développeur » utile à tout profil DevOps / DevSecOps : comprendre les API, versionner avec Git, écrire du code fiable, gérer artefacts et dépendances. Sans ces bases, l’IaC, les conteneurs et la CI/CD restent des boîtes noires.
@@ -2989,16 +3002,3 @@ Dernière phase : vibe coding, Claude Code, MCP, RAG, LLM locaux. À aborder seu
 - Lire YAML/HCL/SQL/Rego au niveau ops
 - Utiliser un IDE et des outils de build ; optionnellement agents MCP/IA
 - Préparer le terrain pour la CI/CD (`13`) et l’AppSec (`05`)
-
-## Checklist globale
-
-- [ ] Phase A — Bases transverses terminée
-- [ ] Phase B — Git et versioning terminée
-- [ ] Phase C — Python fondamentaux terminée
-- [ ] Phase D — Python intermédiaire terminée
-- [ ] Phase E — Python DevOps terminée
-- [ ] Phase F — Artefacts et dépendances terminée
-- [ ] Phase G — Autres langages (au moins YAML/HCL/SQL) terminée
-- [ ] Phase H — Outillage développeur terminée
-- [ ] Phase I — MCP/IA (optionnelle / avancée) terminée ou reportée
-- [ ] Dossier validé

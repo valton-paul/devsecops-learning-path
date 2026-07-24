@@ -4,6 +4,16 @@
 > Source : https://blog.stephane-robert.info/docs/cloud/
 > Les liens sont relatifs au site (chemins `/docs/...`).
 
+## Checklist globale
+
+- [ ] Phase A — Fondamentaux cloud terminée
+- [ ] Phase B — Cloud-init terminée
+- [ ] Phase C — OUTSCALE (jusqu’au capstone) terminée
+- [ ] Phase D — Comparatif providers terminée
+- [ ] Phase E — Sécurité et souveraineté terminée
+- [ ] Phase F — Outils transverses terminée
+- [ ] Dossier validé
+
 ## Vision du dossier
 
 Le cloud n’est pas « la virtualisation chez quelqu’un d’autre » : c’est un modèle de responsabilité partagée, d’API, d’élasticité et d’économie (OPEX, egress, TCO). Ce dossier pose d’abord ces fondamentaux, puis un provider **pédagogique dense**, avant les comparatifs.
@@ -962,13 +972,3 @@ Rclone, s3cmd, restic, plakar : sauvegarde et transfert objet multi-cloud au quo
 - Déployer via Terraform/Packer/Ansible sur Outscale et réaliser le capstone HA
 - Comparer AWS/Azure/GCP/Scalingo au vocabulaire acquis
 - Sécuriser accès (IAM) et manipuler stockage objet / sauvegardes (rclone, restic)
-
-## Checklist globale
-
-- [ ] Phase A — Fondamentaux cloud terminée
-- [ ] Phase B — Cloud-init terminée
-- [ ] Phase C — OUTSCALE (jusqu’au capstone) terminée
-- [ ] Phase D — Comparatif providers terminée
-- [ ] Phase E — Sécurité et souveraineté terminée
-- [ ] Phase F — Outils transverses terminée
-- [ ] Dossier validé

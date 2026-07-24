@@ -4,6 +4,16 @@
 > Source : https://blog.stephane-robert.info/docs/virtualiser/
 > Les liens sont relatifs au site (chemins `/docs/...`).
 
+## Checklist globale
+
+- [ ] Phase A terminée
+- [ ] Phase B terminée
+- [ ] Phase C terminée
+- [ ] Phase D terminée
+- [ ] Phase E terminée
+- [ ] Phase F terminée
+- [ ] Dossier validé
+
 ## Vision du dossier
 
 La virtualisation est le tremplin entre « une machine physique Linux » et les environnements isolés, labs reproductibles, puis le cloud. Tu apprends ce qu’est une VM, la différence hyperviseur type 1 / type 2, les formats de disque, puis tu pratiques : d’abord un hyperviseur léger type 2, ensuite KVM/libvirt en profondeur, Proxmox comme plateforme, et enfin l’hyperconvergé (Harvester, KubeVirt).
@@ -405,13 +415,3 @@ On ne commence pas par Proxmox ni KubeVirt : trop de surface. Les pages « mon p
 - Administrer un lab Proxmox (VM, LXC, stockage, réseau, backups, bases RBAC)
 - Amorcer l’automatisation (Terraform libvirt/Proxmox, Ansible) et un simulateur VMware
 - Situer Firecracker, Harvester et KubeVirt dans le paysage (préparation `10` / `12`)
-
-## Checklist globale
-
-- [ ] Phase A terminée
-- [ ] Phase B terminée
-- [ ] Phase C terminée
-- [ ] Phase D terminée
-- [ ] Phase E terminée
-- [ ] Phase F terminée
-- [ ] Dossier validé

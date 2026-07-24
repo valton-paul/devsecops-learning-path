@@ -4,6 +4,12 @@
 > Source : https://blog.stephane-robert.info/docs/infra-as-code/
 > Les liens sont relatifs au site (chemins `/docs/...`).
 
+## Checklist globale
+- [ ] Phase A — Fondamentaux IaC terminée
+- [ ] Phase B — Gestion de configuration (Ansible d'abord) terminée
+- [ ] Phase C — Provisionnement (Terraform puis alternatives) terminée
+- [ ] Dossier validé
+
 ## Vision du dossier
 Ce dossier enseigne à décrire, versionner et faire converger une infrastructure par le code plutôt que par des clics ou des scripts jetables.
 
@@ -3335,9 +3341,3 @@ Sujets avancés / alternatives de provisionnement après le track Terraform.
 - Gérer secrets (Vault) et industrialiser via collections / EE / AWX
 - Provisionner avec Terraform (HCL, state, modules, multi-env)
 - Situer Terragrunt, OpenTofu, Pulumi et Packer dans une stack IaC
-
-## Checklist globale
-- [ ] Phase A — Fondamentaux IaC terminée
-- [ ] Phase B — Gestion de configuration (Ansible d'abord) terminée
-- [ ] Phase C — Provisionnement (Terraform puis alternatives) terminée
-- [ ] Dossier validé

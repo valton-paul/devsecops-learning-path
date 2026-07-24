@@ -4,6 +4,22 @@
 > Source : https://blog.stephane-robert.info/docs/securiser/
 > Les liens sont relatifs au site (chemins `/docs/...`).
 
+## Checklist globale
+
+- [ ] Phase A — Concepts terminée
+- [ ] Phase B — Menaces terminée
+- [ ] Phase C — Durcissement Linux terminée
+- [ ] Phase D — Sécurité réseau terminée
+- [ ] Phase E — Secrets terminée
+- [ ] Phase F — Analyse de code terminée
+- [ ] Phase G — Conteneurs / K8s terminée (après dossier 10)
+- [ ] Phase H — Supply chain terminée
+- [ ] Phase I — Accès sécurisé terminée
+- [ ] Phase J — SOCLE (référentiel + conformités) parcourue
+- [ ] Annexe incidents SOCLE : au moins 5 études de cas lues
+- [ ] Phase K — Outils / immuabilité / HA parcourue
+- [ ] Dossier validé
+
 ## Vision du dossier
 
 La section **Sécuriser** du cursus DevSecOps couvre l’ensemble du cycle défensif : principes, menaces, durcissement des systèmes, périmètre réseau, gestion des secrets, analyse de code, conteneurs, supply chain, accès Zero Trust, référentiel SOCLE et boîte à outils. Ce dossier local `05-securite` te guide dans cet océan de contenu avec un fil rouge pratico-pratique.
@@ -1754,19 +1770,3 @@ SOCLE et ses dizaines de pages d’incidents ne bloquent pas la progression : il
 - Mettre en place des accès Zero Trust (proxy d’identité, VPN mesh, bastion)
 - Naviguer le référentiel SOCLE (menaces, contrôles, conformités) et tirer des leçons des incidents historiques
 - Choisir et combiner des scanners (Trivy, Grype, Checkov, Prowler…) selon le contexte
-
-## Checklist globale
-
-- [ ] Phase A — Concepts terminée
-- [ ] Phase B — Menaces terminée
-- [ ] Phase C — Durcissement Linux terminée
-- [ ] Phase D — Sécurité réseau terminée
-- [ ] Phase E — Secrets terminée
-- [ ] Phase F — Analyse de code terminée
-- [ ] Phase G — Conteneurs / K8s terminée (après dossier 10)
-- [ ] Phase H — Supply chain terminée
-- [ ] Phase I — Accès sécurisé terminée
-- [ ] Phase J — SOCLE (référentiel + conformités) parcourue
-- [ ] Annexe incidents SOCLE : au moins 5 études de cas lues
-- [ ] Phase K — Outils / immuabilité / HA parcourue
-- [ ] Dossier validé

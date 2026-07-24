@@ -4,6 +4,16 @@
 > Source : https://blog.stephane-robert.info/docs/reseaux/
 > Les liens sont relatifs au site (chemins `/docs/...`).
 
+## Checklist globale
+
+- [ ] Phase A terminée
+- [ ] Phase B terminée
+- [ ] Phase C terminée
+- [ ] Phase D terminée
+- [ ] Phase E terminée
+- [ ] Phase F terminée
+- [ ] Dossier validé
+
 ## Vision du dossier
 
 Ce dossier pose le socle réseau indispensable à tout parcours DevSecOps : comprendre comment les paquets circulent, comment on adresse, route et diagnostique, puis comment les services applicatifs (DNS, HTTP, TLS) s’appuient sur ces fondations. Sans ce vocabulaire commun, la configuration Linux, les pare-feu et plus tard les overlays cloud-native restent opaque.
@@ -222,13 +232,3 @@ On place IpCalc juste après IP/sous-réseaux pour ancrer le calcul, et le pare-
 - Diagnostiquer avec les commandes Linux de base et une méthode couche par couche
 - Comprendre DHCP, DNS, HTTP/HTTPS et les bases TLS (certificats, diagnostic)
 - Relier le filtrage pare-feu aux flux compris (passerelle vers `05-securite`)
-
-## Checklist globale
-
-- [ ] Phase A terminée
-- [ ] Phase B terminée
-- [ ] Phase C terminée
-- [ ] Phase D terminée
-- [ ] Phase E terminée
-- [ ] Phase F terminée
-- [ ] Dossier validé
