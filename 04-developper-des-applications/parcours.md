@@ -32,7 +32,7 @@ Python est préféré à Go pour la densité du contenu et la courbe d’apprent
 Avant tout langage : comprendre comment les systèmes communiquent (API REST), ce qu’est une norme, maîtriser les regex, et adopter des messages de commit lisibles (conventional commits).
 
 #### 1. Développer des applications — vue d’ensemble
-- **Lien :** `/docs/developper/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/](https://blog.stephane-robert.info/docs/developper/)
 - **Pourquoi ici :** Point d’entrée du dossier : cartographier les familles de contenus avant de plonger.
 - **À retenir :**
   - Idée centrale : Dev
@@ -41,7 +41,7 @@ Avant tout langage : comprendre comment les systèmes communiquent (API REST), c
 - [ ] Page lue / pratiquée
 
 #### 2. Comprendre les API REST
-- **Lien :** `/docs/developper/api-rest/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/api-rest/](https://blog.stephane-robert.info/docs/developper/api-rest/)
 - **Pourquoi ici :** Les services DevOps parlent HTTP : verbés, statuts, ressources. Indispensable avant FastAPI, reverse-proxies et CI.
 - **À retenir :**
   - Idée centrale : Comprendre les API REST
@@ -50,7 +50,7 @@ Avant tout langage : comprendre comment les systèmes communiquent (API REST), c
 - [ ] Page lue / pratiquée
 
 #### 3. Conventions de nommage
-- **Lien :** `/docs/developper/normes/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/normes/](https://blog.stephane-robert.info/docs/developper/normes/)
 - **Pourquoi ici :** Cadre commun (styles, conventions) pour lire et écrire du code maintenable en équipe.
 - **À retenir :**
   - Idée centrale : Conventions de nommage
@@ -59,7 +59,7 @@ Avant tout langage : comprendre comment les systèmes communiquent (API REST), c
 - [ ] Page lue / pratiquée
 
 #### 4. Maîtriser Les expressions régulières
-- **Lien :** `/docs/developper/expressions-regulieres/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/expressions-regulieres/](https://blog.stephane-robert.info/docs/developper/expressions-regulieres/)
 - **Pourquoi ici :** Les regex servent partout : logs, parsers, validations, Git grep, pipelines.
 - **À retenir :**
   - Idée centrale : Maîtriser Les expressions régulières
@@ -68,7 +68,7 @@ Avant tout langage : comprendre comment les systèmes communiquent (API REST), c
 - [ ] Page lue / pratiquée
 
 #### 5. conventional commits
-- **Lien :** `/docs/developper/conventional-commits/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/conventional-commits/](https://blog.stephane-robert.info/docs/developper/conventional-commits/)
 - **Pourquoi ici :** Standardise l’historique Git — prépare changelog, semver et gates CI (`13-pipeline-ci-cd`).
 - **À retenir :**
   - Idée centrale : conventional commits
@@ -80,7 +80,7 @@ Avant tout langage : comprendre comment les systèmes communiquent (API REST), c
 Git est l’outil transversal n°1 : local d’abord, puis collaboration, workflows, debug et serveur. Maîtrisez-le avant l’IaC et la CI.
 
 #### 6. Introduction
-- **Lien :** `/docs/developper/version/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/version/](https://blog.stephane-robert.info/docs/developper/version/)
 - **Pourquoi ici :** Dans la phase « Git et versioning », « Introduction » (version) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Introduction
@@ -89,7 +89,7 @@ Git est l’outil transversal n°1 : local d’abord, puis collaboration, workfl
 - [ ] Page lue / pratiquée
 
 #### 7. Git
-- **Lien :** `/docs/developper/version/git/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/version/git/](https://blog.stephane-robert.info/docs/developper/version/git/)
 - **Pourquoi ici :** Dans la phase « Git et versioning », « Git » (version › git) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Git
@@ -98,7 +98,7 @@ Git est l’outil transversal n°1 : local d’abord, puis collaboration, workfl
 - [ ] Page lue / pratiquée
 
 #### 8. Mon parcours
-- **Lien :** `/docs/developper/version/git/parcours/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/version/git/parcours/](https://blog.stephane-robert.info/docs/developper/version/git/parcours/)
 - **Pourquoi ici :** Dans la phase « Git et versioning », « Mon parcours » (version › git › parcours) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Mon parcours
@@ -107,7 +107,7 @@ Git est l’outil transversal n°1 : local d’abord, puis collaboration, workfl
 - [ ] Page lue / pratiquée
 
 #### 9. Historique du contrôle de version
-- **Lien :** `/docs/developper/version/git/historique-controle-version/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/version/git/historique-controle-version/](https://blog.stephane-robert.info/docs/developper/version/git/historique-controle-version/)
 - **Pourquoi ici :** Dans la phase « Git et versioning », « Historique du contrôle de version » (version › git › historique-controle-version) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Historique du contrôle de version
@@ -116,7 +116,7 @@ Git est l’outil transversal n°1 : local d’abord, puis collaboration, workfl
 - [ ] Page lue / pratiquée
 
 #### 10. Présentation
-- **Lien :** `/docs/developper/version/git/comprendre-git/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/version/git/comprendre-git/](https://blog.stephane-robert.info/docs/developper/version/git/comprendre-git/)
 - **Pourquoi ici :** Dans la phase « Git et versioning », « Présentation » (version › git › comprendre-git) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Présentation
@@ -125,7 +125,7 @@ Git est l’outil transversal n°1 : local d’abord, puis collaboration, workfl
 - [ ] Page lue / pratiquée
 
 #### 11. Le modèle par snapshots
-- **Lien :** `/docs/developper/version/git/modele-git-snapshots/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/version/git/modele-git-snapshots/](https://blog.stephane-robert.info/docs/developper/version/git/modele-git-snapshots/)
 - **Pourquoi ici :** Dans la phase « Git et versioning », « Le modèle par snapshots » (version › git › modele-git-snapshots) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Le modèle par snapshots
@@ -134,7 +134,7 @@ Git est l’outil transversal n°1 : local d’abord, puis collaboration, workfl
 - [ ] Page lue / pratiquée
 
 #### 12. Vocabulaire Git
-- **Lien :** `/docs/developper/version/git/vocabulaire-git/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/version/git/vocabulaire-git/](https://blog.stephane-robert.info/docs/developper/version/git/vocabulaire-git/)
 - **Pourquoi ici :** Dans la phase « Git et versioning », « Vocabulaire Git » (version › git › vocabulaire-git) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Vocabulaire Git
@@ -143,7 +143,7 @@ Git est l’outil transversal n°1 : local d’abord, puis collaboration, workfl
 - [ ] Page lue / pratiquée
 
 #### 13. Présentation
-- **Lien :** `/docs/developper/version/git/bases-git/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/version/git/bases-git/](https://blog.stephane-robert.info/docs/developper/version/git/bases-git/)
 - **Pourquoi ici :** Dans la phase « Git et versioning », « Présentation » (version › git › bases-git) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Présentation
@@ -152,7 +152,7 @@ Git est l’outil transversal n°1 : local d’abord, puis collaboration, workfl
 - [ ] Page lue / pratiquée
 
 #### 14. Installer et configurer
-- **Lien :** `/docs/developper/version/git/installer-configurer-git/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/version/git/installer-configurer-git/](https://blog.stephane-robert.info/docs/developper/version/git/installer-configurer-git/)
 - **Pourquoi ici :** Dans la phase « Git et versioning », « Installer et configurer » (version › git › installer-configurer-git) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Installer et configurer
@@ -161,7 +161,7 @@ Git est l’outil transversal n°1 : local d’abord, puis collaboration, workfl
 - [ ] Page lue / pratiquée
 
 #### 15. Obtenir de l'aide
-- **Lien :** `/docs/developper/version/git/obtenir-aide-git/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/version/git/obtenir-aide-git/](https://blog.stephane-robert.info/docs/developper/version/git/obtenir-aide-git/)
 - **Pourquoi ici :** Dans la phase « Git et versioning », « Obtenir de l'aide » (version › git › obtenir-aide-git) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Obtenir de l'aide
@@ -170,7 +170,7 @@ Git est l’outil transversal n°1 : local d’abord, puis collaboration, workfl
 - [ ] Page lue / pratiquée
 
 #### 16. Créer un dépôt
-- **Lien :** `/docs/developper/version/git/creer-repository/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/version/git/creer-repository/](https://blog.stephane-robert.info/docs/developper/version/git/creer-repository/)
 - **Pourquoi ici :** Dans la phase « Git et versioning », « Créer un dépôt » (version › git › creer-repository) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Créer un dépôt
@@ -179,7 +179,7 @@ Git est l’outil transversal n°1 : local d’abord, puis collaboration, workfl
 - [ ] Page lue / pratiquée
 
 #### 17. Présentation
-- **Lien :** `/docs/developper/version/git/operations-git/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/version/git/operations-git/](https://blog.stephane-robert.info/docs/developper/version/git/operations-git/)
 - **Pourquoi ici :** Dans la phase « Git et versioning », « Présentation » (version › git › operations-git) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Présentation
@@ -188,7 +188,7 @@ Git est l’outil transversal n°1 : local d’abord, puis collaboration, workfl
 - [ ] Page lue / pratiquée
 
 #### 18. Enregistrer des modifications
-- **Lien :** `/docs/developper/version/git/enregistrer-modifications/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/version/git/enregistrer-modifications/](https://blog.stephane-robert.info/docs/developper/version/git/enregistrer-modifications/)
 - **Pourquoi ici :** Dans la phase « Git et versioning », « Enregistrer des modifications » (version › git › enregistrer-modifications) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Enregistrer des modifications
@@ -197,7 +197,7 @@ Git est l’outil transversal n°1 : local d’abord, puis collaboration, workfl
 - [ ] Page lue / pratiquée
 
 #### 19. Présentation
-- **Lien :** `/docs/developper/version/git/precision-index/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/version/git/precision-index/](https://blog.stephane-robert.info/docs/developper/version/git/precision-index/)
 - **Pourquoi ici :** Dans la phase « Git et versioning », « Présentation » (version › git › precision-index) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Présentation
@@ -206,7 +206,7 @@ Git est l’outil transversal n°1 : local d’abord, puis collaboration, workfl
 - [ ] Page lue / pratiquée
 
 #### 20. Staging interactif
-- **Lien :** `/docs/developper/version/git/staging-interactif/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/version/git/staging-interactif/](https://blog.stephane-robert.info/docs/developper/version/git/staging-interactif/)
 - **Pourquoi ici :** Dans la phase « Git et versioning », « Staging interactif » (version › git › staging-interactif) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Staging interactif
@@ -215,7 +215,7 @@ Git est l’outil transversal n°1 : local d’abord, puis collaboration, workfl
 - [ ] Page lue / pratiquée
 
 #### 21. Consulter l'historique
-- **Lien :** `/docs/developper/version/git/consulter-historique/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/version/git/consulter-historique/](https://blog.stephane-robert.info/docs/developper/version/git/consulter-historique/)
 - **Pourquoi ici :** Dans la phase « Git et versioning », « Consulter l'historique » (version › git › consulter-historique) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Consulter l'historique
@@ -224,7 +224,7 @@ Git est l’outil transversal n°1 : local d’abord, puis collaboration, workfl
 - [ ] Page lue / pratiquée
 
 #### 22. Annuler des modifications
-- **Lien :** `/docs/developper/version/git/annuler-modifications/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/version/git/annuler-modifications/](https://blog.stephane-robert.info/docs/developper/version/git/annuler-modifications/)
 - **Pourquoi ici :** Dans la phase « Git et versioning », « Annuler des modifications » (version › git › annuler-modifications) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Annuler des modifications
@@ -233,7 +233,7 @@ Git est l’outil transversal n°1 : local d’abord, puis collaboration, workfl
 - [ ] Page lue / pratiquée
 
 #### 23. Présentation
-- **Lien :** `/docs/developper/version/git/branches-git/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/version/git/branches-git/](https://blog.stephane-robert.info/docs/developper/version/git/branches-git/)
 - **Pourquoi ici :** Dans la phase « Git et versioning », « Présentation » (version › git › branches-git) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Présentation
@@ -242,7 +242,7 @@ Git est l’outil transversal n°1 : local d’abord, puis collaboration, workfl
 - [ ] Page lue / pratiquée
 
 #### 24. Les branches en bref
-- **Lien :** `/docs/developper/version/git/branches-en-bref/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/version/git/branches-en-bref/](https://blog.stephane-robert.info/docs/developper/version/git/branches-en-bref/)
 - **Pourquoi ici :** Dans la phase « Git et versioning », « Les branches en bref » (version › git › branches-en-bref) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Les branches en bref
@@ -251,7 +251,7 @@ Git est l’outil transversal n°1 : local d’abord, puis collaboration, workfl
 - [ ] Page lue / pratiquée
 
 #### 25. Gestion des branches
-- **Lien :** `/docs/developper/version/git/gestion-branches/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/version/git/gestion-branches/](https://blog.stephane-robert.info/docs/developper/version/git/gestion-branches/)
 - **Pourquoi ici :** Dans la phase « Git et versioning », « Gestion des branches » (version › git › gestion-branches) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Gestion des branches
@@ -260,7 +260,7 @@ Git est l’outil transversal n°1 : local d’abord, puis collaboration, workfl
 - [ ] Page lue / pratiquée
 
 #### 26. Présentation
-- **Lien :** `/docs/developper/version/git/collaboration-remotes/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/version/git/collaboration-remotes/](https://blog.stephane-robert.info/docs/developper/version/git/collaboration-remotes/)
 - **Pourquoi ici :** Dans la phase « Git et versioning », « Présentation » (version › git › collaboration-remotes) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Présentation
@@ -269,7 +269,7 @@ Git est l’outil transversal n°1 : local d’abord, puis collaboration, workfl
 - [ ] Page lue / pratiquée
 
 #### 27. Remotes fondamentaux
-- **Lien :** `/docs/developper/version/git/remotes-fondamentaux/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/version/git/remotes-fondamentaux/](https://blog.stephane-robert.info/docs/developper/version/git/remotes-fondamentaux/)
 - **Pourquoi ici :** Dans la phase « Git et versioning », « Remotes fondamentaux » (version › git › remotes-fondamentaux) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Remotes fondamentaux
@@ -278,7 +278,7 @@ Git est l’outil transversal n°1 : local d’abord, puis collaboration, workfl
 - [ ] Page lue / pratiquée
 
 #### 28. Branches distantes
-- **Lien :** `/docs/developper/version/git/branches-distantes/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/version/git/branches-distantes/](https://blog.stephane-robert.info/docs/developper/version/git/branches-distantes/)
 - **Pourquoi ici :** Dans la phase « Git et versioning », « Branches distantes » (version › git › branches-distantes) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Branches distantes
@@ -287,7 +287,7 @@ Git est l’outil transversal n°1 : local d’abord, puis collaboration, workfl
 - [ ] Page lue / pratiquée
 
 #### 29. Présentation
-- **Lien :** `/docs/developper/version/git/conflits-synchronisation/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/version/git/conflits-synchronisation/](https://blog.stephane-robert.info/docs/developper/version/git/conflits-synchronisation/)
 - **Pourquoi ici :** Dans la phase « Git et versioning », « Présentation » (version › git › conflits-synchronisation) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Présentation
@@ -296,7 +296,7 @@ Git est l’outil transversal n°1 : local d’abord, puis collaboration, workfl
 - [ ] Page lue / pratiquée
 
 #### 30. Merge et conflits
-- **Lien :** `/docs/developper/version/git/merge-et-conflits/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/version/git/merge-et-conflits/](https://blog.stephane-robert.info/docs/developper/version/git/merge-et-conflits/)
 - **Pourquoi ici :** Dans la phase « Git et versioning », « Merge et conflits » (version › git › merge-et-conflits) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Merge et conflits
@@ -305,7 +305,7 @@ Git est l’outil transversal n°1 : local d’abord, puis collaboration, workfl
 - [ ] Page lue / pratiquée
 
 #### 31. Résoudre les conflits de merge
-- **Lien :** `/docs/developper/version/git/resoudre-conflits-merge/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/version/git/resoudre-conflits-merge/](https://blog.stephane-robert.info/docs/developper/version/git/resoudre-conflits-merge/)
 - **Pourquoi ici :** Dans la phase « Git et versioning », « Résoudre les conflits de merge » (version › git › resoudre-conflits-merge) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Résoudre les conflits de merge
@@ -314,7 +314,7 @@ Git est l’outil transversal n°1 : local d’abord, puis collaboration, workfl
 - [ ] Page lue / pratiquée
 
 #### 32. Merge avancé
-- **Lien :** `/docs/developper/version/git/merge-avance/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/version/git/merge-avance/](https://blog.stephane-robert.info/docs/developper/version/git/merge-avance/)
 - **Pourquoi ici :** Dans la phase « Git et versioning », « Merge avancé » (version › git › merge-avance) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Merge avancé
@@ -323,7 +323,7 @@ Git est l’outil transversal n°1 : local d’abord, puis collaboration, workfl
 - [ ] Page lue / pratiquée
 
 #### 33. Git rebase
-- **Lien :** `/docs/developper/version/git/rebase-fondamental/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/version/git/rebase-fondamental/](https://blog.stephane-robert.info/docs/developper/version/git/rebase-fondamental/)
 - **Pourquoi ici :** Dans la phase « Git et versioning », « Git rebase » (version › git › rebase-fondamental) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Git rebase
@@ -332,7 +332,7 @@ Git est l’outil transversal n°1 : local d’abord, puis collaboration, workfl
 - [ ] Page lue / pratiquée
 
 #### 34. Présentation
-- **Lien :** `/docs/developper/version/git/corriger-commits/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/version/git/corriger-commits/](https://blog.stephane-robert.info/docs/developper/version/git/corriger-commits/)
 - **Pourquoi ici :** Dans la phase « Git et versioning », « Présentation » (version › git › corriger-commits) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Présentation
@@ -341,7 +341,7 @@ Git est l’outil transversal n°1 : local d’abord, puis collaboration, workfl
 - [ ] Page lue / pratiquée
 
 #### 35. Annuler et corriger des commits
-- **Lien :** `/docs/developper/version/git/annuler-corriger-commits/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/version/git/annuler-corriger-commits/](https://blog.stephane-robert.info/docs/developper/version/git/annuler-corriger-commits/)
 - **Pourquoi ici :** Dans la phase « Git et versioning », « Annuler et corriger des commits » (version › git › annuler-corriger-commits) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Annuler et corriger des commits
@@ -350,7 +350,7 @@ Git est l’outil transversal n°1 : local d’abord, puis collaboration, workfl
 - [ ] Page lue / pratiquée
 
 #### 36. Reset démystifié
-- **Lien :** `/docs/developper/version/git/reset-demystifie/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/version/git/reset-demystifie/](https://blog.stephane-robert.info/docs/developper/version/git/reset-demystifie/)
 - **Pourquoi ici :** Dans la phase « Git et versioning », « Reset démystifié » (version › git › reset-demystifie) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Reset démystifié
@@ -359,7 +359,7 @@ Git est l’outil transversal n°1 : local d’abord, puis collaboration, workfl
 - [ ] Page lue / pratiquée
 
 #### 37. Commit sur la mauvaise branche
-- **Lien :** `/docs/developper/version/git/commit-mauvaise-branche/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/version/git/commit-mauvaise-branche/](https://blog.stephane-robert.info/docs/developper/version/git/commit-mauvaise-branche/)
 - **Pourquoi ici :** Dans la phase « Git et versioning », « Commit sur la mauvaise branche » (version › git › commit-mauvaise-branche) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Commit sur la mauvaise branche
@@ -368,7 +368,7 @@ Git est l’outil transversal n°1 : local d’abord, puis collaboration, workfl
 - [ ] Page lue / pratiquée
 
 #### 38. Débloquer un push rejeté
-- **Lien :** `/docs/developper/version/git/debloquer-push-rejete/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/version/git/debloquer-push-rejete/](https://blog.stephane-robert.info/docs/developper/version/git/debloquer-push-rejete/)
 - **Pourquoi ici :** Dans la phase « Git et versioning », « Débloquer un push rejeté » (version › git › debloquer-push-rejete) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Débloquer un push rejeté
@@ -377,7 +377,7 @@ Git est l’outil transversal n°1 : local d’abord, puis collaboration, workfl
 - [ ] Page lue / pratiquée
 
 #### 39. HEAD détaché
-- **Lien :** `/docs/developper/version/git/detached-head/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/version/git/detached-head/](https://blog.stephane-robert.info/docs/developper/version/git/detached-head/)
 - **Pourquoi ici :** Dans la phase « Git et versioning », « HEAD détaché » (version › git › detached-head) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : HEAD détaché
@@ -386,7 +386,7 @@ Git est l’outil transversal n°1 : local d’abord, puis collaboration, workfl
 - [ ] Page lue / pratiquée
 
 #### 40. Stashing et cleaning
-- **Lien :** `/docs/developper/version/git/stashing-cleaning/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/version/git/stashing-cleaning/](https://blog.stephane-robert.info/docs/developper/version/git/stashing-cleaning/)
 - **Pourquoi ici :** Dans la phase « Git et versioning », « Stashing et cleaning » (version › git › stashing-cleaning) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Stashing et cleaning
@@ -395,7 +395,7 @@ Git est l’outil transversal n°1 : local d’abord, puis collaboration, workfl
 - [ ] Page lue / pratiquée
 
 #### 41. Tags et versions
-- **Lien :** `/docs/developper/version/git/tags-versions/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/version/git/tags-versions/](https://blog.stephane-robert.info/docs/developper/version/git/tags-versions/)
 - **Pourquoi ici :** Dans la phase « Git et versioning », « Tags et versions » (version › git › tags-versions) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Tags et versions
@@ -404,7 +404,7 @@ Git est l’outil transversal n°1 : local d’abord, puis collaboration, workfl
 - [ ] Page lue / pratiquée
 
 #### 42. Pull requests et code review
-- **Lien :** `/docs/developper/version/git/pull-requests-code-review/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/version/git/pull-requests-code-review/](https://blog.stephane-robert.info/docs/developper/version/git/pull-requests-code-review/)
 - **Pourquoi ici :** Dans la phase « Git et versioning », « Pull requests et code review » (version › git › pull-requests-code-review) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Pull requests et code review
@@ -413,7 +413,7 @@ Git est l’outil transversal n°1 : local d’abord, puis collaboration, workfl
 - [ ] Page lue / pratiquée
 
 #### 43. Workflows Git
-- **Lien :** `/docs/developper/version/git/workflows-git/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/version/git/workflows-git/](https://blog.stephane-robert.info/docs/developper/version/git/workflows-git/)
 - **Pourquoi ici :** Dans la phase « Git et versioning », « Workflows Git » (version › git › workflows-git) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Workflows Git
@@ -422,7 +422,7 @@ Git est l’outil transversal n°1 : local d’abord, puis collaboration, workfl
 - [ ] Page lue / pratiquée
 
 #### 44. Workflows distribués
-- **Lien :** `/docs/developper/version/git/workflows-distribues/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/version/git/workflows-distribues/](https://blog.stephane-robert.info/docs/developper/version/git/workflows-distribues/)
 - **Pourquoi ici :** Dans la phase « Git et versioning », « Workflows distribués » (version › git › workflows-distribues) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Workflows distribués
@@ -431,7 +431,7 @@ Git est l’outil transversal n°1 : local d’abord, puis collaboration, workfl
 - [ ] Page lue / pratiquée
 
 #### 45. Plateformes Git
-- **Lien :** `/docs/developper/version/git/plateformes-git/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/version/git/plateformes-git/](https://blog.stephane-robert.info/docs/developper/version/git/plateformes-git/)
 - **Pourquoi ici :** Dans la phase « Git et versioning », « Plateformes Git » (version › git › plateformes-git) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Plateformes Git
@@ -440,7 +440,7 @@ Git est l’outil transversal n°1 : local d’abord, puis collaboration, workfl
 - [ ] Page lue / pratiquée
 
 #### 46. Stockage des credentials
-- **Lien :** `/docs/developper/version/git/credential-storage/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/version/git/credential-storage/](https://blog.stephane-robert.info/docs/developper/version/git/credential-storage/)
 - **Pourquoi ici :** Dans la phase « Git et versioning », « Stockage des credentials » (version › git › credential-storage) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Stockage des credentials
@@ -449,7 +449,7 @@ Git est l’outil transversal n°1 : local d’abord, puis collaboration, workfl
 - [ ] Page lue / pratiquée
 
 #### 47. Alias et productivité
-- **Lien :** `/docs/developper/version/git/alias-productivite/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/version/git/alias-productivite/](https://blog.stephane-robert.info/docs/developper/version/git/alias-productivite/)
 - **Pourquoi ici :** Dans la phase « Git et versioning », « Alias et productivité » (version › git › alias-productivite) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Alias et productivité
@@ -458,7 +458,7 @@ Git est l’outil transversal n°1 : local d’abord, puis collaboration, workfl
 - [ ] Page lue / pratiquée
 
 #### 48. Présentation
-- **Lien :** `/docs/developper/version/git/debug-recherche/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/version/git/debug-recherche/](https://blog.stephane-robert.info/docs/developper/version/git/debug-recherche/)
 - **Pourquoi ici :** Dans la phase « Git et versioning », « Présentation » (version › git › debug-recherche) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Présentation
@@ -467,7 +467,7 @@ Git est l’outil transversal n°1 : local d’abord, puis collaboration, workfl
 - [ ] Page lue / pratiquée
 
 #### 49. Rechercher dans Git
-- **Lien :** `/docs/developper/version/git/rechercher-dans-git/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/version/git/rechercher-dans-git/](https://blog.stephane-robert.info/docs/developper/version/git/rechercher-dans-git/)
 - **Pourquoi ici :** Dans la phase « Git et versioning », « Rechercher dans Git » (version › git › rechercher-dans-git) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Rechercher dans Git
@@ -476,7 +476,7 @@ Git est l’outil transversal n°1 : local d’abord, puis collaboration, workfl
 - [ ] Page lue / pratiquée
 
 #### 50. Debug : bisect et blame
-- **Lien :** `/docs/developper/version/git/debug-bisect-blame/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/version/git/debug-bisect-blame/](https://blog.stephane-robert.info/docs/developper/version/git/debug-bisect-blame/)
 - **Pourquoi ici :** Dans la phase « Git et versioning », « Debug : bisect et blame » (version › git › debug-bisect-blame) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Debug : bisect et blame
@@ -485,7 +485,7 @@ Git est l’outil transversal n°1 : local d’abord, puis collaboration, workfl
 - [ ] Page lue / pratiquée
 
 #### 51. Diagnostiquer des problèmes
-- **Lien :** `/docs/developper/version/git/diagnostiquer-problemes/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/version/git/diagnostiquer-problemes/](https://blog.stephane-robert.info/docs/developper/version/git/diagnostiquer-problemes/)
 - **Pourquoi ici :** Dans la phase « Git et versioning », « Diagnostiquer des problèmes » (version › git › diagnostiquer-problemes) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Diagnostiquer des problèmes
@@ -494,7 +494,7 @@ Git est l’outil transversal n°1 : local d’abord, puis collaboration, workfl
 - [ ] Page lue / pratiquée
 
 #### 52. Présentation
-- **Lien :** `/docs/developper/version/git/reecriture-correction/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/version/git/reecriture-correction/](https://blog.stephane-robert.info/docs/developper/version/git/reecriture-correction/)
 - **Pourquoi ici :** Dans la phase « Git et versioning », « Présentation » (version › git › reecriture-correction) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Présentation
@@ -503,7 +503,7 @@ Git est l’outil transversal n°1 : local d’abord, puis collaboration, workfl
 - [ ] Page lue / pratiquée
 
 #### 53. Réécrire l'historique
-- **Lien :** `/docs/developper/version/git/reecrire-historique/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/version/git/reecrire-historique/](https://blog.stephane-robert.info/docs/developper/version/git/reecrire-historique/)
 - **Pourquoi ici :** Dans la phase « Git et versioning », « Réécrire l'historique » (version › git › reecrire-historique) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Réécrire l'historique
@@ -512,7 +512,7 @@ Git est l’outil transversal n°1 : local d’abord, puis collaboration, workfl
 - [ ] Page lue / pratiquée
 
 #### 54. Cherry-pick
-- **Lien :** `/docs/developper/version/git/cherry-pick/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/version/git/cherry-pick/](https://blog.stephane-robert.info/docs/developper/version/git/cherry-pick/)
 - **Pourquoi ici :** Dans la phase « Git et versioning », « Cherry-pick » (version › git › cherry-pick) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Cherry-pick
@@ -521,7 +521,7 @@ Git est l’outil transversal n°1 : local d’abord, puis collaboration, workfl
 - [ ] Page lue / pratiquée
 
 #### 55. Sélection de révisions
-- **Lien :** `/docs/developper/version/git/selection-revision/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/version/git/selection-revision/](https://blog.stephane-robert.info/docs/developper/version/git/selection-revision/)
 - **Pourquoi ici :** Dans la phase « Git et versioning », « Sélection de révisions » (version › git › selection-revision) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Sélection de révisions
@@ -530,7 +530,7 @@ Git est l’outil transversal n°1 : local d’abord, puis collaboration, workfl
 - [ ] Page lue / pratiquée
 
 #### 56. Présentation
-- **Lien :** `/docs/developper/version/git/investiguer-nettoyer/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/version/git/investiguer-nettoyer/](https://blog.stephane-robert.info/docs/developper/version/git/investiguer-nettoyer/)
 - **Pourquoi ici :** Dans la phase « Git et versioning », « Présentation » (version › git › investiguer-nettoyer) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Présentation
@@ -539,7 +539,7 @@ Git est l’outil transversal n°1 : local d’abord, puis collaboration, workfl
 - [ ] Page lue / pratiquée
 
 #### 57. Nettoyer l'historique et les fichiers
-- **Lien :** `/docs/developper/version/git/nettoyer-historique-fichiers/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/version/git/nettoyer-historique-fichiers/](https://blog.stephane-robert.info/docs/developper/version/git/nettoyer-historique-fichiers/)
 - **Pourquoi ici :** Dans la phase « Git et versioning », « Nettoyer l'historique et les fichiers » (version › git › nettoyer-historique-fichiers) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Nettoyer l'historique et les fichiers
@@ -548,7 +548,7 @@ Git est l’outil transversal n°1 : local d’abord, puis collaboration, workfl
 - [ ] Page lue / pratiquée
 
 #### 58. Récupérer des données perdues
-- **Lien :** `/docs/developper/version/git/recuperer-donnees-perdues/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/version/git/recuperer-donnees-perdues/](https://blog.stephane-robert.info/docs/developper/version/git/recuperer-donnees-perdues/)
 - **Pourquoi ici :** Dans la phase « Git et versioning », « Récupérer des données perdues » (version › git › recuperer-donnees-perdues) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Récupérer des données perdues
@@ -557,7 +557,7 @@ Git est l’outil transversal n°1 : local d’abord, puis collaboration, workfl
 - [ ] Page lue / pratiquée
 
 #### 59. Présentation
-- **Lien :** `/docs/developper/version/git/outils-avances-git/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/version/git/outils-avances-git/](https://blog.stephane-robert.info/docs/developper/version/git/outils-avances-git/)
 - **Pourquoi ici :** Dans la phase « Git et versioning », « Présentation » (version › git › outils-avances-git) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Présentation
@@ -566,7 +566,7 @@ Git est l’outil transversal n°1 : local d’abord, puis collaboration, workfl
 - [ ] Page lue / pratiquée
 
 #### 60. Bundling
-- **Lien :** `/docs/developper/version/git/bundling/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/version/git/bundling/](https://blog.stephane-robert.info/docs/developper/version/git/bundling/)
 - **Pourquoi ici :** Dans la phase « Git et versioning », « Bundling » (version › git › bundling) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Bundling
@@ -575,7 +575,7 @@ Git est l’outil transversal n°1 : local d’abord, puis collaboration, workfl
 - [ ] Page lue / pratiquée
 
 #### 61. Présentation
-- **Lien :** `/docs/developper/version/git/multi-depots/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/version/git/multi-depots/](https://blog.stephane-robert.info/docs/developper/version/git/multi-depots/)
 - **Pourquoi ici :** Dans la phase « Git et versioning », « Présentation » (version › git › multi-depots) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Présentation
@@ -584,7 +584,7 @@ Git est l’outil transversal n°1 : local d’abord, puis collaboration, workfl
 - [ ] Page lue / pratiquée
 
 #### 62. Submodules
-- **Lien :** `/docs/developper/version/git/submodules/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/version/git/submodules/](https://blog.stephane-robert.info/docs/developper/version/git/submodules/)
 - **Pourquoi ici :** Dans la phase « Git et versioning », « Submodules » (version › git › submodules) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Submodules
@@ -593,7 +593,7 @@ Git est l’outil transversal n°1 : local d’abord, puis collaboration, workfl
 - [ ] Page lue / pratiquée
 
 #### 63. Subtree
-- **Lien :** `/docs/developper/version/git/subtree/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/version/git/subtree/](https://blog.stephane-robert.info/docs/developper/version/git/subtree/)
 - **Pourquoi ici :** Dans la phase « Git et versioning », « Subtree » (version › git › subtree) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Subtree
@@ -602,7 +602,7 @@ Git est l’outil transversal n°1 : local d’abord, puis collaboration, workfl
 - [ ] Page lue / pratiquée
 
 #### 64. Présentation
-- **Lien :** `/docs/developper/version/git/git-serveur/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/version/git/git-serveur/](https://blog.stephane-robert.info/docs/developper/version/git/git-serveur/)
 - **Pourquoi ici :** Dans la phase « Git et versioning », « Présentation » (version › git › git-serveur) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Présentation
@@ -611,7 +611,7 @@ Git est l’outil transversal n°1 : local d’abord, puis collaboration, workfl
 - [ ] Page lue / pratiquée
 
 #### 65. Protocoles Git
-- **Lien :** `/docs/developper/version/git/protocoles-git/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/version/git/protocoles-git/](https://blog.stephane-robert.info/docs/developper/version/git/protocoles-git/)
 - **Pourquoi ici :** Dans la phase « Git et versioning », « Protocoles Git » (version › git › protocoles-git) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Protocoles Git
@@ -620,7 +620,7 @@ Git est l’outil transversal n°1 : local d’abord, puis collaboration, workfl
 - [ ] Page lue / pratiquée
 
 #### 66. Héberger un serveur Git
-- **Lien :** `/docs/developper/version/git/heberger-serveur-git/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/version/git/heberger-serveur-git/](https://blog.stephane-robert.info/docs/developper/version/git/heberger-serveur-git/)
 - **Pourquoi ici :** Dans la phase « Git et versioning », « Héberger un serveur Git » (version › git › heberger-serveur-git) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Héberger un serveur Git
@@ -629,7 +629,7 @@ Git est l’outil transversal n°1 : local d’abord, puis collaboration, workfl
 - [ ] Page lue / pratiquée
 
 #### 67. Maintenir un projet
-- **Lien :** `/docs/developper/version/git/maintenir-projet/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/version/git/maintenir-projet/](https://blog.stephane-robert.info/docs/developper/version/git/maintenir-projet/)
 - **Pourquoi ici :** Dans la phase « Git et versioning », « Maintenir un projet » (version › git › maintenir-projet) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Maintenir un projet
@@ -641,7 +641,7 @@ Git est l’outil transversal n°1 : local d’abord, puis collaboration, workfl
 Langage principal du parcours DevOps. Posez syntaxe, types, fichiers, modules et formats (JSON/YAML) avant les frameworks.
 
 #### 68. Introduction
-- **Lien :** `/docs/developper/programmation/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/](https://blog.stephane-robert.info/docs/developper/programmation/)
 - **Pourquoi ici :** Dans la phase « Python fondamentaux », « Introduction » (programmation) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Introduction
@@ -650,7 +650,7 @@ Langage principal du parcours DevOps. Posez syntaxe, types, fichiers, modules et
 - [ ] Page lue / pratiquée
 
 #### 69. Débutez avec Python
-- **Lien :** `/docs/developper/programmation/python/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/](https://blog.stephane-robert.info/docs/developper/programmation/python/)
 - **Pourquoi ici :** Dans la phase « Python fondamentaux », « Débutez avec Python » (programmation › python) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Débutez avec Python
@@ -659,7 +659,7 @@ Langage principal du parcours DevOps. Posez syntaxe, types, fichiers, modules et
 - [ ] Page lue / pratiquée
 
 #### 70. Mon parcours Suivi
-- **Lien :** `/docs/developper/programmation/python/parcours/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/parcours/](https://blog.stephane-robert.info/docs/developper/programmation/python/parcours/)
 - **Pourquoi ici :** Dans la phase « Python fondamentaux », « Mon parcours Suivi » (programmation › python › parcours) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Mon parcours Suivi
@@ -668,7 +668,7 @@ Langage principal du parcours DevOps. Posez syntaxe, types, fichiers, modules et
 - [ ] Page lue / pratiquée
 
 #### 71. Mon parcours (Fondamentaux)
-- **Lien :** `/docs/developper/programmation/python/parcours-fondamentaux/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/parcours-fondamentaux/](https://blog.stephane-robert.info/docs/developper/programmation/python/parcours-fondamentaux/)
 - **Pourquoi ici :** Dans la phase « Python fondamentaux », « Mon parcours (Fondamentaux) » (programmation › python › parcours-fondamentaux) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Mon parcours (Fondamentaux)
@@ -677,7 +677,7 @@ Langage principal du parcours DevOps. Posez syntaxe, types, fichiers, modules et
 - [ ] Page lue / pratiquée
 
 #### 72. Les chaines de caracteres
-- **Lien :** `/docs/developper/programmation/python/chaines/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/chaines/](https://blog.stephane-robert.info/docs/developper/programmation/python/chaines/)
 - **Pourquoi ici :** Dans la phase « Python fondamentaux », « Les chaines de caracteres » (programmation › python › chaines) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Les chaines de caracteres
@@ -686,7 +686,7 @@ Langage principal du parcours DevOps. Posez syntaxe, types, fichiers, modules et
 - [ ] Page lue / pratiquée
 
 #### 73. Formater les chaines
-- **Lien :** `/docs/developper/programmation/python/formatage-chaine/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/formatage-chaine/](https://blog.stephane-robert.info/docs/developper/programmation/python/formatage-chaine/)
 - **Pourquoi ici :** Dans la phase « Python fondamentaux », « Formater les chaines » (programmation › python › formatage-chaine) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Formater les chaines
@@ -695,7 +695,7 @@ Langage principal du parcours DevOps. Posez syntaxe, types, fichiers, modules et
 - [ ] Page lue / pratiquée
 
 #### 74. Les listes
-- **Lien :** `/docs/developper/programmation/python/liste/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/liste/](https://blog.stephane-robert.info/docs/developper/programmation/python/liste/)
 - **Pourquoi ici :** Dans la phase « Python fondamentaux », « Les listes » (programmation › python › liste) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Les listes
@@ -704,7 +704,7 @@ Langage principal du parcours DevOps. Posez syntaxe, types, fichiers, modules et
 - [ ] Page lue / pratiquée
 
 #### 75. Les tuples
-- **Lien :** `/docs/developper/programmation/python/tuple/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/tuple/](https://blog.stephane-robert.info/docs/developper/programmation/python/tuple/)
 - **Pourquoi ici :** Dans la phase « Python fondamentaux », « Les tuples » (programmation › python › tuple) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Les tuples
@@ -713,7 +713,7 @@ Langage principal du parcours DevOps. Posez syntaxe, types, fichiers, modules et
 - [ ] Page lue / pratiquée
 
 #### 76. Les sets
-- **Lien :** `/docs/developper/programmation/python/set/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/set/](https://blog.stephane-robert.info/docs/developper/programmation/python/set/)
 - **Pourquoi ici :** Dans la phase « Python fondamentaux », « Les sets » (programmation › python › set) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Les sets
@@ -722,7 +722,7 @@ Langage principal du parcours DevOps. Posez syntaxe, types, fichiers, modules et
 - [ ] Page lue / pratiquée
 
 #### 77. Les dictionnaires
-- **Lien :** `/docs/developper/programmation/python/dictionnaire/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/dictionnaire/](https://blog.stephane-robert.info/docs/developper/programmation/python/dictionnaire/)
 - **Pourquoi ici :** Dans la phase « Python fondamentaux », « Les dictionnaires » (programmation › python › dictionnaire) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Les dictionnaires
@@ -731,7 +731,7 @@ Langage principal du parcours DevOps. Posez syntaxe, types, fichiers, modules et
 - [ ] Page lue / pratiquée
 
 #### 78. Structures et collections
-- **Lien :** `/docs/developper/programmation/python/structures-collections/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/structures-collections/](https://blog.stephane-robert.info/docs/developper/programmation/python/structures-collections/)
 - **Pourquoi ici :** Dans la phase « Python fondamentaux », « Structures et collections » (programmation › python › structures-collections) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Structures et collections
@@ -740,7 +740,7 @@ Langage principal du parcours DevOps. Posez syntaxe, types, fichiers, modules et
 - [ ] Page lue / pratiquée
 
 #### 79. Le slicing
-- **Lien :** `/docs/developper/programmation/python/slicing/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/slicing/](https://blog.stephane-robert.info/docs/developper/programmation/python/slicing/)
 - **Pourquoi ici :** Dans la phase « Python fondamentaux », « Le slicing » (programmation › python › slicing) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Le slicing
@@ -749,7 +749,7 @@ Langage principal du parcours DevOps. Posez syntaxe, types, fichiers, modules et
 - [ ] Page lue / pratiquée
 
 #### 80. Lire et ecrire des fichiers
-- **Lien :** `/docs/developper/programmation/python/fichiers/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/fichiers/](https://blog.stephane-robert.info/docs/developper/programmation/python/fichiers/)
 - **Pourquoi ici :** Dans la phase « Python fondamentaux », « Lire et ecrire des fichiers » (programmation › python › fichiers) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Lire et ecrire des fichiers
@@ -758,7 +758,7 @@ Langage principal du parcours DevOps. Posez syntaxe, types, fichiers, modules et
 - [ ] Page lue / pratiquée
 
 #### 81. pathlib : gerer les chemins
-- **Lien :** `/docs/developper/programmation/python/pathlib/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/pathlib/](https://blog.stephane-robert.info/docs/developper/programmation/python/pathlib/)
 - **Pourquoi ici :** Dans la phase « Python fondamentaux », « pathlib : gerer les chemins » (programmation › python › pathlib) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : pathlib : gerer les chemins
@@ -767,7 +767,7 @@ Langage principal du parcours DevOps. Posez syntaxe, types, fichiers, modules et
 - [ ] Page lue / pratiquée
 
 #### 82. Les fonctions
-- **Lien :** `/docs/developper/programmation/python/fonctions/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/fonctions/](https://blog.stephane-robert.info/docs/developper/programmation/python/fonctions/)
 - **Pourquoi ici :** Dans la phase « Python fondamentaux », « Les fonctions » (programmation › python › fonctions) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Les fonctions
@@ -776,7 +776,7 @@ Langage principal du parcours DevOps. Posez syntaxe, types, fichiers, modules et
 - [ ] Page lue / pratiquée
 
 #### 83. Les modules et packages
-- **Lien :** `/docs/developper/programmation/python/modules/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/modules/](https://blog.stephane-robert.info/docs/developper/programmation/python/modules/)
 - **Pourquoi ici :** Dans la phase « Python fondamentaux », « Les modules et packages » (programmation › python › modules) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Les modules et packages
@@ -785,7 +785,7 @@ Langage principal du parcours DevOps. Posez syntaxe, types, fichiers, modules et
 - [ ] Page lue / pratiquée
 
 #### 84. Gerer les exceptions
-- **Lien :** `/docs/developper/programmation/python/exceptions/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/exceptions/](https://blog.stephane-robert.info/docs/developper/programmation/python/exceptions/)
 - **Pourquoi ici :** Dans la phase « Python fondamentaux », « Gerer les exceptions » (programmation › python › exceptions) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Gerer les exceptions
@@ -794,7 +794,7 @@ Langage principal du parcours DevOps. Posez syntaxe, types, fichiers, modules et
 - [ ] Page lue / pratiquée
 
 #### 85. Les context managers
-- **Lien :** `/docs/developper/programmation/python/context-managers/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/context-managers/](https://blog.stephane-robert.info/docs/developper/programmation/python/context-managers/)
 - **Pourquoi ici :** Dans la phase « Python fondamentaux », « Les context managers » (programmation › python › context-managers) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Les context managers
@@ -803,7 +803,7 @@ Langage principal du parcours DevOps. Posez syntaxe, types, fichiers, modules et
 - [ ] Page lue / pratiquée
 
 #### 86. Dates et heures avec datetime
-- **Lien :** `/docs/developper/programmation/python/datetime/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/datetime/](https://blog.stephane-robert.info/docs/developper/programmation/python/datetime/)
 - **Pourquoi ici :** Dans la phase « Python fondamentaux », « Dates et heures avec datetime » (programmation › python › datetime) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Dates et heures avec datetime
@@ -812,7 +812,7 @@ Langage principal du parcours DevOps. Posez syntaxe, types, fichiers, modules et
 - [ ] Page lue / pratiquée
 
 #### 87. Les expressions regulieres
-- **Lien :** `/docs/developper/programmation/python/expressions-regulieres/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/expressions-regulieres/](https://blog.stephane-robert.info/docs/developper/programmation/python/expressions-regulieres/)
 - **Pourquoi ici :** Dans la phase « Python fondamentaux », « Les expressions regulieres » (programmation › python › expressions-regulieres) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Les expressions regulieres
@@ -821,7 +821,7 @@ Langage principal du parcours DevOps. Posez syntaxe, types, fichiers, modules et
 - [ ] Page lue / pratiquée
 
 #### 88. Nettoyer les textes
-- **Lien :** `/docs/developper/programmation/python/traitement-texte/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/traitement-texte/](https://blog.stephane-robert.info/docs/developper/programmation/python/traitement-texte/)
 - **Pourquoi ici :** Dans la phase « Python fondamentaux », « Nettoyer les textes » (programmation › python › traitement-texte) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Nettoyer les textes
@@ -830,7 +830,7 @@ Langage principal du parcours DevOps. Posez syntaxe, types, fichiers, modules et
 - [ ] Page lue / pratiquée
 
 #### 89. Manipuler du JSON
-- **Lien :** `/docs/developper/programmation/python/json/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/json/](https://blog.stephane-robert.info/docs/developper/programmation/python/json/)
 - **Pourquoi ici :** Dans la phase « Python fondamentaux », « Manipuler du JSON » (programmation › python › json) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Manipuler du JSON
@@ -839,7 +839,7 @@ Langage principal du parcours DevOps. Posez syntaxe, types, fichiers, modules et
 - [ ] Page lue / pratiquée
 
 #### 90. Manipuler du YAML
-- **Lien :** `/docs/developper/programmation/python/yaml/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/yaml/](https://blog.stephane-robert.info/docs/developper/programmation/python/yaml/)
 - **Pourquoi ici :** Dans la phase « Python fondamentaux », « Manipuler du YAML » (programmation › python › yaml) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Manipuler du YAML
@@ -848,7 +848,7 @@ Langage principal du parcours DevOps. Posez syntaxe, types, fichiers, modules et
 - [ ] Page lue / pratiquée
 
 #### 91. Le pattern matching (match-case)
-- **Lien :** `/docs/developper/programmation/python/match-case/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/match-case/](https://blog.stephane-robert.info/docs/developper/programmation/python/match-case/)
 - **Pourquoi ici :** Dans la phase « Python fondamentaux », « Le pattern matching (match-case) » (programmation › python › match-case) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Le pattern matching (match-case)
@@ -857,7 +857,7 @@ Langage principal du parcours DevOps. Posez syntaxe, types, fichiers, modules et
 - [ ] Page lue / pratiquée
 
 #### 92. Les enumerations
-- **Lien :** `/docs/developper/programmation/python/enums/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/enums/](https://blog.stephane-robert.info/docs/developper/programmation/python/enums/)
 - **Pourquoi ici :** Dans la phase « Python fondamentaux », « Les enumerations » (programmation › python › enums) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Les enumerations
@@ -866,7 +866,7 @@ Langage principal du parcours DevOps. Posez syntaxe, types, fichiers, modules et
 - [ ] Page lue / pratiquée
 
 #### 93. Les dataclasses
-- **Lien :** `/docs/developper/programmation/python/dataclasses/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/dataclasses/](https://blog.stephane-robert.info/docs/developper/programmation/python/dataclasses/)
 - **Pourquoi ici :** Dans la phase « Python fondamentaux », « Les dataclasses » (programmation › python › dataclasses) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Les dataclasses
@@ -875,7 +875,7 @@ Langage principal du parcours DevOps. Posez syntaxe, types, fichiers, modules et
 - [ ] Page lue / pratiquée
 
 #### 94. Les annotations de type
-- **Lien :** `/docs/developper/programmation/python/type-hints/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/type-hints/](https://blog.stephane-robert.info/docs/developper/programmation/python/type-hints/)
 - **Pourquoi ici :** Dans la phase « Python fondamentaux », « Les annotations de type » (programmation › python › type-hints) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Les annotations de type
@@ -887,7 +887,7 @@ Langage principal du parcours DevOps. Posez syntaxe, types, fichiers, modules et
 POO, outillage (venv, uv, poetry), lint/tests et perf : le niveau attendu pour du code partagé et CI.
 
 #### 95. La POO : les bases
-- **Lien :** `/docs/developper/programmation/python/poo-base/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/poo-base/](https://blog.stephane-robert.info/docs/developper/programmation/python/poo-base/)
 - **Pourquoi ici :** Dans la phase « Python intermédiaire », « La POO : les bases » (programmation › python › poo-base) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : La POO : les bases
@@ -896,7 +896,7 @@ POO, outillage (venv, uv, poetry), lint/tests et perf : le niveau attendu pour d
 - [ ] Page lue / pratiquée
 
 #### 96. La POO : notions avancees
-- **Lien :** `/docs/developper/programmation/python/poo-avance/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/poo-avance/](https://blog.stephane-robert.info/docs/developper/programmation/python/poo-avance/)
 - **Pourquoi ici :** Dans la phase « Python intermédiaire », « La POO : notions avancees » (programmation › python › poo-avance) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : La POO : notions avancees
@@ -905,7 +905,7 @@ POO, outillage (venv, uv, poetry), lint/tests et perf : le niveau attendu pour d
 - [ ] Page lue / pratiquée
 
 #### 97. Les decorateurs
-- **Lien :** `/docs/developper/programmation/python/decorateur/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/decorateur/](https://blog.stephane-robert.info/docs/developper/programmation/python/decorateur/)
 - **Pourquoi ici :** Dans la phase « Python intermédiaire », « Les decorateurs » (programmation › python › decorateur) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Les decorateurs
@@ -914,7 +914,7 @@ POO, outillage (venv, uv, poetry), lint/tests et perf : le niveau attendu pour d
 - [ ] Page lue / pratiquée
 
 #### 98. Les generateurs
-- **Lien :** `/docs/developper/programmation/python/generateurs/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/generateurs/](https://blog.stephane-robert.info/docs/developper/programmation/python/generateurs/)
 - **Pourquoi ici :** Dans la phase « Python intermédiaire », « Les generateurs » (programmation › python › generateurs) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Les generateurs
@@ -923,7 +923,7 @@ POO, outillage (venv, uv, poetry), lint/tests et perf : le niveau attendu pour d
 - [ ] Page lue / pratiquée
 
 #### 99. itertools et functools
-- **Lien :** `/docs/developper/programmation/python/itertools-functools/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/itertools-functools/](https://blog.stephane-robert.info/docs/developper/programmation/python/itertools-functools/)
 - **Pourquoi ici :** Dans la phase « Python intermédiaire », « itertools et functools » (programmation › python › itertools-functools) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : itertools et functools
@@ -932,7 +932,7 @@ POO, outillage (venv, uv, poetry), lint/tests et perf : le niveau attendu pour d
 - [ ] Page lue / pratiquée
 
 #### 100. Les descriptors
-- **Lien :** `/docs/developper/programmation/python/descriptors/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/descriptors/](https://blog.stephane-robert.info/docs/developper/programmation/python/descriptors/)
 - **Pourquoi ici :** Dans la phase « Python intermédiaire », « Les descriptors » (programmation › python › descriptors) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Les descriptors
@@ -941,7 +941,7 @@ POO, outillage (venv, uv, poetry), lint/tests et perf : le niveau attendu pour d
 - [ ] Page lue / pratiquée
 
 #### 101. Les métaclasses
-- **Lien :** `/docs/developper/programmation/python/metaclasses/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/metaclasses/](https://blog.stephane-robert.info/docs/developper/programmation/python/metaclasses/)
 - **Pourquoi ici :** Dans la phase « Python intermédiaire », « Les métaclasses » (programmation › python › metaclasses) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Les métaclasses
@@ -950,7 +950,7 @@ POO, outillage (venv, uv, poetry), lint/tests et perf : le niveau attendu pour d
 - [ ] Page lue / pratiquée
 
 #### 102. Les design patterns
-- **Lien :** `/docs/developper/programmation/python/design-patterns/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/design-patterns/](https://blog.stephane-robert.info/docs/developper/programmation/python/design-patterns/)
 - **Pourquoi ici :** Dans la phase « Python intermédiaire », « Les design patterns » (programmation › python › design-patterns) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Les design patterns
@@ -959,7 +959,7 @@ POO, outillage (venv, uv, poetry), lint/tests et perf : le niveau attendu pour d
 - [ ] Page lue / pratiquée
 
 #### 103. La gestion de la mémoire
-- **Lien :** `/docs/developper/programmation/python/gestion-memoire/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/gestion-memoire/](https://blog.stephane-robert.info/docs/developper/programmation/python/gestion-memoire/)
 - **Pourquoi ici :** Dans la phase « Python intermédiaire », « La gestion de la mémoire » (programmation › python › gestion-memoire) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : La gestion de la mémoire
@@ -968,7 +968,7 @@ POO, outillage (venv, uv, poetry), lint/tests et perf : le niveau attendu pour d
 - [ ] Page lue / pratiquée
 
 #### 104. Comprendre le GIL
-- **Lien :** `/docs/developper/programmation/python/gil/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/gil/](https://blog.stephane-robert.info/docs/developper/programmation/python/gil/)
 - **Pourquoi ici :** Dans la phase « Python intermédiaire », « Comprendre le GIL » (programmation › python › gil) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Comprendre le GIL
@@ -977,7 +977,7 @@ POO, outillage (venv, uv, poetry), lint/tests et perf : le niveau attendu pour d
 - [ ] Page lue / pratiquée
 
 #### 105. logging Python
-- **Lien :** `/docs/developper/programmation/python/logging/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/logging/](https://blog.stephane-robert.info/docs/developper/programmation/python/logging/)
 - **Pourquoi ici :** Dans la phase « Python intermédiaire », « logging Python » (programmation › python › logging) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : logging Python
@@ -986,7 +986,7 @@ POO, outillage (venv, uv, poetry), lint/tests et perf : le niveau attendu pour d
 - [ ] Page lue / pratiquée
 
 #### 106. Pipenv
-- **Lien :** `/docs/developper/programmation/python/environnements-virtuels/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/environnements-virtuels/](https://blog.stephane-robert.info/docs/developper/programmation/python/environnements-virtuels/)
 - **Pourquoi ici :** Dans la phase « Python intermédiaire », « Pipenv » (programmation › python › environnements-virtuels) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Pipenv
@@ -995,7 +995,7 @@ POO, outillage (venv, uv, poetry), lint/tests et perf : le niveau attendu pour d
 - [ ] Page lue / pratiquée
 
 #### 107. pyenv : gerer les versions de Python
-- **Lien :** `/docs/developper/programmation/python/pyenv/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/pyenv/](https://blog.stephane-robert.info/docs/developper/programmation/python/pyenv/)
 - **Pourquoi ici :** Dans la phase « Python intermédiaire », « pyenv : gerer les versions de Python » (programmation › python › pyenv) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : pyenv : gerer les versions de Python
@@ -1004,7 +1004,7 @@ POO, outillage (venv, uv, poetry), lint/tests et perf : le niveau attendu pour d
 - [ ] Page lue / pratiquée
 
 #### 108. pipx : installer des outils Python
-- **Lien :** `/docs/developper/programmation/python/pipx/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/pipx/](https://blog.stephane-robert.info/docs/developper/programmation/python/pipx/)
 - **Pourquoi ici :** Dans la phase « Python intermédiaire », « pipx : installer des outils Python » (programmation › python › pipx) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : pipx : installer des outils Python
@@ -1013,7 +1013,7 @@ POO, outillage (venv, uv, poetry), lint/tests et perf : le niveau attendu pour d
 - [ ] Page lue / pratiquée
 
 #### 109. uv : le gestionnaire ultra-rapide
-- **Lien :** `/docs/developper/programmation/python/uv/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/uv/](https://blog.stephane-robert.info/docs/developper/programmation/python/uv/)
 - **Pourquoi ici :** Dans la phase « Python intermédiaire », « uv : le gestionnaire ultra-rapide » (programmation › python › uv) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : uv : le gestionnaire ultra-rapide
@@ -1022,7 +1022,7 @@ POO, outillage (venv, uv, poetry), lint/tests et perf : le niveau attendu pour d
 - [ ] Page lue / pratiquée
 
 #### 110. Poetry
-- **Lien :** `/docs/developper/programmation/python/poetry/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/poetry/](https://blog.stephane-robert.info/docs/developper/programmation/python/poetry/)
 - **Pourquoi ici :** Dans la phase « Python intermédiaire », « Poetry » (programmation › python › poetry) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Poetry
@@ -1031,7 +1031,7 @@ POO, outillage (venv, uv, poetry), lint/tests et perf : le niveau attendu pour d
 - [ ] Page lue / pratiquée
 
 #### 111. Publier un paquet sur PyPI
-- **Lien :** `/docs/developper/programmation/python/packaging-pypi/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/packaging-pypi/](https://blog.stephane-robert.info/docs/developper/programmation/python/packaging-pypi/)
 - **Pourquoi ici :** Dans la phase « Python intermédiaire », « Publier un paquet sur PyPI » (programmation › python › packaging-pypi) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Publier un paquet sur PyPI
@@ -1040,7 +1040,7 @@ POO, outillage (venv, uv, poetry), lint/tests et perf : le niveau attendu pour d
 - [ ] Page lue / pratiquée
 
 #### 112. Le linting en Python
-- **Lien :** `/docs/developper/programmation/python/linting/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/linting/](https://blog.stephane-robert.info/docs/developper/programmation/python/linting/)
 - **Pourquoi ici :** Dans la phase « Python intermédiaire », « Le linting en Python » (programmation › python › linting) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Le linting en Python
@@ -1049,7 +1049,7 @@ POO, outillage (venv, uv, poetry), lint/tests et perf : le niveau attendu pour d
 - [ ] Page lue / pratiquée
 
 #### 113. Ruff : linter et formateur
-- **Lien :** `/docs/developper/programmation/python/ruff/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/ruff/](https://blog.stephane-robert.info/docs/developper/programmation/python/ruff/)
 - **Pourquoi ici :** Dans la phase « Python intermédiaire », « Ruff : linter et formateur » (programmation › python › ruff) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Ruff : linter et formateur
@@ -1058,7 +1058,7 @@ POO, outillage (venv, uv, poetry), lint/tests et perf : le niveau attendu pour d
 - [ ] Page lue / pratiquée
 
 #### 114. reShapr : API → serveur MCP FinOps
-- **Lien :** `/docs/developper/programmation/python/reshapr/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/reshapr/](https://blog.stephane-robert.info/docs/developper/programmation/python/reshapr/)
 - **Pourquoi ici :** Dans la phase « Python intermédiaire », « reShapr : API → serveur MCP FinOps » (programmation › python › reshapr) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : reShapr : API → serveur MCP FinOps
@@ -1067,7 +1067,7 @@ POO, outillage (venv, uv, poetry), lint/tests et perf : le niveau attendu pour d
 - [ ] Page lue / pratiquée
 
 #### 115. Tester son code Python
-- **Lien :** `/docs/developper/programmation/python/tests/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/tests/](https://blog.stephane-robert.info/docs/developper/programmation/python/tests/)
 - **Pourquoi ici :** Dans la phase « Python intermédiaire », « Tester son code Python » (programmation › python › tests) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Tester son code Python
@@ -1076,7 +1076,7 @@ POO, outillage (venv, uv, poetry), lint/tests et perf : le niveau attendu pour d
 - [ ] Page lue / pratiquée
 
 #### 116. Unittest
-- **Lien :** `/docs/developper/programmation/python/tests/unittest-1/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/tests/unittest-1/](https://blog.stephane-robert.info/docs/developper/programmation/python/tests/unittest-1/)
 - **Pourquoi ici :** Dans la phase « Python intermédiaire », « Unittest » (programmation › python › tests › unittest-1) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Unittest
@@ -1085,7 +1085,7 @@ POO, outillage (venv, uv, poetry), lint/tests et perf : le niveau attendu pour d
 - [ ] Page lue / pratiquée
 
 #### 117. pytest en pratique
-- **Lien :** `/docs/developper/programmation/python/tests/pytest/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/tests/pytest/](https://blog.stephane-robert.info/docs/developper/programmation/python/tests/pytest/)
 - **Pourquoi ici :** Dans la phase « Python intermédiaire », « pytest en pratique » (programmation › python › tests › pytest) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : pytest en pratique
@@ -1094,7 +1094,7 @@ POO, outillage (venv, uv, poetry), lint/tests et perf : le niveau attendu pour d
 - [ ] Page lue / pratiquée
 
 #### 118. Les mocks dans les tests
-- **Lien :** `/docs/developper/programmation/python/tests/mock/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/tests/mock/](https://blog.stephane-robert.info/docs/developper/programmation/python/tests/mock/)
 - **Pourquoi ici :** Dans la phase « Python intermédiaire », « Les mocks dans les tests » (programmation › python › tests › mock) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Les mocks dans les tests
@@ -1103,7 +1103,7 @@ POO, outillage (venv, uv, poetry), lint/tests et perf : le niveau attendu pour d
 - [ ] Page lue / pratiquée
 
 #### 119. tox : tester sur plusieurs versions
-- **Lien :** `/docs/developper/programmation/python/tests/tox/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/tests/tox/](https://blog.stephane-robert.info/docs/developper/programmation/python/tests/tox/)
 - **Pourquoi ici :** Dans la phase « Python intermédiaire », « tox : tester sur plusieurs versions » (programmation › python › tests › tox) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : tox : tester sur plusieurs versions
@@ -1112,7 +1112,7 @@ POO, outillage (venv, uv, poetry), lint/tests et perf : le niveau attendu pour d
 - [ ] Page lue / pratiquée
 
 #### 120. Les tests avancés
-- **Lien :** `/docs/developper/programmation/python/tests-avances/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/tests-avances/](https://blog.stephane-robert.info/docs/developper/programmation/python/tests-avances/)
 - **Pourquoi ici :** Dans la phase « Python intermédiaire », « Les tests avancés » (programmation › python › tests-avances) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Les tests avancés
@@ -1121,7 +1121,7 @@ POO, outillage (venv, uv, poetry), lint/tests et perf : le niveau attendu pour d
 - [ ] Page lue / pratiquée
 
 #### 121. Profiler son code
-- **Lien :** `/docs/developper/programmation/python/profiling/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/profiling/](https://blog.stephane-robert.info/docs/developper/programmation/python/profiling/)
 - **Pourquoi ici :** Dans la phase « Python intermédiaire », « Profiler son code » (programmation › python › profiling) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Profiler son code
@@ -1130,7 +1130,7 @@ POO, outillage (venv, uv, poetry), lint/tests et perf : le niveau attendu pour d
 - [ ] Page lue / pratiquée
 
 #### 122. Optimiser son code
-- **Lien :** `/docs/developper/programmation/python/optimisation/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/optimisation/](https://blog.stephane-robert.info/docs/developper/programmation/python/optimisation/)
 - **Pourquoi ici :** Dans la phase « Python intermédiaire », « Optimiser son code » (programmation › python › optimisation) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Optimiser son code
@@ -1139,7 +1139,7 @@ POO, outillage (venv, uv, poetry), lint/tests et perf : le niveau attendu pour d
 - [ ] Page lue / pratiquée
 
 #### 123. Cython
-- **Lien :** `/docs/developper/programmation/python/cython/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/cython/](https://blog.stephane-robert.info/docs/developper/programmation/python/cython/)
 - **Pourquoi ici :** Dans la phase « Python intermédiaire », « Cython » (programmation › python › cython) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Cython
@@ -1151,7 +1151,7 @@ POO, outillage (venv, uv, poetry), lint/tests et perf : le niveau attendu pour d
 Appliquer Python aux tâches ops : HTTP, CLI, templating, remote exec, API, SQLAlchemy, concurrence.
 
 #### 124. Appeler des API avec requests
-- **Lien :** `/docs/developper/programmation/python/requests/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/requests/](https://blog.stephane-robert.info/docs/developper/programmation/python/requests/)
 - **Pourquoi ici :** Dans la phase « Python DevOps », « Appeler des API avec requests » (programmation › python › requests) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Appeler des API avec requests
@@ -1160,7 +1160,7 @@ Appliquer Python aux tâches ops : HTTP, CLI, templating, remote exec, API, SQLA
 - [ ] Page lue / pratiquée
 
 #### 125. Click : des CLI en Python
-- **Lien :** `/docs/developper/programmation/python/click/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/click/](https://blog.stephane-robert.info/docs/developper/programmation/python/click/)
 - **Pourquoi ici :** Dans la phase « Python DevOps », « Click : des CLI en Python » (programmation › python › click) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Click : des CLI en Python
@@ -1169,7 +1169,7 @@ Appliquer Python aux tâches ops : HTTP, CLI, templating, remote exec, API, SQLA
 - [ ] Page lue / pratiquée
 
 #### 126. Rich : embellir le terminal
-- **Lien :** `/docs/developper/programmation/python/rich/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/rich/](https://blog.stephane-robert.info/docs/developper/programmation/python/rich/)
 - **Pourquoi ici :** Dans la phase « Python DevOps », « Rich : embellir le terminal » (programmation › python › rich) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Rich : embellir le terminal
@@ -1178,7 +1178,7 @@ Appliquer Python aux tâches ops : HTTP, CLI, templating, remote exec, API, SQLA
 - [ ] Page lue / pratiquée
 
 #### 127. Textual : des interfaces terminal
-- **Lien :** `/docs/developper/programmation/python/textual/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/textual/](https://blog.stephane-robert.info/docs/developper/programmation/python/textual/)
 - **Pourquoi ici :** Dans la phase « Python DevOps », « Textual : des interfaces terminal » (programmation › python › textual) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Textual : des interfaces terminal
@@ -1187,7 +1187,7 @@ Appliquer Python aux tâches ops : HTTP, CLI, templating, remote exec, API, SQLA
 - [ ] Page lue / pratiquée
 
 #### 128. Templates avec Jinja
-- **Lien :** `/docs/developper/programmation/python/jinja/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/jinja/](https://blog.stephane-robert.info/docs/developper/programmation/python/jinja/)
 - **Pourquoi ici :** Dans la phase « Python DevOps », « Templates avec Jinja » (programmation › python › jinja) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Templates avec Jinja
@@ -1196,7 +1196,7 @@ Appliquer Python aux tâches ops : HTTP, CLI, templating, remote exec, API, SQLA
 - [ ] Page lue / pratiquée
 
 #### 129. Fabric : automatiser en SSH
-- **Lien :** `/docs/developper/programmation/python/fabric/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/fabric/](https://blog.stephane-robert.info/docs/developper/programmation/python/fabric/)
 - **Pourquoi ici :** Dans la phase « Python DevOps », « Fabric : automatiser en SSH » (programmation › python › fabric) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Fabric : automatiser en SSH
@@ -1205,7 +1205,7 @@ Appliquer Python aux tâches ops : HTTP, CLI, templating, remote exec, API, SQLA
 - [ ] Page lue / pratiquée
 
 #### 130. pyinfra : automatiser l'infrastructure
-- **Lien :** `/docs/developper/programmation/python/pyinfra/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/pyinfra/](https://blog.stephane-robert.info/docs/developper/programmation/python/pyinfra/)
 - **Pourquoi ici :** Dans la phase « Python DevOps », « pyinfra : automatiser l'infrastructure » (programmation › python › pyinfra) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : pyinfra : automatiser l'infrastructure
@@ -1214,7 +1214,7 @@ Appliquer Python aux tâches ops : HTTP, CLI, templating, remote exec, API, SQLA
 - [ ] Page lue / pratiquée
 
 #### 131. Scanner un reseau avec nmap
-- **Lien :** `/docs/developper/programmation/python/nmap/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/nmap/](https://blog.stephane-robert.info/docs/developper/programmation/python/nmap/)
 - **Pourquoi ici :** Dans la phase « Python DevOps », « Scanner un reseau avec nmap » (programmation › python › nmap) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Scanner un reseau avec nmap
@@ -1223,7 +1223,7 @@ Appliquer Python aux tâches ops : HTTP, CLI, templating, remote exec, API, SQLA
 - [ ] Page lue / pratiquée
 
 #### 132. Récupérer du contenu avec Trafilatura
-- **Lien :** `/docs/developper/programmation/python/trafilatura/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/trafilatura/](https://blog.stephane-robert.info/docs/developper/programmation/python/trafilatura/)
 - **Pourquoi ici :** Dans la phase « Python DevOps », « Récupérer du contenu avec Trafilatura » (programmation › python › trafilatura) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Récupérer du contenu avec Trafilatura
@@ -1232,7 +1232,7 @@ Appliquer Python aux tâches ops : HTTP, CLI, templating, remote exec, API, SQLA
 - [ ] Page lue / pratiquée
 
 #### 133. FastAPI : creer une API
-- **Lien :** `/docs/developper/programmation/python/fastapi/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/fastapi/](https://blog.stephane-robert.info/docs/developper/programmation/python/fastapi/)
 - **Pourquoi ici :** Dans la phase « Python DevOps », « FastAPI : creer une API » (programmation › python › fastapi) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : FastAPI : creer une API
@@ -1241,7 +1241,7 @@ Appliquer Python aux tâches ops : HTTP, CLI, templating, remote exec, API, SQLA
 - [ ] Page lue / pratiquée
 
 #### 134. Se connecter a une base de donnees
-- **Lien :** `/docs/developper/programmation/python/connexion-1/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/connexion-1/](https://blog.stephane-robert.info/docs/developper/programmation/python/connexion-1/)
 - **Pourquoi ici :** Dans la phase « Python DevOps », « Se connecter a une base de donnees » (programmation › python › connexion-1) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Se connecter a une base de donnees
@@ -1250,7 +1250,7 @@ Appliquer Python aux tâches ops : HTTP, CLI, templating, remote exec, API, SQLA
 - [ ] Page lue / pratiquée
 
 #### 135. Connexion avancee aux bases
-- **Lien :** `/docs/developper/programmation/python/connexion-4/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/connexion-4/](https://blog.stephane-robert.info/docs/developper/programmation/python/connexion-4/)
 - **Pourquoi ici :** Dans la phase « Python DevOps », « Connexion avancee aux bases » (programmation › python › connexion-4) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Connexion avancee aux bases
@@ -1259,7 +1259,7 @@ Appliquer Python aux tâches ops : HTTP, CLI, templating, remote exec, API, SQLA
 - [ ] Page lue / pratiquée
 
 #### 136. SQLAlchemy : les bases
-- **Lien :** `/docs/developper/programmation/python/sqlachemy-1/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/sqlachemy-1/](https://blog.stephane-robert.info/docs/developper/programmation/python/sqlachemy-1/)
 - **Pourquoi ici :** Dans la phase « Python DevOps », « SQLAlchemy : les bases » (programmation › python › sqlachemy-1) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : SQLAlchemy : les bases
@@ -1268,7 +1268,7 @@ Appliquer Python aux tâches ops : HTTP, CLI, templating, remote exec, API, SQLA
 - [ ] Page lue / pratiquée
 
 #### 137. SQLAlchemy : l'ORM en pratique
-- **Lien :** `/docs/developper/programmation/python/sqlachemy-2/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/sqlachemy-2/](https://blog.stephane-robert.info/docs/developper/programmation/python/sqlachemy-2/)
 - **Pourquoi ici :** Dans la phase « Python DevOps », « SQLAlchemy : l'ORM en pratique » (programmation › python › sqlachemy-2) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : SQLAlchemy : l'ORM en pratique
@@ -1277,7 +1277,7 @@ Appliquer Python aux tâches ops : HTTP, CLI, templating, remote exec, API, SQLA
 - [ ] Page lue / pratiquée
 
 #### 138. Le threading
-- **Lien :** `/docs/developper/programmation/python/threading/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/threading/](https://blog.stephane-robert.info/docs/developper/programmation/python/threading/)
 - **Pourquoi ici :** Dans la phase « Python DevOps », « Le threading » (programmation › python › threading) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Le threading
@@ -1286,7 +1286,7 @@ Appliquer Python aux tâches ops : HTTP, CLI, templating, remote exec, API, SQLA
 - [ ] Page lue / pratiquée
 
 #### 139. Le multiprocessing
-- **Lien :** `/docs/developper/programmation/python/multiprocessing/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/multiprocessing/](https://blog.stephane-robert.info/docs/developper/programmation/python/multiprocessing/)
 - **Pourquoi ici :** Dans la phase « Python DevOps », « Le multiprocessing » (programmation › python › multiprocessing) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Le multiprocessing
@@ -1295,7 +1295,7 @@ Appliquer Python aux tâches ops : HTTP, CLI, templating, remote exec, API, SQLA
 - [ ] Page lue / pratiquée
 
 #### 140. concurrent.futures
-- **Lien :** `/docs/developper/programmation/python/concurrent-futures/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/concurrent-futures/](https://blog.stephane-robert.info/docs/developper/programmation/python/concurrent-futures/)
 - **Pourquoi ici :** Dans la phase « Python DevOps », « concurrent.futures » (programmation › python › concurrent-futures) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : concurrent.futures
@@ -1304,7 +1304,7 @@ Appliquer Python aux tâches ops : HTTP, CLI, templating, remote exec, API, SQLA
 - [ ] Page lue / pratiquée
 
 #### 141. La programmation asynchrone
-- **Lien :** `/docs/developper/programmation/python/asyncio/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/asyncio/](https://blog.stephane-robert.info/docs/developper/programmation/python/asyncio/)
 - **Pourquoi ici :** Dans la phase « Python DevOps », « La programmation asynchrone » (programmation › python › asyncio) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : La programmation asynchrone
@@ -1313,7 +1313,7 @@ Appliquer Python aux tâches ops : HTTP, CLI, templating, remote exec, API, SQLA
 - [ ] Page lue / pratiquée
 
 #### 142. asyncio avancé
-- **Lien :** `/docs/developper/programmation/python/asyncio-avance/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/asyncio-avance/](https://blog.stephane-robert.info/docs/developper/programmation/python/asyncio-avance/)
 - **Pourquoi ici :** Dans la phase « Python DevOps », « asyncio avancé » (programmation › python › asyncio-avance) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : asyncio avancé
@@ -1322,7 +1322,7 @@ Appliquer Python aux tâches ops : HTTP, CLI, templating, remote exec, API, SQLA
 - [ ] Page lue / pratiquée
 
 #### 143. Mon parcours (Avancé) Suivi
-- **Lien :** `/docs/developper/programmation/python/parcours-avance/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/parcours-avance/](https://blog.stephane-robert.info/docs/developper/programmation/python/parcours-avance/)
 - **Pourquoi ici :** Dans la phase « Python DevOps », « Mon parcours (Avancé) Suivi » (programmation › python › parcours-avance) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Mon parcours (Avancé) Suivi
@@ -1334,7 +1334,7 @@ Appliquer Python aux tâches ops : HTTP, CLI, templating, remote exec, API, SQLA
 Une fois le code produit : où le stocker (Nexus, Harbor, Pulp…) et comment le maintenir à jour (Dependabot, Renovate). Pont direct vers `13-pipeline-ci-cd` et `05-securite` (supply chain).
 
 #### 144. Introduction
-- **Lien :** `/docs/developper/artefacts/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/artefacts/](https://blog.stephane-robert.info/docs/developper/artefacts/)
 - **Pourquoi ici :** Dans la phase « Artefacts et dépendances », « Introduction » (artefacts) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Introduction
@@ -1343,7 +1343,7 @@ Une fois le code produit : où le stocker (Nexus, Harbor, Pulp…) et comment le
 - [ ] Page lue / pratiquée
 
 #### 145. Artifactory
-- **Lien :** `/docs/developper/artefacts/artifactory/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/artefacts/artifactory/](https://blog.stephane-robert.info/docs/developper/artefacts/artifactory/)
 - **Pourquoi ici :** Dans la phase « Artefacts et dépendances », « Artifactory » (artefacts › artifactory) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Artifactory
@@ -1352,7 +1352,7 @@ Une fois le code produit : où le stocker (Nexus, Harbor, Pulp…) et comment le
 - [ ] Page lue / pratiquée
 
 #### 146. Harbor
-- **Lien :** `/docs/developper/artefacts/harbor/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/artefacts/harbor/](https://blog.stephane-robert.info/docs/developper/artefacts/harbor/)
 - **Pourquoi ici :** Dans la phase « Artefacts et dépendances », « Harbor » (artefacts › harbor) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Harbor
@@ -1361,7 +1361,7 @@ Une fois le code produit : où le stocker (Nexus, Harbor, Pulp…) et comment le
 - [ ] Page lue / pratiquée
 
 #### 147. Nexus
-- **Lien :** `/docs/developper/artefacts/nexus/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/artefacts/nexus/](https://blog.stephane-robert.info/docs/developper/artefacts/nexus/)
 - **Pourquoi ici :** Dans la phase « Artefacts et dépendances », « Nexus » (artefacts › nexus) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Nexus
@@ -1370,7 +1370,7 @@ Une fois le code produit : où le stocker (Nexus, Harbor, Pulp…) et comment le
 - [ ] Page lue / pratiquée
 
 #### 148. Dépôt proxy et cache
-- **Lien :** `/docs/developper/artefacts/nexus/depot-proxy-cache/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/artefacts/nexus/depot-proxy-cache/](https://blog.stephane-robert.info/docs/developper/artefacts/nexus/depot-proxy-cache/)
 - **Pourquoi ici :** Dans la phase « Artefacts et dépendances », « Dépôt proxy et cache » (artefacts › nexus › depot-proxy-cache) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Dépôt proxy et cache
@@ -1379,7 +1379,7 @@ Une fois le code produit : où le stocker (Nexus, Harbor, Pulp…) et comment le
 - [ ] Page lue / pratiquée
 
 #### 149. Installer Nexus
-- **Lien :** `/docs/developper/artefacts/nexus/installation/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/artefacts/nexus/installation/](https://blog.stephane-robert.info/docs/developper/artefacts/nexus/installation/)
 - **Pourquoi ici :** Dans la phase « Artefacts et dépendances », « Installer Nexus » (artefacts › nexus › installation) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Installer Nexus
@@ -1388,7 +1388,7 @@ Une fois le code produit : où le stocker (Nexus, Harbor, Pulp…) et comment le
 - [ ] Page lue / pratiquée
 
 #### 150. Registre Docker
-- **Lien :** `/docs/developper/artefacts/nexus/registry-docker/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/artefacts/nexus/registry-docker/](https://blog.stephane-robert.info/docs/developper/artefacts/nexus/registry-docker/)
 - **Pourquoi ici :** Dans la phase « Artefacts et dépendances », « Registre Docker » (artefacts › nexus › registry-docker) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Registre Docker
@@ -1397,7 +1397,7 @@ Une fois le code produit : où le stocker (Nexus, Harbor, Pulp…) et comment le
 - [ ] Page lue / pratiquée
 
 #### 151. Présentation
-- **Lien :** `/docs/developper/artefacts/pulp/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/artefacts/pulp/](https://blog.stephane-robert.info/docs/developper/artefacts/pulp/)
 - **Pourquoi ici :** Dans la phase « Artefacts et dépendances », « Présentation » (artefacts › pulp) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Présentation
@@ -1406,7 +1406,7 @@ Une fois le code produit : où le stocker (Nexus, Harbor, Pulp…) et comment le
 - [ ] Page lue / pratiquée
 
 #### 152. Air-gapped et TLS auto-signé
-- **Lien :** `/docs/developper/artefacts/pulp/air-gap-tls/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/artefacts/pulp/air-gap-tls/](https://blog.stephane-robert.info/docs/developper/artefacts/pulp/air-gap-tls/)
 - **Pourquoi ici :** Dans la phase « Artefacts et dépendances », « Air-gapped et TLS auto-signé » (artefacts › pulp › air-gap-tls) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Air-gapped et TLS auto-signé
@@ -1415,7 +1415,7 @@ Une fois le code produit : où le stocker (Nexus, Harbor, Pulp…) et comment le
 - [ ] Page lue / pratiquée
 
 #### 153. Installer Pulp
-- **Lien :** `/docs/developper/artefacts/pulp/installer/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/artefacts/pulp/installer/](https://blog.stephane-robert.info/docs/developper/artefacts/pulp/installer/)
 - **Pourquoi ici :** Dans la phase « Artefacts et dépendances », « Installer Pulp » (artefacts › pulp › installer) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Installer Pulp
@@ -1424,7 +1424,7 @@ Une fois le code produit : où le stocker (Nexus, Harbor, Pulp…) et comment le
 - [ ] Page lue / pratiquée
 
 #### 154. Déployer sur Kubernetes
-- **Lien :** `/docs/developper/artefacts/pulp/kubernetes/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/artefacts/pulp/kubernetes/](https://blog.stephane-robert.info/docs/developper/artefacts/pulp/kubernetes/)
 - **Pourquoi ici :** Dans la phase « Artefacts et dépendances », « Déployer sur Kubernetes » (artefacts › pulp › kubernetes) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Déployer sur Kubernetes
@@ -1433,7 +1433,7 @@ Une fois le code produit : où le stocker (Nexus, Harbor, Pulp…) et comment le
 - [ ] Page lue / pratiquée
 
 #### 155. Publier et consommer des artefacts
-- **Lien :** `/docs/developper/artefacts/pulp/publier-consommer/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/artefacts/pulp/publier-consommer/](https://blog.stephane-robert.info/docs/developper/artefacts/pulp/publier-consommer/)
 - **Pourquoi ici :** Dans la phase « Artefacts et dépendances », « Publier et consommer des artefacts » (artefacts › pulp › publier-consommer) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Publier et consommer des artefacts
@@ -1442,7 +1442,7 @@ Une fois le code produit : où le stocker (Nexus, Harbor, Pulp…) et comment le
 - [ ] Page lue / pratiquée
 
 #### 156. Registre de conteneurs et scan Trivy
-- **Lien :** `/docs/developper/artefacts/pulp/registre-conteneurs/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/artefacts/pulp/registre-conteneurs/](https://blog.stephane-robert.info/docs/developper/artefacts/pulp/registre-conteneurs/)
 - **Pourquoi ici :** Dans la phase « Artefacts et dépendances », « Registre de conteneurs et scan Trivy » (artefacts › pulp › registre-conteneurs) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Registre de conteneurs et scan Trivy
@@ -1451,7 +1451,7 @@ Une fois le code produit : où le stocker (Nexus, Harbor, Pulp…) et comment le
 - [ ] Page lue / pratiquée
 
 #### 157. Sauvegarder et restaurer
-- **Lien :** `/docs/developper/artefacts/pulp/sauvegarde/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/artefacts/pulp/sauvegarde/](https://blog.stephane-robert.info/docs/developper/artefacts/pulp/sauvegarde/)
 - **Pourquoi ici :** Dans la phase « Artefacts et dépendances », « Sauvegarder et restaurer » (artefacts › pulp › sauvegarde) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Sauvegarder et restaurer
@@ -1460,7 +1460,7 @@ Une fois le code produit : où le stocker (Nexus, Harbor, Pulp…) et comment le
 - [ ] Page lue / pratiquée
 
 #### 158. Sécuriser Pulp
-- **Lien :** `/docs/developper/artefacts/pulp/securiser/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/artefacts/pulp/securiser/](https://blog.stephane-robert.info/docs/developper/artefacts/pulp/securiser/)
 - **Pourquoi ici :** Dans la phase « Artefacts et dépendances », « Sécuriser Pulp » (artefacts › pulp › securiser) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Sécuriser Pulp
@@ -1469,7 +1469,7 @@ Une fois le code produit : où le stocker (Nexus, Harbor, Pulp…) et comment le
 - [ ] Page lue / pratiquée
 
 #### 159. Signer les artefacts (Cosign, GPG)
-- **Lien :** `/docs/developper/artefacts/pulp/signer-artefacts/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/artefacts/pulp/signer-artefacts/](https://blog.stephane-robert.info/docs/developper/artefacts/pulp/signer-artefacts/)
 - **Pourquoi ici :** Dans la phase « Artefacts et dépendances », « Signer les artefacts (Cosign, GPG) » (artefacts › pulp › signer-artefacts) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Signer les artefacts (Cosign, GPG)
@@ -1478,7 +1478,7 @@ Une fois le code produit : où le stocker (Nexus, Harbor, Pulp…) et comment le
 - [ ] Page lue / pratiquée
 
 #### 160. Introduction
-- **Lien :** `/docs/developper/dependances/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/dependances/](https://blog.stephane-robert.info/docs/developper/dependances/)
 - **Pourquoi ici :** Dans la phase « Artefacts et dépendances », « Introduction » (dependances) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Introduction
@@ -1487,7 +1487,7 @@ Une fois le code produit : où le stocker (Nexus, Harbor, Pulp…) et comment le
 - [ ] Page lue / pratiquée
 
 #### 161. Dependabot
-- **Lien :** `/docs/developper/dependances/dependabot/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/dependances/dependabot/](https://blog.stephane-robert.info/docs/developper/dependances/dependabot/)
 - **Pourquoi ici :** Dans la phase « Artefacts et dépendances », « Dependabot » (dependances › dependabot) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Dependabot
@@ -1496,7 +1496,7 @@ Une fois le code produit : où le stocker (Nexus, Harbor, Pulp…) et comment le
 - [ ] Page lue / pratiquée
 
 #### 162. Renovate
-- **Lien :** `/docs/developper/dependances/renovate/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/dependances/renovate/](https://blog.stephane-robert.info/docs/developper/dependances/renovate/)
 - **Pourquoi ici :** Dans la phase « Artefacts et dépendances », « Renovate » (dependances › renovate) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Renovate
@@ -1508,7 +1508,7 @@ Une fois le code produit : où le stocker (Nexus, Harbor, Pulp…) et comment le
 YAML, HCL, SQL, Rego, Markdown… sont des DSL du quotidien DevOps. Go (et autres) en option après Python. HCL et YAML seront réutilisés intensément dans `09-infrastructure-as-code`.
 
 #### 163. Introduction
-- **Lien :** `/docs/developper/autres-langages/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/autres-langages/](https://blog.stephane-robert.info/docs/developper/autres-langages/)
 - **Pourquoi ici :** Dans la phase « Autres langages », « Introduction » (autres-langages) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Introduction
@@ -1517,7 +1517,7 @@ YAML, HCL, SQL, Rego, Markdown… sont des DSL du quotidien DevOps. Go (et autre
 - [ ] Page lue / pratiquée
 
 #### 164. AsciiDoc
-- **Lien :** `/docs/developper/autres-langages/asciidoc/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/autres-langages/asciidoc/](https://blog.stephane-robert.info/docs/developper/autres-langages/asciidoc/)
 - **Pourquoi ici :** Dans la phase « Autres langages », « AsciiDoc » (autres-langages › asciidoc) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : AsciiDoc
@@ -1526,7 +1526,7 @@ YAML, HCL, SQL, Rego, Markdown… sont des DSL du quotidien DevOps. Go (et autre
 - [ ] Page lue / pratiquée
 
 #### 165. Découvrir HCL
-- **Lien :** `/docs/developper/autres-langages/hcl/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/autres-langages/hcl/](https://blog.stephane-robert.info/docs/developper/autres-langages/hcl/)
 - **Pourquoi ici :** Dans la phase « Autres langages », « Découvrir HCL » (autres-langages › hcl) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Découvrir HCL
@@ -1535,7 +1535,7 @@ YAML, HCL, SQL, Rego, Markdown… sont des DSL du quotidien DevOps. Go (et autre
 - [ ] Page lue / pratiquée
 
 #### 166. Expressions HCL
-- **Lien :** `/docs/developper/autres-langages/hcl/expressions/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/autres-langages/hcl/expressions/](https://blog.stephane-robert.info/docs/developper/autres-langages/hcl/expressions/)
 - **Pourquoi ici :** Dans la phase « Autres langages », « Expressions HCL » (autres-langages › hcl › expressions) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Expressions HCL
@@ -1544,7 +1544,7 @@ YAML, HCL, SQL, Rego, Markdown… sont des DSL du quotidien DevOps. Go (et autre
 - [ ] Page lue / pratiquée
 
 #### 167. Fonctions HCL
-- **Lien :** `/docs/developper/autres-langages/hcl/fonctions/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/autres-langages/hcl/fonctions/](https://blog.stephane-robert.info/docs/developper/autres-langages/hcl/fonctions/)
 - **Pourquoi ici :** Dans la phase « Autres langages », « Fonctions HCL » (autres-langages › hcl › fonctions) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Fonctions HCL
@@ -1553,7 +1553,7 @@ YAML, HCL, SQL, Rego, Markdown… sont des DSL du quotidien DevOps. Go (et autre
 - [ ] Page lue / pratiquée
 
 #### 168. Syntaxe HCL de base
-- **Lien :** `/docs/developper/autres-langages/hcl/syntaxe-de-base/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/autres-langages/hcl/syntaxe-de-base/](https://blog.stephane-robert.info/docs/developper/autres-langages/hcl/syntaxe-de-base/)
 - **Pourquoi ici :** Dans la phase « Autres langages », « Syntaxe HCL de base » (autres-langages › hcl › syntaxe-de-base) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Syntaxe HCL de base
@@ -1562,7 +1562,7 @@ YAML, HCL, SQL, Rego, Markdown… sont des DSL du quotidien DevOps. Go (et autre
 - [ ] Page lue / pratiquée
 
 #### 169. Types et collections HCL
-- **Lien :** `/docs/developper/autres-langages/hcl/types-collections/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/autres-langages/hcl/types-collections/](https://blog.stephane-robert.info/docs/developper/autres-langages/hcl/types-collections/)
 - **Pourquoi ici :** Dans la phase « Autres langages », « Types et collections HCL » (autres-langages › hcl › types-collections) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Types et collections HCL
@@ -1571,7 +1571,7 @@ YAML, HCL, SQL, Rego, Markdown… sont des DSL du quotidien DevOps. Go (et autre
 - [ ] Page lue / pratiquée
 
 #### 170. Variables et valeurs nommées
-- **Lien :** `/docs/developper/autres-langages/hcl/variables-valeurs-nommees/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/autres-langages/hcl/variables-valeurs-nommees/](https://blog.stephane-robert.info/docs/developper/autres-langages/hcl/variables-valeurs-nommees/)
 - **Pourquoi ici :** Dans la phase « Autres langages », « Variables et valeurs nommées » (autres-langages › hcl › variables-valeurs-nommees) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Variables et valeurs nommées
@@ -1580,7 +1580,7 @@ YAML, HCL, SQL, Rego, Markdown… sont des DSL du quotidien DevOps. Go (et autre
 - [ ] Page lue / pratiquée
 
 #### 171. JSON
-- **Lien :** `/docs/developper/autres-langages/json/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/autres-langages/json/](https://blog.stephane-robert.info/docs/developper/autres-langages/json/)
 - **Pourquoi ici :** Dans la phase « Autres langages », « JSON » (autres-langages › json) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : JSON
@@ -1589,7 +1589,7 @@ YAML, HCL, SQL, Rego, Markdown… sont des DSL du quotidien DevOps. Go (et autre
 - [ ] Page lue / pratiquée
 
 #### 172. MarkDown
-- **Lien :** `/docs/developper/autres-langages/markdown/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/autres-langages/markdown/](https://blog.stephane-robert.info/docs/developper/autres-langages/markdown/)
 - **Pourquoi ici :** Dans la phase « Autres langages », « MarkDown » (autres-langages › markdown) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : MarkDown
@@ -1598,7 +1598,7 @@ YAML, HCL, SQL, Rego, Markdown… sont des DSL du quotidien DevOps. Go (et autre
 - [ ] Page lue / pratiquée
 
 #### 173. Découvrir Rego
-- **Lien :** `/docs/developper/autres-langages/rego/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/autres-langages/rego/](https://blog.stephane-robert.info/docs/developper/autres-langages/rego/)
 - **Pourquoi ici :** Dans la phase « Autres langages », « Découvrir Rego » (autres-langages › rego) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Découvrir Rego
@@ -1607,7 +1607,7 @@ YAML, HCL, SQL, Rego, Markdown… sont des DSL du quotidien DevOps. Go (et autre
 - [ ] Page lue / pratiquée
 
 #### 174. Données et itération
-- **Lien :** `/docs/developper/autres-langages/rego/donnees-et-iteration/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/autres-langages/rego/donnees-et-iteration/](https://blog.stephane-robert.info/docs/developper/autres-langages/rego/donnees-et-iteration/)
 - **Pourquoi ici :** Dans la phase « Autres langages », « Données et itération » (autres-langages › rego › donnees-et-iteration) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Données et itération
@@ -1616,7 +1616,7 @@ YAML, HCL, SQL, Rego, Markdown… sont des DSL du quotidien DevOps. Go (et autre
 - [ ] Page lue / pratiquée
 
 #### 175. OPA en pratique
-- **Lien :** `/docs/developper/autres-langages/rego/opa-en-pratique/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/autres-langages/rego/opa-en-pratique/](https://blog.stephane-robert.info/docs/developper/autres-langages/rego/opa-en-pratique/)
 - **Pourquoi ici :** Dans la phase « Autres langages », « OPA en pratique » (autres-langages › rego › opa-en-pratique) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : OPA en pratique
@@ -1625,7 +1625,7 @@ YAML, HCL, SQL, Rego, Markdown… sont des DSL du quotidien DevOps. Go (et autre
 - [ ] Page lue / pratiquée
 
 #### 176. Règles et fonctions
-- **Lien :** `/docs/developper/autres-langages/rego/regles-et-fonctions/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/autres-langages/rego/regles-et-fonctions/](https://blog.stephane-robert.info/docs/developper/autres-langages/rego/regles-et-fonctions/)
 - **Pourquoi ici :** Dans la phase « Autres langages », « Règles et fonctions » (autres-langages › rego › regles-et-fonctions) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Règles et fonctions
@@ -1634,7 +1634,7 @@ YAML, HCL, SQL, Rego, Markdown… sont des DSL du quotidien DevOps. Go (et autre
 - [ ] Page lue / pratiquée
 
 #### 177. Rego avancé
-- **Lien :** `/docs/developper/autres-langages/rego/rego-avance/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/autres-langages/rego/rego-avance/](https://blog.stephane-robert.info/docs/developper/autres-langages/rego/rego-avance/)
 - **Pourquoi ici :** Dans la phase « Autres langages », « Rego avancé » (autres-langages › rego › rego-avance) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Rego avancé
@@ -1643,7 +1643,7 @@ YAML, HCL, SQL, Rego, Markdown… sont des DSL du quotidien DevOps. Go (et autre
 - [ ] Page lue / pratiquée
 
 #### 178. Syntaxe de base
-- **Lien :** `/docs/developper/autres-langages/rego/syntaxe-de-base/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/autres-langages/rego/syntaxe-de-base/](https://blog.stephane-robert.info/docs/developper/autres-langages/rego/syntaxe-de-base/)
 - **Pourquoi ici :** Dans la phase « Autres langages », « Syntaxe de base » (autres-langages › rego › syntaxe-de-base) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Syntaxe de base
@@ -1652,7 +1652,7 @@ YAML, HCL, SQL, Rego, Markdown… sont des DSL du quotidien DevOps. Go (et autre
 - [ ] Page lue / pratiquée
 
 #### 179. Découvrir SQL
-- **Lien :** `/docs/developper/autres-langages/sql/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/autres-langages/sql/](https://blog.stephane-robert.info/docs/developper/autres-langages/sql/)
 - **Pourquoi ici :** Dans la phase « Autres langages », « Découvrir SQL » (autres-langages › sql) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Découvrir SQL
@@ -1661,7 +1661,7 @@ YAML, HCL, SQL, Rego, Markdown… sont des DSL du quotidien DevOps. Go (et autre
 - [ ] Page lue / pratiquée
 
 #### 180. Fonctions et agrégations
-- **Lien :** `/docs/developper/autres-langages/sql/fonctions-et-agregations/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/autres-langages/sql/fonctions-et-agregations/](https://blog.stephane-robert.info/docs/developper/autres-langages/sql/fonctions-et-agregations/)
 - **Pourquoi ici :** Dans la phase « Autres langages », « Fonctions et agrégations » (autres-langages › sql › fonctions-et-agregations) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Fonctions et agrégations
@@ -1670,7 +1670,7 @@ YAML, HCL, SQL, Rego, Markdown… sont des DSL du quotidien DevOps. Go (et autre
 - [ ] Page lue / pratiquée
 
 #### 181. Jointures et sous-requêtes
-- **Lien :** `/docs/developper/autres-langages/sql/jointures-et-sous-requetes/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/autres-langages/sql/jointures-et-sous-requetes/](https://blog.stephane-robert.info/docs/developper/autres-langages/sql/jointures-et-sous-requetes/)
 - **Pourquoi ici :** Dans la phase « Autres langages », « Jointures et sous-requêtes » (autres-langages › sql › jointures-et-sous-requetes) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Jointures et sous-requêtes
@@ -1679,7 +1679,7 @@ YAML, HCL, SQL, Rego, Markdown… sont des DSL du quotidien DevOps. Go (et autre
 - [ ] Page lue / pratiquée
 
 #### 182. Manipuler les données
-- **Lien :** `/docs/developper/autres-langages/sql/manipuler-les-donnees/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/autres-langages/sql/manipuler-les-donnees/](https://blog.stephane-robert.info/docs/developper/autres-langages/sql/manipuler-les-donnees/)
 - **Pourquoi ici :** Dans la phase « Autres langages », « Manipuler les données » (autres-langages › sql › manipuler-les-donnees) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Manipuler les données
@@ -1688,7 +1688,7 @@ YAML, HCL, SQL, Rego, Markdown… sont des DSL du quotidien DevOps. Go (et autre
 - [ ] Page lue / pratiquée
 
 #### 183. SQL avancé
-- **Lien :** `/docs/developper/autres-langages/sql/sql-avance/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/autres-langages/sql/sql-avance/](https://blog.stephane-robert.info/docs/developper/autres-langages/sql/sql-avance/)
 - **Pourquoi ici :** Dans la phase « Autres langages », « SQL avancé » (autres-langages › sql › sql-avance) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : SQL avancé
@@ -1697,7 +1697,7 @@ YAML, HCL, SQL, Rego, Markdown… sont des DSL du quotidien DevOps. Go (et autre
 - [ ] Page lue / pratiquée
 
 #### 184. Syntaxe de base
-- **Lien :** `/docs/developper/autres-langages/sql/syntaxe-de-base/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/autres-langages/sql/syntaxe-de-base/](https://blog.stephane-robert.info/docs/developper/autres-langages/sql/syntaxe-de-base/)
 - **Pourquoi ici :** Dans la phase « Autres langages », « Syntaxe de base » (autres-langages › sql › syntaxe-de-base) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Syntaxe de base
@@ -1706,7 +1706,7 @@ YAML, HCL, SQL, Rego, Markdown… sont des DSL du quotidien DevOps. Go (et autre
 - [ ] Page lue / pratiquée
 
 #### 185. YAML
-- **Lien :** `/docs/developper/autres-langages/yaml/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/autres-langages/yaml/](https://blog.stephane-robert.info/docs/developper/autres-langages/yaml/)
 - **Pourquoi ici :** Dans la phase « Autres langages », « YAML » (autres-langages › yaml) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : YAML
@@ -1715,7 +1715,7 @@ YAML, HCL, SQL, Rego, Markdown… sont des DSL du quotidien DevOps. Go (et autre
 - [ ] Page lue / pratiquée
 
 #### 186. Introduction
-- **Lien :** `/docs/developper/programmation/golang/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/golang/](https://blog.stephane-robert.info/docs/developper/programmation/golang/)
 - **Pourquoi ici :** Dans la phase « Autres langages », « Introduction » (programmation › golang) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Introduction
@@ -1724,7 +1724,7 @@ YAML, HCL, SQL, Rego, Markdown… sont des DSL du quotidien DevOps. Go (et autre
 - [ ] Page lue / pratiquée
 
 #### 187. Compiler et versionner un binaire
-- **Lien :** `/docs/developper/programmation/golang/build-versioning/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/golang/build-versioning/](https://blog.stephane-robert.info/docs/developper/programmation/golang/build-versioning/)
 - **Pourquoi ici :** Dans la phase « Autres langages », « Compiler et versionner un binaire » (programmation › golang › build-versioning) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Compiler et versionner un binaire
@@ -1733,7 +1733,7 @@ YAML, HCL, SQL, Rego, Markdown… sont des DSL du quotidien DevOps. Go (et autre
 - [ ] Page lue / pratiquée
 
 #### 188. Écrire une CLI avec Cobra
-- **Lien :** `/docs/developper/programmation/golang/cli-cobra/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/golang/cli-cobra/](https://blog.stephane-robert.info/docs/developper/programmation/golang/cli-cobra/)
 - **Pourquoi ici :** Dans la phase « Autres langages », « Écrire une CLI avec Cobra » (programmation › golang › cli-cobra) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Écrire une CLI avec Cobra
@@ -1742,7 +1742,7 @@ YAML, HCL, SQL, Rego, Markdown… sont des DSL du quotidien DevOps. Go (et autre
 - [ ] Page lue / pratiquée
 
 #### 189. Consommer une API REST
-- **Lien :** `/docs/developper/programmation/golang/client-api-rest/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/golang/client-api-rest/](https://blog.stephane-robert.info/docs/developper/programmation/golang/client-api-rest/)
 - **Pourquoi ici :** Dans la phase « Autres langages », « Consommer une API REST » (programmation › golang › client-api-rest) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Consommer une API REST
@@ -1751,7 +1751,7 @@ YAML, HCL, SQL, Rego, Markdown… sont des DSL du quotidien DevOps. Go (et autre
 - [ ] Page lue / pratiquée
 
 #### 190. Slices, maps et tableaux
-- **Lien :** `/docs/developper/programmation/golang/collections/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/golang/collections/](https://blog.stephane-robert.info/docs/developper/programmation/golang/collections/)
 - **Pourquoi ici :** Dans la phase « Autres langages », « Slices, maps et tableaux » (programmation › golang › collections) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Slices, maps et tableaux
@@ -1760,7 +1760,7 @@ YAML, HCL, SQL, Rego, Markdown… sont des DSL du quotidien DevOps. Go (et autre
 - [ ] Page lue / pratiquée
 
 #### 191. Charger une configuration (YAML, TOML)
-- **Lien :** `/docs/developper/programmation/golang/configuration/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/golang/configuration/](https://blog.stephane-robert.info/docs/developper/programmation/golang/configuration/)
 - **Pourquoi ici :** Dans la phase « Autres langages », « Charger une configuration (YAML, TOML) » (programmation › golang › configuration) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Charger une configuration (YAML, TOML)
@@ -1769,7 +1769,7 @@ YAML, HCL, SQL, Rego, Markdown… sont des DSL du quotidien DevOps. Go (et autre
 - [ ] Page lue / pratiquée
 
 #### 192. Le contexte (context.Context)
-- **Lien :** `/docs/developper/programmation/golang/context/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/golang/context/](https://blog.stephane-robert.info/docs/developper/programmation/golang/context/)
 - **Pourquoi ici :** Dans la phase « Autres langages », « Le contexte (context.Context) » (programmation › golang › context) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Le contexte (context.Context)
@@ -1778,7 +1778,7 @@ YAML, HCL, SQL, Rego, Markdown… sont des DSL du quotidien DevOps. Go (et autre
 - [ ] Page lue / pratiquée
 
 #### 193. La gestion des erreurs
-- **Lien :** `/docs/developper/programmation/golang/erreurs/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/golang/erreurs/](https://blog.stephane-robert.info/docs/developper/programmation/golang/erreurs/)
 - **Pourquoi ici :** Dans la phase « Autres langages », « La gestion des erreurs » (programmation › golang › erreurs) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : La gestion des erreurs
@@ -1787,7 +1787,7 @@ YAML, HCL, SQL, Rego, Markdown… sont des DSL du quotidien DevOps. Go (et autre
 - [ ] Page lue / pratiquée
 
 #### 194. Ecrire des fonctions en Go
-- **Lien :** `/docs/developper/programmation/golang/fonctions/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/golang/fonctions/](https://blog.stephane-robert.info/docs/developper/programmation/golang/fonctions/)
 - **Pourquoi ici :** Dans la phase « Autres langages », « Ecrire des fonctions en Go » (programmation › golang › fonctions) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Ecrire des fonctions en Go
@@ -1796,7 +1796,7 @@ YAML, HCL, SQL, Rego, Markdown… sont des DSL du quotidien DevOps. Go (et autre
 - [ ] Page lue / pratiquée
 
 #### 195. Goroutines et channels
-- **Lien :** `/docs/developper/programmation/golang/goroutines/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/golang/goroutines/](https://blog.stephane-robert.info/docs/developper/programmation/golang/goroutines/)
 - **Pourquoi ici :** Dans la phase « Autres langages », « Goroutines et channels » (programmation › golang › goroutines) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Goroutines et channels
@@ -1805,7 +1805,7 @@ YAML, HCL, SQL, Rego, Markdown… sont des DSL du quotidien DevOps. Go (et autre
 - [ ] Page lue / pratiquée
 
 #### 196. Les interfaces
-- **Lien :** `/docs/developper/programmation/golang/interfaces/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/golang/interfaces/](https://blog.stephane-robert.info/docs/developper/programmation/golang/interfaces/)
 - **Pourquoi ici :** Dans la phase « Autres langages », « Les interfaces » (programmation › golang › interfaces) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Les interfaces
@@ -1814,7 +1814,7 @@ YAML, HCL, SQL, Rego, Markdown… sont des DSL du quotidien DevOps. Go (et autre
 - [ ] Page lue / pratiquée
 
 #### 197. Logging structuré avec slog
-- **Lien :** `/docs/developper/programmation/golang/logging-slog/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/golang/logging-slog/](https://blog.stephane-robert.info/docs/developper/programmation/golang/logging-slog/)
 - **Pourquoi ici :** Dans la phase « Autres langages », « Logging structuré avec slog » (programmation › golang › logging-slog) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Logging structuré avec slog
@@ -1823,7 +1823,7 @@ YAML, HCL, SQL, Rego, Markdown… sont des DSL du quotidien DevOps. Go (et autre
 - [ ] Page lue / pratiquée
 
 #### 198. Méthodes et récepteurs
-- **Lien :** `/docs/developper/programmation/golang/methodes/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/golang/methodes/](https://blog.stephane-robert.info/docs/developper/programmation/golang/methodes/)
 - **Pourquoi ici :** Dans la phase « Autres langages », « Méthodes et récepteurs » (programmation › golang › methodes) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Méthodes et récepteurs
@@ -1832,7 +1832,7 @@ YAML, HCL, SQL, Rego, Markdown… sont des DSL du quotidien DevOps. Go (et autre
 - [ ] Page lue / pratiquée
 
 #### 199. Packages et modules
-- **Lien :** `/docs/developper/programmation/golang/packages-modules/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/golang/packages-modules/](https://blog.stephane-robert.info/docs/developper/programmation/golang/packages-modules/)
 - **Pourquoi ici :** Dans la phase « Autres langages », « Packages et modules » (programmation › golang › packages-modules) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Packages et modules
@@ -1841,7 +1841,7 @@ YAML, HCL, SQL, Rego, Markdown… sont des DSL du quotidien DevOps. Go (et autre
 - [ ] Page lue / pratiquée
 
 #### 200. Les pointeurs
-- **Lien :** `/docs/developper/programmation/golang/pointeurs/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/golang/pointeurs/](https://blog.stephane-robert.info/docs/developper/programmation/golang/pointeurs/)
 - **Pourquoi ici :** Dans la phase « Autres langages », « Les pointeurs » (programmation › golang › pointeurs) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Les pointeurs
@@ -1850,7 +1850,7 @@ YAML, HCL, SQL, Rego, Markdown… sont des DSL du quotidien DevOps. Go (et autre
 - [ ] Page lue / pratiquée
 
 #### 201. Qualité : vet, staticcheck, golangci-lint
-- **Lien :** `/docs/developper/programmation/golang/qualite-lint/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/golang/qualite-lint/](https://blog.stephane-robert.info/docs/developper/programmation/golang/qualite-lint/)
 - **Pourquoi ici :** Dans la phase « Autres langages », « Qualité : vet, staticcheck, golangci-lint » (programmation › golang › qualite-lint) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Qualité : vet, staticcheck, golangci-lint
@@ -1859,7 +1859,7 @@ YAML, HCL, SQL, Rego, Markdown… sont des DSL du quotidien DevOps. Go (et autre
 - [ ] Page lue / pratiquée
 
 #### 202. Structures (struct)
-- **Lien :** `/docs/developper/programmation/golang/structures/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/golang/structures/](https://blog.stephane-robert.info/docs/developper/programmation/golang/structures/)
 - **Pourquoi ici :** Dans la phase « Autres langages », « Structures (struct) » (programmation › golang › structures) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Structures (struct)
@@ -1868,7 +1868,7 @@ YAML, HCL, SQL, Rego, Markdown… sont des DSL du quotidien DevOps. Go (et autre
 - [ ] Page lue / pratiquée
 
 #### 203. Sécuriser la supply chain (govulncheck, SBOM)
-- **Lien :** `/docs/developper/programmation/golang/supply-chain/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/golang/supply-chain/](https://blog.stephane-robert.info/docs/developper/programmation/golang/supply-chain/)
 - **Pourquoi ici :** Dans la phase « Autres langages », « Sécuriser la supply chain (govulncheck, SBOM) » (programmation › golang › supply-chain) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Sécuriser la supply chain (govulncheck, SBOM)
@@ -1877,7 +1877,7 @@ YAML, HCL, SQL, Rego, Markdown… sont des DSL du quotidien DevOps. Go (et autre
 - [ ] Page lue / pratiquée
 
 #### 204. sync, WaitGroup et errgroup
-- **Lien :** `/docs/developper/programmation/golang/synchronisation/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/golang/synchronisation/](https://blog.stephane-robert.info/docs/developper/programmation/golang/synchronisation/)
 - **Pourquoi ici :** Dans la phase « Autres langages », « sync, WaitGroup et errgroup » (programmation › golang › synchronisation) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : sync, WaitGroup et errgroup
@@ -1886,7 +1886,7 @@ YAML, HCL, SQL, Rego, Markdown… sont des DSL du quotidien DevOps. Go (et autre
 - [ ] Page lue / pratiquée
 
 #### 205. Tester du code (table-driven)
-- **Lien :** `/docs/developper/programmation/golang/tests/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/golang/tests/](https://blog.stephane-robert.info/docs/developper/programmation/golang/tests/)
 - **Pourquoi ici :** Dans la phase « Autres langages », « Tester du code (table-driven) » (programmation › golang › tests) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Tester du code (table-driven)
@@ -1895,7 +1895,7 @@ YAML, HCL, SQL, Rego, Markdown… sont des DSL du quotidien DevOps. Go (et autre
 - [ ] Page lue / pratiquée
 
 #### 206. PHP
-- **Lien :** `/docs/developper/programmation/php/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/php/](https://blog.stephane-robert.info/docs/developper/programmation/php/)
 - **Pourquoi ici :** Dans la phase « Autres langages », « PHP » (programmation › php) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : PHP
@@ -1904,7 +1904,7 @@ YAML, HCL, SQL, Rego, Markdown… sont des DSL du quotidien DevOps. Go (et autre
 - [ ] Page lue / pratiquée
 
 #### 207. Ruby
-- **Lien :** `/docs/developper/programmation/ruby/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/ruby/](https://blog.stephane-robert.info/docs/developper/programmation/ruby/)
 - **Pourquoi ici :** Dans la phase « Autres langages », « Ruby » (programmation › ruby) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Ruby
@@ -1913,7 +1913,7 @@ YAML, HCL, SQL, Rego, Markdown… sont des DSL du quotidien DevOps. Go (et autre
 - [ ] Page lue / pratiquée
 
 #### 208. Rust
-- **Lien :** `/docs/developper/programmation/rust/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/rust/](https://blog.stephane-robert.info/docs/developper/programmation/rust/)
 - **Pourquoi ici :** Dans la phase « Autres langages », « Rust » (programmation › rust) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Rust
@@ -1925,7 +1925,7 @@ YAML, HCL, SQL, Rego, Markdown… sont des DSL du quotidien DevOps. Go (et autre
 Productivité quotidienne : VS Code, Make/Task, linters, outils de test API/mail. Claude Code et l’écosystème agents sont reportés à la phase suivante.
 
 #### 209. Vue d'ensemble
-- **Lien :** `/docs/developper/autres-outils/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/autres-outils/](https://blog.stephane-robert.info/docs/developper/autres-outils/)
 - **Pourquoi ici :** Dans la phase « Outillage développeur », « Vue d'ensemble » (autres-outils) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Vue d'ensemble
@@ -1934,7 +1934,7 @@ Productivité quotidienne : VS Code, Make/Task, linters, outils de test API/mail
 - [ ] Page lue / pratiquée
 
 #### 210. Make
-- **Lien :** `/docs/developper/autres-outils/build/makefile/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/autres-outils/build/makefile/](https://blog.stephane-robert.info/docs/developper/autres-outils/build/makefile/)
 - **Pourquoi ici :** Dans la phase « Outillage développeur », « Make » (autres-outils › build › makefile) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Make
@@ -1943,7 +1943,7 @@ Productivité quotidienne : VS Code, Make/Task, linters, outils de test API/mail
 - [ ] Page lue / pratiquée
 
 #### 211. Task
-- **Lien :** `/docs/developper/autres-outils/build/task/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/autres-outils/build/task/](https://blog.stephane-robert.info/docs/developper/autres-outils/build/task/)
 - **Pourquoi ici :** Dans la phase « Outillage développeur », « Task » (autres-outils › build › task) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Task
@@ -1952,7 +1952,7 @@ Productivité quotidienne : VS Code, Make/Task, linters, outils de test API/mail
 - [ ] Page lue / pratiquée
 
 #### 212. Flox
-- **Lien :** `/docs/developper/autres-outils/flox/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/autres-outils/flox/](https://blog.stephane-robert.info/docs/developper/autres-outils/flox/)
 - **Pourquoi ici :** Dans la phase « Outillage développeur », « Flox » (autres-outils › flox) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Flox
@@ -1961,7 +1961,7 @@ Productivité quotidienne : VS Code, Make/Task, linters, outils de test API/mail
 - [ ] Page lue / pratiquée
 
 #### 213. Présentation et Installation
-- **Lien :** `/docs/developper/autres-outils/ide/visual-studio-code/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/autres-outils/ide/visual-studio-code/](https://blog.stephane-robert.info/docs/developper/autres-outils/ide/visual-studio-code/)
 - **Pourquoi ici :** Dans la phase « Outillage développeur », « Présentation et Installation » (autres-outils › ide › visual-studio-code) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Présentation et Installation
@@ -1970,7 +1970,7 @@ Productivité quotidienne : VS Code, Make/Task, linters, outils de test API/mail
 - [ ] Page lue / pratiquée
 
 #### 214. Claude Code dans VS Code
-- **Lien :** `/docs/developper/autres-outils/ide/visual-studio-code/claude-code-dans-vscode/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/autres-outils/ide/visual-studio-code/claude-code-dans-vscode/](https://blog.stephane-robert.info/docs/developper/autres-outils/ide/visual-studio-code/claude-code-dans-vscode/)
 - **Pourquoi ici :** Dans la phase « Outillage développeur », « Claude Code dans VS Code » (autres-outils › ide › visual-studio-code › claude-code-dans-vscode) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Claude Code dans VS Code
@@ -1979,7 +1979,7 @@ Productivité quotidienne : VS Code, Make/Task, linters, outils de test API/mail
 - [ ] Page lue / pratiquée
 
 #### 215. Custom agents
-- **Lien :** `/docs/developper/autres-outils/ide/visual-studio-code/copilot-custom-agents/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/autres-outils/ide/visual-studio-code/copilot-custom-agents/](https://blog.stephane-robert.info/docs/developper/autres-outils/ide/visual-studio-code/copilot-custom-agents/)
 - **Pourquoi ici :** Dans la phase « Outillage développeur », « Custom agents » (autres-outils › ide › visual-studio-code › copilot-custom-agents) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Custom agents
@@ -1988,7 +1988,7 @@ Productivité quotidienne : VS Code, Make/Task, linters, outils de test API/mail
 - [ ] Page lue / pratiquée
 
 #### 216. Personnaliser : instructions
-- **Lien :** `/docs/developper/autres-outils/ide/visual-studio-code/copilot-instructions-prompts/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/autres-outils/ide/visual-studio-code/copilot-instructions-prompts/](https://blog.stephane-robert.info/docs/developper/autres-outils/ide/visual-studio-code/copilot-instructions-prompts/)
 - **Pourquoi ici :** Dans la phase « Outillage développeur », « Personnaliser : instructions » (autres-outils › ide › visual-studio-code › copilot-instructions-prompts) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Personnaliser : instructions
@@ -1997,7 +1997,7 @@ Productivité quotidienne : VS Code, Make/Task, linters, outils de test API/mail
 - [ ] Page lue / pratiquée
 
 #### 217. Brancher un serveur MCP
-- **Lien :** `/docs/developper/autres-outils/ide/visual-studio-code/copilot-mcp/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/autres-outils/ide/visual-studio-code/copilot-mcp/](https://blog.stephane-robert.info/docs/developper/autres-outils/ide/visual-studio-code/copilot-mcp/)
 - **Pourquoi ici :** Dans la phase « Outillage développeur », « Brancher un serveur MCP » (autres-outils › ide › visual-studio-code › copilot-mcp) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Brancher un serveur MCP
@@ -2006,7 +2006,7 @@ Productivité quotidienne : VS Code, Make/Task, linters, outils de test API/mail
 - [ ] Page lue / pratiquée
 
 #### 218. Prompt files
-- **Lien :** `/docs/developper/autres-outils/ide/visual-studio-code/copilot-prompt-files/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/autres-outils/ide/visual-studio-code/copilot-prompt-files/](https://blog.stephane-robert.info/docs/developper/autres-outils/ide/visual-studio-code/copilot-prompt-files/)
 - **Pourquoi ici :** Dans la phase « Outillage développeur », « Prompt files » (autres-outils › ide › visual-studio-code › copilot-prompt-files) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Prompt files
@@ -2015,7 +2015,7 @@ Productivité quotidienne : VS Code, Make/Task, linters, outils de test API/mail
 - [ ] Page lue / pratiquée
 
 #### 219. Les DevContainers
-- **Lien :** `/docs/developper/autres-outils/ide/visual-studio-code/devcontainers/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/autres-outils/ide/visual-studio-code/devcontainers/](https://blog.stephane-robert.info/docs/developper/autres-outils/ide/visual-studio-code/devcontainers/)
 - **Pourquoi ici :** Dans la phase « Outillage développeur », « Les DevContainers » (autres-outils › ide › visual-studio-code › devcontainers) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Les DevContainers
@@ -2024,7 +2024,7 @@ Productivité quotidienne : VS Code, Make/Task, linters, outils de test API/mail
 - [ ] Page lue / pratiquée
 
 #### 220. Le guide complet
-- **Lien :** `/docs/developper/autres-outils/ide/visual-studio-code/github-copilot/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/autres-outils/ide/visual-studio-code/github-copilot/](https://blog.stephane-robert.info/docs/developper/autres-outils/ide/visual-studio-code/github-copilot/)
 - **Pourquoi ici :** Dans la phase « Outillage développeur », « Le guide complet » (autres-outils › ide › visual-studio-code › github-copilot) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Le guide complet
@@ -2033,7 +2033,7 @@ Productivité quotidienne : VS Code, Make/Task, linters, outils de test API/mail
 - [ ] Page lue / pratiquée
 
 #### 221. Les extensions Remote Development
-- **Lien :** `/docs/developper/autres-outils/ide/visual-studio-code/remote-ssh/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/autres-outils/ide/visual-studio-code/remote-ssh/](https://blog.stephane-robert.info/docs/developper/autres-outils/ide/visual-studio-code/remote-ssh/)
 - **Pourquoi ici :** Dans la phase « Outillage développeur », « Les extensions Remote Development » (autres-outils › ide › visual-studio-code › remote-ssh) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Les extensions Remote Development
@@ -2042,7 +2042,7 @@ Productivité quotidienne : VS Code, Make/Task, linters, outils de test API/mail
 - [ ] Page lue / pratiquée
 
 #### 222. megalinter
-- **Lien :** `/docs/developper/autres-outils/linters/megalinter/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/autres-outils/linters/megalinter/](https://blog.stephane-robert.info/docs/developper/autres-outils/linters/megalinter/)
 - **Pourquoi ici :** Dans la phase « Outillage développeur », « megalinter » (autres-outils › linters › megalinter) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : megalinter
@@ -2051,7 +2051,7 @@ Productivité quotidienne : VS Code, Make/Task, linters, outils de test API/mail
 - [ ] Page lue / pratiquée
 
 #### 223. Hoppscotch
-- **Lien :** `/docs/developper/autres-outils/tests/hoppscotch/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/autres-outils/tests/hoppscotch/](https://blog.stephane-robert.info/docs/developper/autres-outils/tests/hoppscotch/)
 - **Pourquoi ici :** Dans la phase « Outillage développeur », « Hoppscotch » (autres-outils › tests › hoppscotch) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Hoppscotch
@@ -2060,7 +2060,7 @@ Productivité quotidienne : VS Code, Make/Task, linters, outils de test API/mail
 - [ ] Page lue / pratiquée
 
 #### 224. Mailpit
-- **Lien :** `/docs/developper/autres-outils/tests/mailpit/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/autres-outils/tests/mailpit/](https://blog.stephane-robert.info/docs/developper/autres-outils/tests/mailpit/)
 - **Pourquoi ici :** Dans la phase « Outillage développeur », « Mailpit » (autres-outils › tests › mailpit) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Mailpit
@@ -2072,7 +2072,7 @@ Productivité quotidienne : VS Code, Make/Task, linters, outils de test API/mail
 Dernière phase : vibe coding, Claude Code, MCP, RAG, LLM locaux. À aborder seulement avec un socle Python/Git solide. Croiser `05-securite` pour la sécurité des agents et de la supply chain LLM.
 
 #### 225. Vibe Coding
-- **Lien :** `/docs/developper/vibe-coding/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/vibe-coding/](https://blog.stephane-robert.info/docs/developper/vibe-coding/)
 - **Pourquoi ici :** Dans la phase « MCP / IA avancé », « Vibe Coding » (vibe-coding) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Vibe Coding
@@ -2081,7 +2081,7 @@ Dernière phase : vibe coding, Claude Code, MCP, RAG, LLM locaux. À aborder seu
 - [ ] Page lue / pratiquée
 
 #### 226. Vue d'ensemble
-- **Lien :** `/docs/developper/autres-outils/claude-code/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/autres-outils/claude-code/](https://blog.stephane-robert.info/docs/developper/autres-outils/claude-code/)
 - **Pourquoi ici :** Dans la phase « MCP / IA avancé », « Vue d'ensemble » (autres-outils › claude-code) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Vue d'ensemble
@@ -2090,7 +2090,7 @@ Dernière phase : vibe coding, Claude Code, MCP, RAG, LLM locaux. À aborder seu
 - [ ] Page lue / pratiquée
 
 #### 227. Agent Skills : le standard
-- **Lien :** `/docs/developper/autres-outils/claude-code/agent-skills-standard/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/autres-outils/claude-code/agent-skills-standard/](https://blog.stephane-robert.info/docs/developper/autres-outils/claude-code/agent-skills-standard/)
 - **Pourquoi ici :** Dans la phase « MCP / IA avancé », « Agent Skills : le standard » (autres-outils › claude-code › agent-skills-standard) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Agent Skills : le standard
@@ -2099,7 +2099,7 @@ Dernière phase : vibe coding, Claude Code, MCP, RAG, LLM locaux. À aborder seu
 - [ ] Page lue / pratiquée
 
 #### 228. Briques : quand utiliser quoi
-- **Lien :** `/docs/developper/autres-outils/claude-code/briques-claude-code-quand-utiliser-quoi/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/autres-outils/claude-code/briques-claude-code-quand-utiliser-quoi/](https://blog.stephane-robert.info/docs/developper/autres-outils/claude-code/briques-claude-code-quand-utiliser-quoi/)
 - **Pourquoi ici :** Dans la phase « MCP / IA avancé », « Briques : quand utiliser quoi » (autres-outils › claude-code › briques-claude-code-quand-utiliser-quoi) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Briques : quand utiliser quoi
@@ -2108,7 +2108,7 @@ Dernière phase : vibe coding, Claude Code, MCP, RAG, LLM locaux. À aborder seu
 - [ ] Page lue / pratiquée
 
 #### 229. Configurer CLAUDE.md
-- **Lien :** `/docs/developper/autres-outils/claude-code/configurer-claude-md/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/autres-outils/claude-code/configurer-claude-md/](https://blog.stephane-robert.info/docs/developper/autres-outils/claude-code/configurer-claude-md/)
 - **Pourquoi ici :** Dans la phase « MCP / IA avancé », « Configurer CLAUDE.md » (autres-outils › claude-code › configurer-claude-md) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Configurer CLAUDE.md
@@ -2117,7 +2117,7 @@ Dernière phase : vibe coding, Claude Code, MCP, RAG, LLM locaux. À aborder seu
 - [ ] Page lue / pratiquée
 
 #### 230. Construire un projet complet
-- **Lien :** `/docs/developper/autres-outils/claude-code/construire-projet-complet-claude-code/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/autres-outils/claude-code/construire-projet-complet-claude-code/](https://blog.stephane-robert.info/docs/developper/autres-outils/claude-code/construire-projet-complet-claude-code/)
 - **Pourquoi ici :** Dans la phase « MCP / IA avancé », « Construire un projet complet » (autres-outils › claude-code › construire-projet-complet-claude-code) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Construire un projet complet
@@ -2126,7 +2126,7 @@ Dernière phase : vibe coding, Claude Code, MCP, RAG, LLM locaux. À aborder seu
 - [ ] Page lue / pratiquée
 
 #### 231. Créer le projet fil rouge lab-claude
-- **Lien :** `/docs/developper/autres-outils/claude-code/creer-projet-fil-rouge-lab-claude/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/autres-outils/claude-code/creer-projet-fil-rouge-lab-claude/](https://blog.stephane-robert.info/docs/developper/autres-outils/claude-code/creer-projet-fil-rouge-lab-claude/)
 - **Pourquoi ici :** Dans la phase « MCP / IA avancé », « Créer le projet fil rouge lab-claude » (autres-outils › claude-code › creer-projet-fil-rouge-lab-claude) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Créer le projet fil rouge lab-claude
@@ -2135,7 +2135,7 @@ Dernière phase : vibe coding, Claude Code, MCP, RAG, LLM locaux. À aborder seu
 - [ ] Page lue / pratiquée
 
 #### 232. Dépannage avancé
-- **Lien :** `/docs/developper/autres-outils/claude-code/depannage-avance-claude-code/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/autres-outils/claude-code/depannage-avance-claude-code/](https://blog.stephane-robert.info/docs/developper/autres-outils/claude-code/depannage-avance-claude-code/)
 - **Pourquoi ici :** Dans la phase « MCP / IA avancé », « Dépannage avancé » (autres-outils › claude-code › depannage-avance-claude-code) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Dépannage avancé
@@ -2144,7 +2144,7 @@ Dernière phase : vibe coding, Claude Code, MCP, RAG, LLM locaux. À aborder seu
 - [ ] Page lue / pratiquée
 
 #### 233. Erreurs courantes et recadrage
-- **Lien :** `/docs/developper/autres-outils/claude-code/erreurs-courantes-et-recadrage/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/autres-outils/claude-code/erreurs-courantes-et-recadrage/](https://blog.stephane-robert.info/docs/developper/autres-outils/claude-code/erreurs-courantes-et-recadrage/)
 - **Pourquoi ici :** Dans la phase « MCP / IA avancé », « Erreurs courantes et recadrage » (autres-outils › claude-code › erreurs-courantes-et-recadrage) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Erreurs courantes et recadrage
@@ -2153,7 +2153,7 @@ Dernière phase : vibe coding, Claude Code, MCP, RAG, LLM locaux. À aborder seu
 - [ ] Page lue / pratiquée
 
 #### 234. Mode headless et CI
-- **Lien :** `/docs/developper/autres-outils/claude-code/headless-ci-claude-code/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/autres-outils/claude-code/headless-ci-claude-code/](https://blog.stephane-robert.info/docs/developper/autres-outils/claude-code/headless-ci-claude-code/)
 - **Pourquoi ici :** Dans la phase « MCP / IA avancé », « Mode headless et CI » (autres-outils › claude-code › headless-ci-claude-code) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Mode headless et CI
@@ -2162,7 +2162,7 @@ Dernière phase : vibe coding, Claude Code, MCP, RAG, LLM locaux. À aborder seu
 - [ ] Page lue / pratiquée
 
 #### 235. Hooks
-- **Lien :** `/docs/developper/autres-outils/claude-code/hooks-claude-code/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/autres-outils/claude-code/hooks-claude-code/](https://blog.stephane-robert.info/docs/developper/autres-outils/claude-code/hooks-claude-code/)
 - **Pourquoi ici :** Dans la phase « MCP / IA avancé », « Hooks » (autres-outils › claude-code › hooks-claude-code) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Hooks
@@ -2171,7 +2171,7 @@ Dernière phase : vibe coding, Claude Code, MCP, RAG, LLM locaux. À aborder seu
 - [ ] Page lue / pratiquée
 
 #### 236. Installer le CLI
-- **Lien :** `/docs/developper/autres-outils/claude-code/installation-cli/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/autres-outils/claude-code/installation-cli/](https://blog.stephane-robert.info/docs/developper/autres-outils/claude-code/installation-cli/)
 - **Pourquoi ici :** Dans la phase « MCP / IA avancé », « Installer le CLI » (autres-outils › claude-code › installation-cli) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Installer le CLI
@@ -2180,7 +2180,7 @@ Dernière phase : vibe coding, Claude Code, MCP, RAG, LLM locaux. À aborder seu
 - [ ] Page lue / pratiquée
 
 #### 237. Serveurs MCP
-- **Lien :** `/docs/developper/autres-outils/claude-code/mcp-claude-code/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/autres-outils/claude-code/mcp-claude-code/](https://blog.stephane-robert.info/docs/developper/autres-outils/claude-code/mcp-claude-code/)
 - **Pourquoi ici :** Dans la phase « MCP / IA avancé », « Serveurs MCP » (autres-outils › claude-code › mcp-claude-code) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Serveurs MCP
@@ -2189,7 +2189,7 @@ Dernière phase : vibe coding, Claude Code, MCP, RAG, LLM locaux. À aborder seu
 - [ ] Page lue / pratiquée
 
 #### 238. Mode plan, diff et validations
-- **Lien :** `/docs/developper/autres-outils/claude-code/mode-plan-diff-validations/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/autres-outils/claude-code/mode-plan-diff-validations/](https://blog.stephane-robert.info/docs/developper/autres-outils/claude-code/mode-plan-diff-validations/)
 - **Pourquoi ici :** Dans la phase « MCP / IA avancé », « Mode plan, diff et validations » (autres-outils › claude-code › mode-plan-diff-validations) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Mode plan, diff et validations
@@ -2198,7 +2198,7 @@ Dernière phase : vibe coding, Claude Code, MCP, RAG, LLM locaux. À aborder seu
 - [ ] Page lue / pratiquée
 
 #### 239. Modèles : Opus, Sonnet, Haiku
-- **Lien :** `/docs/developper/autres-outils/claude-code/modeles-opus-sonnet-haiku/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/autres-outils/claude-code/modeles-opus-sonnet-haiku/](https://blog.stephane-robert.info/docs/developper/autres-outils/claude-code/modeles-opus-sonnet-haiku/)
 - **Pourquoi ici :** Dans la phase « MCP / IA avancé », « Modèles : Opus, Sonnet, Haiku » (autres-outils › claude-code › modeles-opus-sonnet-haiku) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Modèles : Opus, Sonnet, Haiku
@@ -2207,7 +2207,7 @@ Dernière phase : vibe coding, Claude Code, MCP, RAG, LLM locaux. À aborder seu
 - [ ] Page lue / pratiquée
 
 #### 240. Mon parcours
-- **Lien :** `/docs/developper/autres-outils/claude-code/parcours/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/autres-outils/claude-code/parcours/](https://blog.stephane-robert.info/docs/developper/autres-outils/claude-code/parcours/)
 - **Pourquoi ici :** Dans la phase « MCP / IA avancé », « Mon parcours » (autres-outils › claude-code › parcours) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Mon parcours
@@ -2216,7 +2216,7 @@ Dernière phase : vibe coding, Claude Code, MCP, RAG, LLM locaux. À aborder seu
 - [ ] Page lue / pratiquée
 
 #### 241. Packager en plugin
-- **Lien :** `/docs/developper/autres-outils/claude-code/plugins-packager-partager-skills/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/autres-outils/claude-code/plugins-packager-partager-skills/](https://blog.stephane-robert.info/docs/developper/autres-outils/claude-code/plugins-packager-partager-skills/)
 - **Pourquoi ici :** Dans la phase « MCP / IA avancé », « Packager en plugin » (autres-outils › claude-code › plugins-packager-partager-skills) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Packager en plugin
@@ -2225,7 +2225,7 @@ Dernière phase : vibe coding, Claude Code, MCP, RAG, LLM locaux. À aborder seu
 - [ ] Page lue / pratiquée
 
 #### 242. Prise en main du CLI
-- **Lien :** `/docs/developper/autres-outils/claude-code/prise-en-main-cli/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/autres-outils/claude-code/prise-en-main-cli/](https://blog.stephane-robert.info/docs/developper/autres-outils/claude-code/prise-en-main-cli/)
 - **Pourquoi ici :** Dans la phase « MCP / IA avancé », « Prise en main du CLI » (autres-outils › claude-code › prise-en-main-cli) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Prise en main du CLI
@@ -2234,7 +2234,7 @@ Dernière phase : vibe coding, Claude Code, MCP, RAG, LLM locaux. À aborder seu
 - [ ] Page lue / pratiquée
 
 #### 243. Prompting de base
-- **Lien :** `/docs/developper/autres-outils/claude-code/prompting-base-cli/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/autres-outils/claude-code/prompting-base-cli/](https://blog.stephane-robert.info/docs/developper/autres-outils/claude-code/prompting-base-cli/)
 - **Pourquoi ici :** Dans la phase « MCP / IA avancé », « Prompting de base » (autres-outils › claude-code › prompting-base-cli) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Prompting de base
@@ -2243,7 +2243,7 @@ Dernière phase : vibe coding, Claude Code, MCP, RAG, LLM locaux. À aborder seu
 - [ ] Page lue / pratiquée
 
 #### 244. Rules ciblées par dossier
-- **Lien :** `/docs/developper/autres-outils/claude-code/rules-ciblees-claude-code/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/autres-outils/claude-code/rules-ciblees-claude-code/](https://blog.stephane-robert.info/docs/developper/autres-outils/claude-code/rules-ciblees-claude-code/)
 - **Pourquoi ici :** Dans la phase « MCP / IA avancé », « Rules ciblées par dossier » (autres-outils › claude-code › rules-ciblees-claude-code) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Rules ciblées par dossier
@@ -2252,7 +2252,7 @@ Dernière phase : vibe coding, Claude Code, MCP, RAG, LLM locaux. À aborder seu
 - [ ] Page lue / pratiquée
 
 #### 245. settings.json avancé
-- **Lien :** `/docs/developper/autres-outils/claude-code/settings-json-avance/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/autres-outils/claude-code/settings-json-avance/](https://blog.stephane-robert.info/docs/developper/autres-outils/claude-code/settings-json-avance/)
 - **Pourquoi ici :** Dans la phase « MCP / IA avancé », « settings.json avancé » (autres-outils › claude-code › settings-json-avance) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : settings.json avancé
@@ -2261,7 +2261,7 @@ Dernière phase : vibe coding, Claude Code, MCP, RAG, LLM locaux. À aborder seu
 - [ ] Page lue / pratiquée
 
 #### 246. Skills avancées (scripts)
-- **Lien :** `/docs/developper/autres-outils/claude-code/skills-avancees-scripts-ressources/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/autres-outils/claude-code/skills-avancees-scripts-ressources/](https://blog.stephane-robert.info/docs/developper/autres-outils/claude-code/skills-avancees-scripts-ressources/)
 - **Pourquoi ici :** Dans la phase « MCP / IA avancé », « Skills avancées (scripts) » (autres-outils › claude-code › skills-avancees-scripts-ressources) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Skills avancées (scripts)
@@ -2270,7 +2270,7 @@ Dernière phase : vibe coding, Claude Code, MCP, RAG, LLM locaux. À aborder seu
 - [ ] Page lue / pratiquée
 
 #### 247. Skills
-- **Lien :** `/docs/developper/autres-outils/claude-code/skills-claude-code/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/autres-outils/claude-code/skills-claude-code/](https://blog.stephane-robert.info/docs/developper/autres-outils/claude-code/skills-claude-code/)
 - **Pourquoi ici :** Dans la phase « MCP / IA avancé », « Skills » (autres-outils › claude-code › skills-claude-code) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Skills
@@ -2279,7 +2279,7 @@ Dernière phase : vibe coding, Claude Code, MCP, RAG, LLM locaux. À aborder seu
 - [ ] Page lue / pratiquée
 
 #### 248. Skills de sécurité
-- **Lien :** `/docs/developper/autres-outils/claude-code/skills-securite-audit-code/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/autres-outils/claude-code/skills-securite-audit-code/](https://blog.stephane-robert.info/docs/developper/autres-outils/claude-code/skills-securite-audit-code/)
 - **Pourquoi ici :** Dans la phase « MCP / IA avancé », « Skills de sécurité » (autres-outils › claude-code › skills-securite-audit-code) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Skills de sécurité
@@ -2288,7 +2288,7 @@ Dernière phase : vibe coding, Claude Code, MCP, RAG, LLM locaux. À aborder seu
 - [ ] Page lue / pratiquée
 
 #### 249. Subagents
-- **Lien :** `/docs/developper/autres-outils/claude-code/subagents-claude-code/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/autres-outils/claude-code/subagents-claude-code/](https://blog.stephane-robert.info/docs/developper/autres-outils/claude-code/subagents-claude-code/)
 - **Pourquoi ici :** Dans la phase « MCP / IA avancé », « Subagents » (autres-outils › claude-code › subagents-claude-code) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Subagents
@@ -2297,7 +2297,7 @@ Dernière phase : vibe coding, Claude Code, MCP, RAG, LLM locaux. À aborder seu
 - [ ] Page lue / pratiquée
 
 #### 250. Premier workflow réel
-- **Lien :** `/docs/developper/autres-outils/claude-code/workflow-reel-cli/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/autres-outils/claude-code/workflow-reel-cli/](https://blog.stephane-robert.info/docs/developper/autres-outils/claude-code/workflow-reel-cli/)
 - **Pourquoi ici :** Dans la phase « MCP / IA avancé », « Premier workflow réel » (autres-outils › claude-code › workflow-reel-cli) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Premier workflow réel
@@ -2306,7 +2306,7 @@ Dernière phase : vibe coding, Claude Code, MCP, RAG, LLM locaux. À aborder seu
 - [ ] Page lue / pratiquée
 
 #### 251. Workflows concrets
-- **Lien :** `/docs/developper/autres-outils/claude-code/workflows-concrets-claude-code/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/autres-outils/claude-code/workflows-concrets-claude-code/](https://blog.stephane-robert.info/docs/developper/autres-outils/claude-code/workflows-concrets-claude-code/)
 - **Pourquoi ici :** Dans la phase « MCP / IA avancé », « Workflows concrets » (autres-outils › claude-code › workflows-concrets-claude-code) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Workflows concrets
@@ -2315,7 +2315,7 @@ Dernière phase : vibe coding, Claude Code, MCP, RAG, LLM locaux. À aborder seu
 - [ ] Page lue / pratiquée
 
 #### 252. Le parcours agents IA
-- **Lien :** `/docs/developper/programmation/python/agentique/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/agentique/](https://blog.stephane-robert.info/docs/developper/programmation/python/agentique/)
 - **Pourquoi ici :** Dans la phase « MCP / IA avancé », « Le parcours agents IA » (programmation › python › agentique) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Le parcours agents IA
@@ -2324,7 +2324,7 @@ Dernière phase : vibe coding, Claude Code, MCP, RAG, LLM locaux. À aborder seu
 - [ ] Page lue / pratiquée
 
 #### 253. Choisir un framework d'agents
-- **Lien :** `/docs/developper/programmation/python/agents-comparatif/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/agents-comparatif/](https://blog.stephane-robert.info/docs/developper/programmation/python/agents-comparatif/)
 - **Pourquoi ici :** Dans la phase « MCP / IA avancé », « Choisir un framework d'agents » (programmation › python › agents-comparatif) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Choisir un framework d'agents
@@ -2333,7 +2333,7 @@ Dernière phase : vibe coding, Claude Code, MCP, RAG, LLM locaux. À aborder seu
 - [ ] Page lue / pratiquée
 
 #### 254. Function calling et outils
-- **Lien :** `/docs/developper/programmation/python/agents-function-calling/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/agents-function-calling/](https://blog.stephane-robert.info/docs/developper/programmation/python/agents-function-calling/)
 - **Pourquoi ici :** Dans la phase « MCP / IA avancé », « Function calling et outils » (programmation › python › agents-function-calling) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Function calling et outils
@@ -2342,7 +2342,7 @@ Dernière phase : vibe coding, Claude Code, MCP, RAG, LLM locaux. À aborder seu
 - [ ] Page lue / pratiquée
 
 #### 255. Orchestrer avec LangGraph
-- **Lien :** `/docs/developper/programmation/python/agents-langgraph/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/agents-langgraph/](https://blog.stephane-robert.info/docs/developper/programmation/python/agents-langgraph/)
 - **Pourquoi ici :** Dans la phase « MCP / IA avancé », « Orchestrer avec LangGraph » (programmation › python › agents-langgraph) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Orchestrer avec LangGraph
@@ -2351,7 +2351,7 @@ Dernière phase : vibe coding, Claude Code, MCP, RAG, LLM locaux. À aborder seu
 - [ ] Page lue / pratiquée
 
 #### 256. Connecter un agent au MCP
-- **Lien :** `/docs/developper/programmation/python/agents-mcp/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/agents-mcp/](https://blog.stephane-robert.info/docs/developper/programmation/python/agents-mcp/)
 - **Pourquoi ici :** Dans la phase « MCP / IA avancé », « Connecter un agent au MCP » (programmation › python › agents-mcp) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Connecter un agent au MCP
@@ -2360,7 +2360,7 @@ Dernière phase : vibe coding, Claude Code, MCP, RAG, LLM locaux. À aborder seu
 - [ ] Page lue / pratiquée
 
 #### 257. La mémoire des agents
-- **Lien :** `/docs/developper/programmation/python/agents-memoire/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/agents-memoire/](https://blog.stephane-robert.info/docs/developper/programmation/python/agents-memoire/)
 - **Pourquoi ici :** Dans la phase « MCP / IA avancé », « La mémoire des agents » (programmation › python › agents-memoire) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : La mémoire des agents
@@ -2369,7 +2369,7 @@ Dernière phase : vibe coding, Claude Code, MCP, RAG, LLM locaux. À aborder seu
 - [ ] Page lue / pratiquée
 
 #### 258. LangGraph multi-agents
-- **Lien :** `/docs/developper/programmation/python/agents-multi/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/agents-multi/](https://blog.stephane-robert.info/docs/developper/programmation/python/agents-multi/)
 - **Pourquoi ici :** Dans la phase « MCP / IA avancé », « LangGraph multi-agents » (programmation › python › agents-multi) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : LangGraph multi-agents
@@ -2378,7 +2378,7 @@ Dernière phase : vibe coding, Claude Code, MCP, RAG, LLM locaux. À aborder seu
 - [ ] Page lue / pratiquée
 
 #### 259. Patterns agentiques avancés
-- **Lien :** `/docs/developper/programmation/python/agents-patterns/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/agents-patterns/](https://blog.stephane-robert.info/docs/developper/programmation/python/agents-patterns/)
 - **Pourquoi ici :** Dans la phase « MCP / IA avancé », « Patterns agentiques avancés » (programmation › python › agents-patterns) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Patterns agentiques avancés
@@ -2387,7 +2387,7 @@ Dernière phase : vibe coding, Claude Code, MCP, RAG, LLM locaux. À aborder seu
 - [ ] Page lue / pratiquée
 
 #### 260. Construire avec PydanticAI
-- **Lien :** `/docs/developper/programmation/python/agents-pydanticai/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/agents-pydanticai/](https://blog.stephane-robert.info/docs/developper/programmation/python/agents-pydanticai/)
 - **Pourquoi ici :** Dans la phase « MCP / IA avancé », « Construire avec PydanticAI » (programmation › python › agents-pydanticai) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Construire avec PydanticAI
@@ -2396,7 +2396,7 @@ Dernière phase : vibe coding, Claude Code, MCP, RAG, LLM locaux. À aborder seu
 - [ ] Page lue / pratiquée
 
 #### 261. Sandbox d'exécution de code
-- **Lien :** `/docs/developper/programmation/python/agents-sandbox/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/agents-sandbox/](https://blog.stephane-robert.info/docs/developper/programmation/python/agents-sandbox/)
 - **Pourquoi ici :** Dans la phase « MCP / IA avancé », « Sandbox d'exécution de code » (programmation › python › agents-sandbox) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Sandbox d'exécution de code
@@ -2405,7 +2405,7 @@ Dernière phase : vibe coding, Claude Code, MCP, RAG, LLM locaux. À aborder seu
 - [ ] Page lue / pratiquée
 
 #### 262. smolagents : agents qui codent
-- **Lien :** `/docs/developper/programmation/python/agents-smolagents/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/agents-smolagents/](https://blog.stephane-robert.info/docs/developper/programmation/python/agents-smolagents/)
 - **Pourquoi ici :** Dans la phase « MCP / IA avancé », « smolagents : agents qui codent » (programmation › python › agents-smolagents) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : smolagents : agents qui codent
@@ -2414,7 +2414,7 @@ Dernière phase : vibe coding, Claude Code, MCP, RAG, LLM locaux. À aborder seu
 - [ ] Page lue / pratiquée
 
 #### 263. Comprendre les agents
-- **Lien :** `/docs/developper/programmation/python/agents/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/agents/](https://blog.stephane-robert.info/docs/developper/programmation/python/agents/)
 - **Pourquoi ici :** Dans la phase « MCP / IA avancé », « Comprendre les agents » (programmation › python › agents) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Comprendre les agents
@@ -2423,7 +2423,7 @@ Dernière phase : vibe coding, Claude Code, MCP, RAG, LLM locaux. À aborder seu
 - [ ] Page lue / pratiquée
 
 #### 264. Interface web avec Chainlit
-- **Lien :** `/docs/developper/programmation/python/chainlit/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/chainlit/](https://blog.stephane-robert.info/docs/developper/programmation/python/chainlit/)
 - **Pourquoi ici :** Dans la phase « MCP / IA avancé », « Interface web avec Chainlit » (programmation › python › chainlit) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Interface web avec Chainlit
@@ -2432,7 +2432,7 @@ Dernière phase : vibe coding, Claude Code, MCP, RAG, LLM locaux. À aborder seu
 - [ ] Page lue / pratiquée
 
 #### 265. Chroma
-- **Lien :** `/docs/developper/programmation/python/chroma/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/chroma/](https://blog.stephane-robert.info/docs/developper/programmation/python/chroma/)
 - **Pourquoi ici :** Dans la phase « MCP / IA avancé », « Chroma » (programmation › python › chroma) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Chroma
@@ -2441,7 +2441,7 @@ Dernière phase : vibe coding, Claude Code, MCP, RAG, LLM locaux. À aborder seu
 - [ ] Page lue / pratiquée
 
 #### 266. Chunking sémantique
-- **Lien :** `/docs/developper/programmation/python/chunking-semantique/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/chunking-semantique/](https://blog.stephane-robert.info/docs/developper/programmation/python/chunking-semantique/)
 - **Pourquoi ici :** Dans la phase « MCP / IA avancé », « Chunking sémantique » (programmation › python › chunking-semantique) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Chunking sémantique
@@ -2450,7 +2450,7 @@ Dernière phase : vibe coding, Claude Code, MCP, RAG, LLM locaux. À aborder seu
 - [ ] Page lue / pratiquée
 
 #### 267. Comparatif des backends d'inférence
-- **Lien :** `/docs/developper/programmation/python/comparatif-backends-inference/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/comparatif-backends-inference/](https://blog.stephane-robert.info/docs/developper/programmation/python/comparatif-backends-inference/)
 - **Pourquoi ici :** Dans la phase « MCP / IA avancé », « Comparatif des backends d'inférence » (programmation › python › comparatif-backends-inference) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Comparatif des backends d'inférence
@@ -2459,7 +2459,7 @@ Dernière phase : vibe coding, Claude Code, MCP, RAG, LLM locaux. À aborder seu
 - [ ] Page lue / pratiquée
 
 #### 268. ContextForge : passerelle MCP
-- **Lien :** `/docs/developper/programmation/python/contextforge/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/contextforge/](https://blog.stephane-robert.info/docs/developper/programmation/python/contextforge/)
 - **Pourquoi ici :** Dans la phase « MCP / IA avancé », « ContextForge : passerelle MCP » (programmation › python › contextforge) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : ContextForge : passerelle MCP
@@ -2468,7 +2468,7 @@ Dernière phase : vibe coding, Claude Code, MCP, RAG, LLM locaux. À aborder seu
 - [ ] Page lue / pratiquée
 
 #### 269. Embeddings & similarité
-- **Lien :** `/docs/developper/programmation/python/embeddings/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/embeddings/](https://blog.stephane-robert.info/docs/developper/programmation/python/embeddings/)
 - **Pourquoi ici :** Dans la phase « MCP / IA avancé », « Embeddings & similarité » (programmation › python › embeddings) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Embeddings & similarité
@@ -2477,7 +2477,7 @@ Dernière phase : vibe coding, Claude Code, MCP, RAG, LLM locaux. À aborder seu
 - [ ] Page lue / pratiquée
 
 #### 270. FAISS
-- **Lien :** `/docs/developper/programmation/python/faiss/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/faiss/](https://blog.stephane-robert.info/docs/developper/programmation/python/faiss/)
 - **Pourquoi ici :** Dans la phase « MCP / IA avancé », « FAISS » (programmation › python › faiss) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : FAISS
@@ -2486,7 +2486,7 @@ Dernière phase : vibe coding, Claude Code, MCP, RAG, LLM locaux. À aborder seu
 - [ ] Page lue / pratiquée
 
 #### 271. Quand fine-tuner (et quand l'éviter)
-- **Lien :** `/docs/developper/programmation/python/fine-tuning/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/fine-tuning/](https://blog.stephane-robert.info/docs/developper/programmation/python/fine-tuning/)
 - **Pourquoi ici :** Dans la phase « MCP / IA avancé », « Quand fine-tuner (et quand l'éviter) » (programmation › python › fine-tuning) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Quand fine-tuner (et quand l'éviter)
@@ -2495,7 +2495,7 @@ Dernière phase : vibe coding, Claude Code, MCP, RAG, LLM locaux. À aborder seu
 - [ ] Page lue / pratiquée
 
 #### 272. Optimiser vos docs pour l'IA Générative
-- **Lien :** `/docs/developper/programmation/python/generative-engine_optimisation/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/generative-engine_optimisation/](https://blog.stephane-robert.info/docs/developper/programmation/python/generative-engine_optimisation/)
 - **Pourquoi ici :** Dans la phase « MCP / IA avancé », « Optimiser vos docs pour l'IA Générative » (programmation › python › generative-engine_optimisation) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Optimiser vos docs pour l'IA Générative
@@ -2504,7 +2504,7 @@ Dernière phase : vibe coding, Claude Code, MCP, RAG, LLM locaux. À aborder seu
 - [ ] Page lue / pratiquée
 
 #### 273. Hugging Face Transformers
-- **Lien :** `/docs/developper/programmation/python/hugging-face/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/hugging-face/](https://blog.stephane-robert.info/docs/developper/programmation/python/hugging-face/)
 - **Pourquoi ici :** Dans la phase « MCP / IA avancé », « Hugging Face Transformers » (programmation › python › hugging-face) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Hugging Face Transformers
@@ -2513,7 +2513,7 @@ Dernière phase : vibe coding, Claude Code, MCP, RAG, LLM locaux. À aborder seu
 - [ ] Page lue / pratiquée
 
 #### 274. Panorama IA
-- **Lien :** `/docs/developper/programmation/python/ia-panorama/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/ia-panorama/](https://blog.stephane-robert.info/docs/developper/programmation/python/ia-panorama/)
 - **Pourquoi ici :** Dans la phase « MCP / IA avancé », « Panorama IA » (programmation › python › ia-panorama) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Panorama IA
@@ -2522,7 +2522,7 @@ Dernière phase : vibe coding, Claude Code, MCP, RAG, LLM locaux. À aborder seu
 - [ ] Page lue / pratiquée
 
 #### 275. Introduction
-- **Lien :** `/docs/developper/programmation/python/ia/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/ia/](https://blog.stephane-robert.info/docs/developper/programmation/python/ia/)
 - **Pourquoi ici :** Dans la phase « MCP / IA avancé », « Introduction » (programmation › python › ia) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Introduction
@@ -2531,7 +2531,7 @@ Dernière phase : vibe coding, Claude Code, MCP, RAG, LLM locaux. À aborder seu
 - [ ] Page lue / pratiquée
 
 #### 276. Comprendre l'inférence d'un LLM
-- **Lien :** `/docs/developper/programmation/python/inference-llm/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/inference-llm/](https://blog.stephane-robert.info/docs/developper/programmation/python/inference-llm/)
 - **Pourquoi ici :** Dans la phase « MCP / IA avancé », « Comprendre l'inférence d'un LLM » (programmation › python › inference-llm) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Comprendre l'inférence d'un LLM
@@ -2540,7 +2540,7 @@ Dernière phase : vibe coding, Claude Code, MCP, RAG, LLM locaux. À aborder seu
 - [ ] Page lue / pratiquée
 
 #### 277. Appels asynchrones
-- **Lien :** `/docs/developper/programmation/python/litellm-async/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/litellm-async/](https://blog.stephane-robert.info/docs/developper/programmation/python/litellm-async/)
 - **Pourquoi ici :** Dans la phase « MCP / IA avancé », « Appels asynchrones » (programmation › python › litellm-async) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Appels asynchrones
@@ -2549,7 +2549,7 @@ Dernière phase : vibe coding, Claude Code, MCP, RAG, LLM locaux. À aborder seu
 - [ ] Page lue / pratiquée
 
 #### 278. Embeddings et recherche sémantique
-- **Lien :** `/docs/developper/programmation/python/litellm-embeddings/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/litellm-embeddings/](https://blog.stephane-robert.info/docs/developper/programmation/python/litellm-embeddings/)
 - **Pourquoi ici :** Dans la phase « MCP / IA avancé », « Embeddings et recherche sémantique » (programmation › python › litellm-embeddings) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Embeddings et recherche sémantique
@@ -2558,7 +2558,7 @@ Dernière phase : vibe coding, Claude Code, MCP, RAG, LLM locaux. À aborder seu
 - [ ] Page lue / pratiquée
 
 #### 279. Proxy Server
-- **Lien :** `/docs/developper/programmation/python/litellm-proxy-server/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/litellm-proxy-server/](https://blog.stephane-robert.info/docs/developper/programmation/python/litellm-proxy-server/)
 - **Pourquoi ici :** Dans la phase « MCP / IA avancé », « Proxy Server » (programmation › python › litellm-proxy-server) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Proxy Server
@@ -2567,7 +2567,7 @@ Dernière phase : vibe coding, Claude Code, MCP, RAG, LLM locaux. À aborder seu
 - [ ] Page lue / pratiquée
 
 #### 280. Router : production et fiabilité
-- **Lien :** `/docs/developper/programmation/python/litellm-router/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/litellm-router/](https://blog.stephane-robert.info/docs/developper/programmation/python/litellm-router/)
 - **Pourquoi ici :** Dans la phase « MCP / IA avancé », « Router : production et fiabilité » (programmation › python › litellm-router) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Router : production et fiabilité
@@ -2576,7 +2576,7 @@ Dernière phase : vibe coding, Claude Code, MCP, RAG, LLM locaux. À aborder seu
 - [ ] Page lue / pratiquée
 
 #### 281. Introduction à LiteLLM
-- **Lien :** `/docs/developper/programmation/python/litellm/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/litellm/](https://blog.stephane-robert.info/docs/developper/programmation/python/litellm/)
 - **Pourquoi ici :** Dans la phase « MCP / IA avancé », « Introduction à LiteLLM » (programmation › python › litellm) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Introduction à LiteLLM
@@ -2585,7 +2585,7 @@ Dernière phase : vibe coding, Claude Code, MCP, RAG, LLM locaux. À aborder seu
 - [ ] Page lue / pratiquée
 
 #### 282. llama.cpp : serveur d'inférence
-- **Lien :** `/docs/developper/programmation/python/llama-cpp/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/llama-cpp/](https://blog.stephane-robert.info/docs/developper/programmation/python/llama-cpp/)
 - **Pourquoi ici :** Dans la phase « MCP / IA avancé », « llama.cpp : serveur d'inférence » (programmation › python › llama-cpp) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : llama.cpp : serveur d'inférence
@@ -2594,7 +2594,7 @@ Dernière phase : vibe coding, Claude Code, MCP, RAG, LLM locaux. À aborder seu
 - [ ] Page lue / pratiquée
 
 #### 283. Anatomie d'un LLM
-- **Lien :** `/docs/developper/programmation/python/llm/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/llm/](https://blog.stephane-robert.info/docs/developper/programmation/python/llm/)
 - **Pourquoi ici :** Dans la phase « MCP / IA avancé », « Anatomie d'un LLM » (programmation › python › llm) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Anatomie d'un LLM
@@ -2603,7 +2603,7 @@ Dernière phase : vibe coding, Claude Code, MCP, RAG, LLM locaux. À aborder seu
 - [ ] Page lue / pratiquée
 
 #### 284. Construire un client MCP
-- **Lien :** `/docs/developper/programmation/python/mcp-client/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/mcp-client/](https://blog.stephane-robert.info/docs/developper/programmation/python/mcp-client/)
 - **Pourquoi ici :** Dans la phase « MCP / IA avancé », « Construire un client MCP » (programmation › python › mcp-client) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Construire un client MCP
@@ -2612,7 +2612,7 @@ Dernière phase : vibe coding, Claude Code, MCP, RAG, LLM locaux. À aborder seu
 - [ ] Page lue / pratiquée
 
 #### 285. Déployer en production
-- **Lien :** `/docs/developper/programmation/python/mcp-deploiement/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/mcp-deploiement/](https://blog.stephane-robert.info/docs/developper/programmation/python/mcp-deploiement/)
 - **Pourquoi ici :** Dans la phase « MCP / IA avancé », « Déployer en production » (programmation › python › mcp-deploiement) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Déployer en production
@@ -2621,7 +2621,7 @@ Dernière phase : vibe coding, Claude Code, MCP, RAG, LLM locaux. À aborder seu
 - [ ] Page lue / pratiquée
 
 #### 286. Authentifier avec OAuth 2.1
-- **Lien :** `/docs/developper/programmation/python/mcp-oauth/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/mcp-oauth/](https://blog.stephane-robert.info/docs/developper/programmation/python/mcp-oauth/)
 - **Pourquoi ici :** Dans la phase « MCP / IA avancé », « Authentifier avec OAuth 2.1 » (programmation › python › mcp-oauth) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Authentifier avec OAuth 2.1
@@ -2630,7 +2630,7 @@ Dernière phase : vibe coding, Claude Code, MCP, RAG, LLM locaux. À aborder seu
 - [ ] Page lue / pratiquée
 
 #### 287. Décortiquer le protocole
-- **Lien :** `/docs/developper/programmation/python/mcp-protocole/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/mcp-protocole/](https://blog.stephane-robert.info/docs/developper/programmation/python/mcp-protocole/)
 - **Pourquoi ici :** Dans la phase « MCP / IA avancé », « Décortiquer le protocole » (programmation › python › mcp-protocole) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Décortiquer le protocole
@@ -2639,7 +2639,7 @@ Dernière phase : vibe coding, Claude Code, MCP, RAG, LLM locaux. À aborder seu
 - [ ] Page lue / pratiquée
 
 #### 288. Sécuriser un serveur MCP
-- **Lien :** `/docs/developper/programmation/python/mcp-securite/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/mcp-securite/](https://blog.stephane-robert.info/docs/developper/programmation/python/mcp-securite/)
 - **Pourquoi ici :** Dans la phase « MCP / IA avancé », « Sécuriser un serveur MCP » (programmation › python › mcp-securite) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Sécuriser un serveur MCP
@@ -2648,7 +2648,7 @@ Dernière phase : vibe coding, Claude Code, MCP, RAG, LLM locaux. À aborder seu
 - [ ] Page lue / pratiquée
 
 #### 289. Industrialiser un serveur
-- **Lien :** `/docs/developper/programmation/python/mcp-serveur-avance/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/mcp-serveur-avance/](https://blog.stephane-robert.info/docs/developper/programmation/python/mcp-serveur-avance/)
 - **Pourquoi ici :** Dans la phase « MCP / IA avancé », « Industrialiser un serveur » (programmation › python › mcp-serveur-avance) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Industrialiser un serveur
@@ -2657,7 +2657,7 @@ Dernière phase : vibe coding, Claude Code, MCP, RAG, LLM locaux. À aborder seu
 - [ ] Page lue / pratiquée
 
 #### 290. Créer un serveur MCP
-- **Lien :** `/docs/developper/programmation/python/mcp-serveur/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/mcp-serveur/](https://blog.stephane-robert.info/docs/developper/programmation/python/mcp-serveur/)
 - **Pourquoi ici :** Dans la phase « MCP / IA avancé », « Créer un serveur MCP » (programmation › python › mcp-serveur) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Créer un serveur MCP
@@ -2666,7 +2666,7 @@ Dernière phase : vibe coding, Claude Code, MCP, RAG, LLM locaux. À aborder seu
 - [ ] Page lue / pratiquée
 
 #### 291. Tester et déboguer un serveur
-- **Lien :** `/docs/developper/programmation/python/mcp-tests/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/mcp-tests/](https://blog.stephane-robert.info/docs/developper/programmation/python/mcp-tests/)
 - **Pourquoi ici :** Dans la phase « MCP / IA avancé », « Tester et déboguer un serveur » (programmation › python › mcp-tests) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Tester et déboguer un serveur
@@ -2675,7 +2675,7 @@ Dernière phase : vibe coding, Claude Code, MCP, RAG, LLM locaux. À aborder seu
 - [ ] Page lue / pratiquée
 
 #### 292. Choisir un transport
-- **Lien :** `/docs/developper/programmation/python/mcp-transports/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/mcp-transports/](https://blog.stephane-robert.info/docs/developper/programmation/python/mcp-transports/)
 - **Pourquoi ici :** Dans la phase « MCP / IA avancé », « Choisir un transport » (programmation › python › mcp-transports) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Choisir un transport
@@ -2684,7 +2684,7 @@ Dernière phase : vibe coding, Claude Code, MCP, RAG, LLM locaux. À aborder seu
 - [ ] Page lue / pratiquée
 
 #### 293. Comprendre le MCP
-- **Lien :** `/docs/developper/programmation/python/mcp/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/mcp/](https://blog.stephane-robert.info/docs/developper/programmation/python/mcp/)
 - **Pourquoi ici :** Dans la phase « MCP / IA avancé », « Comprendre le MCP » (programmation › python › mcp) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Comprendre le MCP
@@ -2693,7 +2693,7 @@ Dernière phase : vibe coding, Claude Code, MCP, RAG, LLM locaux. À aborder seu
 - [ ] Page lue / pratiquée
 
 #### 294. Pourquoi c'est différent
-- **Lien :** `/docs/developper/programmation/python/observabilite-llm/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/observabilite-llm/](https://blog.stephane-robert.info/docs/developper/programmation/python/observabilite-llm/)
 - **Pourquoi ici :** Dans la phase « MCP / IA avancé », « Pourquoi c'est différent » (programmation › python › observabilite-llm) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Pourquoi c'est différent
@@ -2702,7 +2702,7 @@ Dernière phase : vibe coding, Claude Code, MCP, RAG, LLM locaux. À aborder seu
 - [ ] Page lue / pratiquée
 
 #### 295. Ollama : SDK Python et Structured Output
-- **Lien :** `/docs/developper/programmation/python/ollama-avance/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/ollama-avance/](https://blog.stephane-robert.info/docs/developper/programmation/python/ollama-avance/)
 - **Pourquoi ici :** Dans la phase « MCP / IA avancé », « Ollama : SDK Python et Structured Output » (programmation › python › ollama-avance) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Ollama : SDK Python et Structured Output
@@ -2711,7 +2711,7 @@ Dernière phase : vibe coding, Claude Code, MCP, RAG, LLM locaux. À aborder seu
 - [ ] Page lue / pratiquée
 
 #### 296. Ollama : dépannage et configuration
-- **Lien :** `/docs/developper/programmation/python/ollama-depannage/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/ollama-depannage/](https://blog.stephane-robert.info/docs/developper/programmation/python/ollama-depannage/)
 - **Pourquoi ici :** Dans la phase « MCP / IA avancé », « Ollama : dépannage et configuration » (programmation › python › ollama-depannage) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Ollama : dépannage et configuration
@@ -2720,7 +2720,7 @@ Dernière phase : vibe coding, Claude Code, MCP, RAG, LLM locaux. À aborder seu
 - [ ] Page lue / pratiquée
 
 #### 297. Ollama : choisir son modèle 2026 2026
-- **Lien :** `/docs/developper/programmation/python/ollama-models-2026/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/ollama-models-2026/](https://blog.stephane-robert.info/docs/developper/programmation/python/ollama-models-2026/)
 - **Pourquoi ici :** Dans la phase « MCP / IA avancé », « Ollama : choisir son modèle 2026 2026 » (programmation › python › ollama-models-2026) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Ollama : choisir son modèle 2026 2026
@@ -2729,7 +2729,7 @@ Dernière phase : vibe coding, Claude Code, MCP, RAG, LLM locaux. À aborder seu
 - [ ] Page lue / pratiquée
 
 #### 298. Ollama avec Python (API, SDK, litellm)
-- **Lien :** `/docs/developper/programmation/python/ollama-python/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/ollama-python/](https://blog.stephane-robert.info/docs/developper/programmation/python/ollama-python/)
 - **Pourquoi ici :** Dans la phase « MCP / IA avancé », « Ollama avec Python (API, SDK, litellm) » (programmation › python › ollama-python) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Ollama avec Python (API, SDK, litellm)
@@ -2738,7 +2738,7 @@ Dernière phase : vibe coding, Claude Code, MCP, RAG, LLM locaux. À aborder seu
 - [ ] Page lue / pratiquée
 
 #### 299. Ollama : sorties structurées (JSON / Pydantic) 2026
-- **Lien :** `/docs/developper/programmation/python/ollama-structured-outputs/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/ollama-structured-outputs/](https://blog.stephane-robert.info/docs/developper/programmation/python/ollama-structured-outputs/)
 - **Pourquoi ici :** Dans la phase « MCP / IA avancé », « Ollama : sorties structurées (JSON / Pydantic) 2026 » (programmation › python › ollama-structured-outputs) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Ollama : sorties structurées (JSON / Pydantic) 2026
@@ -2747,7 +2747,7 @@ Dernière phase : vibe coding, Claude Code, MCP, RAG, LLM locaux. À aborder seu
 - [ ] Page lue / pratiquée
 
 #### 300. Ollama : tool calling et agents locaux 2026
-- **Lien :** `/docs/developper/programmation/python/ollama-tool-calling/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/ollama-tool-calling/](https://blog.stephane-robert.info/docs/developper/programmation/python/ollama-tool-calling/)
 - **Pourquoi ici :** Dans la phase « MCP / IA avancé », « Ollama : tool calling et agents locaux 2026 » (programmation › python › ollama-tool-calling) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Ollama : tool calling et agents locaux 2026
@@ -2756,7 +2756,7 @@ Dernière phase : vibe coding, Claude Code, MCP, RAG, LLM locaux. À aborder seu
 - [ ] Page lue / pratiquée
 
 #### 301. Ollama : vision (Gemma 4, Llama 3.2) 2026
-- **Lien :** `/docs/developper/programmation/python/ollama-vision/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/ollama-vision/](https://blog.stephane-robert.info/docs/developper/programmation/python/ollama-vision/)
 - **Pourquoi ici :** Dans la phase « MCP / IA avancé », « Ollama : vision (Gemma 4, Llama 3.2) 2026 » (programmation › python › ollama-vision) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Ollama : vision (Gemma 4, Llama 3.2) 2026
@@ -2765,7 +2765,7 @@ Dernière phase : vibe coding, Claude Code, MCP, RAG, LLM locaux. À aborder seu
 - [ ] Page lue / pratiquée
 
 #### 302. Lancer un LLM en local (Ollama)
-- **Lien :** `/docs/developper/programmation/python/ollama/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/ollama/](https://blog.stephane-robert.info/docs/developper/programmation/python/ollama/)
 - **Pourquoi ici :** Dans la phase « MCP / IA avancé », « Lancer un LLM en local (Ollama) » (programmation › python › ollama) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Lancer un LLM en local (Ollama)
@@ -2774,7 +2774,7 @@ Dernière phase : vibe coding, Claude Code, MCP, RAG, LLM locaux. À aborder seu
 - [ ] Page lue / pratiquée
 
 #### 303. OpenTelemetry GenAI + Tempo
-- **Lien :** `/docs/developper/programmation/python/otel-genai/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/otel-genai/](https://blog.stephane-robert.info/docs/developper/programmation/python/otel-genai/)
 - **Pourquoi ici :** Dans la phase « MCP / IA avancé », « OpenTelemetry GenAI + Tempo » (programmation › python › otel-genai) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : OpenTelemetry GenAI + Tempo
@@ -2783,7 +2783,7 @@ Dernière phase : vibe coding, Claude Code, MCP, RAG, LLM locaux. À aborder seu
 - [ ] Page lue / pratiquée
 
 #### 304. pgvector
-- **Lien :** `/docs/developper/programmation/python/pgvector/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/pgvector/](https://blog.stephane-robert.info/docs/developper/programmation/python/pgvector/)
 - **Pourquoi ici :** Dans la phase « MCP / IA avancé », « pgvector » (programmation › python › pgvector) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : pgvector
@@ -2792,7 +2792,7 @@ Dernière phase : vibe coding, Claude Code, MCP, RAG, LLM locaux. À aborder seu
 - [ ] Page lue / pratiquée
 
 #### 305. Prompt Engineering
-- **Lien :** `/docs/developper/programmation/python/prompt-engineering/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/prompt-engineering/](https://blog.stephane-robert.info/docs/developper/programmation/python/prompt-engineering/)
 - **Pourquoi ici :** Dans la phase « MCP / IA avancé », « Prompt Engineering » (programmation › python › prompt-engineering) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Prompt Engineering
@@ -2801,7 +2801,7 @@ Dernière phase : vibe coding, Claude Code, MCP, RAG, LLM locaux. À aborder seu
 - [ ] Page lue / pratiquée
 
 #### 306. Pousser le prompting plus loin
-- **Lien :** `/docs/developper/programmation/python/prompting-avance/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/prompting-avance/](https://blog.stephane-robert.info/docs/developper/programmation/python/prompting-avance/)
 - **Pourquoi ici :** Dans la phase « MCP / IA avancé », « Pousser le prompting plus loin » (programmation › python › prompting-avance) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Pousser le prompting plus loin
@@ -2810,7 +2810,7 @@ Dernière phase : vibe coding, Claude Code, MCP, RAG, LLM locaux. À aborder seu
 - [ ] Page lue / pratiquée
 
 #### 307. Qdrant
-- **Lien :** `/docs/developper/programmation/python/qdrant/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/qdrant/](https://blog.stephane-robert.info/docs/developper/programmation/python/qdrant/)
 - **Pourquoi ici :** Dans la phase « MCP / IA avancé », « Qdrant » (programmation › python › qdrant) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Qdrant
@@ -2819,7 +2819,7 @@ Dernière phase : vibe coding, Claude Code, MCP, RAG, LLM locaux. À aborder seu
 - [ ] Page lue / pratiquée
 
 #### 308. Quantifier un modèle
-- **Lien :** `/docs/developper/programmation/python/quantification-llm/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/quantification-llm/](https://blog.stephane-robert.info/docs/developper/programmation/python/quantification-llm/)
 - **Pourquoi ici :** Dans la phase « MCP / IA avancé », « Quantifier un modèle » (programmation › python › quantification-llm) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Quantifier un modèle
@@ -2828,7 +2828,7 @@ Dernière phase : vibe coding, Claude Code, MCP, RAG, LLM locaux. À aborder seu
 - [ ] Page lue / pratiquée
 
 #### 309. Quantifier un LLM en pratique
-- **Lien :** `/docs/developper/programmation/python/quantification-pratique/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/quantification-pratique/](https://blog.stephane-robert.info/docs/developper/programmation/python/quantification-pratique/)
 - **Pourquoi ici :** Dans la phase « MCP / IA avancé », « Quantifier un LLM en pratique » (programmation › python › quantification-pratique) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Quantifier un LLM en pratique
@@ -2837,7 +2837,7 @@ Dernière phase : vibe coding, Claude Code, MCP, RAG, LLM locaux. À aborder seu
 - [ ] Page lue / pratiquée
 
 #### 310. RAG agentique
-- **Lien :** `/docs/developper/programmation/python/rag-agentique/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/rag-agentique/](https://blog.stephane-robert.info/docs/developper/programmation/python/rag-agentique/)
 - **Pourquoi ici :** Dans la phase « MCP / IA avancé », « RAG agentique » (programmation › python › rag-agentique) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : RAG agentique
@@ -2846,7 +2846,7 @@ Dernière phase : vibe coding, Claude Code, MCP, RAG, LLM locaux. À aborder seu
 - [ ] Page lue / pratiquée
 
 #### 311. Optimiser un RAG
-- **Lien :** `/docs/developper/programmation/python/rag-avance/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/rag-avance/](https://blog.stephane-robert.info/docs/developper/programmation/python/rag-avance/)
 - **Pourquoi ici :** Dans la phase « MCP / IA avancé », « Optimiser un RAG » (programmation › python › rag-avance) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Optimiser un RAG
@@ -2855,7 +2855,7 @@ Dernière phase : vibe coding, Claude Code, MCP, RAG, LLM locaux. À aborder seu
 - [ ] Page lue / pratiquée
 
 #### 312. Chunking & indexation
-- **Lien :** `/docs/developper/programmation/python/rag-chunking/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/rag-chunking/](https://blog.stephane-robert.info/docs/developper/programmation/python/rag-chunking/)
 - **Pourquoi ici :** Dans la phase « MCP / IA avancé », « Chunking & indexation » (programmation › python › rag-chunking) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Chunking & indexation
@@ -2864,7 +2864,7 @@ Dernière phase : vibe coding, Claude Code, MCP, RAG, LLM locaux. À aborder seu
 - [ ] Page lue / pratiquée
 
 #### 313. Comprendre le RAG
-- **Lien :** `/docs/developper/programmation/python/rag-introduction/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/rag-introduction/](https://blog.stephane-robert.info/docs/developper/programmation/python/rag-introduction/)
 - **Pourquoi ici :** Dans la phase « MCP / IA avancé », « Comprendre le RAG » (programmation › python › rag-introduction) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Comprendre le RAG
@@ -2873,7 +2873,7 @@ Dernière phase : vibe coding, Claude Code, MCP, RAG, LLM locaux. À aborder seu
 - [ ] Page lue / pratiquée
 
 #### 314. RAG par la pratique
-- **Lien :** `/docs/developper/programmation/python/rag-pratique/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/rag-pratique/](https://blog.stephane-robert.info/docs/developper/programmation/python/rag-pratique/)
 - **Pourquoi ici :** Dans la phase « MCP / IA avancé », « RAG par la pratique » (programmation › python › rag-pratique) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : RAG par la pratique
@@ -2882,7 +2882,7 @@ Dernière phase : vibe coding, Claude Code, MCP, RAG, LLM locaux. À aborder seu
 - [ ] Page lue / pratiquée
 
 #### 315. Déployer un RAG en production
-- **Lien :** `/docs/developper/programmation/python/rag-production/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/rag-production/](https://blog.stephane-robert.info/docs/developper/programmation/python/rag-production/)
 - **Pourquoi ici :** Dans la phase « MCP / IA avancé », « Déployer un RAG en production » (programmation › python › rag-production) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Déployer un RAG en production
@@ -2891,7 +2891,7 @@ Dernière phase : vibe coding, Claude Code, MCP, RAG, LLM locaux. À aborder seu
 - [ ] Page lue / pratiquée
 
 #### 316. Affiner avec le re-ranking
-- **Lien :** `/docs/developper/programmation/python/rag-reranking/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/rag-reranking/](https://blog.stephane-robert.info/docs/developper/programmation/python/rag-reranking/)
 - **Pourquoi ici :** Dans la phase « MCP / IA avancé », « Affiner avec le re-ranking » (programmation › python › rag-reranking) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Affiner avec le re-ranking
@@ -2900,7 +2900,7 @@ Dernière phase : vibe coding, Claude Code, MCP, RAG, LLM locaux. À aborder seu
 - [ ] Page lue / pratiquée
 
 #### 317. Sécuriser une application LLM
-- **Lien :** `/docs/developper/programmation/python/securite-llm/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/securite-llm/](https://blog.stephane-robert.info/docs/developper/programmation/python/securite-llm/)
 - **Pourquoi ici :** Dans la phase « MCP / IA avancé », « Sécuriser une application LLM » (programmation › python › securite-llm) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Sécuriser une application LLM
@@ -2909,7 +2909,7 @@ Dernière phase : vibe coding, Claude Code, MCP, RAG, LLM locaux. À aborder seu
 - [ ] Page lue / pratiquée
 
 #### 318. Servir un LLM en production
-- **Lien :** `/docs/developper/programmation/python/servir-llm/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/servir-llm/](https://blog.stephane-robert.info/docs/developper/programmation/python/servir-llm/)
 - **Pourquoi ici :** Dans la phase « MCP / IA avancé », « Servir un LLM en production » (programmation › python › servir-llm) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Servir un LLM en production
@@ -2918,7 +2918,7 @@ Dernière phase : vibe coding, Claude Code, MCP, RAG, LLM locaux. À aborder seu
 - [ ] Page lue / pratiquée
 
 #### 319. SGLang : RadixAttention
-- **Lien :** `/docs/developper/programmation/python/sglang/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/sglang/](https://blog.stephane-robert.info/docs/developper/programmation/python/sglang/)
 - **Pourquoi ici :** Dans la phase « MCP / IA avancé », « SGLang : RadixAttention » (programmation › python › sglang) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : SGLang : RadixAttention
@@ -2927,7 +2927,7 @@ Dernière phase : vibe coding, Claude Code, MCP, RAG, LLM locaux. À aborder seu
 - [ ] Page lue / pratiquée
 
 #### 320. L'assistant documentaire
-- **Lien :** `/docs/developper/programmation/python/stack-assistant/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/stack-assistant/](https://blog.stephane-robert.info/docs/developper/programmation/python/stack-assistant/)
 - **Pourquoi ici :** Dans la phase « MCP / IA avancé », « L'assistant documentaire » (programmation › python › stack-assistant) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : L'assistant documentaire
@@ -2936,7 +2936,7 @@ Dernière phase : vibe coding, Claude Code, MCP, RAG, LLM locaux. À aborder seu
 - [ ] Page lue / pratiquée
 
 #### 321. Sécuriser l'exposition
-- **Lien :** `/docs/developper/programmation/python/stack-exposition/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/stack-exposition/](https://blog.stephane-robert.info/docs/developper/programmation/python/stack-exposition/)
 - **Pourquoi ici :** Dans la phase « MCP / IA avancé », « Sécuriser l'exposition » (programmation › python › stack-exposition) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Sécuriser l'exposition
@@ -2945,7 +2945,7 @@ Dernière phase : vibe coding, Claude Code, MCP, RAG, LLM locaux. À aborder seu
 - [ ] Page lue / pratiquée
 
 #### 322. Observabilité FinOps par MCP
-- **Lien :** `/docs/developper/programmation/python/stack-finops/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/stack-finops/](https://blog.stephane-robert.info/docs/developper/programmation/python/stack-finops/)
 - **Pourquoi ici :** Dans la phase « MCP / IA avancé », « Observabilité FinOps par MCP » (programmation › python › stack-finops) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Observabilité FinOps par MCP
@@ -2954,7 +2954,7 @@ Dernière phase : vibe coding, Claude Code, MCP, RAG, LLM locaux. À aborder seu
 - [ ] Page lue / pratiquée
 
 #### 323. Le socle self-hosted
-- **Lien :** `/docs/developper/programmation/python/stack-socle/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/stack-socle/](https://blog.stephane-robert.info/docs/developper/programmation/python/stack-socle/)
 - **Pourquoi ici :** Dans la phase « MCP / IA avancé », « Le socle self-hosted » (programmation › python › stack-socle) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Le socle self-hosted
@@ -2963,7 +2963,7 @@ Dernière phase : vibe coding, Claude Code, MCP, RAG, LLM locaux. À aborder seu
 - [ ] Page lue / pratiquée
 
 #### 324. Architecture de la stack
-- **Lien :** `/docs/developper/programmation/python/stack-souveraine/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/stack-souveraine/](https://blog.stephane-robert.info/docs/developper/programmation/python/stack-souveraine/)
 - **Pourquoi ici :** Dans la phase « MCP / IA avancé », « Architecture de la stack » (programmation › python › stack-souveraine) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Architecture de la stack
@@ -2972,7 +2972,7 @@ Dernière phase : vibe coding, Claude Code, MCP, RAG, LLM locaux. À aborder seu
 - [ ] Page lue / pratiquée
 
 #### 325. vLLM : haute performance
-- **Lien :** `/docs/developper/programmation/python/vllm/`
+- **Lien :** [https://blog.stephane-robert.info/docs/developper/programmation/python/vllm/](https://blog.stephane-robert.info/docs/developper/programmation/python/vllm/)
 - **Pourquoi ici :** Dans la phase « MCP / IA avancé », « vLLM : haute performance » (programmation › python › vllm) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : vLLM : haute performance

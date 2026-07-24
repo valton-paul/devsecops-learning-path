@@ -29,7 +29,7 @@ On ne commence pas par Grafana : sans modèle mental, on produit des graphiques 
 ### Phase A — Fondamentaux et signaux
 
 #### 1. Obs (index section)
-- **Lien :** `/docs/observabilite/`
+- **Lien :** [https://blog.stephane-robert.info/docs/observabilite/](https://blog.stephane-robert.info/docs/observabilite/)
 - **Pourquoi ici :** Carte de la section : fondamentaux, pratiques, labs — pour situer le parcours.
 - **À retenir :**
   - Périmètre observabilité
@@ -37,7 +37,7 @@ On ne commence pas par Grafana : sans modèle mental, on produit des graphiques 
 - [ ] Page lue / pratiquée
 
 #### 2. Fondamentaux (intro)
-- **Lien :** `/docs/observabilite/fondamentaux/`
+- **Lien :** [https://blog.stephane-robert.info/docs/observabilite/fondamentaux/](https://blog.stephane-robert.info/docs/observabilite/fondamentaux/)
 - **Pourquoi ici :** Introduis le bloc conceptuel avant de départager monitoring et observabilité.
 - **À retenir :**
   - Objectifs des fondamentaux
@@ -45,7 +45,7 @@ On ne commence pas par Grafana : sans modèle mental, on produit des graphiques 
 - [ ] Page lue / pratiquée
 
 #### 3. Observabilité vs monitoring
-- **Lien :** `/docs/observabilite/fondamentaux/observabilite-vs-monitoring/`
+- **Lien :** [https://blog.stephane-robert.info/docs/observabilite/fondamentaux/observabilite-vs-monitoring/](https://blog.stephane-robert.info/docs/observabilite/fondamentaux/observabilite-vs-monitoring/)
 - **Pourquoi ici :** Clarifie le vocabulaire : questions connues vs inconnues — base de tout le dossier.
 - **À retenir :**
   - Monitoring ≠ observabilité
@@ -53,7 +53,7 @@ On ne commence pas par Grafana : sans modèle mental, on produit des graphiques 
 - [ ] Page lue / pratiquée
 
 #### 4. Métriques
-- **Lien :** `/docs/observabilite/fondamentaux/signaux/metriques/`
+- **Lien :** [https://blog.stephane-robert.info/docs/observabilite/fondamentaux/signaux/metriques/](https://blog.stephane-robert.info/docs/observabilite/fondamentaux/signaux/metriques/)
 - **Pourquoi ici :** Premier pilier : séries temporelles, cardinalité — prépare Prometheus en lab.
 - **À retenir :**
   - Types de métriques
@@ -61,7 +61,7 @@ On ne commence pas par Grafana : sans modèle mental, on produit des graphiques 
 - [ ] Page lue / pratiquée
 
 #### 5. Logs
-- **Lien :** `/docs/observabilite/fondamentaux/signaux/logs/`
+- **Lien :** [https://blog.stephane-robert.info/docs/observabilite/fondamentaux/signaux/logs/](https://blog.stephane-robert.info/docs/observabilite/fondamentaux/signaux/logs/)
 - **Pourquoi ici :** Deuxième pilier : événements textuels, structuration — prépare Loki.
 - **À retenir :**
   - Logs structurés
@@ -69,7 +69,7 @@ On ne commence pas par Grafana : sans modèle mental, on produit des graphiques 
 - [ ] Page lue / pratiquée
 
 #### 6. Traces
-- **Lien :** `/docs/observabilite/fondamentaux/signaux/traces/`
+- **Lien :** [https://blog.stephane-robert.info/docs/observabilite/fondamentaux/signaux/traces/](https://blog.stephane-robert.info/docs/observabilite/fondamentaux/signaux/traces/)
 - **Pourquoi ici :** Troisième pilier : parcours d’une requête distribuée — indispensable cloud-native (`10`).
 - **À retenir :**
   - Span / trace
@@ -77,7 +77,7 @@ On ne commence pas par Grafana : sans modèle mental, on produit des graphiques 
 - [ ] Page lue / pratiquée
 
 #### 7. Modèles mentaux (RED, USE, Golden Signals)
-- **Lien :** `/docs/observabilite/fondamentaux/modeles-mentaux/`
+- **Lien :** [https://blog.stephane-robert.info/docs/observabilite/fondamentaux/modeles-mentaux/](https://blog.stephane-robert.info/docs/observabilite/fondamentaux/modeles-mentaux/)
 - **Pourquoi ici :** Après les signaux : grilles pour savoir *quoi* mesurer (service vs ressource).
 - **À retenir :**
   - Golden Signals / RED / USE
@@ -85,7 +85,7 @@ On ne commence pas par Grafana : sans modèle mental, on produit des graphiques 
 - [ ] Page lue / pratiquée
 
 #### 8. Corrélation des signaux
-- **Lien :** `/docs/observabilite/fondamentaux/correlation/`
+- **Lien :** [https://blog.stephane-robert.info/docs/observabilite/fondamentaux/correlation/](https://blog.stephane-robert.info/docs/observabilite/fondamentaux/correlation/)
 - **Pourquoi ici :** Relier métriques ↔ logs ↔ traces pour diagnostiquer — cœur de l’observabilité moderne.
 - **À retenir :**
   - Exemplars / trace IDs
@@ -93,7 +93,7 @@ On ne commence pas par Grafana : sans modèle mental, on produit des graphiques 
 - [ ] Page lue / pratiquée
 
 #### 9. OpenTelemetry
-- **Lien :** `/docs/observabilite/fondamentaux/opentelemetry/`
+- **Lien :** [https://blog.stephane-robert.info/docs/observabilite/fondamentaux/opentelemetry/](https://blog.stephane-robert.info/docs/observabilite/fondamentaux/opentelemetry/)
 - **Pourquoi ici :** Standard d’instrumentation multi-signaux ; place après avoir compris les trois piliers.
 - **À retenir :**
   - API / SDK / Collector (idée)
@@ -101,7 +101,7 @@ On ne commence pas par Grafana : sans modèle mental, on produit des graphiques 
 - [ ] Page lue / pratiquée
 
 #### 10. SLI / SLO / SLA
-- **Lien :** `/docs/observabilite/fondamentaux/sli-slo-sla/`
+- **Lien :** [https://blog.stephane-robert.info/docs/observabilite/fondamentaux/sli-slo-sla/](https://blog.stephane-robert.info/docs/observabilite/fondamentaux/sli-slo-sla/)
 - **Pourquoi ici :** Relie mesures et objectifs de fiabilité (culture SRE de `01`) avant gouvernance et alerting.
 - **À retenir :**
   - SLI vs SLO vs SLA
@@ -109,7 +109,7 @@ On ne commence pas par Grafana : sans modèle mental, on produit des graphiques 
 - [ ] Page lue / pratiquée
 
 #### 11. Gouvernance
-- **Lien :** `/docs/observabilite/fondamentaux/gouvernance/`
+- **Lien :** [https://blog.stephane-robert.info/docs/observabilite/fondamentaux/gouvernance/](https://blog.stephane-robert.info/docs/observabilite/fondamentaux/gouvernance/)
 - **Pourquoi ici :** Coûts, rétention, ownership des signaux — mature le dispositif avant les pratiques dashboards.
 - **À retenir :**
   - Politiques de rétention
@@ -119,7 +119,7 @@ On ne commence pas par Grafana : sans modèle mental, on produit des graphiques 
 ### Phase B — Pratiques opérationnelles
 
 #### 12. Pratiques (intro)
-- **Lien :** `/docs/observabilite/pratiques/`
+- **Lien :** [https://blog.stephane-robert.info/docs/observabilite/pratiques/](https://blog.stephane-robert.info/docs/observabilite/pratiques/)
 - **Pourquoi ici :** Transition fondamentaux → usages quotidiens (dashboards, alertes, incidents).
 - **À retenir :**
   - Panorama des pratiques
@@ -127,7 +127,7 @@ On ne commence pas par Grafana : sans modèle mental, on produit des graphiques 
 - [ ] Page lue / pratiquée
 
 #### 13. Dashboards utiles
-- **Lien :** `/docs/observabilite/pratiques/dashboards/`
+- **Lien :** [https://blog.stephane-robert.info/docs/observabilite/pratiques/dashboards/](https://blog.stephane-robert.info/docs/observabilite/pratiques/dashboards/)
 - **Pourquoi ici :** Concevoir des vues actionnables (pas des murs de graphes) avant l’alerting.
 - **À retenir :**
   - Audience d’un dashboard
@@ -135,7 +135,7 @@ On ne commence pas par Grafana : sans modèle mental, on produit des graphiques 
 - [ ] Page lue / pratiquée
 
 #### 14. Alerting efficace
-- **Lien :** `/docs/observabilite/pratiques/alerting/`
+- **Lien :** [https://blog.stephane-robert.info/docs/observabilite/pratiques/alerting/](https://blog.stephane-robert.info/docs/observabilite/pratiques/alerting/)
 - **Pourquoi ici :** Alertes sur symptômes / SLO, pas sur bruit — après dashboards et SLI/SLO.
 - **À retenir :**
   - Alertes actionnables
@@ -143,7 +143,7 @@ On ne commence pas par Grafana : sans modèle mental, on produit des graphiques 
 - [ ] Page lue / pratiquée
 
 #### 15. Runbooks et incidents
-- **Lien :** `/docs/observabilite/pratiques/runbooks-incident/`
+- **Lien :** [https://blog.stephane-robert.info/docs/observabilite/pratiques/runbooks-incident/](https://blog.stephane-robert.info/docs/observabilite/pratiques/runbooks-incident/)
 - **Pourquoi ici :** Relie alerte → procédure (`06-documenter`) → résolution ; culture incident.
 - **À retenir :**
   - Lien alerte / runbook
@@ -151,7 +151,7 @@ On ne commence pas par Grafana : sans modèle mental, on produit des graphiques 
 - [ ] Page lue / pratiquée
 
 #### 16. Observabilité Kubernetes
-- **Lien :** `/docs/observabilite/pratiques/observabilite-kubernetes/`
+- **Lien :** [https://blog.stephane-robert.info/docs/observabilite/pratiques/observabilite-kubernetes/](https://blog.stephane-robert.info/docs/observabilite/pratiques/observabilite-kubernetes/)
 - **Pourquoi ici :** Spécificités K8s (métriques cluster, pods, control plane) — plus clair après `10`.
 - **À retenir :**
   - Signaux cluster vs app
@@ -159,7 +159,7 @@ On ne commence pas par Grafana : sans modèle mental, on produit des graphiques 
 - [ ] Page lue / pratiquée
 
 #### 17. AIOps : l'IA pour l'exploitation
-- **Lien :** `/docs/observabilite/pratiques/aiops/`
+- **Lien :** [https://blog.stephane-robert.info/docs/observabilite/pratiques/aiops/](https://blog.stephane-robert.info/docs/observabilite/pratiques/aiops/)
 - **Pourquoi ici :** Bonus en fin de pratiques : assistance à la détection/corrélation — après les fondamentaux solides.
 - **À retenir :**
   - Promesses et limites
@@ -169,7 +169,7 @@ On ne commence pas par Grafana : sans modèle mental, on produit des graphiques 
 ### Phase C — Labs
 
 #### 18. Formation Labs (intro)
-- **Lien :** `/docs/observabilite/labs/`
+- **Lien :** [https://blog.stephane-robert.info/docs/observabilite/labs/](https://blog.stephane-robert.info/docs/observabilite/labs/)
 - **Pourquoi ici :** Cadre de la série lab ; prépare setup et enchaînement 00→05.
 - **À retenir :**
   - Objectifs des labs
@@ -177,7 +177,7 @@ On ne commence pas par Grafana : sans modèle mental, on produit des graphiques 
 - [ ] Page lue / pratiquée
 
 #### 19. 00. Setup
-- **Lien :** `/docs/observabilite/labs/00-setup/`
+- **Lien :** [https://blog.stephane-robert.info/docs/observabilite/labs/00-setup/](https://blog.stephane-robert.info/docs/observabilite/labs/00-setup/)
 - **Pourquoi ici :** Environnement de lab (souvent Docker/`10`) avant toute stack métriques.
 - **À retenir :**
   - Préparer le lab
@@ -185,7 +185,7 @@ On ne commence pas par Grafana : sans modèle mental, on produit des graphiques 
 - [ ] Page lue / pratiquée
 
 #### 20. 01. Application démo
-- **Lien :** `/docs/observabilite/labs/01-demo-app/`
+- **Lien :** [https://blog.stephane-robert.info/docs/observabilite/labs/01-demo-app/](https://blog.stephane-robert.info/docs/observabilite/labs/01-demo-app/)
 - **Pourquoi ici :** Charge de travail instrumentable avant Prometheus — quelque chose à observer.
 - **À retenir :**
   - Déployer l’app démo
@@ -193,7 +193,7 @@ On ne commence pas par Grafana : sans modèle mental, on produit des graphiques 
 - [ ] Page lue / pratiquée
 
 #### 21. 02. Prometheus
-- **Lien :** `/docs/observabilite/labs/02-prometheus/`
+- **Lien :** [https://blog.stephane-robert.info/docs/observabilite/labs/02-prometheus/](https://blog.stephane-robert.info/docs/observabilite/labs/02-prometheus/)
 - **Pourquoi ici :** Collecte de métriques concrète ; ancre la phase A « métriques ».
 - **À retenir :**
   - Scraping / targets
@@ -201,7 +201,7 @@ On ne commence pas par Grafana : sans modèle mental, on produit des graphiques 
 - [ ] Page lue / pratiquée
 
 #### 22. 03. Grafana
-- **Lien :** `/docs/observabilite/labs/03-grafana/`
+- **Lien :** [https://blog.stephane-robert.info/docs/observabilite/labs/03-grafana/](https://blog.stephane-robert.info/docs/observabilite/labs/03-grafana/)
 - **Pourquoi ici :** Visualisation après Prometheus ; applique « dashboards utiles ».
 - **À retenir :**
   - Datasource Prometheus
@@ -209,7 +209,7 @@ On ne commence pas par Grafana : sans modèle mental, on produit des graphiques 
 - [ ] Page lue / pratiquée
 
 #### 23. 04. Alerting
-- **Lien :** `/docs/observabilite/labs/04-alerting/`
+- **Lien :** [https://blog.stephane-robert.info/docs/observabilite/labs/04-alerting/](https://blog.stephane-robert.info/docs/observabilite/labs/04-alerting/)
 - **Pourquoi ici :** Met en pratique l’alerting efficace sur la stack lab.
 - **À retenir :**
   - Règles d’alerte
@@ -217,7 +217,7 @@ On ne commence pas par Grafana : sans modèle mental, on produit des graphiques 
 - [ ] Page lue / pratiquée
 
 #### 24. 05. Loki
-- **Lien :** `/docs/observabilite/labs/05-loki/`
+- **Lien :** [https://blog.stephane-robert.info/docs/observabilite/labs/05-loki/](https://blog.stephane-robert.info/docs/observabilite/labs/05-loki/)
 - **Pourquoi ici :** Clôture avec les logs (pilier 2) et la corrélation métriques/logs dans Grafana.
 - **À retenir :**
   - Ingestion Loki

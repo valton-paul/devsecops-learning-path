@@ -30,7 +30,7 @@ Cloud-init vient tôt : c’est le pont entre images et instances (lien fort ave
 Modèles, régions, responsabilité partagée, économie, architecture et limites — avant tout clic console.
 
 #### 1. Cloud — vue d’ensemble
-- **Lien :** `/docs/cloud/`
+- **Lien :** [https://blog.stephane-robert.info/docs/cloud/](https://blog.stephane-robert.info/docs/cloud/)
 - **Pourquoi ici :** Dans la phase « Fondamentaux cloud », « Cloud » (cloud) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Cloud
@@ -39,7 +39,7 @@ Modèles, régions, responsabilité partagée, économie, architecture et limite
 - [ ] Page lue / pratiquée
 
 #### 2. Introduction
-- **Lien :** `/docs/cloud/fondamentaux/`
+- **Lien :** [https://blog.stephane-robert.info/docs/cloud/fondamentaux/](https://blog.stephane-robert.info/docs/cloud/fondamentaux/)
 - **Pourquoi ici :** Dans la phase « Fondamentaux cloud », « Introduction » (fondamentaux) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Introduction
@@ -48,7 +48,7 @@ Modèles, régions, responsabilité partagée, économie, architecture et limite
 - [ ] Page lue / pratiquée
 
 #### 3. Définition et Promesses
-- **Lien :** `/docs/cloud/fondamentaux/definition-promesses/`
+- **Lien :** [https://blog.stephane-robert.info/docs/cloud/fondamentaux/definition-promesses/](https://blog.stephane-robert.info/docs/cloud/fondamentaux/definition-promesses/)
 - **Pourquoi ici :** Dans la phase « Fondamentaux cloud », « Définition et Promesses » (fondamentaux › definition-promesses) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Définition et Promesses
@@ -57,7 +57,7 @@ Modèles, régions, responsabilité partagée, économie, architecture et limite
 - [ ] Page lue / pratiquée
 
 #### 4. Modèles IaaS, PaaS, SaaS
-- **Lien :** `/docs/cloud/fondamentaux/modeles-cloud-iaas-paas-saas/`
+- **Lien :** [https://blog.stephane-robert.info/docs/cloud/fondamentaux/modeles-cloud-iaas-paas-saas/](https://blog.stephane-robert.info/docs/cloud/fondamentaux/modeles-cloud-iaas-paas-saas/)
 - **Pourquoi ici :** Dans la phase « Fondamentaux cloud », « Modèles IaaS, PaaS, SaaS » (fondamentaux › modeles-cloud-iaas-paas-saas) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Modèles IaaS, PaaS, SaaS
@@ -66,7 +66,7 @@ Modèles, régions, responsabilité partagée, économie, architecture et limite
 - [ ] Page lue / pratiquée
 
 #### 5. Modèles de déploiement
-- **Lien :** `/docs/cloud/fondamentaux/modeles-deploiement/`
+- **Lien :** [https://blog.stephane-robert.info/docs/cloud/fondamentaux/modeles-deploiement/](https://blog.stephane-robert.info/docs/cloud/fondamentaux/modeles-deploiement/)
 - **Pourquoi ici :** Dans la phase « Fondamentaux cloud », « Modèles de déploiement » (fondamentaux › modeles-deploiement) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Modèles de déploiement
@@ -75,7 +75,7 @@ Modèles, régions, responsabilité partagée, économie, architecture et limite
 - [ ] Page lue / pratiquée
 
 #### 6. Régions et zones
-- **Lien :** `/docs/cloud/fondamentaux/regions-az-zones/`
+- **Lien :** [https://blog.stephane-robert.info/docs/cloud/fondamentaux/regions-az-zones/](https://blog.stephane-robert.info/docs/cloud/fondamentaux/regions-az-zones/)
 - **Pourquoi ici :** Dans la phase « Fondamentaux cloud », « Régions et zones » (fondamentaux › regions-az-zones) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Régions et zones
@@ -84,7 +84,7 @@ Modèles, régions, responsabilité partagée, économie, architecture et limite
 - [ ] Page lue / pratiquée
 
 #### 7. Responsabilité partagée
-- **Lien :** `/docs/cloud/fondamentaux/responsabilites-partagees/`
+- **Lien :** [https://blog.stephane-robert.info/docs/cloud/fondamentaux/responsabilites-partagees/](https://blog.stephane-robert.info/docs/cloud/fondamentaux/responsabilites-partagees/)
 - **Pourquoi ici :** Dans la phase « Fondamentaux cloud », « Responsabilité partagée » (fondamentaux › responsabilites-partagees) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Responsabilité partagée
@@ -93,7 +93,7 @@ Modèles, régions, responsabilité partagée, économie, architecture et limite
 - [ ] Page lue / pratiquée
 
 #### 8. Mutualisation et virtualisation
-- **Lien :** `/docs/cloud/fondamentaux/mutualisation-isolation-virtualisation-conteneurs/`
+- **Lien :** [https://blog.stephane-robert.info/docs/cloud/fondamentaux/mutualisation-isolation-virtualisation-conteneurs/](https://blog.stephane-robert.info/docs/cloud/fondamentaux/mutualisation-isolation-virtualisation-conteneurs/)
 - **Pourquoi ici :** Dans la phase « Fondamentaux cloud », « Mutualisation et virtualisation » (fondamentaux › mutualisation-isolation-virtualisation-conteneurs) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Mutualisation et virtualisation
@@ -102,7 +102,7 @@ Modèles, régions, responsabilité partagée, économie, architecture et limite
 - [ ] Page lue / pratiquée
 
 #### 9. Élasticité vs scalabilité
-- **Lien :** `/docs/cloud/fondamentaux/elasticite-vs-scalabilite/`
+- **Lien :** [https://blog.stephane-robert.info/docs/cloud/fondamentaux/elasticite-vs-scalabilite/](https://blog.stephane-robert.info/docs/cloud/fondamentaux/elasticite-vs-scalabilite/)
 - **Pourquoi ici :** Dans la phase « Fondamentaux cloud », « Élasticité vs scalabilité » (fondamentaux › elasticite-vs-scalabilite) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Élasticité vs scalabilité
@@ -111,7 +111,7 @@ Modèles, régions, responsabilité partagée, économie, architecture et limite
 - [ ] Page lue / pratiquée
 
 #### 10. Disponibilité vs durabilité (SLA)
-- **Lien :** `/docs/cloud/fondamentaux/disponibilite-vs-durabilite-sla/`
+- **Lien :** [https://blog.stephane-robert.info/docs/cloud/fondamentaux/disponibilite-vs-durabilite-sla/](https://blog.stephane-robert.info/docs/cloud/fondamentaux/disponibilite-vs-durabilite-sla/)
 - **Pourquoi ici :** Dans la phase « Fondamentaux cloud », « Disponibilité vs durabilité (SLA) » (fondamentaux › disponibilite-vs-durabilite-sla) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Disponibilité vs durabilité (SLA)
@@ -120,7 +120,7 @@ Modèles, régions, responsabilité partagée, économie, architecture et limite
 - [ ] Page lue / pratiquée
 
 #### 11. Résilience, HA et DR
-- **Lien :** `/docs/cloud/fondamentaux/resilience-ha-dr/`
+- **Lien :** [https://blog.stephane-robert.info/docs/cloud/fondamentaux/resilience-ha-dr/](https://blog.stephane-robert.info/docs/cloud/fondamentaux/resilience-ha-dr/)
 - **Pourquoi ici :** Dans la phase « Fondamentaux cloud », « Résilience, HA et DR » (fondamentaux › resilience-ha-dr) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Résilience, HA et DR
@@ -129,7 +129,7 @@ Modèles, régions, responsabilité partagée, économie, architecture et limite
 - [ ] Page lue / pratiquée
 
 #### 12. Loose coupling et stateless design
-- **Lien :** `/docs/cloud/fondamentaux/loose-coupling-stateless-design/`
+- **Lien :** [https://blog.stephane-robert.info/docs/cloud/fondamentaux/loose-coupling-stateless-design/](https://blog.stephane-robert.info/docs/cloud/fondamentaux/loose-coupling-stateless-design/)
 - **Pourquoi ici :** Dans la phase « Fondamentaux cloud », « Loose coupling et stateless design » (fondamentaux › loose-coupling-stateless-design) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Loose coupling et stateless design
@@ -138,7 +138,7 @@ Modèles, régions, responsabilité partagée, économie, architecture et limite
 - [ ] Page lue / pratiquée
 
 #### 13. Synchrone, asynchrone, eventual consistency
-- **Lien :** `/docs/cloud/fondamentaux/synchrone-asynchrone-eventual-consistency/`
+- **Lien :** [https://blog.stephane-robert.info/docs/cloud/fondamentaux/synchrone-asynchrone-eventual-consistency/](https://blog.stephane-robert.info/docs/cloud/fondamentaux/synchrone-asynchrone-eventual-consistency/)
 - **Pourquoi ici :** Dans la phase « Fondamentaux cloud », « Synchrone, asynchrone, eventual consistency » (fondamentaux › synchrone-asynchrone-eventual-consistency) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Synchrone, asynchrone, eventual consistency
@@ -147,7 +147,7 @@ Modèles, régions, responsabilité partagée, économie, architecture et limite
 - [ ] Page lue / pratiquée
 
 #### 14. Idempotence cloud
-- **Lien :** `/docs/cloud/fondamentaux/idempotence-cloud/`
+- **Lien :** [https://blog.stephane-robert.info/docs/cloud/fondamentaux/idempotence-cloud/](https://blog.stephane-robert.info/docs/cloud/fondamentaux/idempotence-cloud/)
 - **Pourquoi ici :** Dans la phase « Fondamentaux cloud », « Idempotence cloud » (fondamentaux › idempotence-cloud) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Idempotence cloud
@@ -156,7 +156,7 @@ Modèles, régions, responsabilité partagée, économie, architecture et limite
 - [ ] Page lue / pratiquée
 
 #### 15. API-First
-- **Lien :** `/docs/cloud/fondamentaux/api-first/`
+- **Lien :** [https://blog.stephane-robert.info/docs/cloud/fondamentaux/api-first/](https://blog.stephane-robert.info/docs/cloud/fondamentaux/api-first/)
 - **Pourquoi ici :** Dans la phase « Fondamentaux cloud », « API-First » (fondamentaux › api-first) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : API-First
@@ -165,7 +165,7 @@ Modèles, régions, responsabilité partagée, économie, architecture et limite
 - [ ] Page lue / pratiquée
 
 #### 16. Automation et orchestration
-- **Lien :** `/docs/cloud/fondamentaux/automation-orchestration-concepts/`
+- **Lien :** [https://blog.stephane-robert.info/docs/cloud/fondamentaux/automation-orchestration-concepts/](https://blog.stephane-robert.info/docs/cloud/fondamentaux/automation-orchestration-concepts/)
 - **Pourquoi ici :** Dans la phase « Fondamentaux cloud », « Automation et orchestration » (fondamentaux › automation-orchestration-concepts) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Automation et orchestration
@@ -174,7 +174,7 @@ Modèles, régions, responsabilité partagée, économie, architecture et limite
 - [ ] Page lue / pratiquée
 
 #### 17. CAPEX vs OPEX
-- **Lien :** `/docs/cloud/fondamentaux/capex-vs-opex-economie-cloud/`
+- **Lien :** [https://blog.stephane-robert.info/docs/cloud/fondamentaux/capex-vs-opex-economie-cloud/](https://blog.stephane-robert.info/docs/cloud/fondamentaux/capex-vs-opex-economie-cloud/)
 - **Pourquoi ici :** Dans la phase « Fondamentaux cloud », « CAPEX vs OPEX » (fondamentaux › capex-vs-opex-economie-cloud) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : CAPEX vs OPEX
@@ -183,7 +183,7 @@ Modèles, régions, responsabilité partagée, économie, architecture et limite
 - [ ] Page lue / pratiquée
 
 #### 18. Pay-as-you-go : modèles tarifaires
-- **Lien :** `/docs/cloud/fondamentaux/pay-as-you-go-modeles-tarifaires/`
+- **Lien :** [https://blog.stephane-robert.info/docs/cloud/fondamentaux/pay-as-you-go-modeles-tarifaires/](https://blog.stephane-robert.info/docs/cloud/fondamentaux/pay-as-you-go-modeles-tarifaires/)
 - **Pourquoi ici :** Dans la phase « Fondamentaux cloud », « Pay-as-you-go : modèles tarifaires » (fondamentaux › pay-as-you-go-modeles-tarifaires) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Pay-as-you-go : modèles tarifaires
@@ -192,7 +192,7 @@ Modèles, régions, responsabilité partagée, économie, architecture et limite
 - [ ] Page lue / pratiquée
 
 #### 19. TCO cloud vs on-premise
-- **Lien :** `/docs/cloud/fondamentaux/tco-cloud-vs-on-premise/`
+- **Lien :** [https://blog.stephane-robert.info/docs/cloud/fondamentaux/tco-cloud-vs-on-premise/](https://blog.stephane-robert.info/docs/cloud/fondamentaux/tco-cloud-vs-on-premise/)
 - **Pourquoi ici :** Dans la phase « Fondamentaux cloud », « TCO cloud vs on-premise » (fondamentaux › tco-cloud-vs-on-premise) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : TCO cloud vs on-premise
@@ -201,7 +201,7 @@ Modèles, régions, responsabilité partagée, économie, architecture et limite
 - [ ] Page lue / pratiquée
 
 #### 20. Egress et data transfer
-- **Lien :** `/docs/cloud/fondamentaux/egress-data-transfer-economics/`
+- **Lien :** [https://blog.stephane-robert.info/docs/cloud/fondamentaux/egress-data-transfer-economics/](https://blog.stephane-robert.info/docs/cloud/fondamentaux/egress-data-transfer-economics/)
 - **Pourquoi ici :** Dans la phase « Fondamentaux cloud », « Egress et data transfer » (fondamentaux › egress-data-transfer-economics) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Egress et data transfer
@@ -210,7 +210,7 @@ Modèles, régions, responsabilité partagée, économie, architecture et limite
 - [ ] Page lue / pratiquée
 
 #### 21. Chiffrement at-rest, in-transit, in-use
-- **Lien :** `/docs/cloud/fondamentaux/chiffrement-fondamentaux-rest-transit/`
+- **Lien :** [https://blog.stephane-robert.info/docs/cloud/fondamentaux/chiffrement-fondamentaux-rest-transit/](https://blog.stephane-robert.info/docs/cloud/fondamentaux/chiffrement-fondamentaux-rest-transit/)
 - **Pourquoi ici :** Dans la phase « Fondamentaux cloud », « Chiffrement at-rest, in-transit, in-use » (fondamentaux › chiffrement-fondamentaux-rest-transit) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Chiffrement at-rest, in-transit, in-use
@@ -219,7 +219,7 @@ Modèles, régions, responsabilité partagée, économie, architecture et limite
 - [ ] Page lue / pratiquée
 
 #### 22. Zero Trust fondamentaux
-- **Lien :** `/docs/cloud/fondamentaux/zero-trust-fondamentaux/`
+- **Lien :** [https://blog.stephane-robert.info/docs/cloud/fondamentaux/zero-trust-fondamentaux/](https://blog.stephane-robert.info/docs/cloud/fondamentaux/zero-trust-fondamentaux/)
 - **Pourquoi ici :** Dans la phase « Fondamentaux cloud », « Zero Trust fondamentaux » (fondamentaux › zero-trust-fondamentaux) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Zero Trust fondamentaux
@@ -228,7 +228,7 @@ Modèles, régions, responsabilité partagée, économie, architecture et limite
 - [ ] Page lue / pratiquée
 
 #### 23. Well-Architected Frameworks
-- **Lien :** `/docs/cloud/fondamentaux/well-architected-frameworks/`
+- **Lien :** [https://blog.stephane-robert.info/docs/cloud/fondamentaux/well-architected-frameworks/](https://blog.stephane-robert.info/docs/cloud/fondamentaux/well-architected-frameworks/)
 - **Pourquoi ici :** Dans la phase « Fondamentaux cloud », « Well-Architected Frameworks » (fondamentaux › well-architected-frameworks) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Well-Architected Frameworks
@@ -237,7 +237,7 @@ Modèles, régions, responsabilité partagée, économie, architecture et limite
 - [ ] Page lue / pratiquée
 
 #### 24. Cloud Adoption Frameworks (CAF)
-- **Lien :** `/docs/cloud/fondamentaux/cloud-adoption-frameworks/`
+- **Lien :** [https://blog.stephane-robert.info/docs/cloud/fondamentaux/cloud-adoption-frameworks/](https://blog.stephane-robert.info/docs/cloud/fondamentaux/cloud-adoption-frameworks/)
 - **Pourquoi ici :** Dans la phase « Fondamentaux cloud », « Cloud Adoption Frameworks (CAF) » (fondamentaux › cloud-adoption-frameworks) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Cloud Adoption Frameworks (CAF)
@@ -246,7 +246,7 @@ Modèles, régions, responsabilité partagée, économie, architecture et limite
 - [ ] Page lue / pratiquée
 
 #### 25. Stratégies de migration 6R/7R
-- **Lien :** `/docs/cloud/fondamentaux/strategies-migration-6r-7r/`
+- **Lien :** [https://blog.stephane-robert.info/docs/cloud/fondamentaux/strategies-migration-6r-7r/](https://blog.stephane-robert.info/docs/cloud/fondamentaux/strategies-migration-6r-7r/)
 - **Pourquoi ici :** Dans la phase « Fondamentaux cloud », « Stratégies de migration 6R/7R » (fondamentaux › strategies-migration-6r-7r) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Stratégies de migration 6R/7R
@@ -255,7 +255,7 @@ Modèles, régions, responsabilité partagée, économie, architecture et limite
 - [ ] Page lue / pratiquée
 
 #### 26. Containers managés (CaaS)
-- **Lien :** `/docs/cloud/fondamentaux/containers-manages-caas/`
+- **Lien :** [https://blog.stephane-robert.info/docs/cloud/fondamentaux/containers-manages-caas/](https://blog.stephane-robert.info/docs/cloud/fondamentaux/containers-manages-caas/)
 - **Pourquoi ici :** Dans la phase « Fondamentaux cloud », « Containers managés (CaaS) » (fondamentaux › containers-manages-caas) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Containers managés (CaaS)
@@ -264,7 +264,7 @@ Modèles, régions, responsabilité partagée, économie, architecture et limite
 - [ ] Page lue / pratiquée
 
 #### 27. Serverless et FaaS
-- **Lien :** `/docs/cloud/fondamentaux/serverless-faas/`
+- **Lien :** [https://blog.stephane-robert.info/docs/cloud/fondamentaux/serverless-faas/](https://blog.stephane-robert.info/docs/cloud/fondamentaux/serverless-faas/)
 - **Pourquoi ici :** Dans la phase « Fondamentaux cloud », « Serverless et FaaS » (fondamentaux › serverless-faas) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Serverless et FaaS
@@ -273,7 +273,7 @@ Modèles, régions, responsabilité partagée, économie, architecture et limite
 - [ ] Page lue / pratiquée
 
 #### 28. Edge computing
-- **Lien :** `/docs/cloud/fondamentaux/edge-computing-fondamentaux/`
+- **Lien :** [https://blog.stephane-robert.info/docs/cloud/fondamentaux/edge-computing-fondamentaux/](https://blog.stephane-robert.info/docs/cloud/fondamentaux/edge-computing-fondamentaux/)
 - **Pourquoi ici :** Dans la phase « Fondamentaux cloud », « Edge computing » (fondamentaux › edge-computing-fondamentaux) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Edge computing
@@ -282,7 +282,7 @@ Modèles, régions, responsabilité partagée, économie, architecture et limite
 - [ ] Page lue / pratiquée
 
 #### 29. IA et ML services cloud
-- **Lien :** `/docs/cloud/fondamentaux/ia-ml-services-cloud-fondamentaux/`
+- **Lien :** [https://blog.stephane-robert.info/docs/cloud/fondamentaux/ia-ml-services-cloud-fondamentaux/](https://blog.stephane-robert.info/docs/cloud/fondamentaux/ia-ml-services-cloud-fondamentaux/)
 - **Pourquoi ici :** Dans la phase « Fondamentaux cloud », « IA et ML services cloud » (fondamentaux › ia-ml-services-cloud-fondamentaux) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : IA et ML services cloud
@@ -291,7 +291,7 @@ Modèles, régions, responsabilité partagée, économie, architecture et limite
 - [ ] Page lue / pratiquée
 
 #### 30. Monitoring et observability
-- **Lien :** `/docs/cloud/fondamentaux/monitoring-observability-concepts/`
+- **Lien :** [https://blog.stephane-robert.info/docs/cloud/fondamentaux/monitoring-observability-concepts/](https://blog.stephane-robert.info/docs/cloud/fondamentaux/monitoring-observability-concepts/)
 - **Pourquoi ici :** Dans la phase « Fondamentaux cloud », « Monitoring et observability » (fondamentaux › monitoring-observability-concepts) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Monitoring et observability
@@ -300,7 +300,7 @@ Modèles, régions, responsabilité partagée, économie, architecture et limite
 - [ ] Page lue / pratiquée
 
 #### 31. Green cloud et sustainability
-- **Lien :** `/docs/cloud/fondamentaux/green-cloud-sustainability/`
+- **Lien :** [https://blog.stephane-robert.info/docs/cloud/fondamentaux/green-cloud-sustainability/](https://blog.stephane-robert.info/docs/cloud/fondamentaux/green-cloud-sustainability/)
 - **Pourquoi ici :** Dans la phase « Fondamentaux cloud », « Green cloud et sustainability » (fondamentaux › green-cloud-sustainability) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Green cloud et sustainability
@@ -309,7 +309,7 @@ Modèles, régions, responsabilité partagée, économie, architecture et limite
 - [ ] Page lue / pratiquée
 
 #### 32. Limites et compromis
-- **Lien :** `/docs/cloud/fondamentaux/limites-compromis/`
+- **Lien :** [https://blog.stephane-robert.info/docs/cloud/fondamentaux/limites-compromis/](https://blog.stephane-robert.info/docs/cloud/fondamentaux/limites-compromis/)
 - **Pourquoi ici :** Dans la phase « Fondamentaux cloud », « Limites et compromis » (fondamentaux › limites-compromis) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Limites et compromis
@@ -318,7 +318,7 @@ Modèles, régions, responsabilité partagée, économie, architecture et limite
 - [ ] Page lue / pratiquée
 
 #### 33. Introduction
-- **Lien :** `/docs/cloud/stockage/`
+- **Lien :** [https://blog.stephane-robert.info/docs/cloud/stockage/](https://blog.stephane-robert.info/docs/cloud/stockage/)
 - **Pourquoi ici :** Dans la phase « Fondamentaux cloud », « Introduction » (stockage) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Introduction
@@ -327,7 +327,7 @@ Modèles, régions, responsabilité partagée, économie, architecture et limite
 - [ ] Page lue / pratiquée
 
 #### 34. C'est quoi les IOps ?
-- **Lien :** `/docs/cloud/stockage/iops/`
+- **Lien :** [https://blog.stephane-robert.info/docs/cloud/stockage/iops/](https://blog.stephane-robert.info/docs/cloud/stockage/iops/)
 - **Pourquoi ici :** Dans la phase « Fondamentaux cloud », « C'est quoi les IOps ? » (stockage › iops) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : C'est quoi les IOps ?
@@ -339,7 +339,7 @@ Modèles, régions, responsabilité partagée, économie, architecture et limite
 Bootstrap déclaratif des instances : pont entre image, réseau et configuration (prépare Packer/IaC).
 
 #### 35. Maîtriser Cloud-Init
-- **Lien :** `/docs/cloud/cloud-init/`
+- **Lien :** [https://blog.stephane-robert.info/docs/cloud/cloud-init/](https://blog.stephane-robert.info/docs/cloud/cloud-init/)
 - **Pourquoi ici :** Dans la phase « Cloud-init », « Maîtriser Cloud-Init » (cloud-init) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Maîtriser Cloud-Init
@@ -351,7 +351,7 @@ Bootstrap déclaratif des instances : pont entre image, réseau et configuration
 Parcours complet : découverte SecNumCloud, fondations réseau/calcul/stockage/EIM, Well-Architected (dont souveraineté), IaC, OKS, capstone HA, expérimentations.
 
 #### 36. Outscale
-- **Lien :** `/docs/cloud/outscale/`
+- **Lien :** [https://blog.stephane-robert.info/docs/cloud/outscale/](https://blog.stephane-robert.info/docs/cloud/outscale/)
 - **Pourquoi ici :** Dans la phase « OUTSCALE », « Outscale » (outscale) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Outscale
@@ -360,7 +360,7 @@ Parcours complet : découverte SecNumCloud, fondations réseau/calcul/stockage/E
 - [ ] Page lue / pratiquée
 
 #### 37. Pourquoi ce parcours existe
-- **Lien :** `/docs/cloud/outscale/pourquoi-cette-formation/`
+- **Lien :** [https://blog.stephane-robert.info/docs/cloud/outscale/pourquoi-cette-formation/](https://blog.stephane-robert.info/docs/cloud/outscale/pourquoi-cette-formation/)
 - **Pourquoi ici :** Dans la phase « OUTSCALE », « Pourquoi ce parcours existe » (outscale › pourquoi-cette-formation) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Pourquoi ce parcours existe
@@ -369,7 +369,7 @@ Parcours complet : découverte SecNumCloud, fondations réseau/calcul/stockage/E
 - [ ] Page lue / pratiquée
 
 #### 38. Choisir son parcours selon votre profil
-- **Lien :** `/docs/cloud/outscale/parcours-conseille/`
+- **Lien :** [https://blog.stephane-robert.info/docs/cloud/outscale/parcours-conseille/](https://blog.stephane-robert.info/docs/cloud/outscale/parcours-conseille/)
 - **Pourquoi ici :** Dans la phase « OUTSCALE », « Choisir son parcours selon votre profil » (outscale › parcours-conseille) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Choisir son parcours selon votre profil
@@ -378,7 +378,7 @@ Parcours complet : découverte SecNumCloud, fondations réseau/calcul/stockage/E
 - [ ] Page lue / pratiquée
 
 #### 39. Mon parcours Suivi
-- **Lien :** `/docs/cloud/outscale/parcours/`
+- **Lien :** [https://blog.stephane-robert.info/docs/cloud/outscale/parcours/](https://blog.stephane-robert.info/docs/cloud/outscale/parcours/)
 - **Pourquoi ici :** Dans la phase « OUTSCALE », « Mon parcours Suivi » (outscale › parcours) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Mon parcours Suivi
@@ -387,7 +387,7 @@ Parcours complet : découverte SecNumCloud, fondations réseau/calcul/stockage/E
 - [ ] Page lue / pratiquée
 
 #### 40. Vue d'ensemble du volet
-- **Lien :** `/docs/cloud/outscale/decouvrir/`
+- **Lien :** [https://blog.stephane-robert.info/docs/cloud/outscale/decouvrir/](https://blog.stephane-robert.info/docs/cloud/outscale/decouvrir/)
 - **Pourquoi ici :** Dans la phase « OUTSCALE », « Vue d'ensemble du volet » (outscale › decouvrir) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Vue d'ensemble du volet
@@ -396,7 +396,7 @@ Parcours complet : découverte SecNumCloud, fondations réseau/calcul/stockage/E
 - [ ] Page lue / pratiquée
 
 #### 41. OUTSCALE en bref
-- **Lien :** `/docs/cloud/outscale/decouvrir/outscale-en-bref/`
+- **Lien :** [https://blog.stephane-robert.info/docs/cloud/outscale/decouvrir/outscale-en-bref/](https://blog.stephane-robert.info/docs/cloud/outscale/decouvrir/outscale-en-bref/)
 - **Pourquoi ici :** Dans la phase « OUTSCALE », « OUTSCALE en bref » (outscale › decouvrir › outscale-en-bref) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : OUTSCALE en bref
@@ -405,7 +405,7 @@ Parcours complet : découverte SecNumCloud, fondations réseau/calcul/stockage/E
 - [ ] Page lue / pratiquée
 
 #### 42. Régions et sous-régions OUTSCALE
-- **Lien :** `/docs/cloud/outscale/decouvrir/regions-sous-regions/`
+- **Lien :** [https://blog.stephane-robert.info/docs/cloud/outscale/decouvrir/regions-sous-regions/](https://blog.stephane-robert.info/docs/cloud/outscale/decouvrir/regions-sous-regions/)
 - **Pourquoi ici :** Dans la phase « OUTSCALE », « Régions et sous-régions OUTSCALE » (outscale › decouvrir › regions-sous-regions) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Régions et sous-régions OUTSCALE
@@ -414,7 +414,7 @@ Parcours complet : découverte SecNumCloud, fondations réseau/calcul/stockage/E
 - [ ] Page lue / pratiquée
 
 #### 43. TINA OS et la compatibilité API AWS
-- **Lien :** `/docs/cloud/outscale/decouvrir/tina-os-compatibilite-aws/`
+- **Lien :** [https://blog.stephane-robert.info/docs/cloud/outscale/decouvrir/tina-os-compatibilite-aws/](https://blog.stephane-robert.info/docs/cloud/outscale/decouvrir/tina-os-compatibilite-aws/)
 - **Pourquoi ici :** Dans la phase « OUTSCALE », « TINA OS et la compatibilité API AWS » (outscale › decouvrir › tina-os-compatibilite-aws) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : TINA OS et la compatibilité API AWS
@@ -423,7 +423,7 @@ Parcours complet : découverte SecNumCloud, fondations réseau/calcul/stockage/E
 - [ ] Page lue / pratiquée
 
 #### 44. Vocabulaire OUTSCALE ↔ AWS
-- **Lien :** `/docs/cloud/outscale/decouvrir/vocabulaire-outscale-aws/`
+- **Lien :** [https://blog.stephane-robert.info/docs/cloud/outscale/decouvrir/vocabulaire-outscale-aws/](https://blog.stephane-robert.info/docs/cloud/outscale/decouvrir/vocabulaire-outscale-aws/)
 - **Pourquoi ici :** Dans la phase « OUTSCALE », « Vocabulaire OUTSCALE ↔ AWS » (outscale › decouvrir › vocabulaire-outscale-aws) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Vocabulaire OUTSCALE ↔ AWS
@@ -432,7 +432,7 @@ Parcours complet : découverte SecNumCloud, fondations réseau/calcul/stockage/E
 - [ ] Page lue / pratiquée
 
 #### 45. SecNumCloud 3.2 — implications pour l'architecte
-- **Lien :** `/docs/cloud/outscale/decouvrir/secnumcloud-implications/`
+- **Lien :** [https://blog.stephane-robert.info/docs/cloud/outscale/decouvrir/secnumcloud-implications/](https://blog.stephane-robert.info/docs/cloud/outscale/decouvrir/secnumcloud-implications/)
 - **Pourquoi ici :** Dans la phase « OUTSCALE », « SecNumCloud 3.2 — implications pour l'architecte » (outscale › decouvrir › secnumcloud-implications) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : SecNumCloud 3.2 — implications pour l'architecte
@@ -441,7 +441,7 @@ Parcours complet : découverte SecNumCloud, fondations réseau/calcul/stockage/E
 - [ ] Page lue / pratiquée
 
 #### 46. Cockpit : la console Outscale
-- **Lien :** `/docs/cloud/outscale/decouvrir/cockpit/`
+- **Lien :** [https://blog.stephane-robert.info/docs/cloud/outscale/decouvrir/cockpit/](https://blog.stephane-robert.info/docs/cloud/outscale/decouvrir/cockpit/)
 - **Pourquoi ici :** Dans la phase « OUTSCALE », « Cockpit : la console Outscale » (outscale › decouvrir › cockpit) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Cockpit : la console Outscale
@@ -450,7 +450,7 @@ Parcours complet : découverte SecNumCloud, fondations réseau/calcul/stockage/E
 - [ ] Page lue / pratiquée
 
 #### 47. Outils CLI
-- **Lien :** `/docs/cloud/outscale/decouvrir/cli-outils-acces/`
+- **Lien :** [https://blog.stephane-robert.info/docs/cloud/outscale/decouvrir/cli-outils-acces/](https://blog.stephane-robert.info/docs/cloud/outscale/decouvrir/cli-outils-acces/)
 - **Pourquoi ici :** Dans la phase « OUTSCALE », « Outils CLI » (outscale › decouvrir › cli-outils-acces) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Outils CLI
@@ -459,7 +459,7 @@ Parcours complet : découverte SecNumCloud, fondations réseau/calcul/stockage/E
 - [ ] Page lue / pratiquée
 
 #### 48. La CLI oapi (guide complet)
-- **Lien :** `/docs/cloud/outscale/decouvrir/oapi-cli/`
+- **Lien :** [https://blog.stephane-robert.info/docs/cloud/outscale/decouvrir/oapi-cli/](https://blog.stephane-robert.info/docs/cloud/outscale/decouvrir/oapi-cli/)
 - **Pourquoi ici :** Dans la phase « OUTSCALE », « La CLI oapi (guide complet) » (outscale › decouvrir › oapi-cli) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : La CLI oapi (guide complet)
@@ -468,7 +468,7 @@ Parcours complet : découverte SecNumCloud, fondations réseau/calcul/stockage/E
 - [ ] Page lue / pratiquée
 
 #### 49. Vue d'ensemble du volet
-- **Lien :** `/docs/cloud/outscale/fondations/`
+- **Lien :** [https://blog.stephane-robert.info/docs/cloud/outscale/fondations/](https://blog.stephane-robert.info/docs/cloud/outscale/fondations/)
 - **Pourquoi ici :** Dans la phase « OUTSCALE », « Vue d'ensemble du volet » (outscale › fondations) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Vue d'ensemble du volet
@@ -477,7 +477,7 @@ Parcours complet : découverte SecNumCloud, fondations réseau/calcul/stockage/E
 - [ ] Page lue / pratiquée
 
 #### 50. Réseau — design Net + Subnets
-- **Lien :** `/docs/cloud/outscale/fondations/reseau-net-subnets-design/`
+- **Lien :** [https://blog.stephane-robert.info/docs/cloud/outscale/fondations/reseau-net-subnets-design/](https://blog.stephane-robert.info/docs/cloud/outscale/fondations/reseau-net-subnets-design/)
 - **Pourquoi ici :** Dans la phase « OUTSCALE », « Réseau — design Net + Subnets » (outscale › fondations › reseau-net-subnets-design) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Réseau — design Net + Subnets
@@ -486,7 +486,7 @@ Parcours complet : découverte SecNumCloud, fondations réseau/calcul/stockage/E
 - [ ] Page lue / pratiquée
 
 #### 51. Réseau — IGW, NAT, EIP, bastion
-- **Lien :** `/docs/cloud/outscale/fondations/reseau-igw-nat-eip-bastion/`
+- **Lien :** [https://blog.stephane-robert.info/docs/cloud/outscale/fondations/reseau-igw-nat-eip-bastion/](https://blog.stephane-robert.info/docs/cloud/outscale/fondations/reseau-igw-nat-eip-bastion/)
 - **Pourquoi ici :** Dans la phase « OUTSCALE », « Réseau — IGW, NAT, EIP, bastion » (outscale › fondations › reseau-igw-nat-eip-bastion) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Réseau — IGW, NAT, EIP, bastion
@@ -495,7 +495,7 @@ Parcours complet : découverte SecNumCloud, fondations réseau/calcul/stockage/E
 - [ ] Page lue / pratiquée
 
 #### 52. Réseau — Security Groups
-- **Lien :** `/docs/cloud/outscale/fondations/reseau-security-groups-acl/`
+- **Lien :** [https://blog.stephane-robert.info/docs/cloud/outscale/fondations/reseau-security-groups-acl/](https://blog.stephane-robert.info/docs/cloud/outscale/fondations/reseau-security-groups-acl/)
 - **Pourquoi ici :** Dans la phase « OUTSCALE », « Réseau — Security Groups » (outscale › fondations › reseau-security-groups-acl) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Réseau — Security Groups
@@ -504,7 +504,7 @@ Parcours complet : découverte SecNumCloud, fondations réseau/calcul/stockage/E
 - [ ] Page lue / pratiquée
 
 #### 53. Calcul — instances TINA et sizing
-- **Lien :** `/docs/cloud/outscale/fondations/calcul-instances-tina-sizing/`
+- **Lien :** [https://blog.stephane-robert.info/docs/cloud/outscale/fondations/calcul-instances-tina-sizing/](https://blog.stephane-robert.info/docs/cloud/outscale/fondations/calcul-instances-tina-sizing/)
 - **Pourquoi ici :** Dans la phase « OUTSCALE », « Calcul — instances TINA et sizing » (outscale › fondations › calcul-instances-tina-sizing) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Calcul — instances TINA et sizing
@@ -513,7 +513,7 @@ Parcours complet : découverte SecNumCloud, fondations réseau/calcul/stockage/E
 - [ ] Page lue / pratiquée
 
 #### 54. Stockage — BSU, volumes, IOPS
-- **Lien :** `/docs/cloud/outscale/fondations/stockage-bsu-volumes-iops/`
+- **Lien :** [https://blog.stephane-robert.info/docs/cloud/outscale/fondations/stockage-bsu-volumes-iops/](https://blog.stephane-robert.info/docs/cloud/outscale/fondations/stockage-bsu-volumes-iops/)
 - **Pourquoi ici :** Dans la phase « OUTSCALE », « Stockage — BSU, volumes, IOPS » (outscale › fondations › stockage-bsu-volumes-iops) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Stockage — BSU, volumes, IOPS
@@ -522,7 +522,7 @@ Parcours complet : découverte SecNumCloud, fondations réseau/calcul/stockage/E
 - [ ] Page lue / pratiquée
 
 #### 55. Stockage — OOS, versioning, lifecycle
-- **Lien :** `/docs/cloud/outscale/fondations/stockage-oos-versioning-lifecycle/`
+- **Lien :** [https://blog.stephane-robert.info/docs/cloud/outscale/fondations/stockage-oos-versioning-lifecycle/](https://blog.stephane-robert.info/docs/cloud/outscale/fondations/stockage-oos-versioning-lifecycle/)
 - **Pourquoi ici :** Dans la phase « OUTSCALE », « Stockage — OOS, versioning, lifecycle » (outscale › fondations › stockage-oos-versioning-lifecycle) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Stockage — OOS, versioning, lifecycle
@@ -531,7 +531,7 @@ Parcours complet : découverte SecNumCloud, fondations réseau/calcul/stockage/E
 - [ ] Page lue / pratiquée
 
 #### 56. EIM — identité et accès
-- **Lien :** `/docs/cloud/outscale/fondations/eim-identite-acces/`
+- **Lien :** [https://blog.stephane-robert.info/docs/cloud/outscale/fondations/eim-identite-acces/](https://blog.stephane-robert.info/docs/cloud/outscale/fondations/eim-identite-acces/)
 - **Pourquoi ici :** Dans la phase « OUTSCALE », « EIM — identité et accès » (outscale › fondations › eim-identite-acces) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : EIM — identité et accès
@@ -540,7 +540,7 @@ Parcours complet : découverte SecNumCloud, fondations réseau/calcul/stockage/E
 - [ ] Page lue / pratiquée
 
 #### 57. EIM — patterns multi-comptes / projets
-- **Lien :** `/docs/cloud/outscale/fondations/eim-patterns-multi-comptes/`
+- **Lien :** [https://blog.stephane-robert.info/docs/cloud/outscale/fondations/eim-patterns-multi-comptes/](https://blog.stephane-robert.info/docs/cloud/outscale/fondations/eim-patterns-multi-comptes/)
 - **Pourquoi ici :** Dans la phase « OUTSCALE », « EIM — patterns multi-comptes / projets » (outscale › fondations › eim-patterns-multi-comptes) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : EIM — patterns multi-comptes / projets
@@ -549,7 +549,7 @@ Parcours complet : découverte SecNumCloud, fondations réseau/calcul/stockage/E
 - [ ] Page lue / pratiquée
 
 #### 58. Sauvegardes — RPO/RTO/PRA
-- **Lien :** `/docs/cloud/outscale/fondations/sauvegardes-rpo-rto-pra/`
+- **Lien :** [https://blog.stephane-robert.info/docs/cloud/outscale/fondations/sauvegardes-rpo-rto-pra/](https://blog.stephane-robert.info/docs/cloud/outscale/fondations/sauvegardes-rpo-rto-pra/)
 - **Pourquoi ici :** Dans la phase « OUTSCALE », « Sauvegardes — RPO/RTO/PRA » (outscale › fondations › sauvegardes-rpo-rto-pra) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Sauvegardes — RPO/RTO/PRA
@@ -558,7 +558,7 @@ Parcours complet : découverte SecNumCloud, fondations réseau/calcul/stockage/E
 - [ ] Page lue / pratiquée
 
 #### 59. fGPU — GPU NVIDIA à la demande
-- **Lien :** `/docs/cloud/outscale/fondations/fgpu/`
+- **Lien :** [https://blog.stephane-robert.info/docs/cloud/outscale/fondations/fgpu/](https://blog.stephane-robert.info/docs/cloud/outscale/fondations/fgpu/)
 - **Pourquoi ici :** Dans la phase « OUTSCALE », « fGPU — GPU NVIDIA à la demande » (outscale › fondations › fgpu) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : fGPU — GPU NVIDIA à la demande
@@ -567,7 +567,7 @@ Parcours complet : découverte SecNumCloud, fondations réseau/calcul/stockage/E
 - [ ] Page lue / pratiquée
 
 #### 60. Le Well-Architected adapté à OUTSCALE
-- **Lien :** `/docs/cloud/outscale/well-architected-outscale-introduction/`
+- **Lien :** [https://blog.stephane-robert.info/docs/cloud/outscale/well-architected-outscale-introduction/](https://blog.stephane-robert.info/docs/cloud/outscale/well-architected-outscale-introduction/)
 - **Pourquoi ici :** Dans la phase « OUTSCALE », « Le Well-Architected adapté à OUTSCALE » (outscale › well-architected-outscale-introduction) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Le Well-Architected adapté à OUTSCALE
@@ -576,7 +576,7 @@ Parcours complet : découverte SecNumCloud, fondations réseau/calcul/stockage/E
 - [ ] Page lue / pratiquée
 
 #### 61. Vue d'ensemble du volet
-- **Lien :** `/docs/cloud/outscale/well-architected/`
+- **Lien :** [https://blog.stephane-robert.info/docs/cloud/outscale/well-architected/](https://blog.stephane-robert.info/docs/cloud/outscale/well-architected/)
 - **Pourquoi ici :** Dans la phase « OUTSCALE », « Vue d'ensemble du volet » (outscale › well-architected) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Vue d'ensemble du volet
@@ -585,7 +585,7 @@ Parcours complet : découverte SecNumCloud, fondations réseau/calcul/stockage/E
 - [ ] Page lue / pratiquée
 
 #### 62. Operational Excellence
-- **Lien :** `/docs/cloud/outscale/well-architected/operational-excellence/`
+- **Lien :** [https://blog.stephane-robert.info/docs/cloud/outscale/well-architected/operational-excellence/](https://blog.stephane-robert.info/docs/cloud/outscale/well-architected/operational-excellence/)
 - **Pourquoi ici :** Dans la phase « OUTSCALE », « Operational Excellence » (outscale › well-architected › operational-excellence) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Operational Excellence
@@ -594,7 +594,7 @@ Parcours complet : découverte SecNumCloud, fondations réseau/calcul/stockage/E
 - [ ] Page lue / pratiquée
 
 #### 63. Security
-- **Lien :** `/docs/cloud/outscale/well-architected/security/`
+- **Lien :** [https://blog.stephane-robert.info/docs/cloud/outscale/well-architected/security/](https://blog.stephane-robert.info/docs/cloud/outscale/well-architected/security/)
 - **Pourquoi ici :** Dans la phase « OUTSCALE », « Security » (outscale › well-architected › security) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Security
@@ -603,7 +603,7 @@ Parcours complet : découverte SecNumCloud, fondations réseau/calcul/stockage/E
 - [ ] Page lue / pratiquée
 
 #### 64. Reliability
-- **Lien :** `/docs/cloud/outscale/well-architected/reliability/`
+- **Lien :** [https://blog.stephane-robert.info/docs/cloud/outscale/well-architected/reliability/](https://blog.stephane-robert.info/docs/cloud/outscale/well-architected/reliability/)
 - **Pourquoi ici :** Dans la phase « OUTSCALE », « Reliability » (outscale › well-architected › reliability) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Reliability
@@ -612,7 +612,7 @@ Parcours complet : découverte SecNumCloud, fondations réseau/calcul/stockage/E
 - [ ] Page lue / pratiquée
 
 #### 65. Performance Efficiency
-- **Lien :** `/docs/cloud/outscale/well-architected/performance-efficiency/`
+- **Lien :** [https://blog.stephane-robert.info/docs/cloud/outscale/well-architected/performance-efficiency/](https://blog.stephane-robert.info/docs/cloud/outscale/well-architected/performance-efficiency/)
 - **Pourquoi ici :** Dans la phase « OUTSCALE », « Performance Efficiency » (outscale › well-architected › performance-efficiency) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Performance Efficiency
@@ -621,7 +621,7 @@ Parcours complet : découverte SecNumCloud, fondations réseau/calcul/stockage/E
 - [ ] Page lue / pratiquée
 
 #### 66. Cost Optimization
-- **Lien :** `/docs/cloud/outscale/well-architected/cost-optimization/`
+- **Lien :** [https://blog.stephane-robert.info/docs/cloud/outscale/well-architected/cost-optimization/](https://blog.stephane-robert.info/docs/cloud/outscale/well-architected/cost-optimization/)
 - **Pourquoi ici :** Dans la phase « OUTSCALE », « Cost Optimization » (outscale › well-architected › cost-optimization) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Cost Optimization
@@ -630,7 +630,7 @@ Parcours complet : découverte SecNumCloud, fondations réseau/calcul/stockage/E
 - [ ] Page lue / pratiquée
 
 #### 67. Sustainability
-- **Lien :** `/docs/cloud/outscale/well-architected/sustainability/`
+- **Lien :** [https://blog.stephane-robert.info/docs/cloud/outscale/well-architected/sustainability/](https://blog.stephane-robert.info/docs/cloud/outscale/well-architected/sustainability/)
 - **Pourquoi ici :** Dans la phase « OUTSCALE », « Sustainability » (outscale › well-architected › sustainability) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Sustainability
@@ -639,7 +639,7 @@ Parcours complet : découverte SecNumCloud, fondations réseau/calcul/stockage/E
 - [ ] Page lue / pratiquée
 
 #### 68. Sovereignty (7ᵉ pilier)
-- **Lien :** `/docs/cloud/outscale/well-architected/sovereignty/`
+- **Lien :** [https://blog.stephane-robert.info/docs/cloud/outscale/well-architected/sovereignty/](https://blog.stephane-robert.info/docs/cloud/outscale/well-architected/sovereignty/)
 - **Pourquoi ici :** Dans la phase « OUTSCALE », « Sovereignty (7ᵉ pilier) » (outscale › well-architected › sovereignty) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Sovereignty (7ᵉ pilier)
@@ -648,7 +648,7 @@ Parcours complet : découverte SecNumCloud, fondations réseau/calcul/stockage/E
 - [ ] Page lue / pratiquée
 
 #### 69. Vue d'ensemble du volet
-- **Lien :** `/docs/cloud/outscale/iac/`
+- **Lien :** [https://blog.stephane-robert.info/docs/cloud/outscale/iac/](https://blog.stephane-robert.info/docs/cloud/outscale/iac/)
 - **Pourquoi ici :** Dans la phase « OUTSCALE », « Vue d'ensemble du volet » (outscale › iac) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Vue d'ensemble du volet
@@ -657,7 +657,7 @@ Parcours complet : découverte SecNumCloud, fondations réseau/calcul/stockage/E
 - [ ] Page lue / pratiquée
 
 #### 70. Référence Terraform sur OUTSCALE
-- **Lien :** `/docs/cloud/outscale/iac/terraform-reference/`
+- **Lien :** [https://blog.stephane-robert.info/docs/cloud/outscale/iac/terraform-reference/](https://blog.stephane-robert.info/docs/cloud/outscale/iac/terraform-reference/)
 - **Pourquoi ici :** Dans la phase « OUTSCALE », « Référence Terraform sur OUTSCALE » (outscale › iac › terraform-reference) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Référence Terraform sur OUTSCALE
@@ -666,7 +666,7 @@ Parcours complet : découverte SecNumCloud, fondations réseau/calcul/stockage/E
 - [ ] Page lue / pratiquée
 
 #### 71. Référence Packer sur OUTSCALE
-- **Lien :** `/docs/cloud/outscale/iac/packer-reference/`
+- **Lien :** [https://blog.stephane-robert.info/docs/cloud/outscale/iac/packer-reference/](https://blog.stephane-robert.info/docs/cloud/outscale/iac/packer-reference/)
 - **Pourquoi ici :** Dans la phase « OUTSCALE », « Référence Packer sur OUTSCALE » (outscale › iac › packer-reference) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Référence Packer sur OUTSCALE
@@ -675,7 +675,7 @@ Parcours complet : découverte SecNumCloud, fondations réseau/calcul/stockage/E
 - [ ] Page lue / pratiquée
 
 #### 72. Inventaire dynamique Ansible (osc_vm)
-- **Lien :** `/docs/cloud/outscale/iac/ansible-dynamic-inventory/`
+- **Lien :** [https://blog.stephane-robert.info/docs/cloud/outscale/iac/ansible-dynamic-inventory/](https://blog.stephane-robert.info/docs/cloud/outscale/iac/ansible-dynamic-inventory/)
 - **Pourquoi ici :** Dans la phase « OUTSCALE », « Inventaire dynamique Ansible (osc_vm) » (outscale › iac › ansible-dynamic-inventory) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Inventaire dynamique Ansible (osc_vm)
@@ -684,7 +684,7 @@ Parcours complet : découverte SecNumCloud, fondations réseau/calcul/stockage/E
 - [ ] Page lue / pratiquée
 
 #### 73. OSC Viewer pour Visual Studio Code
-- **Lien :** `/docs/cloud/outscale/iac/osc-viewer-vscode/`
+- **Lien :** [https://blog.stephane-robert.info/docs/cloud/outscale/iac/osc-viewer-vscode/](https://blog.stephane-robert.info/docs/cloud/outscale/iac/osc-viewer-vscode/)
 - **Pourquoi ici :** Dans la phase « OUTSCALE », « OSC Viewer pour Visual Studio Code » (outscale › iac › osc-viewer-vscode) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : OSC Viewer pour Visual Studio Code
@@ -693,7 +693,7 @@ Parcours complet : découverte SecNumCloud, fondations réseau/calcul/stockage/E
 - [ ] Page lue / pratiquée
 
 #### 74. Vue d'ensemble du volet
-- **Lien :** `/docs/cloud/outscale/services-manages/`
+- **Lien :** [https://blog.stephane-robert.info/docs/cloud/outscale/services-manages/](https://blog.stephane-robert.info/docs/cloud/outscale/services-manages/)
 - **Pourquoi ici :** Dans la phase « OUTSCALE », « Vue d'ensemble du volet » (outscale › services-manages) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Vue d'ensemble du volet
@@ -702,7 +702,7 @@ Parcours complet : découverte SecNumCloud, fondations réseau/calcul/stockage/E
 - [ ] Page lue / pratiquée
 
 #### 75. Déployer un cluster OKS
-- **Lien :** `/docs/cloud/outscale/services-manages/oks-kubernetes/`
+- **Lien :** [https://blog.stephane-robert.info/docs/cloud/outscale/services-manages/oks-kubernetes/](https://blog.stephane-robert.info/docs/cloud/outscale/services-manages/oks-kubernetes/)
 - **Pourquoi ici :** Dans la phase « OUTSCALE », « Déployer un cluster OKS » (outscale › services-manages › oks-kubernetes) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Déployer un cluster OKS
@@ -711,7 +711,7 @@ Parcours complet : découverte SecNumCloud, fondations réseau/calcul/stockage/E
 - [ ] Page lue / pratiquée
 
 #### 76. Vue d'ensemble du capstone
-- **Lien :** `/docs/cloud/outscale/capstone/`
+- **Lien :** [https://blog.stephane-robert.info/docs/cloud/outscale/capstone/](https://blog.stephane-robert.info/docs/cloud/outscale/capstone/)
 - **Pourquoi ici :** Dans la phase « OUTSCALE », « Vue d'ensemble du capstone » (outscale › capstone) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Vue d'ensemble du capstone
@@ -720,7 +720,7 @@ Parcours complet : découverte SecNumCloud, fondations réseau/calcul/stockage/E
 - [ ] Page lue / pratiquée
 
 #### 77. Chapitre 1 — Provisionner les 3 Nets
-- **Lien :** `/docs/cloud/outscale/capstone/01-nets/`
+- **Lien :** [https://blog.stephane-robert.info/docs/cloud/outscale/capstone/01-nets/](https://blog.stephane-robert.info/docs/cloud/outscale/capstone/01-nets/)
 - **Pourquoi ici :** Dans la phase « OUTSCALE », « Chapitre 1 — Provisionner les 3 Nets » (outscale › capstone › 01-nets) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Chapitre 1 — Provisionner les 3 Nets
@@ -729,7 +729,7 @@ Parcours complet : découverte SecNumCloud, fondations réseau/calcul/stockage/E
 - [ ] Page lue / pratiquée
 
 #### 78. Chapitre 2 — Net Peering full-mesh
-- **Lien :** `/docs/cloud/outscale/capstone/02-peerings/`
+- **Lien :** [https://blog.stephane-robert.info/docs/cloud/outscale/capstone/02-peerings/](https://blog.stephane-robert.info/docs/cloud/outscale/capstone/02-peerings/)
 - **Pourquoi ici :** Dans la phase « OUTSCALE », « Chapitre 2 — Net Peering full-mesh » (outscale › capstone › 02-peerings) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Chapitre 2 — Net Peering full-mesh
@@ -738,7 +738,7 @@ Parcours complet : découverte SecNumCloud, fondations réseau/calcul/stockage/E
 - [ ] Page lue / pratiquée
 
 #### 79. Chapitre 3 — Bastion SSH durci
-- **Lien :** `/docs/cloud/outscale/capstone/03-bastion/`
+- **Lien :** [https://blog.stephane-robert.info/docs/cloud/outscale/capstone/03-bastion/](https://blog.stephane-robert.info/docs/cloud/outscale/capstone/03-bastion/)
 - **Pourquoi ici :** Dans la phase « OUTSCALE », « Chapitre 3 — Bastion SSH durci » (outscale › capstone › 03-bastion) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Chapitre 3 — Bastion SSH durci
@@ -747,7 +747,7 @@ Parcours complet : découverte SecNumCloud, fondations réseau/calcul/stockage/E
 - [ ] Page lue / pratiquée
 
 #### 80. Chapitre 4 — Frontends Nginx HTTPS
-- **Lien :** `/docs/cloud/outscale/capstone/04-nginx-frontends/`
+- **Lien :** [https://blog.stephane-robert.info/docs/cloud/outscale/capstone/04-nginx-frontends/](https://blog.stephane-robert.info/docs/cloud/outscale/capstone/04-nginx-frontends/)
 - **Pourquoi ici :** Dans la phase « OUTSCALE », « Chapitre 4 — Frontends Nginx HTTPS » (outscale › capstone › 04-nginx-frontends) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Chapitre 4 — Frontends Nginx HTTPS
@@ -756,7 +756,7 @@ Parcours complet : découverte SecNumCloud, fondations réseau/calcul/stockage/E
 - [ ] Page lue / pratiquée
 
 #### 81. Chapitre 5 — 3 LBU + DNS round-robin
-- **Lien :** `/docs/cloud/outscale/capstone/05-lbu-dns-rr/`
+- **Lien :** [https://blog.stephane-robert.info/docs/cloud/outscale/capstone/05-lbu-dns-rr/](https://blog.stephane-robert.info/docs/cloud/outscale/capstone/05-lbu-dns-rr/)
 - **Pourquoi ici :** Dans la phase « OUTSCALE », « Chapitre 5 — 3 LBU + DNS round-robin » (outscale › capstone › 05-lbu-dns-rr) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Chapitre 5 — 3 LBU + DNS round-robin
@@ -765,7 +765,7 @@ Parcours complet : découverte SecNumCloud, fondations réseau/calcul/stockage/E
 - [ ] Page lue / pratiquée
 
 #### 82. Chapitre 6 — HAProxy + Corosync/Pacemaker
-- **Lien :** `/docs/cloud/outscale/capstone/06-haproxy-pacemaker/`
+- **Lien :** [https://blog.stephane-robert.info/docs/cloud/outscale/capstone/06-haproxy-pacemaker/](https://blog.stephane-robert.info/docs/cloud/outscale/capstone/06-haproxy-pacemaker/)
 - **Pourquoi ici :** Dans la phase « OUTSCALE », « Chapitre 6 — HAProxy + Corosync/Pacemaker » (outscale › capstone › 06-haproxy-pacemaker) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Chapitre 6 — HAProxy + Corosync/Pacemaker
@@ -774,7 +774,7 @@ Parcours complet : découverte SecNumCloud, fondations réseau/calcul/stockage/E
 - [ ] Page lue / pratiquée
 
 #### 83. Vue d'ensemble de la section
-- **Lien :** `/docs/cloud/outscale/experimentations/`
+- **Lien :** [https://blog.stephane-robert.info/docs/cloud/outscale/experimentations/](https://blog.stephane-robert.info/docs/cloud/outscale/experimentations/)
 - **Pourquoi ici :** Dans la phase « OUTSCALE », « Vue d'ensemble de la section » (outscale › experimentations) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Vue d'ensemble de la section
@@ -783,7 +783,7 @@ Parcours complet : découverte SecNumCloud, fondations réseau/calcul/stockage/E
 - [ ] Page lue / pratiquée
 
 #### 84. EIP flottante HA — Corosync/Pacemaker
-- **Lien :** `/docs/cloud/outscale/experimentations/eip-flottante-ha/`
+- **Lien :** [https://blog.stephane-robert.info/docs/cloud/outscale/experimentations/eip-flottante-ha/](https://blog.stephane-robert.info/docs/cloud/outscale/experimentations/eip-flottante-ha/)
 - **Pourquoi ici :** Dans la phase « OUTSCALE », « EIP flottante HA — Corosync/Pacemaker » (outscale › experimentations › eip-flottante-ha) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : EIP flottante HA — Corosync/Pacemaker
@@ -792,7 +792,7 @@ Parcours complet : découverte SecNumCloud, fondations réseau/calcul/stockage/E
 - [ ] Page lue / pratiquée
 
 #### 85. OMI déclaratives avec NixOS
-- **Lien :** `/docs/cloud/outscale/experimentations/omi-nixos/`
+- **Lien :** [https://blog.stephane-robert.info/docs/cloud/outscale/experimentations/omi-nixos/](https://blog.stephane-robert.info/docs/cloud/outscale/experimentations/omi-nixos/)
 - **Pourquoi ici :** Dans la phase « OUTSCALE », « OMI déclaratives avec NixOS » (outscale › experimentations › omi-nixos) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : OMI déclaratives avec NixOS
@@ -801,7 +801,7 @@ Parcours complet : découverte SecNumCloud, fondations réseau/calcul/stockage/E
 - [ ] Page lue / pratiquée
 
 #### 86. Kubernetes avec Talos
-- **Lien :** `/docs/cloud/outscale/experimentations/kubernetes-talos/`
+- **Lien :** [https://blog.stephane-robert.info/docs/cloud/outscale/experimentations/kubernetes-talos/](https://blog.stephane-robert.info/docs/cloud/outscale/experimentations/kubernetes-talos/)
 - **Pourquoi ici :** Dans la phase « OUTSCALE », « Kubernetes avec Talos » (outscale › experimentations › kubernetes-talos) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Kubernetes avec Talos
@@ -810,7 +810,7 @@ Parcours complet : découverte SecNumCloud, fondations réseau/calcul/stockage/E
 - [ ] Page lue / pratiquée
 
 #### 87. Talos — CCM/CSI/GPU
-- **Lien :** `/docs/cloud/outscale/experimentations/talos-csi-ccm-gpu/`
+- **Lien :** [https://blog.stephane-robert.info/docs/cloud/outscale/experimentations/talos-csi-ccm-gpu/](https://blog.stephane-robert.info/docs/cloud/outscale/experimentations/talos-csi-ccm-gpu/)
 - **Pourquoi ici :** Dans la phase « OUTSCALE », « Talos — CCM/CSI/GPU » (outscale › experimentations › talos-csi-ccm-gpu) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Talos — CCM/CSI/GPU
@@ -822,7 +822,7 @@ Parcours complet : découverte SecNumCloud, fondations réseau/calcul/stockage/E
 AWS (CLI + émulation locale), Azure, GCP, Scalingo : repères pour transposer le vocabulaire Outscale, pas un second parcours exhaustif.
 
 #### 88. AWS
-- **Lien :** `/docs/cloud/aws/`
+- **Lien :** [https://blog.stephane-robert.info/docs/cloud/aws/](https://blog.stephane-robert.info/docs/cloud/aws/)
 - **Pourquoi ici :** Dans la phase « Comparatif providers », « AWS » (aws) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : AWS
@@ -831,7 +831,7 @@ AWS (CLI + émulation locale), Azure, GCP, Scalingo : repères pour transposer l
 - [ ] Page lue / pratiquée
 
 #### 89. Maîtrisez la CLI AWS
-- **Lien :** `/docs/cloud/aws/aws-cli/`
+- **Lien :** [https://blog.stephane-robert.info/docs/cloud/aws/aws-cli/](https://blog.stephane-robert.info/docs/cloud/aws/aws-cli/)
 - **Pourquoi ici :** Dans la phase « Comparatif providers », « Maîtrisez la CLI AWS » (aws › aws-cli) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Maîtrisez la CLI AWS
@@ -840,7 +840,7 @@ AWS (CLI + émulation locale), Azure, GCP, Scalingo : repères pour transposer l
 - [ ] Page lue / pratiquée
 
 #### 90. Floci : émuler AWS en local
-- **Lien :** `/docs/cloud/aws/floci/`
+- **Lien :** [https://blog.stephane-robert.info/docs/cloud/aws/floci/](https://blog.stephane-robert.info/docs/cloud/aws/floci/)
 - **Pourquoi ici :** Dans la phase « Comparatif providers », « Floci : émuler AWS en local » (aws › floci) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Floci : émuler AWS en local
@@ -849,7 +849,7 @@ AWS (CLI + émulation locale), Azure, GCP, Scalingo : repères pour transposer l
 - [ ] Page lue / pratiquée
 
 #### 91. Azure
-- **Lien :** `/docs/cloud/azure/`
+- **Lien :** [https://blog.stephane-robert.info/docs/cloud/azure/](https://blog.stephane-robert.info/docs/cloud/azure/)
 - **Pourquoi ici :** Dans la phase « Comparatif providers », « Azure » (azure) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Azure
@@ -858,7 +858,7 @@ AWS (CLI + émulation locale), Azure, GCP, Scalingo : repères pour transposer l
 - [ ] Page lue / pratiquée
 
 #### 92. GCP
-- **Lien :** `/docs/cloud/gcp/`
+- **Lien :** [https://blog.stephane-robert.info/docs/cloud/gcp/](https://blog.stephane-robert.info/docs/cloud/gcp/)
 - **Pourquoi ici :** Dans la phase « Comparatif providers », « GCP » (gcp) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : GCP
@@ -867,7 +867,7 @@ AWS (CLI + émulation locale), Azure, GCP, Scalingo : repères pour transposer l
 - [ ] Page lue / pratiquée
 
 #### 93. Scalingo
-- **Lien :** `/docs/cloud/scalingo/`
+- **Lien :** [https://blog.stephane-robert.info/docs/cloud/scalingo/](https://blog.stephane-robert.info/docs/cloud/scalingo/)
 - **Pourquoi ici :** Dans la phase « Comparatif providers », « Scalingo » (scalingo) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Scalingo
@@ -879,7 +879,7 @@ AWS (CLI + émulation locale), Azure, GCP, Scalingo : repères pour transposer l
 IAM cloud, surveillance/audit, souveraineté des données — à croiser avec `05-securite` et le pilier Sovereignty Outscale déjà vu.
 
 #### 94. Introduction
-- **Lien :** `/docs/cloud/securite/`
+- **Lien :** [https://blog.stephane-robert.info/docs/cloud/securite/](https://blog.stephane-robert.info/docs/cloud/securite/)
 - **Pourquoi ici :** Dans la phase « Sécurité / souveraineté », « Introduction » (securite) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Introduction
@@ -888,7 +888,7 @@ IAM cloud, surveillance/audit, souveraineté des données — à croiser avec `0
 - [ ] Page lue / pratiquée
 
 #### 95. Gestion des identités (IAM)
-- **Lien :** `/docs/cloud/securite/iam/`
+- **Lien :** [https://blog.stephane-robert.info/docs/cloud/securite/iam/](https://blog.stephane-robert.info/docs/cloud/securite/iam/)
 - **Pourquoi ici :** Dans la phase « Sécurité / souveraineté », « Gestion des identités (IAM) » (securite › iam) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Gestion des identités (IAM)
@@ -897,7 +897,7 @@ IAM cloud, surveillance/audit, souveraineté des données — à croiser avec `0
 - [ ] Page lue / pratiquée
 
 #### 96. Surveillance et audit
-- **Lien :** `/docs/cloud/securite/surveillance/`
+- **Lien :** [https://blog.stephane-robert.info/docs/cloud/securite/surveillance/](https://blog.stephane-robert.info/docs/cloud/securite/surveillance/)
 - **Pourquoi ici :** Dans la phase « Sécurité / souveraineté », « Surveillance et audit » (securite › surveillance) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Surveillance et audit
@@ -906,7 +906,7 @@ IAM cloud, surveillance/audit, souveraineté des données — à croiser avec `0
 - [ ] Page lue / pratiquée
 
 #### 97. Souveraineté des données
-- **Lien :** `/docs/cloud/souverainete-conformite/souverainete-technologique-stack/`
+- **Lien :** [https://blog.stephane-robert.info/docs/cloud/souverainete-conformite/souverainete-technologique-stack/](https://blog.stephane-robert.info/docs/cloud/souverainete-conformite/souverainete-technologique-stack/)
 - **Pourquoi ici :** Dans la phase « Sécurité / souveraineté », « Souveraineté des données » (souverainete-conformite › souverainete-technologique-stack) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Souveraineté des données
@@ -918,7 +918,7 @@ IAM cloud, surveillance/audit, souveraineté des données — à croiser avec `0
 Rclone, s3cmd, restic, plakar : sauvegarde et transfert objet multi-cloud au quotidien.
 
 #### 98. plakar : sauvegarde chiffrée
-- **Lien :** `/docs/cloud/outils/plakar/`
+- **Lien :** [https://blog.stephane-robert.info/docs/cloud/outils/plakar/](https://blog.stephane-robert.info/docs/cloud/outils/plakar/)
 - **Pourquoi ici :** Dans la phase « Outils cloud », « plakar : sauvegarde chiffrée » (outils › plakar) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : plakar : sauvegarde chiffrée
@@ -927,7 +927,7 @@ Rclone, s3cmd, restic, plakar : sauvegarde et transfert objet multi-cloud au quo
 - [ ] Page lue / pratiquée
 
 #### 99. Maîtrisez Rclone
-- **Lien :** `/docs/cloud/outils/rclone/`
+- **Lien :** [https://blog.stephane-robert.info/docs/cloud/outils/rclone/](https://blog.stephane-robert.info/docs/cloud/outils/rclone/)
 - **Pourquoi ici :** Dans la phase « Outils cloud », « Maîtrisez Rclone » (outils › rclone) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Maîtrisez Rclone
@@ -936,7 +936,7 @@ Rclone, s3cmd, restic, plakar : sauvegarde et transfert objet multi-cloud au quo
 - [ ] Page lue / pratiquée
 
 #### 100. Maîtrisez Restic
-- **Lien :** `/docs/cloud/outils/restic/`
+- **Lien :** [https://blog.stephane-robert.info/docs/cloud/outils/restic/](https://blog.stephane-robert.info/docs/cloud/outils/restic/)
 - **Pourquoi ici :** Dans la phase « Outils cloud », « Maîtrisez Restic » (outils › restic) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Maîtrisez Restic
@@ -945,7 +945,7 @@ Rclone, s3cmd, restic, plakar : sauvegarde et transfert objet multi-cloud au quo
 - [ ] Page lue / pratiquée
 
 #### 101. Démarrer avec S3CMD
-- **Lien :** `/docs/cloud/outils/s3cmd/`
+- **Lien :** [https://blog.stephane-robert.info/docs/cloud/outils/s3cmd/](https://blog.stephane-robert.info/docs/cloud/outils/s3cmd/)
 - **Pourquoi ici :** Dans la phase « Outils cloud », « Démarrer avec S3CMD » (outils › s3cmd) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Démarrer avec S3CMD

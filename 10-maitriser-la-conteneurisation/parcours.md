@@ -25,7 +25,7 @@ Le site présente images, moteurs, registres, orchestrateurs et cloud-native par
 Comprendre et construire des images avant d'apprendre un moteur. Prérequis : Linux (02), Git (04), idéalement IaC (09).
 
 #### 1. C'est quoi une image de conteneur ?
-- **Lien :** `/docs/conteneurs/images-conteneurs/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/images-conteneurs/](https://blog.stephane-robert.info/docs/conteneurs/images-conteneurs/)
 - **Pourquoi ici :** Les images sont le livrable : comprendre couches et Dockerfile avant tout moteur. « C'est quoi une image de conteneur ? » sert de carte ou de jalon : lire pour se repérer, puis enchaîner sur les pages filles dans l'ordre indiqué.
 - **À retenir :**
   - C'est quoi une image de conteneur ?
@@ -33,7 +33,7 @@ Comprendre et construire des images avant d'apprendre un moteur. Prérequis : Li
 - [ ] Page lue / pratiquée
 
 #### 2. Dockerfile
-- **Lien :** `/docs/conteneurs/images-conteneurs/ecrire-dockerfile/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/images-conteneurs/ecrire-dockerfile/](https://blog.stephane-robert.info/docs/conteneurs/images-conteneurs/ecrire-dockerfile/)
 - **Pourquoi ici :** Les images sont le livrable : comprendre couches et Dockerfile avant tout moteur. La page « Dockerfile » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Dockerfile
@@ -41,7 +41,7 @@ Comprendre et construire des images avant d'apprendre un moteur. Prérequis : Li
 - [ ] Page lue / pratiquée
 
 #### 3. Bonnes pratiques Dockerfile (.dockerignore, cache, multi-stage)
-- **Lien :** `/docs/conteneurs/images-conteneurs/dockerfile-bonnes-pratiques/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/images-conteneurs/dockerfile-bonnes-pratiques/](https://blog.stephane-robert.info/docs/conteneurs/images-conteneurs/dockerfile-bonnes-pratiques/)
 - **Pourquoi ici :** Les images sont le livrable : comprendre couches et Dockerfile avant tout moteur. La page « Bonnes pratiques Dockerfile (.dockerignore, cache, multi-stage) » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Bonnes pratiques Dockerfile (.dockerignore, cache, multi-stage)
@@ -49,7 +49,7 @@ Comprendre et construire des images avant d'apprendre un moteur. Prérequis : Li
 - [ ] Page lue / pratiquée
 
 #### 4. Optimiser la taille des images de container
-- **Lien :** `/docs/conteneurs/images-conteneurs/optimiser-taille-image/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/images-conteneurs/optimiser-taille-image/](https://blog.stephane-robert.info/docs/conteneurs/images-conteneurs/optimiser-taille-image/)
 - **Pourquoi ici :** Les images sont le livrable : comprendre couches et Dockerfile avant tout moteur. La page « Optimiser la taille des images de container » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Optimiser la taille des images de container
@@ -57,7 +57,7 @@ Comprendre et construire des images avant d'apprendre un moteur. Prérequis : Li
 - [ ] Page lue / pratiquée
 
 #### 5. Introduction
-- **Lien :** `/docs/conteneurs/images-conteneurs/build/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/images-conteneurs/build/](https://blog.stephane-robert.info/docs/conteneurs/images-conteneurs/build/)
 - **Pourquoi ici :** Les images sont le livrable : comprendre couches et Dockerfile avant tout moteur. La page « Introduction » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Introduction
@@ -65,7 +65,7 @@ Comprendre et construire des images avant d'apprendre un moteur. Prérequis : Li
 - [ ] Page lue / pratiquée
 
 #### 6. Docker bake
-- **Lien :** `/docs/conteneurs/images-conteneurs/build/bake/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/images-conteneurs/build/bake/](https://blog.stephane-robert.info/docs/conteneurs/images-conteneurs/build/bake/)
 - **Pourquoi ici :** Les images sont le livrable : comprendre couches et Dockerfile avant tout moteur. La page « Docker bake » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Docker bake
@@ -73,7 +73,7 @@ Comprendre et construire des images avant d'apprendre un moteur. Prérequis : Li
 - [ ] Page lue / pratiquée
 
 #### 7. Buildah
-- **Lien :** `/docs/conteneurs/images-conteneurs/build/buildah/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/images-conteneurs/build/buildah/](https://blog.stephane-robert.info/docs/conteneurs/images-conteneurs/build/buildah/)
 - **Pourquoi ici :** Les images sont le livrable : comprendre couches et Dockerfile avant tout moteur. La page « Buildah » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Buildah
@@ -81,7 +81,7 @@ Comprendre et construire des images avant d'apprendre un moteur. Prérequis : Li
 - [ ] Page lue / pratiquée
 
 #### 8. BuildKit
-- **Lien :** `/docs/conteneurs/images-conteneurs/build/buildkit/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/images-conteneurs/build/buildkit/](https://blog.stephane-robert.info/docs/conteneurs/images-conteneurs/build/buildkit/)
 - **Pourquoi ici :** Les images sont le livrable : comprendre couches et Dockerfile avant tout moteur. La page « BuildKit » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - BuildKit
@@ -89,7 +89,7 @@ Comprendre et construire des images avant d'apprendre un moteur. Prérequis : Li
 - [ ] Page lue / pratiquée
 
 #### 9. Les Cloud Native Buildpacks
-- **Lien :** `/docs/conteneurs/images-conteneurs/build/buildpacks/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/images-conteneurs/build/buildpacks/](https://blog.stephane-robert.info/docs/conteneurs/images-conteneurs/build/buildpacks/)
 - **Pourquoi ici :** Les images sont le livrable : comprendre couches et Dockerfile avant tout moteur. La page « Les Cloud Native Buildpacks » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Les Cloud Native Buildpacks
@@ -97,7 +97,7 @@ Comprendre et construire des images avant d'apprendre un moteur. Prérequis : Li
 - [ ] Page lue / pratiquée
 
 #### 10. Kaniko
-- **Lien :** `/docs/conteneurs/images-conteneurs/build/kaniko/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/images-conteneurs/build/kaniko/](https://blog.stephane-robert.info/docs/conteneurs/images-conteneurs/build/kaniko/)
 - **Pourquoi ici :** Les images sont le livrable : comprendre couches et Dockerfile avant tout moteur. La page « Kaniko » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Kaniko
@@ -105,7 +105,7 @@ Comprendre et construire des images avant d'apprendre un moteur. Prérequis : Li
 - [ ] Page lue / pratiquée
 
 #### 11. Quiz : maîtrisez vos images Docker !
-- **Lien :** `/docs/conteneurs/images-conteneurs/controle-connaissances/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/images-conteneurs/controle-connaissances/](https://blog.stephane-robert.info/docs/conteneurs/images-conteneurs/controle-connaissances/)
 - **Pourquoi ici :** Les images sont le livrable : comprendre couches et Dockerfile avant tout moteur. « Quiz : maîtrisez vos images Docker ! » valide ce qui précède : à faire avant de passer à la sous-phase suivante.
 - **À retenir :**
   - Quiz : maîtrisez vos images Docker !
@@ -118,7 +118,7 @@ Docker en track principal, puis Podman, containerd, Incus/LXC.
 **B1 — Vue d'ensemble moteurs & Docker**
 
 #### 12. Moteurs de conteneurs
-- **Lien :** `/docs/conteneurs/moteurs-conteneurs/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/](https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/)
 - **Pourquoi ici :** Carte des moteurs de conteneurs. « Moteurs de conteneurs » sert de carte ou de jalon : lire pour se repérer, puis enchaîner sur les pages filles dans l'ordre indiqué.
 - **À retenir :**
   - Moteurs de conteneurs
@@ -126,7 +126,7 @@ Docker en track principal, puis Podman, containerd, Incus/LXC.
 - [ ] Page lue / pratiquée
 
 #### 13. Docker
-- **Lien :** `/docs/conteneurs/moteurs-conteneurs/docker/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/docker/](https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/docker/)
 - **Pourquoi ici :** Docker : moteur de référence pour débuter (CLI, volumes, réseau, sécu). La page « Docker » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Docker
@@ -134,7 +134,7 @@ Docker en track principal, puis Podman, containerd, Incus/LXC.
 - [ ] Page lue / pratiquée
 
 #### 14. Concepts fondamentaux
-- **Lien :** `/docs/conteneurs/moteurs-conteneurs/docker/concepts/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/docker/concepts/](https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/docker/concepts/)
 - **Pourquoi ici :** Docker : moteur de référence pour débuter (CLI, volumes, réseau, sécu). La page « Concepts fondamentaux » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Concepts fondamentaux
@@ -142,7 +142,7 @@ Docker en track principal, puis Podman, containerd, Incus/LXC.
 - [ ] Page lue / pratiquée
 
 #### 15. Installation
-- **Lien :** `/docs/conteneurs/moteurs-conteneurs/docker/installation/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/docker/installation/](https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/docker/installation/)
 - **Pourquoi ici :** Docker : moteur de référence pour débuter (CLI, volumes, réseau, sécu). La page « Installation » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Installation
@@ -150,7 +150,7 @@ Docker en track principal, puis Podman, containerd, Incus/LXC.
 - [ ] Page lue / pratiquée
 
 #### 16. Commandes CLI essentielles
-- **Lien :** `/docs/conteneurs/moteurs-conteneurs/docker/cli/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/docker/cli/](https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/docker/cli/)
 - **Pourquoi ici :** Docker : moteur de référence pour débuter (CLI, volumes, réseau, sécu). La page « Commandes CLI essentielles » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Commandes CLI essentielles
@@ -158,7 +158,7 @@ Docker en track principal, puis Podman, containerd, Incus/LXC.
 - [ ] Page lue / pratiquée
 
 #### 17. Volumes Docker
-- **Lien :** `/docs/conteneurs/moteurs-conteneurs/docker/volumes/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/docker/volumes/](https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/docker/volumes/)
 - **Pourquoi ici :** Docker : moteur de référence pour débuter (CLI, volumes, réseau, sécu). La page « Volumes Docker » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Volumes Docker
@@ -166,7 +166,7 @@ Docker en track principal, puis Podman, containerd, Incus/LXC.
 - [ ] Page lue / pratiquée
 
 #### 18. Réseau Docker
-- **Lien :** `/docs/conteneurs/moteurs-conteneurs/docker/network/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/docker/network/](https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/docker/network/)
 - **Pourquoi ici :** Docker : moteur de référence pour débuter (CLI, volumes, réseau, sécu). La page « Réseau Docker » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Réseau Docker
@@ -174,7 +174,7 @@ Docker en track principal, puis Podman, containerd, Incus/LXC.
 - [ ] Page lue / pratiquée
 
 #### 19. Secrets Docker
-- **Lien :** `/docs/conteneurs/moteurs-conteneurs/docker/secrets/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/docker/secrets/](https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/docker/secrets/)
 - **Pourquoi ici :** Docker : moteur de référence pour débuter (CLI, volumes, réseau, sécu). La page « Secrets Docker » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Secrets Docker
@@ -182,7 +182,7 @@ Docker en track principal, puis Podman, containerd, Incus/LXC.
 - [ ] Page lue / pratiquée
 
 #### 20. Sécurité Docker
-- **Lien :** `/docs/conteneurs/moteurs-conteneurs/docker/securite/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/docker/securite/](https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/docker/securite/)
 - **Pourquoi ici :** Docker : moteur de référence pour débuter (CLI, volumes, réseau, sécu). — lien utile avec 05-securite. « Sécurité Docker » renforce le réflexe DevSecOps ; croiser avec le dossier `05-securite` si besoin.
 - **À retenir :**
   - Sécurité Docker
@@ -190,7 +190,7 @@ Docker en track principal, puis Podman, containerd, Incus/LXC.
 - [ ] Page lue / pratiquée
 
 #### 21. Configuration du daemon
-- **Lien :** `/docs/conteneurs/moteurs-conteneurs/docker/daemon-config/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/docker/daemon-config/](https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/docker/daemon-config/)
 - **Pourquoi ici :** Docker : moteur de référence pour débuter (CLI, volumes, réseau, sécu). La page « Configuration du daemon » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Configuration du daemon
@@ -198,7 +198,7 @@ Docker en track principal, puis Podman, containerd, Incus/LXC.
 - [ ] Page lue / pratiquée
 
 #### 22. Cycle de vie & dépannage
-- **Lien :** `/docs/conteneurs/moteurs-conteneurs/docker/execution-depannage/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/docker/execution-depannage/](https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/docker/execution-depannage/)
 - **Pourquoi ici :** Docker : moteur de référence pour débuter (CLI, volumes, réseau, sécu). La page « Cycle de vie & dépannage » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Cycle de vie & dépannage
@@ -206,7 +206,7 @@ Docker en track principal, puis Podman, containerd, Incus/LXC.
 - [ ] Page lue / pratiquée
 
 #### 23. Socket Docker : socket-proxy
-- **Lien :** `/docs/conteneurs/moteurs-conteneurs/docker/socket-proxy/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/docker/socket-proxy/](https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/docker/socket-proxy/)
 - **Pourquoi ici :** Docker : moteur de référence pour débuter (CLI, volumes, réseau, sécu). La page « Socket Docker : socket-proxy » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Socket Docker : socket-proxy
@@ -214,7 +214,7 @@ Docker en track principal, puis Podman, containerd, Incus/LXC.
 - [ ] Page lue / pratiquée
 
 #### 24. Sous le capot (namespaces, cgroups)
-- **Lien :** `/docs/conteneurs/moteurs-conteneurs/docker/sous-le-capot/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/docker/sous-le-capot/](https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/docker/sous-le-capot/)
 - **Pourquoi ici :** Docker : moteur de référence pour débuter (CLI, volumes, réseau, sécu). La page « Sous le capot (namespaces, cgroups) » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Sous le capot (namespaces, cgroups)
@@ -224,7 +224,7 @@ Docker en track principal, puis Podman, containerd, Incus/LXC.
 **B2 — Podman & desktop / UI**
 
 #### 25. Podman
-- **Lien :** `/docs/conteneurs/moteurs-conteneurs/podman/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/podman/](https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/podman/)
 - **Pourquoi ici :** Autres moteurs (Podman, containerd, Incus/LXC) après bases Docker. La page « Podman » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Podman
@@ -232,7 +232,7 @@ Docker en track principal, puis Podman, containerd, Incus/LXC.
 - [ ] Page lue / pratiquée
 
 #### 26. Construction d'images
-- **Lien :** `/docs/conteneurs/moteurs-conteneurs/podman/build/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/podman/build/](https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/podman/build/)
 - **Pourquoi ici :** Autres moteurs (Podman, containerd, Incus/LXC) après bases Docker. La page « Construction d'images » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Construction d'images
@@ -240,7 +240,7 @@ Docker en track principal, puis Podman, containerd, Incus/LXC.
 - [ ] Page lue / pratiquée
 
 #### 27. Commandes essentielles
-- **Lien :** `/docs/conteneurs/moteurs-conteneurs/podman/commandes/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/podman/commandes/](https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/podman/commandes/)
 - **Pourquoi ici :** Autres moteurs (Podman, containerd, Incus/LXC) après bases Docker. La page « Commandes essentielles » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Commandes essentielles
@@ -248,7 +248,7 @@ Docker en track principal, puis Podman, containerd, Incus/LXC.
 - [ ] Page lue / pratiquée
 
 #### 28. Concepts
-- **Lien :** `/docs/conteneurs/moteurs-conteneurs/podman/concepts/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/podman/concepts/](https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/podman/concepts/)
 - **Pourquoi ici :** Autres moteurs (Podman, containerd, Incus/LXC) après bases Docker. La page « Concepts » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Concepts
@@ -256,7 +256,7 @@ Docker en track principal, puis Podman, containerd, Incus/LXC.
 - [ ] Page lue / pratiquée
 
 #### 29. Installation
-- **Lien :** `/docs/conteneurs/moteurs-conteneurs/podman/installation/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/podman/installation/](https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/podman/installation/)
 - **Pourquoi ici :** Autres moteurs (Podman, containerd, Incus/LXC) après bases Docker. La page « Installation » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Installation
@@ -264,7 +264,7 @@ Docker en track principal, puis Podman, containerd, Incus/LXC.
 - [ ] Page lue / pratiquée
 
 #### 30. Kube play et generate
-- **Lien :** `/docs/conteneurs/moteurs-conteneurs/podman/kube-play/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/podman/kube-play/](https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/podman/kube-play/)
 - **Pourquoi ici :** Autres moteurs (Podman, containerd, Incus/LXC) après bases Docker. La page « Kube play et generate » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Kube play et generate
@@ -272,7 +272,7 @@ Docker en track principal, puis Podman, containerd, Incus/LXC.
 - [ ] Page lue / pratiquée
 
 #### 31. Multi-arch et manifests
-- **Lien :** `/docs/conteneurs/moteurs-conteneurs/podman/manifests/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/podman/manifests/](https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/podman/manifests/)
 - **Pourquoi ici :** Autres moteurs (Podman, containerd, Incus/LXC) après bases Docker. La page « Multi-arch et manifests » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Multi-arch et manifests
@@ -280,7 +280,7 @@ Docker en track principal, puis Podman, containerd, Incus/LXC.
 - [ ] Page lue / pratiquée
 
 #### 32. Pods natifs
-- **Lien :** `/docs/conteneurs/moteurs-conteneurs/podman/pods/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/podman/pods/](https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/podman/pods/)
 - **Pourquoi ici :** Autres moteurs (Podman, containerd, Incus/LXC) après bases Docker. La page « Pods natifs » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Pods natifs
@@ -288,7 +288,7 @@ Docker en track principal, puis Podman, containerd, Incus/LXC.
 - [ ] Page lue / pratiquée
 
 #### 33. Quadlet (systemd)
-- **Lien :** `/docs/conteneurs/moteurs-conteneurs/podman/quadlet/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/podman/quadlet/](https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/podman/quadlet/)
 - **Pourquoi ici :** Autres moteurs (Podman, containerd, Incus/LXC) après bases Docker. La page « Quadlet (systemd) » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Quadlet (systemd)
@@ -296,7 +296,7 @@ Docker en track principal, puis Podman, containerd, Incus/LXC.
 - [ ] Page lue / pratiquée
 
 #### 34. Réseaux
-- **Lien :** `/docs/conteneurs/moteurs-conteneurs/podman/reseaux/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/podman/reseaux/](https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/podman/reseaux/)
 - **Pourquoi ici :** Autres moteurs (Podman, containerd, Incus/LXC) après bases Docker. La page « Réseaux » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Réseaux
@@ -304,7 +304,7 @@ Docker en track principal, puis Podman, containerd, Incus/LXC.
 - [ ] Page lue / pratiquée
 
 #### 35. Run avancé
-- **Lien :** `/docs/conteneurs/moteurs-conteneurs/podman/run-avance/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/podman/run-avance/](https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/podman/run-avance/)
 - **Pourquoi ici :** Autres moteurs (Podman, containerd, Incus/LXC) après bases Docker. La page « Run avancé » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Run avancé
@@ -312,7 +312,7 @@ Docker en track principal, puis Podman, containerd, Incus/LXC.
 - [ ] Page lue / pratiquée
 
 #### 36. Volumes
-- **Lien :** `/docs/conteneurs/moteurs-conteneurs/podman/volumes/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/podman/volumes/](https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/podman/volumes/)
 - **Pourquoi ici :** Autres moteurs (Podman, containerd, Incus/LXC) après bases Docker. La page « Volumes » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Volumes
@@ -320,7 +320,7 @@ Docker en track principal, puis Podman, containerd, Incus/LXC.
 - [ ] Page lue / pratiquée
 
 #### 37. Podman Desktop
-- **Lien :** `/docs/conteneurs/moteurs-conteneurs/podman-desktop/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/podman-desktop/](https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/podman-desktop/)
 - **Pourquoi ici :** Autres moteurs (Podman, containerd, Incus/LXC) après bases Docker. La page « Podman Desktop » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Podman Desktop
@@ -328,7 +328,7 @@ Docker en track principal, puis Podman, containerd, Incus/LXC.
 - [ ] Page lue / pratiquée
 
 #### 38. Portainer CE
-- **Lien :** `/docs/conteneurs/moteurs-conteneurs/portainer/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/portainer/](https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/portainer/)
 - **Pourquoi ici :** Autres moteurs (Podman, containerd, Incus/LXC) après bases Docker. La page « Portainer CE » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Portainer CE
@@ -338,7 +338,7 @@ Docker en track principal, puis Podman, containerd, Incus/LXC.
 **B3 — containerd**
 
 #### 39. containerd
-- **Lien :** `/docs/conteneurs/moteurs-conteneurs/containerd/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/containerd/](https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/containerd/)
 - **Pourquoi ici :** Autres moteurs (Podman, containerd, Incus/LXC) après bases Docker. La page « containerd » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - containerd
@@ -346,7 +346,7 @@ Docker en track principal, puis Podman, containerd, Incus/LXC.
 - [ ] Page lue / pratiquée
 
 #### 40. Découverte de Nerdctl
-- **Lien :** `/docs/conteneurs/moteurs-conteneurs/containerd/nerdctl-base/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/containerd/nerdctl-base/](https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/containerd/nerdctl-base/)
 - **Pourquoi ici :** Autres moteurs (Podman, containerd, Incus/LXC) après bases Docker. La page « Découverte de Nerdctl » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Découverte de Nerdctl
@@ -357,7 +357,7 @@ Docker en track principal, puis Podman, containerd, Incus/LXC.
 Paradigme différent des conteneurs applicatifs OCI ; après Docker.
 
 #### 41. LXC
-- **Lien :** `/docs/conteneurs/moteurs-conteneurs/lxc/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/lxc/](https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/lxc/)
 - **Pourquoi ici :** Autres moteurs (Podman, containerd, Incus/LXC) après bases Docker. La page « LXC » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - LXC
@@ -365,7 +365,7 @@ Paradigme différent des conteneurs applicatifs OCI ; après Docker.
 - [ ] Page lue / pratiquée
 
 #### 42. LXD
-- **Lien :** `/docs/conteneurs/moteurs-conteneurs/incus/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/incus/](https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/incus/)
 - **Pourquoi ici :** Autres moteurs (Podman, containerd, Incus/LXC) après bases Docker. La page « LXD » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - LXD
@@ -373,7 +373,7 @@ Paradigme différent des conteneurs applicatifs OCI ; après Docker.
 - [ ] Page lue / pratiquée
 
 #### 43. Ansible (connection plugin)
-- **Lien :** `/docs/conteneurs/moteurs-conteneurs/incus/ansible/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/incus/ansible/](https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/incus/ansible/)
 - **Pourquoi ici :** Autres moteurs (Podman, containerd, Incus/LXC) après bases Docker. La page « Ansible (connection plugin) » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Ansible (connection plugin)
@@ -381,7 +381,7 @@ Paradigme différent des conteneurs applicatifs OCI ; après Docker.
 - [ ] Page lue / pratiquée
 
 #### 44. Automatisation des images
-- **Lien :** `/docs/conteneurs/moteurs-conteneurs/incus/automatisation-images/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/incus/automatisation-images/](https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/incus/automatisation-images/)
 - **Pourquoi ici :** Autres moteurs (Podman, containerd, Incus/LXC) après bases Docker. La page « Automatisation des images » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Automatisation des images
@@ -389,7 +389,7 @@ Paradigme différent des conteneurs applicatifs OCI ; après Docker.
 - [ ] Page lue / pratiquée
 
 #### 45. Stockage partagé CephFS
-- **Lien :** `/docs/conteneurs/moteurs-conteneurs/incus/cephfs/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/incus/cephfs/](https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/incus/cephfs/)
 - **Pourquoi ici :** Autres moteurs (Podman, containerd, Incus/LXC) après bases Docker. La page « Stockage partagé CephFS » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Stockage partagé CephFS
@@ -397,7 +397,7 @@ Paradigme différent des conteneurs applicatifs OCI ; après Docker.
 - [ ] Page lue / pratiquée
 
 #### 46. Cluster Incus (HA multi-nœuds)
-- **Lien :** `/docs/conteneurs/moteurs-conteneurs/incus/clustering/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/incus/clustering/](https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/incus/clustering/)
 - **Pourquoi ici :** Autres moteurs (Podman, containerd, Incus/LXC) après bases Docker. La page « Cluster Incus (HA multi-nœuds) » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Cluster Incus (HA multi-nœuds)
@@ -405,7 +405,7 @@ Paradigme différent des conteneurs applicatifs OCI ; après Docker.
 - [ ] Page lue / pratiquée
 
 #### 47. Conteneurs OCI (Docker)
-- **Lien :** `/docs/conteneurs/moteurs-conteneurs/incus/conteneurs-oci/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/incus/conteneurs-oci/](https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/incus/conteneurs-oci/)
 - **Pourquoi ici :** Autres moteurs (Podman, containerd, Incus/LXC) après bases Docker. La page « Conteneurs OCI (Docker) » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Conteneurs OCI (Docker)
@@ -413,7 +413,7 @@ Paradigme différent des conteneurs applicatifs OCI ; après Docker.
 - [ ] Page lue / pratiquée
 
 #### 48. Debug d'une VM au boot
-- **Lien :** `/docs/conteneurs/moteurs-conteneurs/incus/debug-vm-boot/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/incus/debug-vm-boot/](https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/incus/debug-vm-boot/)
 - **Pourquoi ici :** Autres moteurs (Podman, containerd, Incus/LXC) après bases Docker. La page « Debug d'une VM au boot » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Debug d'une VM au boot
@@ -421,7 +421,7 @@ Paradigme différent des conteneurs applicatifs OCI ; après Docker.
 - [ ] Page lue / pratiquée
 
 #### 49. GPU (NVIDIA passthrough)
-- **Lien :** `/docs/conteneurs/moteurs-conteneurs/incus/gpu/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/incus/gpu/](https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/incus/gpu/)
 - **Pourquoi ici :** Autres moteurs (Podman, containerd, Incus/LXC) après bases Docker. La page « GPU (NVIDIA passthrough) » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - GPU (NVIDIA passthrough)
@@ -429,7 +429,7 @@ Paradigme différent des conteneurs applicatifs OCI ; après Docker.
 - [ ] Page lue / pratiquée
 
 #### 50. Importer une machine (incus-migrate)
-- **Lien :** `/docs/conteneurs/moteurs-conteneurs/incus/incus-migrate/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/incus/incus-migrate/](https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/incus/incus-migrate/)
 - **Pourquoi ici :** Autres moteurs (Podman, containerd, Incus/LXC) après bases Docker. La page « Importer une machine (incus-migrate) » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Importer une machine (incus-migrate)
@@ -437,7 +437,7 @@ Paradigme différent des conteneurs applicatifs OCI ; après Docker.
 - [ ] Page lue / pratiquée
 
 #### 51. Cluster Incus OS : rôles et HA
-- **Lien :** `/docs/conteneurs/moteurs-conteneurs/incus/incus-os-cluster-ha/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/incus/incus-os-cluster-ha/](https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/incus/incus-os-cluster-ha/)
 - **Pourquoi ici :** Autres moteurs (Podman, containerd, Incus/LXC) après bases Docker. La page « Cluster Incus OS : rôles et HA » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Cluster Incus OS : rôles et HA
@@ -445,7 +445,7 @@ Paradigme différent des conteneurs applicatifs OCI ; après Docker.
 - [ ] Page lue / pratiquée
 
 #### 52. Workers et nœuds distants
-- **Lien :** `/docs/conteneurs/moteurs-conteneurs/incus/incus-os-cluster-workers/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/incus/incus-os-cluster-workers/](https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/incus/incus-os-cluster-workers/)
 - **Pourquoi ici :** Autres moteurs (Podman, containerd, Incus/LXC) après bases Docker. La page « Workers et nœuds distants » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Workers et nœuds distants
@@ -453,7 +453,7 @@ Paradigme différent des conteneurs applicatifs OCI ; après Docker.
 - [ ] Page lue / pratiquée
 
 #### 53. Mises à jour A/B et rollback
-- **Lien :** `/docs/conteneurs/moteurs-conteneurs/incus/incus-os-mises-a-jour/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/incus/incus-os-mises-a-jour/](https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/incus/incus-os-mises-a-jour/)
 - **Pourquoi ici :** Autres moteurs (Podman, containerd, Incus/LXC) après bases Docker. La page « Mises à jour A/B et rollback » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Mises à jour A/B et rollback
@@ -461,7 +461,7 @@ Paradigme différent des conteneurs applicatifs OCI ; après Docker.
 - [ ] Page lue / pratiquée
 
 #### 54. Sauvegarde et supervision
-- **Lien :** `/docs/conteneurs/moteurs-conteneurs/incus/incus-os-sauvegarde-supervision/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/incus/incus-os-sauvegarde-supervision/](https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/incus/incus-os-sauvegarde-supervision/)
 - **Pourquoi ici :** Autres moteurs (Podman, containerd, Incus/LXC) après bases Docker. La page « Sauvegarde et supervision » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Sauvegarde et supervision
@@ -469,7 +469,7 @@ Paradigme différent des conteneurs applicatifs OCI ; après Docker.
 - [ ] Page lue / pratiquée
 
 #### 55. Tailscale sur les nœuds
-- **Lien :** `/docs/conteneurs/moteurs-conteneurs/incus/incus-os-tailscale/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/incus/incus-os-tailscale/](https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/incus/incus-os-tailscale/)
 - **Pourquoi ici :** Autres moteurs (Podman, containerd, Incus/LXC) après bases Docker. La page « Tailscale sur les nœuds » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Tailscale sur les nœuds
@@ -477,7 +477,7 @@ Paradigme différent des conteneurs applicatifs OCI ; après Docker.
 - [ ] Page lue / pratiquée
 
 #### 56. Incus OS sans interface
-- **Lien :** `/docs/conteneurs/moteurs-conteneurs/incus/incus-os/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/incus/incus-os/](https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/incus/incus-os/)
 - **Pourquoi ici :** Autres moteurs (Podman, containerd, Incus/LXC) après bases Docker. La page « Incus OS sans interface » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Incus OS sans interface
@@ -485,7 +485,7 @@ Paradigme différent des conteneurs applicatifs OCI ; après Docker.
 - [ ] Page lue / pratiquée
 
 #### 57. Incus vs Docker
-- **Lien :** `/docs/conteneurs/moteurs-conteneurs/incus/incus-vs-docker/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/incus/incus-vs-docker/](https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/incus/incus-vs-docker/)
 - **Pourquoi ici :** Autres moteurs (Podman, containerd, Incus/LXC) après bases Docker. La page « Incus vs Docker » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Incus vs Docker
@@ -493,7 +493,7 @@ Paradigme différent des conteneurs applicatifs OCI ; après Docker.
 - [ ] Page lue / pratiquée
 
 #### 58. Installer Incus
-- **Lien :** `/docs/conteneurs/moteurs-conteneurs/incus/installation/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/incus/installation/](https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/incus/installation/)
 - **Pourquoi ici :** Autres moteurs (Podman, containerd, Incus/LXC) après bases Docker. La page « Installer Incus » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Installer Incus
@@ -501,7 +501,7 @@ Paradigme différent des conteneurs applicatifs OCI ; après Docker.
 - [ ] Page lue / pratiquée
 
 #### 59. Gestion des instances
-- **Lien :** `/docs/conteneurs/moteurs-conteneurs/incus/instances/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/incus/instances/](https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/incus/instances/)
 - **Pourquoi ici :** Autres moteurs (Podman, containerd, Incus/LXC) après bases Docker. La page « Gestion des instances » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Gestion des instances
@@ -509,7 +509,7 @@ Paradigme différent des conteneurs applicatifs OCI ; après Docker.
 - [ ] Page lue / pratiquée
 
 #### 60. Migrer depuis LXD
-- **Lien :** `/docs/conteneurs/moteurs-conteneurs/incus/migration-lxd/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/incus/migration-lxd/](https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/incus/migration-lxd/)
 - **Pourquoi ici :** Autres moteurs (Podman, containerd, Incus/LXC) après bases Docker. La page « Migrer depuis LXD » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Migrer depuis LXD
@@ -517,7 +517,7 @@ Paradigme différent des conteneurs applicatifs OCI ; après Docker.
 - [ ] Page lue / pratiquée
 
 #### 61. Migration Manager (VMware)
-- **Lien :** `/docs/conteneurs/moteurs-conteneurs/incus/migration-manager/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/incus/migration-manager/](https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/incus/migration-manager/)
 - **Pourquoi ici :** Autres moteurs (Podman, containerd, Incus/LXC) après bases Docker. La page « Migration Manager (VMware) » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Migration Manager (VMware)
@@ -525,7 +525,7 @@ Paradigme différent des conteneurs applicatifs OCI ; après Docker.
 - [ ] Page lue / pratiquée
 
 #### 62. Cloud privé multi-tenant
-- **Lien :** `/docs/conteneurs/moteurs-conteneurs/incus/multi-tenant/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/incus/multi-tenant/](https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/incus/multi-tenant/)
 - **Pourquoi ici :** Autres moteurs (Podman, containerd, Incus/LXC) après bases Docker. La page « Cloud privé multi-tenant » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Cloud privé multi-tenant
@@ -533,7 +533,7 @@ Paradigme différent des conteneurs applicatifs OCI ; après Docker.
 - [ ] Page lue / pratiquée
 
 #### 63. Operations Center (flotte)
-- **Lien :** `/docs/conteneurs/moteurs-conteneurs/incus/operations-center/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/incus/operations-center/](https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/incus/operations-center/)
 - **Pourquoi ici :** Autres moteurs (Podman, containerd, Incus/LXC) après bases Docker. La page « Operations Center (flotte) » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Operations Center (flotte)
@@ -541,7 +541,7 @@ Paradigme différent des conteneurs applicatifs OCI ; après Docker.
 - [ ] Page lue / pratiquée
 
 #### 64. Mon parcours
-- **Lien :** `/docs/conteneurs/moteurs-conteneurs/incus/parcours/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/incus/parcours/](https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/incus/parcours/)
 - **Pourquoi ici :** Autres moteurs (Podman, containerd, Incus/LXC) après bases Docker. La page « Mon parcours » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Mon parcours
@@ -549,7 +549,7 @@ Paradigme différent des conteneurs applicatifs OCI ; après Docker.
 - [ ] Page lue / pratiquée
 
 #### 65. Premiers pas
-- **Lien :** `/docs/conteneurs/moteurs-conteneurs/incus/premiers-pas/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/incus/premiers-pas/](https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/incus/premiers-pas/)
 - **Pourquoi ici :** Autres moteurs (Podman, containerd, Incus/LXC) après bases Docker. La page « Premiers pas » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Premiers pas
@@ -557,7 +557,7 @@ Paradigme différent des conteneurs applicatifs OCI ; après Docker.
 - [ ] Page lue / pratiquée
 
 #### 66. Profils et projets
-- **Lien :** `/docs/conteneurs/moteurs-conteneurs/incus/profils-projets/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/incus/profils-projets/](https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/incus/profils-projets/)
 - **Pourquoi ici :** Autres moteurs (Podman, containerd, Incus/LXC) après bases Docker. La page « Profils et projets » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Profils et projets
@@ -565,7 +565,7 @@ Paradigme différent des conteneurs applicatifs OCI ; après Docker.
 - [ ] Page lue / pratiquée
 
 #### 67. Network ACL (Security Groups)
-- **Lien :** `/docs/conteneurs/moteurs-conteneurs/incus/reseau-acl/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/incus/reseau-acl/](https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/incus/reseau-acl/)
 - **Pourquoi ici :** Autres moteurs (Podman, containerd, Incus/LXC) après bases Docker. La page « Network ACL (Security Groups) » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Network ACL (Security Groups)
@@ -573,7 +573,7 @@ Paradigme différent des conteneurs applicatifs OCI ; après Docker.
 - [ ] Page lue / pratiquée
 
 #### 68. Réseau OVN et load balancers
-- **Lien :** `/docs/conteneurs/moteurs-conteneurs/incus/reseau-ovn/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/incus/reseau-ovn/](https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/incus/reseau-ovn/)
 - **Pourquoi ici :** Autres moteurs (Podman, containerd, Incus/LXC) après bases Docker. La page « Réseau OVN et load balancers » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Réseau OVN et load balancers
@@ -581,7 +581,7 @@ Paradigme différent des conteneurs applicatifs OCI ; après Docker.
 - [ ] Page lue / pratiquée
 
 #### 69. Réseau : bridge et NAT
-- **Lien :** `/docs/conteneurs/moteurs-conteneurs/incus/reseau/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/incus/reseau/](https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/incus/reseau/)
 - **Pourquoi ici :** Autres moteurs (Podman, containerd, Incus/LXC) après bases Docker. La page « Réseau : bridge et NAT » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Réseau : bridge et NAT
@@ -589,7 +589,7 @@ Paradigme différent des conteneurs applicatifs OCI ; après Docker.
 - [ ] Page lue / pratiquée
 
 #### 70. Sécuriser Incus
-- **Lien :** `/docs/conteneurs/moteurs-conteneurs/incus/securisation/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/incus/securisation/](https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/incus/securisation/)
 - **Pourquoi ici :** Autres moteurs (Podman, containerd, Incus/LXC) après bases Docker. La page « Sécuriser Incus » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Sécuriser Incus
@@ -597,7 +597,7 @@ Paradigme différent des conteneurs applicatifs OCI ; après Docker.
 - [ ] Page lue / pratiquée
 
 #### 71. Stockage : pools et volumes
-- **Lien :** `/docs/conteneurs/moteurs-conteneurs/incus/storage/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/incus/storage/](https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/incus/storage/)
 - **Pourquoi ici :** Autres moteurs (Podman, containerd, Incus/LXC) après bases Docker. La page « Stockage : pools et volumes » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Stockage : pools et volumes
@@ -605,7 +605,7 @@ Paradigme différent des conteneurs applicatifs OCI ; après Docker.
 - [ ] Page lue / pratiquée
 
 #### 72. Terraform : déployer une 3-tiers
-- **Lien :** `/docs/conteneurs/moteurs-conteneurs/incus/terraform-3-tiers/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/incus/terraform-3-tiers/](https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/incus/terraform-3-tiers/)
 - **Pourquoi ici :** Autres moteurs (Podman, containerd, Incus/LXC) après bases Docker. La page « Terraform : déployer une 3-tiers » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Terraform : déployer une 3-tiers
@@ -613,7 +613,7 @@ Paradigme différent des conteneurs applicatifs OCI ; après Docker.
 - [ ] Page lue / pratiquée
 
 #### 73. Terraform (provider lxc/incus)
-- **Lien :** `/docs/conteneurs/moteurs-conteneurs/incus/terraform/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/incus/terraform/](https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/incus/terraform/)
 - **Pourquoi ici :** Autres moteurs (Podman, containerd, Incus/LXC) après bases Docker. La page « Terraform (provider lxc/incus) » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Terraform (provider lxc/incus)
@@ -621,7 +621,7 @@ Paradigme différent des conteneurs applicatifs OCI ; après Docker.
 - [ ] Page lue / pratiquée
 
 #### 74. Accès distant et UI
-- **Lien :** `/docs/conteneurs/moteurs-conteneurs/incus/ui-remote/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/incus/ui-remote/](https://blog.stephane-robert.info/docs/conteneurs/moteurs-conteneurs/incus/ui-remote/)
 - **Pourquoi ici :** Autres moteurs (Podman, containerd, Incus/LXC) après bases Docker. La page « Accès distant et UI » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Accès distant et UI
@@ -632,7 +632,7 @@ Paradigme différent des conteneurs applicatifs OCI ; après Docker.
 Distribuer les images construites.
 
 #### 75. registry
-- **Lien :** `/docs/conteneurs/registres/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/registres/](https://blog.stephane-robert.info/docs/conteneurs/registres/)
 - **Pourquoi ici :** Registres : publier et tirer des images — pont vers l'orchestration. « registry » sert de carte ou de jalon : lire pour se repérer, puis enchaîner sur les pages filles dans l'ordre indiqué.
 - **À retenir :**
   - registry
@@ -640,7 +640,7 @@ Distribuer les images construites.
 - [ ] Page lue / pratiquée
 
 #### 76. Distribution (Docker Registry)
-- **Lien :** `/docs/conteneurs/registres/distribution/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/registres/distribution/](https://blog.stephane-robert.info/docs/conteneurs/registres/distribution/)
 - **Pourquoi ici :** Registres : publier et tirer des images — pont vers l'orchestration. La page « Distribution (Docker Registry) » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Distribution (Docker Registry)
@@ -648,7 +648,7 @@ Distribuer les images construites.
 - [ ] Page lue / pratiquée
 
 #### 77. Docker Hub
-- **Lien :** `/docs/conteneurs/registres/docker-hub/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/registres/docker-hub/](https://blog.stephane-robert.info/docs/conteneurs/registres/docker-hub/)
 - **Pourquoi ici :** Registres : publier et tirer des images — pont vers l'orchestration. La page « Docker Hub » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Docker Hub
@@ -656,7 +656,7 @@ Distribuer les images construites.
 - [ ] Page lue / pratiquée
 
 #### 78. Varnish Orca
-- **Lien :** `/docs/conteneurs/registres/orca/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/registres/orca/](https://blog.stephane-robert.info/docs/conteneurs/registres/orca/)
 - **Pourquoi ici :** Registres : publier et tirer des images — pont vers l'orchestration. La page « Varnish Orca » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Varnish Orca
@@ -664,7 +664,7 @@ Distribuer les images construites.
 - [ ] Page lue / pratiquée
 
 #### 79. Quay.io
-- **Lien :** `/docs/conteneurs/registres/quay-io/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/registres/quay-io/](https://blog.stephane-robert.info/docs/conteneurs/registres/quay-io/)
 - **Pourquoi ici :** Registres : publier et tirer des images — pont vers l'orchestration. La page « Quay.io » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Quay.io
@@ -677,7 +677,7 @@ Compose → labs locaux → Kubernetes progressif → outillage → catalogues.
 **D1 — Compose, Swarm et labs locaux**
 
 #### 80. C'est quoi un orchestrateur de conteneurs ?
-- **Lien :** `/docs/conteneurs/orchestrateurs/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/)
 - **Pourquoi ici :** Carte des orchestrateurs. « C'est quoi un orchestrateur de conteneurs ? » sert de carte ou de jalon : lire pour se repérer, puis enchaîner sur les pages filles dans l'ordre indiqué.
 - **À retenir :**
   - C'est quoi un orchestrateur de conteneurs ?
@@ -685,7 +685,7 @@ Compose → labs locaux → Kubernetes progressif → outillage → catalogues.
 - [ ] Page lue / pratiquée
 
 #### 81. Docker Compose
-- **Lien :** `/docs/conteneurs/orchestrateurs/docker-compose/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/docker-compose/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/docker-compose/)
 - **Pourquoi ici :** Orchestration simple (Compose, Swarm) avant Kubernetes. La page « Docker Compose » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Docker Compose
@@ -693,7 +693,7 @@ Compose → labs locaux → Kubernetes progressif → outillage → catalogues.
 - [ ] Page lue / pratiquée
 
 #### 82. Docker Swarm
-- **Lien :** `/docs/conteneurs/orchestrateurs/docker-swarm/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/docker-swarm/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/docker-swarm/)
 - **Pourquoi ici :** Orchestration simple (Compose, Swarm) avant Kubernetes. La page « Docker Swarm » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Docker Swarm
@@ -701,7 +701,7 @@ Compose → labs locaux → Kubernetes progressif → outillage → catalogues.
 - [ ] Page lue / pratiquée
 
 #### 83. Minikube
-- **Lien :** `/docs/conteneurs/orchestrateurs/minikube/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/minikube/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/minikube/)
 - **Pourquoi ici :** Clusters locaux (minikube, kind, k3d, k3s) pour pratiquer sans cloud. La page « Minikube » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Minikube
@@ -709,7 +709,7 @@ Compose → labs locaux → Kubernetes progressif → outillage → catalogues.
 - [ ] Page lue / pratiquée
 
 #### 84. Kind
-- **Lien :** `/docs/conteneurs/orchestrateurs/kind/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kind/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kind/)
 - **Pourquoi ici :** Clusters locaux (minikube, kind, k3d, k3s) pour pratiquer sans cloud. La page « Kind » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Kind
@@ -717,7 +717,7 @@ Compose → labs locaux → Kubernetes progressif → outillage → catalogues.
 - [ ] Page lue / pratiquée
 
 #### 85. K3d
-- **Lien :** `/docs/conteneurs/orchestrateurs/k3d/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/k3d/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/k3d/)
 - **Pourquoi ici :** Clusters locaux (minikube, kind, k3d, k3s) pour pratiquer sans cloud. La page « K3d » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - K3d
@@ -725,7 +725,7 @@ Compose → labs locaux → Kubernetes progressif → outillage → catalogues.
 - [ ] Page lue / pratiquée
 
 #### 86. K3s
-- **Lien :** `/docs/conteneurs/orchestrateurs/k3s/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/k3s/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/k3s/)
 - **Pourquoi ici :** Clusters locaux (minikube, kind, k3d, k3s) pour pratiquer sans cloud. La page « K3s » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - K3s
@@ -733,7 +733,7 @@ Compose → labs locaux → Kubernetes progressif → outillage → catalogues.
 - [ ] Page lue / pratiquée
 
 #### 87. Mixer des nodes ARM et AMD64
-- **Lien :** `/docs/conteneurs/orchestrateurs/k3s/mix-architectures/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/k3s/mix-architectures/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/k3s/mix-architectures/)
 - **Pourquoi ici :** Clusters locaux (minikube, kind, k3d, k3s) pour pratiquer sans cloud. La page « Mixer des nodes ARM et AMD64 » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Mixer des nodes ARM et AMD64
@@ -741,7 +741,7 @@ Compose → labs locaux → Kubernetes progressif → outillage → catalogues.
 - [ ] Page lue / pratiquée
 
 #### 88. Nomad
-- **Lien :** `/docs/conteneurs/orchestrateurs/nomad/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/nomad/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/nomad/)
 - **Pourquoi ici :** Alternative d'orchestration : culture après Compose, avant ou après K8s. La page « Nomad » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Nomad
@@ -749,7 +749,7 @@ Compose → labs locaux → Kubernetes progressif → outillage → catalogues.
 - [ ] Page lue / pratiquée
 
 #### 89. OpenShift
-- **Lien :** `/docs/conteneurs/orchestrateurs/openshift/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/openshift/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/openshift/)
 - **Pourquoi ici :** Distribution K8s opinionated : après bases Kubernetes. La page « OpenShift » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - OpenShift
@@ -760,7 +760,7 @@ Compose → labs locaux → Kubernetes progressif → outillage → catalogues.
 Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous-phase D5).
 
 #### 90. Kubernetes
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/)
 - **Pourquoi ici :** Tronc Kubernetes : architecture, objets de base, manifests. La page « Kubernetes » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Kubernetes
@@ -768,7 +768,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 91. Mon parcours Suivi
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/parcours/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/parcours/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/parcours/)
 - **Pourquoi ici :** Tronc Kubernetes : architecture, objets de base, manifests. La page « Mon parcours Suivi » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Mon parcours Suivi
@@ -776,7 +776,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 92. Introduction
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/fondamentaux/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/fondamentaux/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/fondamentaux/)
 - **Pourquoi ici :** Tronc Kubernetes : architecture, objets de base, manifests. La page « Introduction » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Introduction
@@ -784,7 +784,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 93. Concepts clés
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/fondamentaux/concepts-cles/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/fondamentaux/concepts-cles/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/fondamentaux/concepts-cles/)
 - **Pourquoi ici :** Tronc Kubernetes : architecture, objets de base, manifests. La page « Concepts clés » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Concepts clés
@@ -792,7 +792,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 94. Contrôle des connaissances
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/fondamentaux/controle-connaissances/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/fondamentaux/controle-connaissances/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/fondamentaux/controle-connaissances/)
 - **Pourquoi ici :** Tronc Kubernetes : architecture, objets de base, manifests. « Contrôle des connaissances » valide ce qui précède : à faire avant de passer à la sous-phase suivante.
 - **À retenir :**
   - Contrôle des connaissances
@@ -800,7 +800,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 95. Premier cluster (k3d/Kind)
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/fondamentaux/premier-cluster/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/fondamentaux/premier-cluster/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/fondamentaux/premier-cluster/)
 - **Pourquoi ici :** Tronc Kubernetes : architecture, objets de base, manifests. La page « Premier cluster (k3d/Kind) » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Premier cluster (k3d/Kind)
@@ -808,7 +808,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 96. Premier déploiement
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/fondamentaux/premier-deploiement/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/fondamentaux/premier-deploiement/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/fondamentaux/premier-deploiement/)
 - **Pourquoi ici :** Tronc Kubernetes : architecture, objets de base, manifests. La page « Premier déploiement » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Premier déploiement
@@ -816,7 +816,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 97. Architecture Kubernetes
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/architecture/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/architecture/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/architecture/)
 - **Pourquoi ici :** Tronc Kubernetes : architecture, objets de base, manifests. La page « Architecture Kubernetes » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Architecture Kubernetes
@@ -824,7 +824,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 98. Le Control Plane
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/control-plan/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/control-plan/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/control-plan/)
 - **Pourquoi ici :** Tronc Kubernetes : architecture, objets de base, manifests. La page « Le Control Plane » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Le Control Plane
@@ -832,7 +832,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 99. Les Worker Nodes
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/worker-nodes/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/worker-nodes/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/worker-nodes/)
 - **Pourquoi ici :** Tronc Kubernetes : architecture, objets de base, manifests. La page « Les Worker Nodes » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Les Worker Nodes
@@ -840,7 +840,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 100. Options d'installation
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/installation/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/installation/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/installation/)
 - **Pourquoi ici :** Tronc Kubernetes : architecture, objets de base, manifests. La page « Options d'installation » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Options d'installation
@@ -848,7 +848,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 101. Installer avec kubeadm
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/kubeadm/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/kubeadm/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/kubeadm/)
 - **Pourquoi ici :** Tronc Kubernetes : architecture, objets de base, manifests. La page « Installer avec kubeadm » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Installer avec kubeadm
@@ -856,7 +856,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 102. Installer avec Kubespray
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/kubespray/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/kubespray/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/kubespray/)
 - **Pourquoi ici :** Tronc Kubernetes : architecture, objets de base, manifests. La page « Installer avec Kubespray » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Installer avec Kubespray
@@ -864,7 +864,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 103. Installer avec k0s
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/k0s/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/k0s/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/k0s/)
 - **Pourquoi ici :** Tronc Kubernetes : architecture, objets de base, manifests. La page « Installer avec k0s » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Installer avec k0s
@@ -872,7 +872,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 104. Installer avec RKE2
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/rke2/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/rke2/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/rke2/)
 - **Pourquoi ici :** Tronc Kubernetes : architecture, objets de base, manifests. La page « Installer avec RKE2 » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Installer avec RKE2
@@ -880,7 +880,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 105. Installer avec Talos Linux
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/talos/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/talos/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/talos/)
 - **Pourquoi ici :** Tronc Kubernetes : architecture, objets de base, manifests. La page « Installer avec Talos Linux » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Installer avec Talos Linux
@@ -888,7 +888,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 106. Écrire des Manifests
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/ecrire-manifests/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/ecrire-manifests/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/ecrire-manifests/)
 - **Pourquoi ici :** Tronc Kubernetes : architecture, objets de base, manifests. La page « Écrire des Manifests » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Écrire des Manifests
@@ -896,7 +896,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 107. Les ressources Kubernetes
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/ressources-base/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/ressources-base/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/ressources-base/)
 - **Pourquoi ici :** Tronc Kubernetes : architecture, objets de base, manifests. La page « Les ressources Kubernetes » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Les ressources Kubernetes
@@ -904,7 +904,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 108. Controle des Connaissances
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/bilan-ressources-base/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/bilan-ressources-base/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/bilan-ressources-base/)
 - **Pourquoi ici :** Tronc Kubernetes : architecture, objets de base, manifests. La page « Controle des Connaissances » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Controle des Connaissances
@@ -912,7 +912,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 109. Les Pods
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/pods/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/pods/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/pods/)
 - **Pourquoi ici :** Tronc Kubernetes : architecture, objets de base, manifests. La page « Les Pods » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Les Pods
@@ -920,7 +920,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 110. Les Namespaces
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/namespaces/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/namespaces/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/namespaces/)
 - **Pourquoi ici :** Tronc Kubernetes : architecture, objets de base, manifests. La page « Les Namespaces » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Les Namespaces
@@ -928,7 +928,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 111. Les ConfigMaps
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/configmaps/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/configmaps/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/configmaps/)
 - **Pourquoi ici :** Tronc Kubernetes : architecture, objets de base, manifests. La page « Les ConfigMaps » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Les ConfigMaps
@@ -936,7 +936,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 112. Les Secrets
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/secrets/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/secrets/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/secrets/)
 - **Pourquoi ici :** Tronc Kubernetes : architecture, objets de base, manifests. La page « Les Secrets » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Les Secrets
@@ -944,7 +944,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 113. Les ReplicaSets
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/replicasets/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/replicasets/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/replicasets/)
 - **Pourquoi ici :** Tronc Kubernetes : architecture, objets de base, manifests. La page « Les ReplicaSets » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Les ReplicaSets
@@ -952,7 +952,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 114. Les Deployments
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/deployments/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/deployments/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/deployments/)
 - **Pourquoi ici :** Tronc Kubernetes : architecture, objets de base, manifests. La page « Les Deployments » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Les Deployments
@@ -960,7 +960,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 115. Les DaemonSets
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/daemonsets/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/daemonsets/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/daemonsets/)
 - **Pourquoi ici :** Tronc Kubernetes : architecture, objets de base, manifests. La page « Les DaemonSets » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Les DaemonSets
@@ -968,7 +968,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 116. Les StatefulSets
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/statefulsets/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/statefulsets/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/statefulsets/)
 - **Pourquoi ici :** Tronc Kubernetes : architecture, objets de base, manifests. La page « Les StatefulSets » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Les StatefulSets
@@ -976,7 +976,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 117. Les Jobs et CronJobs
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/jobs-cronjobs/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/jobs-cronjobs/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/jobs-cronjobs/)
 - **Pourquoi ici :** Tronc Kubernetes : architecture, objets de base, manifests. La page « Les Jobs et CronJobs » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Les Jobs et CronJobs
@@ -984,7 +984,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 118. Les Services
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/services/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/services/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/services/)
 - **Pourquoi ici :** Tronc Kubernetes : architecture, objets de base, manifests. La page « Les Services » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Les Services
@@ -992,7 +992,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 119. Les Ingress
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/ingress/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/ingress/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/ingress/)
 - **Pourquoi ici :** Tronc Kubernetes : architecture, objets de base, manifests. La page « Les Ingress » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Les Ingress
@@ -1000,7 +1000,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 120. Gateway API
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/gateway-api/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/gateway-api/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/gateway-api/)
 - **Pourquoi ici :** Tronc Kubernetes : architecture, objets de base, manifests. La page « Gateway API » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Gateway API
@@ -1008,7 +1008,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 121. Init Containers et Sidecars
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/init-containers-sidecars/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/init-containers-sidecars/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/init-containers-sidecars/)
 - **Pourquoi ici :** Tronc Kubernetes : architecture, objets de base, manifests. La page « Init Containers et Sidecars » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Init Containers et Sidecars
@@ -1016,7 +1016,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 122. Définir les Probes
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/probes/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/probes/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/probes/)
 - **Pourquoi ici :** Tronc Kubernetes : architecture, objets de base, manifests. La page « Définir les Probes » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Définir les Probes
@@ -1024,7 +1024,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 123. Gérer les images conteneurs
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/images-kubernetes/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/images-kubernetes/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/images-kubernetes/)
 - **Pourquoi ici :** Tronc Kubernetes : architecture, objets de base, manifests. La page « Gérer les images conteneurs » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Gérer les images conteneurs
@@ -1032,7 +1032,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 124. ServiceAccounts pour développeurs
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/serviceaccounts-developpeurs/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/serviceaccounts-developpeurs/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/serviceaccounts-developpeurs/)
 - **Pourquoi ici :** Tronc Kubernetes : architecture, objets de base, manifests. La page « ServiceAccounts pour développeurs » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - ServiceAccounts pour développeurs
@@ -1042,7 +1042,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 **D3 — Kubernetes (réseau, storage, scale, ops)**
 
 #### 125. CNI, CSI et CRI
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/cni-csi-cri/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/cni-csi-cri/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/cni-csi-cri/)
 - **Pourquoi ici :** Réseau, storage, scaling, ops jour-2 sur le cluster. La page « CNI, CSI et CRI » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - CNI, CSI et CRI
@@ -1050,7 +1050,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 126. Pod Networking
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/pod-networking/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/pod-networking/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/pod-networking/)
 - **Pourquoi ici :** Réseau, storage, scaling, ops jour-2 sur le cluster. La page « Pod Networking » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Pod Networking
@@ -1058,7 +1058,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 127. CoreDNS
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/coredns/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/coredns/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/coredns/)
 - **Pourquoi ici :** Réseau, storage, scaling, ops jour-2 sur le cluster. La page « CoreDNS » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - CoreDNS
@@ -1066,7 +1066,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 128. Cilium (CNI eBPF)
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/cilium/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/cilium/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/cilium/)
 - **Pourquoi ici :** Réseau, storage, scaling, ops jour-2 sur le cluster. La page « Cilium (CNI eBPF) » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Cilium (CNI eBPF)
@@ -1074,7 +1074,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 129. Hubble
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/hubble/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/hubble/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/hubble/)
 - **Pourquoi ici :** Réseau, storage, scaling, ops jour-2 sur le cluster. La page « Hubble » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Hubble
@@ -1082,7 +1082,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 130. Network Policies
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/network-policies/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/network-policies/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/network-policies/)
 - **Pourquoi ici :** Réseau, storage, scaling, ops jour-2 sur le cluster. La page « Network Policies » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Network Policies
@@ -1090,7 +1090,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 131. Introduction au stockage
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/storage/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/storage/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/storage/)
 - **Pourquoi ici :** Réseau, storage, scaling, ops jour-2 sur le cluster. La page « Introduction au stockage » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Introduction au stockage
@@ -1098,7 +1098,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 132. StorageClass
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/storageclass/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/storageclass/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/storageclass/)
 - **Pourquoi ici :** Réseau, storage, scaling, ops jour-2 sur le cluster. La page « StorageClass » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - StorageClass
@@ -1106,7 +1106,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 133. Volumes applicatifs
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/volumes-applicatifs/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/volumes-applicatifs/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/volumes-applicatifs/)
 - **Pourquoi ici :** Réseau, storage, scaling, ops jour-2 sur le cluster. La page « Volumes applicatifs » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Volumes applicatifs
@@ -1114,7 +1114,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 134. Requests et Limits
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/requests-limits/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/requests-limits/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/requests-limits/)
 - **Pourquoi ici :** Réseau, storage, scaling, ops jour-2 sur le cluster. La page « Requests et Limits » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Requests et Limits
@@ -1122,7 +1122,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 135. ResourceQuota et LimitRange
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/resource-quotas/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/resource-quotas/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/resource-quotas/)
 - **Pourquoi ici :** Réseau, storage, scaling, ops jour-2 sur le cluster. La page « ResourceQuota et LimitRange » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - ResourceQuota et LimitRange
@@ -1130,7 +1130,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 136. Horizontal Pod Autoscaler (HPA)
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/horizontal-pod-scaling/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/horizontal-pod-scaling/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/horizontal-pod-scaling/)
 - **Pourquoi ici :** Réseau, storage, scaling, ops jour-2 sur le cluster. La page « Horizontal Pod Autoscaler (HPA) » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Horizontal Pod Autoscaler (HPA)
@@ -1138,7 +1138,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 137. Vertical Pod Autoscaler (VPA)
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/vertical-pod-scaling/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/vertical-pod-scaling/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/vertical-pod-scaling/)
 - **Pourquoi ici :** Réseau, storage, scaling, ops jour-2 sur le cluster. La page « Vertical Pod Autoscaler (VPA) » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Vertical Pod Autoscaler (VPA)
@@ -1146,7 +1146,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 138. Introduction à l'Autoscaling
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/autoscaling/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/autoscaling/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/autoscaling/)
 - **Pourquoi ici :** Réseau, storage, scaling, ops jour-2 sur le cluster. La page « Introduction à l'Autoscaling » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Introduction à l'Autoscaling
@@ -1154,7 +1154,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 139. Assigner des nodes aux Pods
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/affinity-toleration-taint/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/affinity-toleration-taint/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/affinity-toleration-taint/)
 - **Pourquoi ici :** Réseau, storage, scaling, ops jour-2 sur le cluster. La page « Assigner des nodes aux Pods » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Assigner des nodes aux Pods
@@ -1162,7 +1162,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 140. Scheduling avancé
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/scheduling-avance/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/scheduling-avance/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/scheduling-avance/)
 - **Pourquoi ici :** Réseau, storage, scaling, ops jour-2 sur le cluster. La page « Scheduling avancé » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Scheduling avancé
@@ -1170,7 +1170,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 141. Rolling Updates et Rollbacks
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/rolling-updates-rollbacks/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/rolling-updates-rollbacks/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/rolling-updates-rollbacks/)
 - **Pourquoi ici :** Réseau, storage, scaling, ops jour-2 sur le cluster. La page « Rolling Updates et Rollbacks » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Rolling Updates et Rollbacks
@@ -1178,7 +1178,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 142. etcd
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/etcd/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/etcd/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/etcd/)
 - **Pourquoi ici :** Réseau, storage, scaling, ops jour-2 sur le cluster. La page « etcd » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - etcd
@@ -1186,7 +1186,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 143. Haute disponibilité
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/ha-control-plane/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/ha-control-plane/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/ha-control-plane/)
 - **Pourquoi ici :** Réseau, storage, scaling, ops jour-2 sur le cluster. La page « Haute disponibilité » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Haute disponibilité
@@ -1194,7 +1194,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 144. Backup et Restore
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/backup-restore/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/backup-restore/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/backup-restore/)
 - **Pourquoi ici :** Réseau, storage, scaling, ops jour-2 sur le cluster. La page « Backup et Restore » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Backup et Restore
@@ -1202,7 +1202,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 145. Troubleshooting cluster
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/cluster-troubleshooting/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/cluster-troubleshooting/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/cluster-troubleshooting/)
 - **Pourquoi ici :** Réseau, storage, scaling, ops jour-2 sur le cluster. La page « Troubleshooting cluster » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Troubleshooting cluster
@@ -1210,7 +1210,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 146. Débugger une application
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/debug-applications/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/debug-applications/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/debug-applications/)
 - **Pourquoi ici :** Réseau, storage, scaling, ops jour-2 sur le cluster. La page « Débugger une application » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Débugger une application
@@ -1218,7 +1218,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 147. Gérer les dépréciations d'API
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/api-deprecations/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/api-deprecations/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/api-deprecations/)
 - **Pourquoi ici :** Réseau, storage, scaling, ops jour-2 sur le cluster. La page « Gérer les dépréciations d'API » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Gérer les dépréciations d'API
@@ -1226,7 +1226,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 148. Les Opérateurs
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/operators/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/operators/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/operators/)
 - **Pourquoi ici :** Réseau, storage, scaling, ops jour-2 sur le cluster. La page « Les Opérateurs » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Les Opérateurs
@@ -1234,7 +1234,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 149. Operators et CRDs pour développeurs
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/operators-crds-developpeurs/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/operators-crds-developpeurs/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/operators-crds-developpeurs/)
 - **Pourquoi ici :** Réseau, storage, scaling, ops jour-2 sur le cluster. La page « Operators et CRDs pour développeurs » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Operators et CRDs pour développeurs
@@ -1242,7 +1242,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 150. cert-manager
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/cert-manager/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/cert-manager/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/cert-manager/)
 - **Pourquoi ici :** Réseau, storage, scaling, ops jour-2 sur le cluster. La page « cert-manager » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - cert-manager
@@ -1250,7 +1250,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 151. Vue d'ensemble
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/administration/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/administration/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/administration/)
 - **Pourquoi ici :** Réseau, storage, scaling, ops jour-2 sur le cluster. Vue d'ensemble / jalon « Vue d'ensemble » : survol rapide, l'apprentissage se fait dans les pages suivantes.
 - **À retenir :**
   - Vue d'ensemble
@@ -1258,7 +1258,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 152. Hub — Opérer Kubernetes
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/operer/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/operer/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/operer/)
 - **Pourquoi ici :** Réseau, storage, scaling, ops jour-2 sur le cluster. La page « Hub — Opérer Kubernetes » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Hub — Opérer Kubernetes
@@ -1266,7 +1266,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 153. Analyser les événements
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/operer/analyser-evenements-kubernetes/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/operer/analyser-evenements-kubernetes/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/operer/analyser-evenements-kubernetes/)
 - **Pourquoi ici :** Réseau, storage, scaling, ops jour-2 sur le cluster. La page « Analyser les événements » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Analyser les événements
@@ -1274,7 +1274,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 154. Diagnostiquer un CrashLoopBackOff
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/operer/crashloopbackoff-kubernetes/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/operer/crashloopbackoff-kubernetes/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/operer/crashloopbackoff-kubernetes/)
 - **Pourquoi ici :** Réseau, storage, scaling, ops jour-2 sur le cluster. La page « Diagnostiquer un CrashLoopBackOff » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Diagnostiquer un CrashLoopBackOff
@@ -1282,7 +1282,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 155. Disponibilité applicative
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/operer/disponibilite-applicative-kubernetes/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/operer/disponibilite-applicative-kubernetes/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/operer/disponibilite-applicative-kubernetes/)
 - **Pourquoi ici :** Réseau, storage, scaling, ops jour-2 sur le cluster. La page « Disponibilité applicative » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Disponibilité applicative
@@ -1290,7 +1290,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 156. Présentation
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/operer/fiabiliser-kubernetes/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/operer/fiabiliser-kubernetes/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/operer/fiabiliser-kubernetes/)
 - **Pourquoi ici :** Réseau, storage, scaling, ops jour-2 sur le cluster. La page « Présentation » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Présentation
@@ -1298,7 +1298,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 157. Gérer les nœuds
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/operer/gerer-noeuds-kubernetes/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/operer/gerer-noeuds-kubernetes/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/operer/gerer-noeuds-kubernetes/)
 - **Pourquoi ici :** Réseau, storage, scaling, ops jour-2 sur le cluster. La page « Gérer les nœuds » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Gérer les nœuds
@@ -1306,7 +1306,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 158. Diagnostiquer un ImagePullBackOff
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/operer/imagepullbackoff-kubernetes/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/operer/imagepullbackoff-kubernetes/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/operer/imagepullbackoff-kubernetes/)
 - **Pourquoi ici :** Réseau, storage, scaling, ops jour-2 sur le cluster. La page « Diagnostiquer un ImagePullBackOff » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Diagnostiquer un ImagePullBackOff
@@ -1314,7 +1314,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 159. Présentation
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/operer/incidents-applicatifs/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/operer/incidents-applicatifs/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/operer/incidents-applicatifs/)
 - **Pourquoi ici :** Réseau, storage, scaling, ops jour-2 sur le cluster. La page « Présentation » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Présentation
@@ -1322,7 +1322,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 160. Présentation
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/operer/maintenance-changements/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/operer/maintenance-changements/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/operer/maintenance-changements/)
 - **Pourquoi ici :** Réseau, storage, scaling, ops jour-2 sur le cluster. La page « Présentation » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Présentation
@@ -1330,7 +1330,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 161. Méthode de diagnostic
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/operer/methode-diagnostic-incident-kubernetes/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/operer/methode-diagnostic-incident-kubernetes/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/operer/methode-diagnostic-incident-kubernetes/)
 - **Pourquoi ici :** Réseau, storage, scaling, ops jour-2 sur le cluster. La page « Méthode de diagnostic » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Méthode de diagnostic
@@ -1338,7 +1338,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 162. Mettre à jour un cluster
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/operer/mettre-a-jour-cluster-kubernetes/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/operer/mettre-a-jour-cluster-kubernetes/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/operer/mettre-a-jour-cluster-kubernetes/)
 - **Pourquoi ici :** Réseau, storage, scaling, ops jour-2 sur le cluster. La page « Mettre à jour un cluster » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Mettre à jour un cluster
@@ -1346,7 +1346,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 163. Observer la santé d'un cluster
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/operer/observer-sante-cluster-kubernetes/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/operer/observer-sante-cluster-kubernetes/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/operer/observer-sante-cluster-kubernetes/)
 - **Pourquoi ici :** Réseau, storage, scaling, ops jour-2 sur le cluster. La page « Observer la santé d'un cluster » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Observer la santé d'un cluster
@@ -1354,7 +1354,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 164. Diagnostiquer un Pod Pending
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/operer/pods-pending-kubernetes/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/operer/pods-pending-kubernetes/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/operer/pods-pending-kubernetes/)
 - **Pourquoi ici :** Réseau, storage, scaling, ops jour-2 sur le cluster. La page « Diagnostiquer un Pod Pending » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Diagnostiquer un Pod Pending
@@ -1362,7 +1362,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 165. Préparer une maintenance
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/operer/preparer-maintenance-cluster-kubernetes/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/operer/preparer-maintenance-cluster-kubernetes/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/operer/preparer-maintenance-cluster-kubernetes/)
 - **Pourquoi ici :** Réseau, storage, scaling, ops jour-2 sur le cluster. La page « Préparer une maintenance » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Préparer une maintenance
@@ -1370,7 +1370,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 166. Présentation
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/operer/sre-exploitation-kubernetes/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/operer/sre-exploitation-kubernetes/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/operer/sre-exploitation-kubernetes/)
 - **Pourquoi ici :** Réseau, storage, scaling, ops jour-2 sur le cluster. La page « Présentation » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Présentation
@@ -1378,7 +1378,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 167. Routine d'exploitation
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/operer/taches-quotidiennes-admin-kubernetes/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/operer/taches-quotidiennes-admin-kubernetes/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/operer/taches-quotidiennes-admin-kubernetes/)
 - **Pourquoi ici :** Réseau, storage, scaling, ops jour-2 sur le cluster. La page « Routine d'exploitation » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Routine d'exploitation
@@ -1389,7 +1389,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 À croiser avec `05-securite` (RBAC, policies, supply chain images).
 
 #### 168. Admission Controllers
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/securiser/admission-controllers/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/securiser/admission-controllers/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/securiser/admission-controllers/)
 - **Pourquoi ici :** Sécurité Kubernetes — lien fort avec le dossier `05-securite`. « Admission Controllers » renforce le réflexe DevSecOps ; croiser avec le dossier `05-securite` si besoin.
 - **À retenir :**
   - Admission Controllers
@@ -1397,7 +1397,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 169. AppArmor & Seccomp
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/securiser/apparmor/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/securiser/apparmor/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/securiser/apparmor/)
 - **Pourquoi ici :** Sécurité Kubernetes — lien fort avec le dossier `05-securite`. « AppArmor & Seccomp » renforce le réflexe DevSecOps ; croiser avec le dossier `05-securite` si besoin.
 - **À retenir :**
   - AppArmor & Seccomp
@@ -1405,7 +1405,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 170. Audit Logs
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/securiser/audit-logs/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/securiser/audit-logs/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/securiser/audit-logs/)
 - **Pourquoi ici :** Sécurité Kubernetes — lien fort avec le dossier `05-securite`. « Audit Logs » renforce le réflexe DevSecOps ; croiser avec le dossier `05-securite` si besoin.
 - **À retenir :**
   - Audit Logs
@@ -1413,7 +1413,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 171. CIS Benchmark
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/securiser/cis-benchmark/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/securiser/cis-benchmark/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/securiser/cis-benchmark/)
 - **Pourquoi ici :** Sécurité Kubernetes — lien fort avec le dossier `05-securite`. « CIS Benchmark » renforce le réflexe DevSecOps ; croiser avec le dossier `05-securite` si besoin.
 - **À retenir :**
   - CIS Benchmark
@@ -1421,7 +1421,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 172. Falco vs Tetragon
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/securiser/falco-vs-tetragon/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/securiser/falco-vs-tetragon/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/securiser/falco-vs-tetragon/)
 - **Pourquoi ici :** Sécurité Kubernetes — lien fort avec le dossier `05-securite`. « Falco vs Tetragon » renforce le réflexe DevSecOps ; croiser avec le dossier `05-securite` si besoin.
 - **À retenir :**
   - Falco vs Tetragon
@@ -1429,7 +1429,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 173. Falco
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/securiser/falco/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/securiser/falco/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/securiser/falco/)
 - **Pourquoi ici :** Sécurité Kubernetes — lien fort avec le dossier `05-securite`. « Falco » renforce le réflexe DevSecOps ; croiser avec le dossier `05-securite` si besoin.
 - **À retenir :**
   - Falco
@@ -1437,7 +1437,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 174. Gatekeeper (OPA)
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/securiser/gatekeeper/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/securiser/gatekeeper/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/securiser/gatekeeper/)
 - **Pourquoi ici :** Sécurité Kubernetes — lien fort avec le dossier `05-securite`. « Gatekeeper (OPA) » renforce le réflexe DevSecOps ; croiser avec le dossier `05-securite` si besoin.
 - **À retenir :**
   - Gatekeeper (OPA)
@@ -1445,7 +1445,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 175. Image Scanning (Grype/Trivy)
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/securiser/image-scanning/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/securiser/image-scanning/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/securiser/image-scanning/)
 - **Pourquoi ici :** Sécurité Kubernetes — lien fort avec le dossier `05-securite`. « Image Scanning (Grype/Trivy) » renforce le réflexe DevSecOps ; croiser avec le dossier `05-securite` si besoin.
 - **À retenir :**
   - Image Scanning (Grype/Trivy)
@@ -1453,7 +1453,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 176. Kyverno
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/securiser/kyverno/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/securiser/kyverno/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/securiser/kyverno/)
 - **Pourquoi ici :** Sécurité Kubernetes — lien fort avec le dossier `05-securite`. « Kyverno » renforce le réflexe DevSecOps ; croiser avec le dossier `05-securite` si besoin.
 - **À retenir :**
   - Kyverno
@@ -1461,7 +1461,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 177. mTLS pod-to-pod (Istio)
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/securiser/mtls-pod-to-pod/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/securiser/mtls-pod-to-pod/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/securiser/mtls-pod-to-pod/)
 - **Pourquoi ici :** Sécurité Kubernetes — lien fort avec le dossier `05-securite`. « mTLS pod-to-pod (Istio) » renforce le réflexe DevSecOps ; croiser avec le dossier `05-securite` si besoin.
 - **À retenir :**
   - mTLS pod-to-pod (Istio)
@@ -1469,7 +1469,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 178. Pod Security Standards
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/securiser/pod-security-standards/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/securiser/pod-security-standards/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/securiser/pod-security-standards/)
 - **Pourquoi ici :** Sécurité Kubernetes — lien fort avec le dossier `05-securite`. « Pod Security Standards » renforce le réflexe DevSecOps ; croiser avec le dossier `05-securite` si besoin.
 - **À retenir :**
   - Pod Security Standards
@@ -1477,7 +1477,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 179. Runtime Sandboxes (gVisor, Kata)
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/securiser/runtime-sandboxes/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/securiser/runtime-sandboxes/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/securiser/runtime-sandboxes/)
 - **Pourquoi ici :** Sécurité Kubernetes — lien fort avec le dossier `05-securite`. « Runtime Sandboxes (gVisor, Kata) » renforce le réflexe DevSecOps ; croiser avec le dossier `05-securite` si besoin.
 - **À retenir :**
   - Runtime Sandboxes (gVisor, Kata)
@@ -1485,7 +1485,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 180. Supply Chain Security
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/securiser/supply-chain-security/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/securiser/supply-chain-security/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/securiser/supply-chain-security/)
 - **Pourquoi ici :** Sécurité Kubernetes — lien fort avec le dossier `05-securite`. « Supply Chain Security » renforce le réflexe DevSecOps ; croiser avec le dossier `05-securite` si besoin.
 - **À retenir :**
   - Supply Chain Security
@@ -1493,7 +1493,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 181. Tetragon
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/securiser/tetragon/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/securiser/tetragon/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/securiser/tetragon/)
 - **Pourquoi ici :** Sécurité Kubernetes — lien fort avec le dossier `05-securite`. « Tetragon » renforce le réflexe DevSecOps ; croiser avec le dossier `05-securite` si besoin.
 - **À retenir :**
   - Tetragon
@@ -1501,7 +1501,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 182. Tracee
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/securiser/tracee/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/securiser/tracee/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/securiser/tracee/)
 - **Pourquoi ici :** Sécurité Kubernetes — lien fort avec le dossier `05-securite`. « Tracee » renforce le réflexe DevSecOps ; croiser avec le dossier `05-securite` si besoin.
 - **À retenir :**
   - Tracee
@@ -1509,7 +1509,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 183. VAP & MAP — Policies natives
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/securiser/validating-admission-policy/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/securiser/validating-admission-policy/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/securiser/validating-admission-policy/)
 - **Pourquoi ici :** Sécurité Kubernetes — lien fort avec le dossier `05-securite`. « VAP & MAP — Policies natives » renforce le réflexe DevSecOps ; croiser avec le dossier `05-securite` si besoin.
 - **À retenir :**
   - VAP & MAP — Policies natives
@@ -1517,7 +1517,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 184. VAP vs Kyverno vs Gatekeeper
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/securiser/vap-vs-kyverno-gatekeeper/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/securiser/vap-vs-kyverno-gatekeeper/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/securiser/vap-vs-kyverno-gatekeeper/)
 - **Pourquoi ici :** Sécurité Kubernetes — lien fort avec le dossier `05-securite`. « VAP vs Kyverno vs Gatekeeper » renforce le réflexe DevSecOps ; croiser avec le dossier `05-securite` si besoin.
 - **À retenir :**
   - VAP vs Kyverno vs Gatekeeper
@@ -1525,7 +1525,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 185. Security Context
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/security-context/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/security-context/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/security-context/)
 - **Pourquoi ici :** Sécurité Kubernetes — lien fort avec le dossier `05-securite`. « Security Context » renforce le réflexe DevSecOps ; croiser avec le dossier `05-securite` si besoin.
 - **À retenir :**
   - Security Context
@@ -1533,7 +1533,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 186. RBAC Kubernetes
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/rbac/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/rbac/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/rbac/)
 - **Pourquoi ici :** Sécurité Kubernetes — lien fort avec le dossier `05-securite`. « RBAC Kubernetes » renforce le réflexe DevSecOps ; croiser avec le dossier `05-securite` si besoin.
 - **À retenir :**
   - RBAC Kubernetes
@@ -1543,7 +1543,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 **D5 — Outillage tronc (kubectl, Helm, Kustomize)**
 
 #### 187. K9s pour gérer vos clusters
-- **Lien :** `/docs/conteneurs/orchestrateurs/outils/k9s/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/k9s/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/k9s/)
 - **Pourquoi ici :** Compagnons kubectl pour naviguer et observer le cluster. La page « K9s pour gérer vos clusters » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - K9s pour gérer vos clusters
@@ -1551,7 +1551,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 188. KDash pour visualiser vos clusters
-- **Lien :** `/docs/conteneurs/orchestrateurs/outils/kdash/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/kdash/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/kdash/)
 - **Pourquoi ici :** Compagnons kubectl pour naviguer et observer le cluster. La page « KDash pour visualiser vos clusters » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - KDash pour visualiser vos clusters
@@ -1559,7 +1559,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 189. Explorer les API Kubernetes
-- **Lien :** `/docs/conteneurs/orchestrateurs/outils/kubectl-api-resources-explain/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/kubectl-api-resources-explain/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/kubectl-api-resources-explain/)
 - **Pourquoi ici :** kubectl : pratique quotidienne en parallèle des premiers manifests K8s. La page « Explorer les API Kubernetes » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Explorer les API Kubernetes
@@ -1567,7 +1567,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 190. Kubectl Cheat Sheet
-- **Lien :** `/docs/conteneurs/orchestrateurs/outils/kubectl-cheat-sheet/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/kubectl-cheat-sheet/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/kubectl-cheat-sheet/)
 - **Pourquoi ici :** kubectl : pratique quotidienne en parallèle des premiers manifests K8s. Aide-mémoire « Kubectl Cheat Sheet » : à garder en annexe de pratique, pas comme première lecture.
 - **À retenir :**
   - Kubectl Cheat Sheet
@@ -1575,7 +1575,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 191. Gestion des contextes
-- **Lien :** `/docs/conteneurs/orchestrateurs/outils/kubectl-contexte/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/kubectl-contexte/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/kubectl-contexte/)
 - **Pourquoi ici :** kubectl : pratique quotidienne en parallèle des premiers manifests K8s. La page « Gestion des contextes » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Gestion des contextes
@@ -1583,7 +1583,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 192. Contrôle des connaissances
-- **Lien :** `/docs/conteneurs/orchestrateurs/outils/kubectl-controle-connaissances/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/kubectl-controle-connaissances/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/kubectl-controle-connaissances/)
 - **Pourquoi ici :** kubectl : pratique quotidienne en parallèle des premiers manifests K8s. « Contrôle des connaissances » valide ce qui précède : à faire avant de passer à la sous-phase suivante.
 - **À retenir :**
   - Contrôle des connaissances
@@ -1591,7 +1591,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 193. Gérer les nœuds
-- **Lien :** `/docs/conteneurs/orchestrateurs/outils/kubectl-cordon-uncordon-drain-taint/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/kubectl-cordon-uncordon-drain-taint/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/kubectl-cordon-uncordon-drain-taint/)
 - **Pourquoi ici :** kubectl : pratique quotidienne en parallèle des premiers manifests K8s. La page « Gérer les nœuds » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Gérer les nœuds
@@ -1599,7 +1599,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 194. Créer des ressources
-- **Lien :** `/docs/conteneurs/orchestrateurs/outils/kubectl-create-apply/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/kubectl-create-apply/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/kubectl-create-apply/)
 - **Pourquoi ici :** kubectl : pratique quotidienne en parallèle des premiers manifests K8s. La page « Créer des ressources » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Créer des ressources
@@ -1607,7 +1607,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 195. Modifier des ressources
-- **Lien :** `/docs/conteneurs/orchestrateurs/outils/kubectl-edit-patch-replace/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/kubectl-edit-patch-replace/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/kubectl-edit-patch-replace/)
 - **Pourquoi ici :** kubectl : pratique quotidienne en parallèle des premiers manifests K8s. La page « Modifier des ressources » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Modifier des ressources
@@ -1615,7 +1615,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 196. Déboguer vos applications
-- **Lien :** `/docs/conteneurs/orchestrateurs/outils/kubectl-exec-debug/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/kubectl-exec-debug/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/kubectl-exec-debug/)
 - **Pourquoi ici :** kubectl : pratique quotidienne en parallèle des premiers manifests K8s. La page « Déboguer vos applications » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Déboguer vos applications
@@ -1623,7 +1623,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 197. Exposer vos applications
-- **Lien :** `/docs/conteneurs/orchestrateurs/outils/kubectl-expose-port-forward-proxy/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/kubectl-expose-port-forward-proxy/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/kubectl-expose-port-forward-proxy/)
 - **Pourquoi ici :** kubectl : pratique quotidienne en parallèle des premiers manifests K8s. La page « Exposer vos applications » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Exposer vos applications
@@ -1631,7 +1631,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 198. Obtenir des infos sur les ressources
-- **Lien :** `/docs/conteneurs/orchestrateurs/outils/kubectl-get-describe-logs-top/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/kubectl-get-describe-logs-top/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/kubectl-get-describe-logs-top/)
 - **Pourquoi ici :** kubectl : pratique quotidienne en parallèle des premiers manifests K8s. La page « Obtenir des infos sur les ressources » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Obtenir des infos sur les ressources
@@ -1639,7 +1639,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 199. Installer kubectl
-- **Lien :** `/docs/conteneurs/orchestrateurs/outils/kubectl-installation-configuration/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/kubectl-installation-configuration/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/kubectl-installation-configuration/)
 - **Pourquoi ici :** kubectl : pratique quotidienne en parallèle des premiers manifests K8s. La page « Installer kubectl » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Installer kubectl
@@ -1647,7 +1647,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 200. Gérer les metadata des ressources
-- **Lien :** `/docs/conteneurs/orchestrateurs/outils/kubectl-label-annotate/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/kubectl-label-annotate/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/kubectl-label-annotate/)
 - **Pourquoi ici :** kubectl : pratique quotidienne en parallèle des premiers manifests K8s. La page « Gérer les metadata des ressources » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Gérer les metadata des ressources
@@ -1655,7 +1655,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 201. Gestion des plugins avec Krew
-- **Lien :** `/docs/conteneurs/orchestrateurs/outils/kubectl-plugins/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/kubectl-plugins/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/kubectl-plugins/)
 - **Pourquoi ici :** kubectl : pratique quotidienne en parallèle des premiers manifests K8s. La page « Gestion des plugins avec Krew » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Gestion des plugins avec Krew
@@ -1663,7 +1663,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 202. Gérer la scalabilité des déploiements
-- **Lien :** `/docs/conteneurs/orchestrateurs/outils/kubectl-scale-autoscale-rollout-set/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/kubectl-scale-autoscale-rollout-set/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/kubectl-scale-autoscale-rollout-set/)
 - **Pourquoi ici :** kubectl : pratique quotidienne en parallèle des premiers manifests K8s. La page « Gérer la scalabilité des déploiements » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Gérer la scalabilité des déploiements
@@ -1671,7 +1671,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 203. Attente et validation des ressources
-- **Lien :** `/docs/conteneurs/orchestrateurs/outils/kubectl-wait-diff/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/kubectl-wait-diff/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/kubectl-wait-diff/)
 - **Pourquoi ici :** kubectl : pratique quotidienne en parallèle des premiers manifests K8s. La page « Attente et validation des ressources » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Attente et validation des ressources
@@ -1679,7 +1679,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 204. Introduction
-- **Lien :** `/docs/conteneurs/orchestrateurs/outils/kubectl/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/kubectl/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/kubectl/)
 - **Pourquoi ici :** kubectl : pratique quotidienne en parallèle des premiers manifests K8s. La page « Introduction » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Introduction
@@ -1687,7 +1687,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 205. Gérer les contextes avec kubectx/kubens
-- **Lien :** `/docs/conteneurs/orchestrateurs/outils/kubens-kubectx/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/kubens-kubectx/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/kubens-kubectx/)
 - **Pourquoi ici :** Compagnons kubectl pour naviguer et observer le cluster. La page « Gérer les contextes avec kubectx/kubens » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Gérer les contextes avec kubectx/kubens
@@ -1695,7 +1695,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 206. Gérer les contextes avec Kubie
-- **Lien :** `/docs/conteneurs/orchestrateurs/outils/kubie/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/kubie/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/kubie/)
 - **Pourquoi ici :** Compagnons kubectl pour naviguer et observer le cluster. La page « Gérer les contextes avec Kubie » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Gérer les contextes avec Kubie
@@ -1703,7 +1703,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 207. Afficher plusieurs logs avec Stern
-- **Lien :** `/docs/conteneurs/orchestrateurs/outils/stern/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/stern/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/stern/)
 - **Pourquoi ici :** Compagnons kubectl pour naviguer et observer le cluster. La page « Afficher plusieurs logs avec Stern » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Afficher plusieurs logs avec Stern
@@ -1711,7 +1711,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 208. Plan de formation
-- **Lien :** `/docs/conteneurs/orchestrateurs/outils/helm/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/helm/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/helm/)
 - **Pourquoi ici :** Helm : packaging après YAML manuels. La page « Plan de formation » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Plan de formation
@@ -1719,7 +1719,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 209. Bases d'un chart
-- **Lien :** `/docs/conteneurs/orchestrateurs/outils/helm/anatomie-chart/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/helm/anatomie-chart/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/helm/anatomie-chart/)
 - **Pourquoi ici :** Helm : packaging après YAML manuels. La page « Bases d'un chart » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Bases d'un chart
@@ -1727,7 +1727,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 210. CI/CD packaging
-- **Lien :** `/docs/conteneurs/orchestrateurs/outils/helm/cicd-packaging/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/helm/cicd-packaging/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/helm/cicd-packaging/)
 - **Pourquoi ici :** Helm : packaging après YAML manuels. La page « CI/CD packaging » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - CI/CD packaging
@@ -1735,7 +1735,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 211. Référence commande Helm
-- **Lien :** `/docs/conteneurs/orchestrateurs/outils/helm/commande-helm/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/helm/commande-helm/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/helm/commande-helm/)
 - **Pourquoi ici :** Helm : packaging après YAML manuels. La page « Référence commande Helm » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Référence commande Helm
@@ -1743,7 +1743,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 212. Diagnostiquer & valider
-- **Lien :** `/docs/conteneurs/orchestrateurs/outils/helm/debug-validation/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/helm/debug-validation/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/helm/debug-validation/)
 - **Pourquoi ici :** Helm : packaging après YAML manuels. La page « Diagnostiquer & valider » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Diagnostiquer & valider
@@ -1751,7 +1751,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 213. Composer des charts
-- **Lien :** `/docs/conteneurs/orchestrateurs/outils/helm/dependances/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/helm/dependances/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/helm/dependances/)
 - **Pourquoi ici :** Helm : packaging après YAML manuels. La page « Composer des charts » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Composer des charts
@@ -1759,7 +1759,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 214. Installer & gérer les releases
-- **Lien :** `/docs/conteneurs/orchestrateurs/outils/helm/install-releases/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/helm/install-releases/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/helm/install-releases/)
 - **Pourquoi ici :** Helm : packaging après YAML manuels. La page « Installer & gérer les releases » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Installer & gérer les releases
@@ -1767,7 +1767,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 215. Démarrer en 15 min
-- **Lien :** `/docs/conteneurs/orchestrateurs/outils/helm/introduction/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/helm/introduction/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/helm/introduction/)
 - **Pourquoi ici :** Helm : packaging après YAML manuels. La page « Démarrer en 15 min » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Démarrer en 15 min
@@ -1775,7 +1775,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 216. Mettre à jour & rollback
-- **Lien :** `/docs/conteneurs/orchestrateurs/outils/helm/lifecycle/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/helm/lifecycle/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/helm/lifecycle/)
 - **Pourquoi ici :** Helm : packaging après YAML manuels. La page « Mettre à jour & rollback » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Mettre à jour & rollback
@@ -1783,7 +1783,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 217. Migrer vers Helm v4
-- **Lien :** `/docs/conteneurs/orchestrateurs/outils/helm/migration-v4/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/helm/migration-v4/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/helm/migration-v4/)
 - **Pourquoi ici :** Helm : packaging après YAML manuels. La page « Migrer vers Helm v4 » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Migrer vers Helm v4
@@ -1791,7 +1791,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 218. Publier en OCI
-- **Lien :** `/docs/conteneurs/orchestrateurs/outils/helm/oci-registries/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/helm/oci-registries/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/helm/oci-registries/)
 - **Pourquoi ici :** Helm : packaging après YAML manuels. La page « Publier en OCI » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Publier en OCI
@@ -1799,7 +1799,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 219. Templates prod-ready
-- **Lien :** `/docs/conteneurs/orchestrateurs/outils/helm/patterns-templates/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/helm/patterns-templates/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/helm/patterns-templates/)
 - **Pourquoi ici :** Helm : packaging après YAML manuels. La page « Templates prod-ready » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Templates prod-ready
@@ -1807,7 +1807,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 220. Supply chain & provenance
-- **Lien :** `/docs/conteneurs/orchestrateurs/outils/helm/provenance-signature/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/helm/provenance-signature/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/helm/provenance-signature/)
 - **Pourquoi ici :** Helm : packaging après YAML manuels. La page « Supply chain & provenance » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Supply chain & provenance
@@ -1815,7 +1815,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 221. Qualité & standards
-- **Lien :** `/docs/conteneurs/orchestrateurs/outils/helm/qualite-chart/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/helm/qualite-chart/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/helm/qualite-chart/)
 - **Pourquoi ici :** Helm : packaging après YAML manuels. La page « Qualité & standards » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Qualité & standards
@@ -1823,7 +1823,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 222. Trouver des charts
-- **Lien :** `/docs/conteneurs/orchestrateurs/outils/helm/repos-charts/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/helm/repos-charts/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/helm/repos-charts/)
 - **Pourquoi ici :** Helm : packaging après YAML manuels. La page « Trouver des charts » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Trouver des charts
@@ -1831,7 +1831,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 223. Configurer avec values
-- **Lien :** `/docs/conteneurs/orchestrateurs/outils/helm/values/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/helm/values/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/helm/values/)
 - **Pourquoi ici :** Helm : packaging après YAML manuels. La page « Configurer avec values » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Configurer avec values
@@ -1839,7 +1839,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 - [ ] Page lue / pratiquée
 
 #### 224. Factoriser vos manifests avec Kustomize
-- **Lien :** `/docs/conteneurs/orchestrateurs/outils/kustomize/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/kustomize/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/kustomize/)
 - **Pourquoi ici :** Kustomize : overlays après manifests bruts. La page « Factoriser vos manifests avec Kustomize » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Factoriser vos manifests avec Kustomize
@@ -1850,7 +1850,7 @@ Du cluster aux objets applicatifs de base. Pratiquer kubectl en parallèle (sous
 Toutes les pages outils restantes (aucune omise).
 
 #### 225. Gérer vos ressources Kubernetes avec Ansible
-- **Lien :** `/docs/conteneurs/orchestrateurs/outils/ansible-k8s/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/ansible-k8s/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/ansible-k8s/)
 - **Pourquoi ici :** Catalogue / approfondissement outils K8s : chaque page conservée. La page « Gérer vos ressources Kubernetes avec Ansible » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Gérer vos ressources Kubernetes avec Ansible
@@ -1858,7 +1858,7 @@ Toutes les pages outils restantes (aucune omise).
 - [ ] Page lue / pratiquée
 
 #### 226. Carvel (ytt, kapp, imgpkg)
-- **Lien :** `/docs/conteneurs/orchestrateurs/outils/carvel/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/carvel/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/carvel/)
 - **Pourquoi ici :** Catalogue / approfondissement outils K8s : chaque page conservée. La page « Carvel (ytt, kapp, imgpkg) » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Carvel (ytt, kapp, imgpkg)
@@ -1866,7 +1866,7 @@ Toutes les pages outils restantes (aucune omise).
 - [ ] Page lue / pratiquée
 
 #### 227. Introduction
-- **Lien :** `/docs/conteneurs/orchestrateurs/outils/castai/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/castai/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/castai/)
 - **Pourquoi ici :** Catalogue / approfondissement outils K8s : chaque page conservée. La page « Introduction » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Introduction
@@ -1874,7 +1874,7 @@ Toutes les pages outils restantes (aucune omise).
 - [ ] Page lue / pratiquée
 
 #### 228. Goldilocks
-- **Lien :** `/docs/conteneurs/orchestrateurs/outils/goldilocks/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/goldilocks/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/goldilocks/)
 - **Pourquoi ici :** Catalogue / approfondissement outils K8s : chaque page conservée. La page « Goldilocks » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Goldilocks
@@ -1882,7 +1882,7 @@ Toutes les pages outils restantes (aucune omise).
 - [ ] Page lue / pratiquée
 
 #### 229. Développer un provider
-- **Lien :** `/docs/conteneurs/orchestrateurs/outils/karpenter-provider-dev/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/karpenter-provider-dev/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/karpenter-provider-dev/)
 - **Pourquoi ici :** Catalogue / approfondissement outils K8s : chaque page conservée. La page « Développer un provider » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Développer un provider
@@ -1890,7 +1890,7 @@ Toutes les pages outils restantes (aucune omise).
 - [ ] Page lue / pratiquée
 
 #### 230. Introduction
-- **Lien :** `/docs/conteneurs/orchestrateurs/outils/karpenter/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/karpenter/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/karpenter/)
 - **Pourquoi ici :** Catalogue / approfondissement outils K8s : chaque page conservée. La page « Introduction » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Introduction
@@ -1898,7 +1898,7 @@ Toutes les pages outils restantes (aucune omise).
 - [ ] Page lue / pratiquée
 
 #### 231. Mettre en cache vos images avec kuik
-- **Lien :** `/docs/conteneurs/orchestrateurs/outils/kube-image-keeper/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/kube-image-keeper/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/kube-image-keeper/)
 - **Pourquoi ici :** Catalogue / approfondissement outils K8s : chaque page conservée. La page « Mettre en cache vos images avec kuik » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Mettre en cache vos images avec kuik
@@ -1906,7 +1906,7 @@ Toutes les pages outils restantes (aucune omise).
 - [ ] Page lue / pratiquée
 
 #### 232. Sécuriser Kubernetes avec Kube-Score
-- **Lien :** `/docs/conteneurs/orchestrateurs/outils/kube-score/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/kube-score/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/kube-score/)
 - **Pourquoi ici :** Catalogue / approfondissement outils K8s : chaque page conservée. La page « Sécuriser Kubernetes avec Kube-Score » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Sécuriser Kubernetes avec Kube-Score
@@ -1914,7 +1914,7 @@ Toutes les pages outils restantes (aucune omise).
 - [ ] Page lue / pratiquée
 
 #### 233. Détecter les API dépréciées avec Pluto
-- **Lien :** `/docs/conteneurs/orchestrateurs/outils/pluto/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/pluto/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/pluto/)
 - **Pourquoi ici :** Catalogue / approfondissement outils K8s : chaque page conservée. La page « Détecter les API dépréciées avec Pluto » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Détecter les API dépréciées avec Pluto
@@ -1922,7 +1922,7 @@ Toutes les pages outils restantes (aucune omise).
 - [ ] Page lue / pratiquée
 
 #### 234. Auditer vos clusters avec Polaris
-- **Lien :** `/docs/conteneurs/orchestrateurs/outils/polaris/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/polaris/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/polaris/)
 - **Pourquoi ici :** Catalogue / approfondissement outils K8s : chaque page conservée. La page « Auditer vos clusters avec Polaris » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Auditer vos clusters avec Polaris
@@ -1930,7 +1930,7 @@ Toutes les pages outils restantes (aucune omise).
 - [ ] Page lue / pratiquée
 
 #### 235. Sécuriser Kubernetes avec Popeye
-- **Lien :** `/docs/conteneurs/orchestrateurs/outils/popeye/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/popeye/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/popeye/)
 - **Pourquoi ici :** Catalogue / approfondissement outils K8s : chaque page conservée. La page « Sécuriser Kubernetes avec Popeye » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Sécuriser Kubernetes avec Popeye
@@ -1938,7 +1938,7 @@ Toutes les pages outils restantes (aucune omise).
 - [ ] Page lue / pratiquée
 
 #### 236. Rancher
-- **Lien :** `/docs/conteneurs/orchestrateurs/outils/rancher/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/rancher/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/rancher/)
 - **Pourquoi ici :** Catalogue / approfondissement outils K8s : chaque page conservée. La page « Rancher » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Rancher
@@ -1946,7 +1946,7 @@ Toutes les pages outils restantes (aucune omise).
 - [ ] Page lue / pratiquée
 
 #### 237. Sécuriser vos secrets avec Sealed Secrets
-- **Lien :** `/docs/conteneurs/orchestrateurs/outils/sealed-secrets/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/sealed-secrets/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/sealed-secrets/)
 - **Pourquoi ici :** Catalogue / approfondissement outils K8s : chaque page conservée. La page « Sécuriser vos secrets avec Sealed Secrets » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Sécuriser vos secrets avec Sealed Secrets
@@ -1954,7 +1954,7 @@ Toutes les pages outils restantes (aucune omise).
 - [ ] Page lue / pratiquée
 
 #### 238. Concepts & Architecture
-- **Lien :** `/docs/conteneurs/orchestrateurs/outils/castai/concepts/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/castai/concepts/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/castai/concepts/)
 - **Pourquoi ici :** Catalogue / approfondissement outils K8s : chaque page conservée. La page « Concepts & Architecture » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Concepts & Architecture
@@ -1962,7 +1962,7 @@ Toutes les pages outils restantes (aucune omise).
 - [ ] Page lue / pratiquée
 
 #### 239. Console Web
-- **Lien :** `/docs/conteneurs/orchestrateurs/outils/castai/console-overview/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/castai/console-overview/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/castai/console-overview/)
 - **Pourquoi ici :** Catalogue / approfondissement outils K8s : chaque page conservée. La page « Console Web » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Console Web
@@ -1970,7 +1970,7 @@ Toutes les pages outils restantes (aucune omise).
 - [ ] Page lue / pratiquée
 
 #### 240. Installation
-- **Lien :** `/docs/conteneurs/orchestrateurs/outils/castai/installation-anywhere/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/castai/installation-anywhere/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/outils/castai/installation-anywhere/)
 - **Pourquoi ici :** Catalogue / approfondissement outils K8s : chaque page conservée. La page « Installation » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Installation
@@ -1980,7 +1980,7 @@ Toutes les pages outils restantes (aucune omise).
 **D7 — Certifications & reste Kubernetes / orchestrateurs**
 
 #### 241. Choisir sa certification
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/certifications/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/certifications/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/certifications/)
 - **Pourquoi ici :** Certifications K8s : après le parcours opérationnel. « Choisir sa certification » oriente une prep certif : utile seulement après la pratique des labs du tronc.
 - **À retenir :**
   - Choisir sa certification
@@ -1988,7 +1988,7 @@ Toutes les pages outils restantes (aucune omise).
 - [ ] Page lue / pratiquée
 
 #### 242. Guide de préparation
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/certifications/cka/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/certifications/cka/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/certifications/cka/)
 - **Pourquoi ici :** Certifications K8s : après le parcours opérationnel. « Guide de préparation » oriente une prep certif : utile seulement après la pratique des labs du tronc.
 - **À retenir :**
   - Guide de préparation
@@ -1996,7 +1996,7 @@ Toutes les pages outils restantes (aucune omise).
 - [ ] Page lue / pratiquée
 
 #### 243. Guide de préparation
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/certifications/ckad/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/certifications/ckad/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/certifications/ckad/)
 - **Pourquoi ici :** Certifications K8s : après le parcours opérationnel. « Guide de préparation » oriente une prep certif : utile seulement après la pratique des labs du tronc.
 - **À retenir :**
   - Guide de préparation
@@ -2004,7 +2004,7 @@ Toutes les pages outils restantes (aucune omise).
 - [ ] Page lue / pratiquée
 
 #### 244. Guide de préparation
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/certifications/cks/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/certifications/cks/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/certifications/cks/)
 - **Pourquoi ici :** Certifications K8s : après le parcours opérationnel. « Guide de préparation » oriente une prep certif : utile seulement après la pratique des labs du tronc.
 - **À retenir :**
   - Guide de préparation
@@ -2012,7 +2012,7 @@ Toutes les pages outils restantes (aucune omise).
 - [ ] Page lue / pratiquée
 
 #### 245. Parcours KCNA
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/certifications/kcna/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/certifications/kcna/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/certifications/kcna/)
 - **Pourquoi ici :** Certifications K8s : après le parcours opérationnel. « Parcours KCNA » oriente une prep certif : utile seulement après la pratique des labs du tronc.
 - **À retenir :**
   - Parcours KCNA
@@ -2020,7 +2020,7 @@ Toutes les pages outils restantes (aucune omise).
 - [ ] Page lue / pratiquée
 
 #### 246. Parcours KCSA
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/certifications/kcsa/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/certifications/kcsa/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/certifications/kcsa/)
 - **Pourquoi ici :** Certifications K8s : après le parcours opérationnel. « Parcours KCSA » oriente une prep certif : utile seulement après la pratique des labs du tronc.
 - **À retenir :**
   - Parcours KCSA
@@ -2028,7 +2028,7 @@ Toutes les pages outils restantes (aucune omise).
 - [ ] Page lue / pratiquée
 
 #### 247. Commandes essentielles
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/certifications/cka/commandes-essentielles/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/certifications/cka/commandes-essentielles/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/certifications/cka/commandes-essentielles/)
 - **Pourquoi ici :** Certifications K8s : après le parcours opérationnel. « Commandes essentielles » oriente une prep certif : utile seulement après la pratique des labs du tronc.
 - **À retenir :**
   - Commandes essentielles
@@ -2036,7 +2036,7 @@ Toutes les pages outils restantes (aucune omise).
 - [ ] Page lue / pratiquée
 
 #### 248. Exercices chronométrés
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/certifications/cka/exercices/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/certifications/cka/exercices/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/certifications/cka/exercices/)
 - **Pourquoi ici :** Certifications K8s : après le parcours opérationnel. « Exercices chronométrés » oriente une prep certif : utile seulement après la pratique des labs du tronc.
 - **À retenir :**
   - Exercices chronométrés
@@ -2044,7 +2044,7 @@ Toutes les pages outils restantes (aucune omise).
 - [ ] Page lue / pratiquée
 
 #### 249. Commandes essentielles
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/certifications/ckad/commandes-essentielles/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/certifications/ckad/commandes-essentielles/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/certifications/ckad/commandes-essentielles/)
 - **Pourquoi ici :** Certifications K8s : après le parcours opérationnel. « Commandes essentielles » oriente une prep certif : utile seulement après la pratique des labs du tronc.
 - **À retenir :**
   - Commandes essentielles
@@ -2052,7 +2052,7 @@ Toutes les pages outils restantes (aucune omise).
 - [ ] Page lue / pratiquée
 
 #### 250. Exercices chronométrés
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/certifications/ckad/exercices/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/certifications/ckad/exercices/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/certifications/ckad/exercices/)
 - **Pourquoi ici :** Certifications K8s : après le parcours opérationnel. « Exercices chronométrés » oriente une prep certif : utile seulement après la pratique des labs du tronc.
 - **À retenir :**
   - Exercices chronométrés
@@ -2060,7 +2060,7 @@ Toutes les pages outils restantes (aucune omise).
 - [ ] Page lue / pratiquée
 
 #### 251. Commandes essentielles
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/certifications/cks/commandes-essentielles/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/certifications/cks/commandes-essentielles/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/certifications/cks/commandes-essentielles/)
 - **Pourquoi ici :** Certifications K8s : après le parcours opérationnel. « Commandes essentielles » oriente une prep certif : utile seulement après la pratique des labs du tronc.
 - **À retenir :**
   - Commandes essentielles
@@ -2068,7 +2068,7 @@ Toutes les pages outils restantes (aucune omise).
 - [ ] Page lue / pratiquée
 
 #### 252. Exercices chronométrés
-- **Lien :** `/docs/conteneurs/orchestrateurs/kubernetes/certifications/cks/exercices/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/certifications/cks/exercices/](https://blog.stephane-robert.info/docs/conteneurs/orchestrateurs/kubernetes/certifications/cks/exercices/)
 - **Pourquoi ici :** Certifications K8s : après le parcours opérationnel. « Exercices chronométrés » oriente une prep certif : utile seulement après la pratique des labs du tronc.
 - **À retenir :**
   - Exercices chronométrés
@@ -2079,7 +2079,7 @@ Toutes les pages outils restantes (aucune omise).
 Principes CNCF, service mesh et serverless après la pratique K8s.
 
 #### 253. Principes cloud native
-- **Lien :** `/docs/conteneurs/cloud-native/cloud-native-principes/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/cloud-native/cloud-native-principes/](https://blog.stephane-robert.info/docs/conteneurs/cloud-native/cloud-native-principes/)
 - **Pourquoi ici :** Cloud-native (CNCF, mesh, serverless) : culture après conteneurs + K8s. La page « Principes cloud native » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Principes cloud native
@@ -2087,7 +2087,7 @@ Principes CNCF, service mesh et serverless après la pratique K8s.
 - [ ] Page lue / pratiquée
 
 #### 254. Écosystème CNCF
-- **Lien :** `/docs/conteneurs/cloud-native/cncf-ecosystem/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/cloud-native/cncf-ecosystem/](https://blog.stephane-robert.info/docs/conteneurs/cloud-native/cncf-ecosystem/)
 - **Pourquoi ici :** Cloud-native (CNCF, mesh, serverless) : culture après conteneurs + K8s. La page « Écosystème CNCF » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Écosystème CNCF
@@ -2095,7 +2095,7 @@ Principes CNCF, service mesh et serverless après la pratique K8s.
 - [ ] Page lue / pratiquée
 
 #### 255. Service mesh
-- **Lien :** `/docs/conteneurs/cloud-native/service-mesh/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/cloud-native/service-mesh/](https://blog.stephane-robert.info/docs/conteneurs/cloud-native/service-mesh/)
 - **Pourquoi ici :** Cloud-native (CNCF, mesh, serverless) : culture après conteneurs + K8s. La page « Service mesh » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Service mesh
@@ -2103,7 +2103,7 @@ Principes CNCF, service mesh et serverless après la pratique K8s.
 - [ ] Page lue / pratiquée
 
 #### 256. Serverless
-- **Lien :** `/docs/conteneurs/cloud-native/serverless/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/cloud-native/serverless/](https://blog.stephane-robert.info/docs/conteneurs/cloud-native/serverless/)
 - **Pourquoi ici :** Cloud-native (CNCF, mesh, serverless) : culture après conteneurs + K8s. La page « Serverless » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Serverless
@@ -2112,7 +2112,7 @@ Principes CNCF, service mesh et serverless après la pratique K8s.
 
 ### Phase F — Outils transverses & annexes
 #### 257. Validation de la structure des images
-- **Lien :** `/docs/conteneurs/outils/container-struct-test/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/outils/container-struct-test/](https://blog.stephane-robert.info/docs/conteneurs/outils/container-struct-test/)
 - **Pourquoi ici :** Outils transverses images/runtime à piocher selon besoin. La page « Validation de la structure des images » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Validation de la structure des images
@@ -2120,7 +2120,7 @@ Principes CNCF, service mesh et serverless après la pratique K8s.
 - [ ] Page lue / pratiquée
 
 #### 258. Gestion des images avec Crane
-- **Lien :** `/docs/conteneurs/outils/crane/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/outils/crane/](https://blog.stephane-robert.info/docs/conteneurs/outils/crane/)
 - **Pourquoi ici :** Outils transverses images/runtime à piocher selon besoin. La page « Gestion des images avec Crane » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Gestion des images avec Crane
@@ -2128,7 +2128,7 @@ Principes CNCF, service mesh et serverless après la pratique K8s.
 - [ ] Page lue / pratiquée
 
 #### 259. Gestion des CRI avec crictl
-- **Lien :** `/docs/conteneurs/outils/crictl/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/outils/crictl/](https://blog.stephane-robert.info/docs/conteneurs/outils/crictl/)
 - **Pourquoi ici :** Outils transverses images/runtime à piocher selon besoin. La page « Gestion des CRI avec crictl » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Gestion des CRI avec crictl
@@ -2136,7 +2136,7 @@ Principes CNCF, service mesh et serverless après la pratique K8s.
 - [ ] Page lue / pratiquée
 
 #### 260. Analyse d'images avec Dive
-- **Lien :** `/docs/conteneurs/outils/dive/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/outils/dive/](https://blog.stephane-robert.info/docs/conteneurs/outils/dive/)
 - **Pourquoi ici :** Outils transverses images/runtime à piocher selon besoin. La page « Analyse d'images avec Dive » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Analyse d'images avec Dive
@@ -2144,7 +2144,7 @@ Principes CNCF, service mesh et serverless après la pratique K8s.
 - [ ] Page lue / pratiquée
 
 #### 261. Dozzle
-- **Lien :** `/docs/conteneurs/outils/dozzle/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/outils/dozzle/](https://blog.stephane-robert.info/docs/conteneurs/outils/dozzle/)
 - **Pourquoi ici :** Outils transverses images/runtime à piocher selon besoin. La page « Dozzle » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Dozzle
@@ -2152,7 +2152,7 @@ Principes CNCF, service mesh et serverless après la pratique K8s.
 - [ ] Page lue / pratiquée
 
 #### 262. Linter vos Dockerfile avec Hadolint
-- **Lien :** `/docs/conteneurs/outils/hadolint/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/outils/hadolint/](https://blog.stephane-robert.info/docs/conteneurs/outils/hadolint/)
 - **Pourquoi ici :** Outils transverses images/runtime à piocher selon besoin. La page « Linter vos Dockerfile avec Hadolint » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Linter vos Dockerfile avec Hadolint
@@ -2160,7 +2160,7 @@ Principes CNCF, service mesh et serverless après la pratique K8s.
 - [ ] Page lue / pratiquée
 
 #### 263. LazyDocker
-- **Lien :** `/docs/conteneurs/outils/lazydocker/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/outils/lazydocker/](https://blog.stephane-robert.info/docs/conteneurs/outils/lazydocker/)
 - **Pourquoi ici :** Outils transverses images/runtime à piocher selon besoin. La page « LazyDocker » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - LazyDocker
@@ -2168,7 +2168,7 @@ Principes CNCF, service mesh et serverless après la pratique K8s.
 - [ ] Page lue / pratiquée
 
 #### 264. Manipuler des artefacts avec ORAS
-- **Lien :** `/docs/conteneurs/outils/oras/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/outils/oras/](https://blog.stephane-robert.info/docs/conteneurs/outils/oras/)
 - **Pourquoi ici :** Outils transverses images/runtime à piocher selon besoin. La page « Manipuler des artefacts avec ORAS » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Manipuler des artefacts avec ORAS
@@ -2176,7 +2176,7 @@ Principes CNCF, service mesh et serverless après la pratique K8s.
 - [ ] Page lue / pratiquée
 
 #### 265. Gestion des images avec Skopeo
-- **Lien :** `/docs/conteneurs/outils/skopeo/`
+- **Lien :** [https://blog.stephane-robert.info/docs/conteneurs/outils/skopeo/](https://blog.stephane-robert.info/docs/conteneurs/outils/skopeo/)
 - **Pourquoi ici :** Outils transverses images/runtime à piocher selon besoin. La page « Gestion des images avec Skopeo » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Gestion des images avec Skopeo
