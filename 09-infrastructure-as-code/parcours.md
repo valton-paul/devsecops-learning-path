@@ -4,6 +4,12 @@
 > Source : https://blog.stephane-robert.info/docs/infra-as-code/
 > Les liens sont relatifs au site (chemins `/docs/...`).
 
+## Checklist globale
+- [ ] Phase A — Fondamentaux IaC terminée
+- [ ] Phase B — Gestion de configuration (Ansible d'abord) terminée
+- [ ] Phase C — Provisionnement (Terraform puis alternatives) terminée
+- [ ] Dossier validé
+
 ## Vision du dossier
 Ce dossier enseigne à décrire, versionner et faire converger une infrastructure par le code plutôt que par des clics ou des scripts jetables.
 
@@ -25,7 +31,7 @@ Le menu du site mélange fondamentaux, Ansible (très fourni), alternatives et T
 Vocabulaire et principes avant tout outil. S'appuie sur Linux (02), Git (04) et idéalement la virtualisation (08) pour les labs.
 
 #### 1. IaC
-- **Lien :** `/docs/infra-as-code/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/](https://blog.stephane-robert.info/docs/infra-as-code/)
 - **Pourquoi ici :** Socle conceptuel IaC avant tout outil : vocabulaire, pièges et choix d'approche. « IaC » sert de carte ou de jalon : lire pour se repérer, puis enchaîner sur les pages filles dans l'ordre indiqué.
 - **À retenir :**
   - IaC
@@ -33,7 +39,7 @@ Vocabulaire et principes avant tout outil. S'appuie sur Linux (02), Git (04) et 
 - [ ] Page lue / pratiquée
 
 #### 2. Fondamentaux
-- **Lien :** `/docs/infra-as-code/fondamentaux/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/fondamentaux/](https://blog.stephane-robert.info/docs/infra-as-code/fondamentaux/)
 - **Pourquoi ici :** Socle conceptuel IaC avant tout outil : vocabulaire, pièges et choix d'approche. « Fondamentaux » sert de carte ou de jalon : lire pour se repérer, puis enchaîner sur les pages filles dans l'ordre indiqué.
 - **À retenir :**
   - Fondamentaux
@@ -41,7 +47,7 @@ Vocabulaire et principes avant tout outil. S'appuie sur Linux (02), Git (04) et 
 - [ ] Page lue / pratiquée
 
 #### 3. Comprendre l'Infrastructure as Code
-- **Lien :** `/docs/infra-as-code/fondamentaux/comprendre-iac/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/fondamentaux/comprendre-iac/](https://blog.stephane-robert.info/docs/infra-as-code/fondamentaux/comprendre-iac/)
 - **Pourquoi ici :** Socle conceptuel IaC avant tout outil : vocabulaire, pièges et choix d'approche. La page « Comprendre l'Infrastructure as Code » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Comprendre l'Infrastructure as Code
@@ -49,7 +55,7 @@ Vocabulaire et principes avant tout outil. S'appuie sur Linux (02), Git (04) et 
 - [ ] Page lue / pratiquée
 
 #### 4. Pourquoi l'IaC change l'exploitation
-- **Lien :** `/docs/infra-as-code/fondamentaux/pourquoi-iac/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/fondamentaux/pourquoi-iac/](https://blog.stephane-robert.info/docs/infra-as-code/fondamentaux/pourquoi-iac/)
 - **Pourquoi ici :** Socle conceptuel IaC avant tout outil : vocabulaire, pièges et choix d'approche. La page « Pourquoi l'IaC change l'exploitation » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Pourquoi l'IaC change l'exploitation
@@ -57,7 +63,7 @@ Vocabulaire et principes avant tout outil. S'appuie sur Linux (02), Git (04) et 
 - [ ] Page lue / pratiquée
 
 #### 5. Déclaratif vs impératif
-- **Lien :** `/docs/infra-as-code/fondamentaux/declaratif-vs-imperatif/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/fondamentaux/declaratif-vs-imperatif/](https://blog.stephane-robert.info/docs/infra-as-code/fondamentaux/declaratif-vs-imperatif/)
 - **Pourquoi ici :** Socle conceptuel IaC avant tout outil : vocabulaire, pièges et choix d'approche. La page « Déclaratif vs impératif » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Déclaratif vs impératif
@@ -65,7 +71,7 @@ Vocabulaire et principes avant tout outil. S'appuie sur Linux (02), Git (04) et 
 - [ ] Page lue / pratiquée
 
 #### 6. Idempotence, convergence et dérive
-- **Lien :** `/docs/infra-as-code/fondamentaux/idempotence-convergence-derive/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/fondamentaux/idempotence-convergence-derive/](https://blog.stephane-robert.info/docs/infra-as-code/fondamentaux/idempotence-convergence-derive/)
 - **Pourquoi ici :** Socle conceptuel IaC avant tout outil : vocabulaire, pièges et choix d'approche. La page « Idempotence, convergence et dérive » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Idempotence, convergence et dérive
@@ -73,7 +79,7 @@ Vocabulaire et principes avant tout outil. S'appuie sur Linux (02), Git (04) et 
 - [ ] Page lue / pratiquée
 
 #### 7. Provisionnement vs gestion de configuration
-- **Lien :** `/docs/infra-as-code/fondamentaux/provisionnement-vs-gestion-configuration/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/fondamentaux/provisionnement-vs-gestion-configuration/](https://blog.stephane-robert.info/docs/infra-as-code/fondamentaux/provisionnement-vs-gestion-configuration/)
 - **Pourquoi ici :** Socle conceptuel IaC avant tout outil : vocabulaire, pièges et choix d'approche. La page « Provisionnement vs gestion de configuration » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Provisionnement vs gestion de configuration
@@ -81,7 +87,7 @@ Vocabulaire et principes avant tout outil. S'appuie sur Linux (02), Git (04) et 
 - [ ] Page lue / pratiquée
 
 #### 8. Terraform vs Ansible : où s'arrête chaque outil ?
-- **Lien :** `/docs/infra-as-code/fondamentaux/terraform-vs-ansible/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/fondamentaux/terraform-vs-ansible/](https://blog.stephane-robert.info/docs/infra-as-code/fondamentaux/terraform-vs-ansible/)
 - **Pourquoi ici :** Socle conceptuel IaC avant tout outil : vocabulaire, pièges et choix d'approche. La page « Terraform vs Ansible : où s'arrête chaque outil ? » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Terraform vs Ansible : où s'arrête chaque outil ?
@@ -89,7 +95,7 @@ Vocabulaire et principes avant tout outil. S'appuie sur Linux (02), Git (04) et 
 - [ ] Page lue / pratiquée
 
 #### 9. Choisir le bon type d'outil
-- **Lien :** `/docs/infra-as-code/fondamentaux/choisir-type-outil/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/fondamentaux/choisir-type-outil/](https://blog.stephane-robert.info/docs/infra-as-code/fondamentaux/choisir-type-outil/)
 - **Pourquoi ici :** Socle conceptuel IaC avant tout outil : vocabulaire, pièges et choix d'approche. La page « Choisir le bon type d'outil » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Choisir le bon type d'outil
@@ -97,7 +103,7 @@ Vocabulaire et principes avant tout outil. S'appuie sur Linux (02), Git (04) et 
 - [ ] Page lue / pratiquée
 
 #### 10. Organiser un projet IaC
-- **Lien :** `/docs/infra-as-code/fondamentaux/organiser-projet/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/fondamentaux/organiser-projet/](https://blog.stephane-robert.info/docs/infra-as-code/fondamentaux/organiser-projet/)
 - **Pourquoi ici :** Socle conceptuel IaC avant tout outil : vocabulaire, pièges et choix d'approche. La page « Organiser un projet IaC » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Organiser un projet IaC
@@ -105,7 +111,7 @@ Vocabulaire et principes avant tout outil. S'appuie sur Linux (02), Git (04) et 
 - [ ] Page lue / pratiquée
 
 #### 11. Gérer les secrets en IaC
-- **Lien :** `/docs/infra-as-code/fondamentaux/secrets/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/fondamentaux/secrets/](https://blog.stephane-robert.info/docs/infra-as-code/fondamentaux/secrets/)
 - **Pourquoi ici :** Socle conceptuel IaC avant tout outil : vocabulaire, pièges et choix d'approche. La page « Gérer les secrets en IaC » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Gérer les secrets en IaC
@@ -113,7 +119,7 @@ Vocabulaire et principes avant tout outil. S'appuie sur Linux (02), Git (04) et 
 - [ ] Page lue / pratiquée
 
 #### 12. State et données sensibles
-- **Lien :** `/docs/infra-as-code/fondamentaux/state-donnees-sensibles/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/fondamentaux/state-donnees-sensibles/](https://blog.stephane-robert.info/docs/infra-as-code/fondamentaux/state-donnees-sensibles/)
 - **Pourquoi ici :** Socle conceptuel IaC avant tout outil : vocabulaire, pièges et choix d'approche. La page « State et données sensibles » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - State et données sensibles
@@ -121,7 +127,7 @@ Vocabulaire et principes avant tout outil. S'appuie sur Linux (02), Git (04) et 
 - [ ] Page lue / pratiquée
 
 #### 13. Valider et relire son code IaC
-- **Lien :** `/docs/infra-as-code/fondamentaux/validation-revue-code/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/fondamentaux/validation-revue-code/](https://blog.stephane-robert.info/docs/infra-as-code/fondamentaux/validation-revue-code/)
 - **Pourquoi ici :** Socle conceptuel IaC avant tout outil : vocabulaire, pièges et choix d'approche. La page « Valider et relire son code IaC » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Valider et relire son code IaC
@@ -129,7 +135,7 @@ Vocabulaire et principes avant tout outil. S'appuie sur Linux (02), Git (04) et 
 - [ ] Page lue / pratiquée
 
 #### 14. Tests et contrôles automatiques
-- **Lien :** `/docs/infra-as-code/fondamentaux/tests-controles/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/fondamentaux/tests-controles/](https://blog.stephane-robert.info/docs/infra-as-code/fondamentaux/tests-controles/)
 - **Pourquoi ici :** Socle conceptuel IaC avant tout outil : vocabulaire, pièges et choix d'approche. La page « Tests et contrôles automatiques » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Tests et contrôles automatiques
@@ -137,7 +143,7 @@ Vocabulaire et principes avant tout outil. S'appuie sur Linux (02), Git (04) et 
 - [ ] Page lue / pratiquée
 
 #### 15. Anti-patterns IaC qui créent la dette
-- **Lien :** `/docs/infra-as-code/fondamentaux/anti-patterns-iac/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/fondamentaux/anti-patterns-iac/](https://blog.stephane-robert.info/docs/infra-as-code/fondamentaux/anti-patterns-iac/)
 - **Pourquoi ici :** Socle conceptuel IaC avant tout outil : vocabulaire, pièges et choix d'approche. La page « Anti-patterns IaC qui créent la dette » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Anti-patterns IaC qui créent la dette
@@ -145,7 +151,7 @@ Vocabulaire et principes avant tout outil. S'appuie sur Linux (02), Git (04) et 
 - [ ] Page lue / pratiquée
 
 #### 16. Éviter la dette technique en IaC
-- **Lien :** `/docs/infra-as-code/fondamentaux/dette-technique/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/fondamentaux/dette-technique/](https://blog.stephane-robert.info/docs/infra-as-code/fondamentaux/dette-technique/)
 - **Pourquoi ici :** Socle conceptuel IaC avant tout outil : vocabulaire, pièges et choix d'approche. La page « Éviter la dette technique en IaC » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Éviter la dette technique en IaC
@@ -159,7 +165,7 @@ Ansible est le fil conducteur : découverte → pratique → inventaires → cod
 Présentation, architecture, installation et CLI.
 
 #### 17. Introduction
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/)
 - **Pourquoi ici :** Entrée gestion de configuration : carte avant de plonger dans Ansible. « Introduction » sert de carte ou de jalon : lire pour se repérer, puis enchaîner sur les pages filles dans l'ordre indiqué.
 - **À retenir :**
   - Introduction
@@ -167,7 +173,7 @@ Présentation, architecture, installation et CLI.
 - [ ] Page lue / pratiquée
 
 #### 18. Ansible
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/)
 - **Pourquoi ici :** Point d'entrée Ansible sur le site. La page « Ansible » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Ansible
@@ -175,7 +181,7 @@ Présentation, architecture, installation et CLI.
 - [ ] Page lue / pratiquée
 
 #### 19. Mon parcours Suivi
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/parcours/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/parcours/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/parcours/)
 - **Pourquoi ici :** Parcours site Ansible : jalon ; suivre plutôt l'ordre de ce fichier. La page « Mon parcours Suivi » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Mon parcours Suivi
@@ -183,7 +189,7 @@ Présentation, architecture, installation et CLI.
 - [ ] Page lue / pratiquée
 
 #### 20. Vue d'ensemble
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/decouvrir/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/decouvrir/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/decouvrir/)
 - **Pourquoi ici :** Découverte Ansible (premier outil de config management du parcours). Vue d'ensemble / jalon « Vue d'ensemble » : survol rapide, l'apprentissage se fait dans les pages suivantes.
 - **À retenir :**
   - Vue d'ensemble
@@ -191,7 +197,7 @@ Présentation, architecture, installation et CLI.
 - [ ] Page lue / pratiquée
 
 #### 21. Le fichier ansible.cfg
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/decouvrir/ansible-config-fichier/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/decouvrir/ansible-config-fichier/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/decouvrir/ansible-config-fichier/)
 - **Pourquoi ici :** Découverte Ansible (premier outil de config management du parcours). La page « Le fichier ansible.cfg » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Le fichier ansible.cfg
@@ -199,7 +205,7 @@ Présentation, architecture, installation et CLI.
 - [ ] Page lue / pratiquée
 
 #### 22. Ansible vs Terraform vs Puppet
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/decouvrir/ansible-vs-terraform-vs-puppet/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/decouvrir/ansible-vs-terraform-vs-puppet/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/decouvrir/ansible-vs-terraform-vs-puppet/)
 - **Pourquoi ici :** Découverte Ansible (premier outil de config management du parcours). La page « Ansible vs Terraform vs Puppet » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Ansible vs Terraform vs Puppet
@@ -207,7 +213,7 @@ Présentation, architecture, installation et CLI.
 - [ ] Page lue / pratiquée
 
 #### 23. Architecture d'Ansible
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/decouvrir/architecture-ansible/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/decouvrir/architecture-ansible/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/decouvrir/architecture-ansible/)
 - **Pourquoi ici :** Découverte Ansible (premier outil de config management du parcours). La page « Architecture d'Ansible » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Architecture d'Ansible
@@ -215,7 +221,7 @@ Présentation, architecture, installation et CLI.
 - [ ] Page lue / pratiquée
 
 #### 24. Déclaratif vs impératif
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/decouvrir/declaratif-vs-imperatif/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/decouvrir/declaratif-vs-imperatif/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/decouvrir/declaratif-vs-imperatif/)
 - **Pourquoi ici :** Découverte Ansible (premier outil de config management du parcours). La page « Déclaratif vs impératif » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Déclaratif vs impératif
@@ -223,7 +229,7 @@ Présentation, architecture, installation et CLI.
 - [ ] Page lue / pratiquée
 
 #### 25. Installer Ansible
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/decouvrir/installation-ansible/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/decouvrir/installation-ansible/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/decouvrir/installation-ansible/)
 - **Pourquoi ici :** Découverte Ansible (premier outil de config management du parcours). La page « Installer Ansible » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Installer Ansible
@@ -231,7 +237,7 @@ Présentation, architecture, installation et CLI.
 - [ ] Page lue / pratiquée
 
 #### 26. Présentation d'Ansible
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/decouvrir/presentation-ansible/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/decouvrir/presentation-ansible/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/decouvrir/presentation-ansible/)
 - **Pourquoi ici :** Découverte Ansible (premier outil de config management du parcours). La page « Présentation d'Ansible » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Présentation d'Ansible
@@ -239,7 +245,7 @@ Présentation, architecture, installation et CLI.
 - [ ] Page lue / pratiquée
 
 #### 27. Prise en main de la CLI
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/decouvrir/prise-en-main-cli/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/decouvrir/prise-en-main-cli/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/decouvrir/prise-en-main-cli/)
 - **Pourquoi ici :** Découverte Ansible (premier outil de config management du parcours). La page « Prise en main de la CLI » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Prise en main de la CLI
@@ -247,7 +253,7 @@ Présentation, architecture, installation et CLI.
 - [ ] Page lue / pratiquée
 
 #### 28. Quiz Découvrir
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/decouvrir/quiz/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/decouvrir/quiz/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/decouvrir/quiz/)
 - **Pourquoi ici :** Découverte Ansible (premier outil de config management du parcours). « Quiz Découvrir » valide ce qui précède : à faire avant de passer à la sous-phase suivante.
 - **À retenir :**
   - Quiz Découvrir
@@ -258,7 +264,7 @@ Présentation, architecture, installation et CLI.
 Lab : connexion SSH, inventaire, premier playbook, lint, vault minimal.
 
 #### 29. Vue d'ensemble
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/premiers-pas/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/premiers-pas/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/premiers-pas/)
 - **Pourquoi ici :** Premiers pas concrets : SSH, inventaire, playbook — ancrage avant le code avancé. Vue d'ensemble / jalon « Vue d'ensemble » : survol rapide, l'apprentissage se fait dans les pages suivantes.
 - **À retenir :**
   - Vue d'ensemble
@@ -266,7 +272,7 @@ Lab : connexion SSH, inventaire, premier playbook, lint, vault minimal.
 - [ ] Page lue / pratiquée
 
 #### 30. Commandes ad-hoc
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/premiers-pas/ad-hoc-commands/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/premiers-pas/ad-hoc-commands/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/premiers-pas/ad-hoc-commands/)
 - **Pourquoi ici :** Premiers pas concrets : SSH, inventaire, playbook — ancrage avant le code avancé. La page « Commandes ad-hoc » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Commandes ad-hoc
@@ -274,7 +280,7 @@ Lab : connexion SSH, inventaire, premier playbook, lint, vault minimal.
 - [ ] Page lue / pratiquée
 
 #### 31. ansible-lint (réflexe à prendre)
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/premiers-pas/ansible-lint/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/premiers-pas/ansible-lint/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/premiers-pas/ansible-lint/)
 - **Pourquoi ici :** Premiers pas concrets : SSH, inventaire, playbook — ancrage avant le code avancé. La page « ansible-lint (réflexe à prendre) » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - ansible-lint (réflexe à prendre)
@@ -282,7 +288,7 @@ Lab : connexion SSH, inventaire, premier playbook, lint, vault minimal.
 - [ ] Page lue / pratiquée
 
 #### 32. Debug premières erreurs
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/premiers-pas/debug-premiers-erreurs/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/premiers-pas/debug-premiers-erreurs/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/premiers-pas/debug-premiers-erreurs/)
 - **Pourquoi ici :** Premiers pas concrets : SSH, inventaire, playbook — ancrage avant le code avancé. La page « Debug premières erreurs » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Debug premières erreurs
@@ -290,7 +296,7 @@ Lab : connexion SSH, inventaire, premier playbook, lint, vault minimal.
 - [ ] Page lue / pratiquée
 
 #### 33. Modules essentiels (cheat-sheet)
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/premiers-pas/modules-essentiels/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/premiers-pas/modules-essentiels/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/premiers-pas/modules-essentiels/)
 - **Pourquoi ici :** Premiers pas concrets : SSH, inventaire, playbook — ancrage avant le code avancé. La page « Modules essentiels (cheat-sheet) » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Modules essentiels (cheat-sheet)
@@ -298,7 +304,7 @@ Lab : connexion SSH, inventaire, premier playbook, lint, vault minimal.
 - [ ] Page lue / pratiquée
 
 #### 34. Premier inventaire
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/premiers-pas/premier-inventaire/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/premiers-pas/premier-inventaire/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/premiers-pas/premier-inventaire/)
 - **Pourquoi ici :** Premiers pas concrets : SSH, inventaire, playbook — ancrage avant le code avancé. La page « Premier inventaire » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Premier inventaire
@@ -306,7 +312,7 @@ Lab : connexion SSH, inventaire, premier playbook, lint, vault minimal.
 - [ ] Page lue / pratiquée
 
 #### 35. Premier playbook
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/premiers-pas/premier-playbook/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/premiers-pas/premier-playbook/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/premiers-pas/premier-playbook/)
 - **Pourquoi ici :** Premiers pas concrets : SSH, inventaire, playbook — ancrage avant le code avancé. La page « Premier playbook » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Premier playbook
@@ -314,7 +320,7 @@ Lab : connexion SSH, inventaire, premier playbook, lint, vault minimal.
 - [ ] Page lue / pratiquée
 
 #### 36. Première connexion SSH
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/premiers-pas/premiere-connexion-ssh/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/premiers-pas/premiere-connexion-ssh/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/premiers-pas/premiere-connexion-ssh/)
 - **Pourquoi ici :** Premiers pas concrets : SSH, inventaire, playbook — ancrage avant le code avancé. La page « Première connexion SSH » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Première connexion SSH
@@ -322,7 +328,7 @@ Lab : connexion SSH, inventaire, premier playbook, lint, vault minimal.
 - [ ] Page lue / pratiquée
 
 #### 37. Premiers pas Ansible Vault
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/premiers-pas/premiers-pas-ansible-vault/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/premiers-pas/premiers-pas-ansible-vault/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/premiers-pas/premiers-pas-ansible-vault/)
 - **Pourquoi ici :** Premiers pas concrets : SSH, inventaire, playbook — ancrage avant le code avancé. La page « Premiers pas Ansible Vault » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Premiers pas Ansible Vault
@@ -330,7 +336,7 @@ Lab : connexion SSH, inventaire, premier playbook, lint, vault minimal.
 - [ ] Page lue / pratiquée
 
 #### 38. Préparer le lab KVM
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/premiers-pas/preparer-lab-kvm/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/premiers-pas/preparer-lab-kvm/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/premiers-pas/preparer-lab-kvm/)
 - **Pourquoi ici :** Premiers pas concrets : SSH, inventaire, playbook — ancrage avant le code avancé. Lab « Préparer le lab KVM » : pratiquer maintenant pour ancrer la théorie de la phase.
 - **À retenir :**
   - Préparer le lab KVM
@@ -338,7 +344,7 @@ Lab : connexion SSH, inventaire, premier playbook, lint, vault minimal.
 - [ ] Page lue / pratiquée
 
 #### 39. Sous le capot — managed nodes
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/premiers-pas/preparer-noeuds-geres/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/premiers-pas/preparer-noeuds-geres/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/premiers-pas/preparer-noeuds-geres/)
 - **Pourquoi ici :** Premiers pas concrets : SSH, inventaire, playbook — ancrage avant le code avancé. La page « Sous le capot — managed nodes » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Sous le capot — managed nodes
@@ -346,7 +352,7 @@ Lab : connexion SSH, inventaire, premier playbook, lint, vault minimal.
 - [ ] Page lue / pratiquée
 
 #### 40. Quiz Premiers pas
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/premiers-pas/quiz/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/premiers-pas/quiz/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/premiers-pas/quiz/)
 - **Pourquoi ici :** Premiers pas concrets : SSH, inventaire, playbook — ancrage avant le code avancé. « Quiz Premiers pas » valide ce qui précède : à faire avant de passer à la sous-phase suivante.
 - **À retenir :**
   - Quiz Premiers pas
@@ -357,7 +363,7 @@ Lab : connexion SSH, inventaire, premier playbook, lint, vault minimal.
 Statiques puis dynamiques ; group_vars/host_vars.
 
 #### 41. Vue d'ensemble
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/inventaires/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/inventaires/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/inventaires/)
 - **Pourquoi ici :** Inventaires : sans hôtes/groupes fiables, aucun playbook n'est répétable. Vue d'ensemble / jalon « Vue d'ensemble » : survol rapide, l'apprentissage se fait dans les pages suivantes.
 - **À retenir :**
   - Vue d'ensemble
@@ -365,7 +371,7 @@ Statiques puis dynamiques ; group_vars/host_vars.
 - [ ] Page lue / pratiquée
 
 #### 42. Inventaire INI
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/inventaires/statiques-ini/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/inventaires/statiques-ini/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/inventaires/statiques-ini/)
 - **Pourquoi ici :** Inventaires : sans hôtes/groupes fiables, aucun playbook n'est répétable. La page « Inventaire INI » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Inventaire INI
@@ -373,7 +379,7 @@ Statiques puis dynamiques ; group_vars/host_vars.
 - [ ] Page lue / pratiquée
 
 #### 43. Inventaire YAML
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/inventaires/statiques-yaml/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/inventaires/statiques-yaml/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/inventaires/statiques-yaml/)
 - **Pourquoi ici :** Inventaires : sans hôtes/groupes fiables, aucun playbook n'est répétable. La page « Inventaire YAML » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Inventaire YAML
@@ -381,7 +387,7 @@ Statiques puis dynamiques ; group_vars/host_vars.
 - [ ] Page lue / pratiquée
 
 #### 44. group_vars et host_vars
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/inventaires/group-vars-host-vars/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/inventaires/group-vars-host-vars/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/inventaires/group-vars-host-vars/)
 - **Pourquoi ici :** Inventaires : sans hôtes/groupes fiables, aucun playbook n'est répétable. La page « group_vars et host_vars » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - group_vars et host_vars
@@ -389,7 +395,7 @@ Statiques puis dynamiques ; group_vars/host_vars.
 - [ ] Page lue / pratiquée
 
 #### 45. Patterns d'hôtes
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/inventaires/patterns-hotes/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/inventaires/patterns-hotes/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/inventaires/patterns-hotes/)
 - **Pourquoi ici :** Inventaires : sans hôtes/groupes fiables, aucun playbook n'est répétable. La page « Patterns d'hôtes » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Patterns d'hôtes
@@ -397,7 +403,7 @@ Statiques puis dynamiques ; group_vars/host_vars.
 - [ ] Page lue / pratiquée
 
 #### 46. Vérifier l'inventaire
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/inventaires/verifier-inventaire/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/inventaires/verifier-inventaire/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/inventaires/verifier-inventaire/)
 - **Pourquoi ici :** Inventaires : sans hôtes/groupes fiables, aucun playbook n'est répétable. La page « Vérifier l'inventaire » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Vérifier l'inventaire
@@ -405,7 +411,7 @@ Statiques puis dynamiques ; group_vars/host_vars.
 - [ ] Page lue / pratiquée
 
 #### 47. Inventaires multiples
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/inventaires/inventaires-multiples/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/inventaires/inventaires-multiples/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/inventaires/inventaires-multiples/)
 - **Pourquoi ici :** Inventaires : sans hôtes/groupes fiables, aucun playbook n'est répétable. La page « Inventaires multiples » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Inventaires multiples
@@ -413,7 +419,7 @@ Statiques puis dynamiques ; group_vars/host_vars.
 - [ ] Page lue / pratiquée
 
 #### 48. Vue d'ensemble
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/inventaires/dynamiques/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/inventaires/dynamiques/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/inventaires/dynamiques/)
 - **Pourquoi ici :** Inventaires : sans hôtes/groupes fiables, aucun playbook n'est répétable. Vue d'ensemble / jalon « Vue d'ensemble » : survol rapide, l'apprentissage se fait dans les pages suivantes.
 - **À retenir :**
   - Vue d'ensemble
@@ -421,7 +427,7 @@ Statiques puis dynamiques ; group_vars/host_vars.
 - [ ] Page lue / pratiquée
 
 #### 49. Concepts des plugins
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/inventaires/dynamiques/concepts-plugins/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/inventaires/dynamiques/concepts-plugins/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/inventaires/dynamiques/concepts-plugins/)
 - **Pourquoi ici :** Inventaires : sans hôtes/groupes fiables, aucun playbook n'est répétable. La page « Concepts des plugins » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Concepts des plugins
@@ -429,7 +435,7 @@ Statiques puis dynamiques ; group_vars/host_vars.
 - [ ] Page lue / pratiquée
 
 #### 50. Écrire un script custom
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/inventaires/dynamiques/ecrire-script-custom/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/inventaires/dynamiques/ecrire-script-custom/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/inventaires/dynamiques/ecrire-script-custom/)
 - **Pourquoi ici :** Inventaires : sans hôtes/groupes fiables, aucun playbook n'est répétable. La page « Écrire un script custom » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Écrire un script custom
@@ -437,7 +443,7 @@ Statiques puis dynamiques ; group_vars/host_vars.
 - [ ] Page lue / pratiquée
 
 #### 51. Modules runtime (add_host, group_by)
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/inventaires/dynamiques/modules-runtime-inventaire/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/inventaires/dynamiques/modules-runtime-inventaire/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/inventaires/dynamiques/modules-runtime-inventaire/)
 - **Pourquoi ici :** Inventaires : sans hôtes/groupes fiables, aucun playbook n'est répétable. La page « Modules runtime (add_host, group_by) » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Modules runtime (add_host, group_by)
@@ -445,7 +451,7 @@ Statiques puis dynamiques ; group_vars/host_vars.
 - [ ] Page lue / pratiquée
 
 #### 52. Plugin AWS EC2
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/inventaires/dynamiques/plugin-aws-ec2/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/inventaires/dynamiques/plugin-aws-ec2/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/inventaires/dynamiques/plugin-aws-ec2/)
 - **Pourquoi ici :** Inventaires : sans hôtes/groupes fiables, aucun playbook n'est répétable. La page « Plugin AWS EC2 » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Plugin AWS EC2
@@ -453,7 +459,7 @@ Statiques puis dynamiques ; group_vars/host_vars.
 - [ ] Page lue / pratiquée
 
 #### 53. Plugin libvirt (KVM)
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/inventaires/dynamiques/plugin-libvirt-kvm/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/inventaires/dynamiques/plugin-libvirt-kvm/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/inventaires/dynamiques/plugin-libvirt-kvm/)
 - **Pourquoi ici :** Inventaires : sans hôtes/groupes fiables, aucun playbook n'est répétable. La page « Plugin libvirt (KVM) » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Plugin libvirt (KVM)
@@ -461,7 +467,7 @@ Statiques puis dynamiques ; group_vars/host_vars.
 - [ ] Page lue / pratiquée
 
 #### 54. Plugin NetBox
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/inventaires/dynamiques/plugin-netbox/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/inventaires/dynamiques/plugin-netbox/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/inventaires/dynamiques/plugin-netbox/)
 - **Pourquoi ici :** Inventaires : sans hôtes/groupes fiables, aucun playbook n'est répétable. La page « Plugin NetBox » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Plugin NetBox
@@ -469,7 +475,7 @@ Statiques puis dynamiques ; group_vars/host_vars.
 - [ ] Page lue / pratiquée
 
 #### 55. Plugin Proxmox
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/inventaires/dynamiques/plugin-proxmox/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/inventaires/dynamiques/plugin-proxmox/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/inventaires/dynamiques/plugin-proxmox/)
 - **Pourquoi ici :** Inventaires : sans hôtes/groupes fiables, aucun playbook n'est répétable. La page « Plugin Proxmox » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Plugin Proxmox
@@ -480,7 +486,7 @@ Statiques puis dynamiques ; group_vars/host_vars.
 Playbooks, variables/facts, templates Jinja2, contrôle de flux.
 
 #### 56. Vue d'ensemble
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/)
 - **Pourquoi ici :** Écriture de playbooks : YAML, variables, Jinja2, flux — après le premier playbook. Vue d'ensemble / jalon « Vue d'ensemble » : survol rapide, l'apprentissage se fait dans les pages suivantes.
 - **À retenir :**
   - Vue d'ensemble
@@ -488,7 +494,7 @@ Playbooks, variables/facts, templates Jinja2, contrôle de flux.
 - [ ] Page lue / pratiquée
 
 #### 57. Vue d'ensemble
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/controle-flux/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/controle-flux/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/controle-flux/)
 - **Pourquoi ici :** Écriture de playbooks : YAML, variables, Jinja2, flux — après le premier playbook. Vue d'ensemble / jalon « Vue d'ensemble » : survol rapide, l'apprentissage se fait dans les pages suivantes.
 - **À retenir :**
   - Vue d'ensemble
@@ -496,7 +502,7 @@ Playbooks, variables/facts, templates Jinja2, contrôle de flux.
 - [ ] Page lue / pratiquée
 
 #### 58. Vue d'ensemble
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/playbooks/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/playbooks/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/playbooks/)
 - **Pourquoi ici :** Écriture de playbooks : YAML, variables, Jinja2, flux — après le premier playbook. Vue d'ensemble / jalon « Vue d'ensemble » : survol rapide, l'apprentissage se fait dans les pages suivantes.
 - **À retenir :**
   - Vue d'ensemble
@@ -504,7 +510,7 @@ Playbooks, variables/facts, templates Jinja2, contrôle de flux.
 - [ ] Page lue / pratiquée
 
 #### 59. Quiz Écrire du code
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/quiz/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/quiz/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/quiz/)
 - **Pourquoi ici :** Écriture de playbooks : YAML, variables, Jinja2, flux — après le premier playbook. « Quiz Écrire du code » valide ce qui précède : à faire avant de passer à la sous-phase suivante.
 - **À retenir :**
   - Quiz Écrire du code
@@ -512,7 +518,7 @@ Playbooks, variables/facts, templates Jinja2, contrôle de flux.
 - [ ] Page lue / pratiquée
 
 #### 60. Structure d'un projet
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/structure-projet/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/structure-projet/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/structure-projet/)
 - **Pourquoi ici :** Écriture de playbooks : YAML, variables, Jinja2, flux — après le premier playbook. La page « Structure d'un projet » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Structure d'un projet
@@ -520,7 +526,7 @@ Playbooks, variables/facts, templates Jinja2, contrôle de flux.
 - [ ] Page lue / pratiquée
 
 #### 61. Style guide
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/style-guide/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/style-guide/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/style-guide/)
 - **Pourquoi ici :** Écriture de playbooks : YAML, variables, Jinja2, flux — après le premier playbook. La page « Style guide » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Style guide
@@ -528,7 +534,7 @@ Playbooks, variables/facts, templates Jinja2, contrôle de flux.
 - [ ] Page lue / pratiquée
 
 #### 62. Vue d'ensemble
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/templates-jinja2/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/templates-jinja2/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/templates-jinja2/)
 - **Pourquoi ici :** Écriture de playbooks : YAML, variables, Jinja2, flux — après le premier playbook. Vue d'ensemble / jalon « Vue d'ensemble » : survol rapide, l'apprentissage se fait dans les pages suivantes.
 - **À retenir :**
   - Vue d'ensemble
@@ -536,7 +542,7 @@ Playbooks, variables/facts, templates Jinja2, contrôle de flux.
 - [ ] Page lue / pratiquée
 
 #### 63. Vue d'ensemble
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/variables-facts/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/variables-facts/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/variables-facts/)
 - **Pourquoi ici :** Écriture de playbooks : YAML, variables, Jinja2, flux — après le premier playbook. Vue d'ensemble / jalon « Vue d'ensemble » : survol rapide, l'apprentissage se fait dans les pages suivantes.
 - **À retenir :**
   - Vue d'ensemble
@@ -544,7 +550,7 @@ Playbooks, variables/facts, templates Jinja2, contrôle de flux.
 - [ ] Page lue / pratiquée
 
 #### 64. YAML pour Ansible
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/yaml-pour-ansible/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/yaml-pour-ansible/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/yaml-pour-ansible/)
 - **Pourquoi ici :** Écriture de playbooks : YAML, variables, Jinja2, flux — après le premier playbook. La page « YAML pour Ansible » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - YAML pour Ansible
@@ -552,7 +558,7 @@ Playbooks, variables/facts, templates Jinja2, contrôle de flux.
 - [ ] Page lue / pratiquée
 
 #### 65. any_errors_fatal
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/controle-flux/any-errors-fatal/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/controle-flux/any-errors-fatal/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/controle-flux/any-errors-fatal/)
 - **Pourquoi ici :** Écriture de playbooks : YAML, variables, Jinja2, flux — après le premier playbook. La page « any_errors_fatal » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - any_errors_fatal
@@ -560,7 +566,7 @@ Playbooks, variables/facts, templates Jinja2, contrôle de flux.
 - [ ] Page lue / pratiquée
 
 #### 66. Block / rescue / always
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/controle-flux/block-rescue-always/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/controle-flux/block-rescue-always/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/controle-flux/block-rescue-always/)
 - **Pourquoi ici :** Écriture de playbooks : YAML, variables, Jinja2, flux — après le premier playbook. La page « Block / rescue / always » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Block / rescue / always
@@ -568,7 +574,7 @@ Playbooks, variables/facts, templates Jinja2, contrôle de flux.
 - [ ] Page lue / pratiquée
 
 #### 67. Boucles — loop
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/controle-flux/boucles-loop/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/controle-flux/boucles-loop/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/controle-flux/boucles-loop/)
 - **Pourquoi ici :** Écriture de playbooks : YAML, variables, Jinja2, flux — après le premier playbook. La page « Boucles — loop » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Boucles — loop
@@ -576,7 +582,7 @@ Playbooks, variables/facts, templates Jinja2, contrôle de flux.
 - [ ] Page lue / pratiquée
 
 #### 68. Boucles legacy with_*
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/controle-flux/boucles-with-deprecated/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/controle-flux/boucles-with-deprecated/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/controle-flux/boucles-with-deprecated/)
 - **Pourquoi ici :** Écriture de playbooks : YAML, variables, Jinja2, flux — après le premier playbook. La page « Boucles legacy with_* » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Boucles legacy with_*
@@ -584,7 +590,7 @@ Playbooks, variables/facts, templates Jinja2, contrôle de flux.
 - [ ] Page lue / pratiquée
 
 #### 69. Conditions — when
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/controle-flux/conditions-when/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/controle-flux/conditions-when/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/controle-flux/conditions-when/)
 - **Pourquoi ici :** Écriture de playbooks : YAML, variables, Jinja2, flux — après le premier playbook. La page « Conditions — when » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Conditions — when
@@ -592,7 +598,7 @@ Playbooks, variables/facts, templates Jinja2, contrôle de flux.
 - [ ] Page lue / pratiquée
 
 #### 70. failed_when et changed_when
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/controle-flux/failed-when-changed-when/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/controle-flux/failed-when-changed-when/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/controle-flux/failed-when-changed-when/)
 - **Pourquoi ici :** Écriture de playbooks : YAML, variables, Jinja2, flux — après le premier playbook. La page « failed_when et changed_when » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - failed_when et changed_when
@@ -600,7 +606,7 @@ Playbooks, variables/facts, templates Jinja2, contrôle de flux.
 - [ ] Page lue / pratiquée
 
 #### 71. ignore_errors
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/controle-flux/ignore-errors/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/controle-flux/ignore-errors/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/controle-flux/ignore-errors/)
 - **Pourquoi ici :** Écriture de playbooks : YAML, variables, Jinja2, flux — après le premier playbook. La page « ignore_errors » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - ignore_errors
@@ -608,7 +614,7 @@ Playbooks, variables/facts, templates Jinja2, contrôle de flux.
 - [ ] Page lue / pratiquée
 
 #### 72. Async et poll
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/playbooks/async-poll/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/playbooks/async-poll/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/playbooks/async-poll/)
 - **Pourquoi ici :** Écriture de playbooks : YAML, variables, Jinja2, flux — après le premier playbook. La page « Async et poll » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Async et poll
@@ -616,7 +622,7 @@ Playbooks, variables/facts, templates Jinja2, contrôle de flux.
 - [ ] Page lue / pratiquée
 
 #### 73. Check mode et diff
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/playbooks/checkmode-diff/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/playbooks/checkmode-diff/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/playbooks/checkmode-diff/)
 - **Pourquoi ici :** Écriture de playbooks : YAML, variables, Jinja2, flux — après le premier playbook. La page « Check mode et diff » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Check mode et diff
@@ -624,7 +630,7 @@ Playbooks, variables/facts, templates Jinja2, contrôle de flux.
 - [ ] Page lue / pratiquée
 
 #### 74. Délégation
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/playbooks/delegation/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/playbooks/delegation/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/playbooks/delegation/)
 - **Pourquoi ici :** Écriture de playbooks : YAML, variables, Jinja2, flux — après le premier playbook. La page « Délégation » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Délégation
@@ -632,7 +638,7 @@ Playbooks, variables/facts, templates Jinja2, contrôle de flux.
 - [ ] Page lue / pratiquée
 
 #### 75. Handlers
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/playbooks/handlers/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/playbooks/handlers/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/playbooks/handlers/)
 - **Pourquoi ici :** Écriture de playbooks : YAML, variables, Jinja2, flux — après le premier playbook. La page « Handlers » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Handlers
@@ -640,7 +646,7 @@ Playbooks, variables/facts, templates Jinja2, contrôle de flux.
 - [ ] Page lue / pratiquée
 
 #### 76. Import vs Include
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/playbooks/import-include/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/playbooks/import-include/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/playbooks/import-include/)
 - **Pourquoi ici :** Écriture de playbooks : YAML, variables, Jinja2, flux — après le premier playbook. La page « Import vs Include » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Import vs Include
@@ -648,7 +654,7 @@ Playbooks, variables/facts, templates Jinja2, contrôle de flux.
 - [ ] Page lue / pratiquée
 
 #### 77. Modules built-in
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/playbooks/modules-builtin/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/playbooks/modules-builtin/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/playbooks/modules-builtin/)
 - **Pourquoi ici :** Écriture de playbooks : YAML, variables, Jinja2, flux — après le premier playbook. La page « Modules built-in » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Modules built-in
@@ -656,7 +662,7 @@ Playbooks, variables/facts, templates Jinja2, contrôle de flux.
 - [ ] Page lue / pratiquée
 
 #### 78. Parallélisme et stratégies
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/playbooks/parallelisme-strategies/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/playbooks/parallelisme-strategies/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/playbooks/parallelisme-strategies/)
 - **Pourquoi ici :** Écriture de playbooks : YAML, variables, Jinja2, flux — après le premier playbook. La page « Parallélisme et stratégies » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Parallélisme et stratégies
@@ -664,7 +670,7 @@ Playbooks, variables/facts, templates Jinja2, contrôle de flux.
 - [ ] Page lue / pratiquée
 
 #### 79. Plays et tasks
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/playbooks/plays-et-tasks/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/playbooks/plays-et-tasks/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/playbooks/plays-et-tasks/)
 - **Pourquoi ici :** Écriture de playbooks : YAML, variables, Jinja2, flux — après le premier playbook. La page « Plays et tasks » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Plays et tasks
@@ -672,7 +678,7 @@ Playbooks, variables/facts, templates Jinja2, contrôle de flux.
 - [ ] Page lue / pratiquée
 
 #### 80. Tags
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/playbooks/tags/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/playbooks/tags/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/playbooks/tags/)
 - **Pourquoi ici :** Écriture de playbooks : YAML, variables, Jinja2, flux — après le premier playbook. La page « Tags » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Tags
@@ -680,7 +686,7 @@ Playbooks, variables/facts, templates Jinja2, contrôle de flux.
 - [ ] Page lue / pratiquée
 
 #### 81. Filtres Jinja2 avancés
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/templates-jinja2/filtres-jinja/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/templates-jinja2/filtres-jinja/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/templates-jinja2/filtres-jinja/)
 - **Pourquoi ici :** Écriture de playbooks : YAML, variables, Jinja2, flux — après le premier playbook. La page « Filtres Jinja2 avancés » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Filtres Jinja2 avancés
@@ -688,7 +694,7 @@ Playbooks, variables/facts, templates Jinja2, contrôle de flux.
 - [ ] Page lue / pratiquée
 
 #### 82. Jinja2 — syntaxe de base
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/templates-jinja2/jinja2-base/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/templates-jinja2/jinja2-base/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/templates-jinja2/jinja2-base/)
 - **Pourquoi ici :** Écriture de playbooks : YAML, variables, Jinja2, flux — après le premier playbook. La page « Jinja2 — syntaxe de base » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Jinja2 — syntaxe de base
@@ -696,7 +702,7 @@ Playbooks, variables/facts, templates Jinja2, contrôle de flux.
 - [ ] Page lue / pratiquée
 
 #### 83. lineinfile vs template
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/templates-jinja2/lineinfile-vs-template/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/templates-jinja2/lineinfile-vs-template/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/templates-jinja2/lineinfile-vs-template/)
 - **Pourquoi ici :** Écriture de playbooks : YAML, variables, Jinja2, flux — après le premier playbook. La page « lineinfile vs template » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - lineinfile vs template
@@ -704,7 +710,7 @@ Playbooks, variables/facts, templates Jinja2, contrôle de flux.
 - [ ] Page lue / pratiquée
 
 #### 84. Module template
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/templates-jinja2/module-template/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/templates-jinja2/module-template/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/templates-jinja2/module-template/)
 - **Pourquoi ici :** Écriture de playbooks : YAML, variables, Jinja2, flux — après le premier playbook. La page « Module template » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Module template
@@ -712,7 +718,7 @@ Playbooks, variables/facts, templates Jinja2, contrôle de flux.
 - [ ] Page lue / pratiquée
 
 #### 85. Tests Jinja2
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/templates-jinja2/tests-jinja/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/templates-jinja2/tests-jinja/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/templates-jinja2/tests-jinja/)
 - **Pourquoi ici :** Écriture de playbooks : YAML, variables, Jinja2, flux — après le premier playbook. La page « Tests Jinja2 » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Tests Jinja2
@@ -720,7 +726,7 @@ Playbooks, variables/facts, templates Jinja2, contrôle de flux.
 - [ ] Page lue / pratiquée
 
 #### 86. Custom facts (facts.d)
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/variables-facts/custom-facts/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/variables-facts/custom-facts/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/variables-facts/custom-facts/)
 - **Pourquoi ici :** Écriture de playbooks : YAML, variables, Jinja2, flux — après le premier playbook. La page « Custom facts (facts.d) » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Custom facts (facts.d)
@@ -728,7 +734,7 @@ Playbooks, variables/facts, templates Jinja2, contrôle de flux.
 - [ ] Page lue / pratiquée
 
 #### 87. Facts et magic vars
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/variables-facts/facts-magic-vars/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/variables-facts/facts-magic-vars/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/variables-facts/facts-magic-vars/)
 - **Pourquoi ici :** Écriture de playbooks : YAML, variables, Jinja2, flux — après le premier playbook. La page « Facts et magic vars » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Facts et magic vars
@@ -736,7 +742,7 @@ Playbooks, variables/facts, templates Jinja2, contrôle de flux.
 - [ ] Page lue / pratiquée
 
 #### 88. Filtres Jinja2 essentiels
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/variables-facts/filtres-jinja-essentiels/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/variables-facts/filtres-jinja-essentiels/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/variables-facts/filtres-jinja-essentiels/)
 - **Pourquoi ici :** Écriture de playbooks : YAML, variables, Jinja2, flux — après le premier playbook. La page « Filtres Jinja2 essentiels » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Filtres Jinja2 essentiels
@@ -744,7 +750,7 @@ Playbooks, variables/facts, templates Jinja2, contrôle de flux.
 - [ ] Page lue / pratiquée
 
 #### 89. Lookups
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/variables-facts/lookups/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/variables-facts/lookups/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/variables-facts/lookups/)
 - **Pourquoi ici :** Écriture de playbooks : YAML, variables, Jinja2, flux — après le premier playbook. La page « Lookups » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Lookups
@@ -752,7 +758,7 @@ Playbooks, variables/facts, templates Jinja2, contrôle de flux.
 - [ ] Page lue / pratiquée
 
 #### 90. Précédence (22 niveaux RHCE)
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/variables-facts/precedence-variables/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/variables-facts/precedence-variables/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/variables-facts/precedence-variables/)
 - **Pourquoi ici :** Écriture de playbooks : YAML, variables, Jinja2, flux — après le premier playbook. La page « Précédence (22 niveaux RHCE) » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Précédence (22 niveaux RHCE)
@@ -760,7 +766,7 @@ Playbooks, variables/facts, templates Jinja2, contrôle de flux.
 - [ ] Page lue / pratiquée
 
 #### 91. register et set_fact
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/variables-facts/register-set-fact/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/variables-facts/register-set-fact/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/variables-facts/register-set-fact/)
 - **Pourquoi ici :** Écriture de playbooks : YAML, variables, Jinja2, flux — après le premier playbook. La page « register et set_fact » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - register et set_fact
@@ -768,7 +774,7 @@ Playbooks, variables/facts, templates Jinja2, contrôle de flux.
 - [ ] Page lue / pratiquée
 
 #### 92. Types collections
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/variables-facts/types-collections/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/variables-facts/types-collections/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/variables-facts/types-collections/)
 - **Pourquoi ici :** Écriture de playbooks : YAML, variables, Jinja2, flux — après le premier playbook. La page « Types collections » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Types collections
@@ -776,7 +782,7 @@ Playbooks, variables/facts, templates Jinja2, contrôle de flux.
 - [ ] Page lue / pratiquée
 
 #### 93. Variables — déclaration
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/variables-facts/variables-base/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/variables-facts/variables-base/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/ecrire-code/variables-facts/variables-base/)
 - **Pourquoi ici :** Écriture de playbooks : YAML, variables, Jinja2, flux — après le premier playbook. La page « Variables — déclaration » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Variables — déclaration
@@ -787,7 +793,7 @@ Playbooks, variables/facts, templates Jinja2, contrôle de flux.
 Les modules du quotidien avant le catalogue exhaustif.
 
 #### 94. Vue d'ensemble
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/modules/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/modules/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/modules/)
 - **Pourquoi ici :** Modules Ansible du tronc pratique (usages quotidiens) avant le catalogue exhaustif. Référence catalogue « Vue d'ensemble » : garder sous le coude et ouvrir quand le besoin concret apparaît.
 - **À retenir :**
   - Référence : Vue d'ensemble
@@ -795,7 +801,7 @@ Les modules du quotidien avant le catalogue exhaustif.
 - [ ] Page lue / pratiquée
 
 #### 95. Trouver le bon module
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/modules/trouver-le-bon-module/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/modules/trouver-le-bon-module/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/modules/trouver-le-bon-module/)
 - **Pourquoi ici :** Modules Ansible du tronc pratique (usages quotidiens) avant le catalogue exhaustif. Référence catalogue « Trouver le bon module » : garder sous le coude et ouvrir quand le besoin concret apparaît.
 - **À retenir :**
   - Référence : Trouver le bon module
@@ -803,7 +809,7 @@ Les modules du quotidien avant le catalogue exhaustif.
 - [ ] Page lue / pratiquée
 
 #### 96. archive et unarchive
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/modules/fichiers/archive-unarchive/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/modules/fichiers/archive-unarchive/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/modules/fichiers/archive-unarchive/)
 - **Pourquoi ici :** Modules Ansible du tronc pratique (usages quotidiens) avant le catalogue exhaustif. Référence catalogue « archive et unarchive » : garder sous le coude et ouvrir quand le besoin concret apparaît.
 - **À retenir :**
   - Référence : archive et unarchive
@@ -811,7 +817,7 @@ Les modules du quotidien avant le catalogue exhaustif.
 - [ ] Page lue / pratiquée
 
 #### 97. Module blockinfile
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/modules/fichiers/module-blockinfile/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/modules/fichiers/module-blockinfile/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/modules/fichiers/module-blockinfile/)
 - **Pourquoi ici :** Modules Ansible du tronc pratique (usages quotidiens) avant le catalogue exhaustif. Référence catalogue « Module blockinfile » : garder sous le coude et ouvrir quand le besoin concret apparaît.
 - **À retenir :**
   - Référence : Module blockinfile
@@ -819,7 +825,7 @@ Les modules du quotidien avant le catalogue exhaustif.
 - [ ] Page lue / pratiquée
 
 #### 98. Module copy
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/modules/fichiers/module-copy/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/modules/fichiers/module-copy/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/modules/fichiers/module-copy/)
 - **Pourquoi ici :** Modules Ansible du tronc pratique (usages quotidiens) avant le catalogue exhaustif. Référence catalogue « Module copy » : garder sous le coude et ouvrir quand le besoin concret apparaît.
 - **À retenir :**
   - Référence : Module copy
@@ -827,7 +833,7 @@ Les modules du quotidien avant le catalogue exhaustif.
 - [ ] Page lue / pratiquée
 
 #### 99. Module fetch
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/modules/fichiers/module-fetch/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/modules/fichiers/module-fetch/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/modules/fichiers/module-fetch/)
 - **Pourquoi ici :** Modules Ansible du tronc pratique (usages quotidiens) avant le catalogue exhaustif. Référence catalogue « Module fetch » : garder sous le coude et ouvrir quand le besoin concret apparaît.
 - **À retenir :**
   - Référence : Module fetch
@@ -835,7 +841,7 @@ Les modules du quotidien avant le catalogue exhaustif.
 - [ ] Page lue / pratiquée
 
 #### 100. Module file
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/modules/fichiers/module-file/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/modules/fichiers/module-file/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/modules/fichiers/module-file/)
 - **Pourquoi ici :** Modules Ansible du tronc pratique (usages quotidiens) avant le catalogue exhaustif. Référence catalogue « Module file » : garder sous le coude et ouvrir quand le besoin concret apparaît.
 - **À retenir :**
   - Référence : Module file
@@ -843,7 +849,7 @@ Les modules du quotidien avant le catalogue exhaustif.
 - [ ] Page lue / pratiquée
 
 #### 101. Module lineinfile
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/modules/fichiers/module-lineinfile/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/modules/fichiers/module-lineinfile/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/modules/fichiers/module-lineinfile/)
 - **Pourquoi ici :** Modules Ansible du tronc pratique (usages quotidiens) avant le catalogue exhaustif. Référence catalogue « Module lineinfile » : garder sous le coude et ouvrir quand le besoin concret apparaît.
 - **À retenir :**
   - Référence : Module lineinfile
@@ -851,7 +857,7 @@ Les modules du quotidien avant le catalogue exhaustif.
 - [ ] Page lue / pratiquée
 
 #### 102. Module replace
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/modules/fichiers/module-replace/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/modules/fichiers/module-replace/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/modules/fichiers/module-replace/)
 - **Pourquoi ici :** Modules Ansible du tronc pratique (usages quotidiens) avant le catalogue exhaustif. Référence catalogue « Module replace » : garder sous le coude et ouvrir quand le besoin concret apparaît.
 - **À retenir :**
   - Référence : Module replace
@@ -859,7 +865,7 @@ Les modules du quotidien avant le catalogue exhaustif.
 - [ ] Page lue / pratiquée
 
 #### 103. Module cron
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/modules/paquets-services/module-cron/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/modules/paquets-services/module-cron/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/modules/paquets-services/module-cron/)
 - **Pourquoi ici :** Modules Ansible du tronc pratique (usages quotidiens) avant le catalogue exhaustif. Référence catalogue « Module cron » : garder sous le coude et ouvrir quand le besoin concret apparaît.
 - **À retenir :**
   - Référence : Module cron
@@ -867,7 +873,7 @@ Les modules du quotidien avant le catalogue exhaustif.
 - [ ] Page lue / pratiquée
 
 #### 104. Module dnf — options
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/modules/paquets-services/module-dnf-options/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/modules/paquets-services/module-dnf-options/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/modules/paquets-services/module-dnf-options/)
 - **Pourquoi ici :** Modules Ansible du tronc pratique (usages quotidiens) avant le catalogue exhaustif. Référence catalogue « Module dnf — options » : garder sous le coude et ouvrir quand le besoin concret apparaît.
 - **À retenir :**
   - Référence : Module dnf — options
@@ -875,7 +881,7 @@ Les modules du quotidien avant le catalogue exhaustif.
 - [ ] Page lue / pratiquée
 
 #### 105. Module package
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/modules/paquets-services/module-package/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/modules/paquets-services/module-package/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/modules/paquets-services/module-package/)
 - **Pourquoi ici :** Modules Ansible du tronc pratique (usages quotidiens) avant le catalogue exhaustif. Référence catalogue « Module package » : garder sous le coude et ouvrir quand le besoin concret apparaît.
 - **À retenir :**
   - Référence : Module package
@@ -883,7 +889,7 @@ Les modules du quotidien avant le catalogue exhaustif.
 - [ ] Page lue / pratiquée
 
 #### 106. Module systemd_service
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/modules/paquets-services/module-systemd/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/modules/paquets-services/module-systemd/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/modules/paquets-services/module-systemd/)
 - **Pourquoi ici :** Modules Ansible du tronc pratique (usages quotidiens) avant le catalogue exhaustif. Référence catalogue « Module systemd_service » : garder sous le coude et ouvrir quand le besoin concret apparaît.
 - **À retenir :**
   - Référence : Module systemd_service
@@ -891,7 +897,7 @@ Les modules du quotidien avant le catalogue exhaustif.
 - [ ] Page lue / pratiquée
 
 #### 107. Module yum_repository
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/modules/paquets-services/module-yum-repository/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/modules/paquets-services/module-yum-repository/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/modules/paquets-services/module-yum-repository/)
 - **Pourquoi ici :** Modules Ansible du tronc pratique (usages quotidiens) avant le catalogue exhaustif. Référence catalogue « Module yum_repository » : garder sous le coude et ouvrir quand le besoin concret apparaît.
 - **À retenir :**
   - Référence : Module yum_repository
@@ -899,7 +905,7 @@ Les modules du quotidien avant le catalogue exhaustif.
 - [ ] Page lue / pratiquée
 
 #### 108. Multi-distribution
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/modules/paquets-services/multi-distro-packages/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/modules/paquets-services/multi-distro-packages/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/modules/paquets-services/multi-distro-packages/)
 - **Pourquoi ici :** Modules Ansible du tronc pratique (usages quotidiens) avant le catalogue exhaustif. Référence catalogue « Multi-distribution » : garder sous le coude et ouvrir quand le besoin concret apparaît.
 - **À retenir :**
   - Référence : Multi-distribution
@@ -907,7 +913,7 @@ Les modules du quotidien avant le catalogue exhaustif.
 - [ ] Page lue / pratiquée
 
 #### 109. Module authorized_key
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/modules/utilisateurs/module-authorized-key/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/modules/utilisateurs/module-authorized-key/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/modules/utilisateurs/module-authorized-key/)
 - **Pourquoi ici :** Modules Ansible du tronc pratique (usages quotidiens) avant le catalogue exhaustif. Référence catalogue « Module authorized_key » : garder sous le coude et ouvrir quand le besoin concret apparaît.
 - **À retenir :**
   - Référence : Module authorized_key
@@ -915,7 +921,7 @@ Les modules du quotidien avant le catalogue exhaustif.
 - [ ] Page lue / pratiquée
 
 #### 110. Module group
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/modules/utilisateurs/module-group/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/modules/utilisateurs/module-group/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/modules/utilisateurs/module-group/)
 - **Pourquoi ici :** Modules Ansible du tronc pratique (usages quotidiens) avant le catalogue exhaustif. Référence catalogue « Module group » : garder sous le coude et ouvrir quand le besoin concret apparaît.
 - **À retenir :**
   - Référence : Module group
@@ -923,7 +929,7 @@ Les modules du quotidien avant le catalogue exhaustif.
 - [ ] Page lue / pratiquée
 
 #### 111. Module sudoers
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/modules/utilisateurs/module-sudoers/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/modules/utilisateurs/module-sudoers/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/modules/utilisateurs/module-sudoers/)
 - **Pourquoi ici :** Modules Ansible du tronc pratique (usages quotidiens) avant le catalogue exhaustif. Référence catalogue « Module sudoers » : garder sous le coude et ouvrir quand le besoin concret apparaît.
 - **À retenir :**
   - Référence : Module sudoers
@@ -931,7 +937,7 @@ Les modules du quotidien avant le catalogue exhaustif.
 - [ ] Page lue / pratiquée
 
 #### 112. Module user
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/modules/utilisateurs/module-user/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/modules/utilisateurs/module-user/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/modules/utilisateurs/module-user/)
 - **Pourquoi ici :** Modules Ansible du tronc pratique (usages quotidiens) avant le catalogue exhaustif. Référence catalogue « Module user » : garder sous le coude et ouvrir quand le besoin concret apparaît.
 - **À retenir :**
   - Référence : Module user
@@ -939,7 +945,7 @@ Les modules du quotidien avant le catalogue exhaustif.
 - [ ] Page lue / pratiquée
 
 #### 113. raw, command, shell, script
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/modules/complements/raw-command-shell/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/modules/complements/raw-command-shell/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/modules/complements/raw-command-shell/)
 - **Pourquoi ici :** Modules Ansible du tronc pratique (usages quotidiens) avant le catalogue exhaustif. Référence catalogue « raw, command, shell, script » : garder sous le coude et ouvrir quand le besoin concret apparaît.
 - **À retenir :**
   - Référence : raw, command, shell, script
@@ -947,7 +953,7 @@ Les modules du quotidien avant le catalogue exhaustif.
 - [ ] Page lue / pratiquée
 
 #### 114. debug, setup, add_host, group_by
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/modules/complements/utils-ansible/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/modules/complements/utils-ansible/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/modules/complements/utils-ansible/)
 - **Pourquoi ici :** Modules Ansible du tronc pratique (usages quotidiens) avant le catalogue exhaustif. Référence catalogue « debug, setup, add_host, group_by » : garder sous le coude et ouvrir quand le besoin concret apparaît.
 - **À retenir :**
   - Référence : debug, setup, add_host, group_by
@@ -955,7 +961,7 @@ Les modules du quotidien avant le catalogue exhaustif.
 - [ ] Page lue / pratiquée
 
 #### 115. Windows (WinRM, OpenSSH)
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/modules/complements/windows/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/modules/complements/windows/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/modules/complements/windows/)
 - **Pourquoi ici :** Modules Ansible du tronc pratique (usages quotidiens) avant le catalogue exhaustif. Référence catalogue « Windows (WinRM, OpenSSH) » : garder sous le coude et ouvrir quand le besoin concret apparaît.
 - **À retenir :**
   - Référence : Windows (WinRM, OpenSSH)
@@ -966,7 +972,7 @@ Les modules du quotidien avant le catalogue exhaustif.
 Toutes les pages modules restantes (réseau, système, diagnostic, etc.) : aucune omise.
 
 #### 116. Modules assert et fail
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/modules/diagnostic/module-assert-fail/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/modules/diagnostic/module-assert-fail/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/modules/diagnostic/module-assert-fail/)
 - **Pourquoi ici :** Catalogue / approfondissement modules Ansible : chaque page est une référence ; à consulter selon le besoin après le tronc. Référence catalogue « Modules assert et fail » : garder sous le coude et ouvrir quand le besoin concret apparaît.
 - **À retenir :**
   - Référence : Modules assert et fail
@@ -974,7 +980,7 @@ Toutes les pages modules restantes (réseau, système, diagnostic, etc.) : aucun
 - [ ] Page lue / pratiquée
 
 #### 117. Module find
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/modules/diagnostic/module-find/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/modules/diagnostic/module-find/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/modules/diagnostic/module-find/)
 - **Pourquoi ici :** Catalogue / approfondissement modules Ansible : chaque page est une référence ; à consulter selon le besoin après le tronc. Référence catalogue « Module find » : garder sous le coude et ouvrir quand le besoin concret apparaît.
 - **À retenir :**
   - Référence : Module find
@@ -982,7 +988,7 @@ Toutes les pages modules restantes (réseau, système, diagnostic, etc.) : aucun
 - [ ] Page lue / pratiquée
 
 #### 118. Module service_facts
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/modules/diagnostic/module-service-facts/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/modules/diagnostic/module-service-facts/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/modules/diagnostic/module-service-facts/)
 - **Pourquoi ici :** Catalogue / approfondissement modules Ansible : chaque page est une référence ; à consulter selon le besoin après le tronc. Référence catalogue « Module service_facts » : garder sous le coude et ouvrir quand le besoin concret apparaît.
 - **À retenir :**
   - Référence : Module service_facts
@@ -990,7 +996,7 @@ Toutes les pages modules restantes (réseau, système, diagnostic, etc.) : aucun
 - [ ] Page lue / pratiquée
 
 #### 119. Module stat
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/modules/diagnostic/module-stat/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/modules/diagnostic/module-stat/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/modules/diagnostic/module-stat/)
 - **Pourquoi ici :** Catalogue / approfondissement modules Ansible : chaque page est une référence ; à consulter selon le besoin après le tronc. Référence catalogue « Module stat » : garder sous le coude et ouvrir quand le besoin concret apparaît.
 - **À retenir :**
   - Référence : Module stat
@@ -998,7 +1004,7 @@ Toutes les pages modules restantes (réseau, système, diagnostic, etc.) : aucun
 - [ ] Page lue / pratiquée
 
 #### 120. Modules wait_for et pause
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/modules/diagnostic/module-wait-for-pause/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/modules/diagnostic/module-wait-for-pause/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/modules/diagnostic/module-wait-for-pause/)
 - **Pourquoi ici :** Catalogue / approfondissement modules Ansible : chaque page est une référence ; à consulter selon le besoin après le tronc. Référence catalogue « Modules wait_for et pause » : garder sous le coude et ouvrir quand le besoin concret apparaît.
 - **À retenir :**
   - Référence : Modules wait_for et pause
@@ -1006,7 +1012,7 @@ Toutes les pages modules restantes (réseau, système, diagnostic, etc.) : aucun
 - [ ] Page lue / pratiquée
 
 #### 121. Module get_url
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/modules/reseau/module-get-url/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/modules/reseau/module-get-url/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/modules/reseau/module-get-url/)
 - **Pourquoi ici :** Catalogue / approfondissement modules Ansible : chaque page est une référence ; à consulter selon le besoin après le tronc. Référence catalogue « Module get_url » : garder sous le coude et ouvrir quand le besoin concret apparaît.
 - **À retenir :**
   - Référence : Module get_url
@@ -1014,7 +1020,7 @@ Toutes les pages modules restantes (réseau, système, diagnostic, etc.) : aucun
 - [ ] Page lue / pratiquée
 
 #### 122. Module uri
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/modules/reseau/module-uri/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/modules/reseau/module-uri/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/modules/reseau/module-uri/)
 - **Pourquoi ici :** Catalogue / approfondissement modules Ansible : chaque page est une référence ; à consulter selon le besoin après le tronc. Référence catalogue « Module uri » : garder sous le coude et ouvrir quand le besoin concret apparaît.
 - **À retenir :**
   - Référence : Module uri
@@ -1022,7 +1028,7 @@ Toutes les pages modules restantes (réseau, système, diagnostic, etc.) : aucun
 - [ ] Page lue / pratiquée
 
 #### 123. LVM (lvg + lvol + filesystem)
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/modules/systeme/lvm-storage/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/modules/systeme/lvm-storage/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/modules/systeme/lvm-storage/)
 - **Pourquoi ici :** Catalogue / approfondissement modules Ansible : chaque page est une référence ; à consulter selon le besoin après le tronc. Référence catalogue « LVM (lvg + lvol + filesystem) » : garder sous le coude et ouvrir quand le besoin concret apparaît.
 - **À retenir :**
   - Référence : LVM (lvg + lvol + filesystem)
@@ -1030,7 +1036,7 @@ Toutes les pages modules restantes (réseau, système, diagnostic, etc.) : aucun
 - [ ] Page lue / pratiquée
 
 #### 124. Module filesystem
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/modules/systeme/module-filesystem/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/modules/systeme/module-filesystem/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/modules/systeme/module-filesystem/)
 - **Pourquoi ici :** Catalogue / approfondissement modules Ansible : chaque page est une référence ; à consulter selon le besoin après le tronc. Référence catalogue « Module filesystem » : garder sous le coude et ouvrir quand le besoin concret apparaît.
 - **À retenir :**
   - Référence : Module filesystem
@@ -1038,7 +1044,7 @@ Toutes les pages modules restantes (réseau, système, diagnostic, etc.) : aucun
 - [ ] Page lue / pratiquée
 
 #### 125. Module firewalld
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/modules/systeme/module-firewalld/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/modules/systeme/module-firewalld/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/modules/systeme/module-firewalld/)
 - **Pourquoi ici :** Catalogue / approfondissement modules Ansible : chaque page est une référence ; à consulter selon le besoin après le tronc. Référence catalogue « Module firewalld » : garder sous le coude et ouvrir quand le besoin concret apparaît.
 - **À retenir :**
   - Référence : Module firewalld
@@ -1046,7 +1052,7 @@ Toutes les pages modules restantes (réseau, système, diagnostic, etc.) : aucun
 - [ ] Page lue / pratiquée
 
 #### 126. Module getent
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/modules/systeme/module-getent/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/modules/systeme/module-getent/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/modules/systeme/module-getent/)
 - **Pourquoi ici :** Catalogue / approfondissement modules Ansible : chaque page est une référence ; à consulter selon le besoin après le tronc. Référence catalogue « Module getent » : garder sous le coude et ouvrir quand le besoin concret apparaît.
 - **À retenir :**
   - Référence : Module getent
@@ -1054,7 +1060,7 @@ Toutes les pages modules restantes (réseau, système, diagnostic, etc.) : aucun
 - [ ] Page lue / pratiquée
 
 #### 127. Module hostname
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/modules/systeme/module-hostname/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/modules/systeme/module-hostname/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/modules/systeme/module-hostname/)
 - **Pourquoi ici :** Catalogue / approfondissement modules Ansible : chaque page est une référence ; à consulter selon le besoin après le tronc. Référence catalogue « Module hostname » : garder sous le coude et ouvrir quand le besoin concret apparaît.
 - **À retenir :**
   - Référence : Module hostname
@@ -1062,7 +1068,7 @@ Toutes les pages modules restantes (réseau, système, diagnostic, etc.) : aucun
 - [ ] Page lue / pratiquée
 
 #### 128. Module mount
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/modules/systeme/module-mount/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/modules/systeme/module-mount/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/modules/systeme/module-mount/)
 - **Pourquoi ici :** Catalogue / approfondissement modules Ansible : chaque page est une référence ; à consulter selon le besoin après le tronc. Référence catalogue « Module mount » : garder sous le coude et ouvrir quand le besoin concret apparaît.
 - **À retenir :**
   - Référence : Module mount
@@ -1070,7 +1076,7 @@ Toutes les pages modules restantes (réseau, système, diagnostic, etc.) : aucun
 - [ ] Page lue / pratiquée
 
 #### 129. Module parted
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/modules/systeme/module-parted/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/modules/systeme/module-parted/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/modules/systeme/module-parted/)
 - **Pourquoi ici :** Catalogue / approfondissement modules Ansible : chaque page est une référence ; à consulter selon le besoin après le tronc. Référence catalogue « Module parted » : garder sous le coude et ouvrir quand le besoin concret apparaît.
 - **À retenir :**
   - Référence : Module parted
@@ -1078,7 +1084,7 @@ Toutes les pages modules restantes (réseau, système, diagnostic, etc.) : aucun
 - [ ] Page lue / pratiquée
 
 #### 130. Module reboot
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/modules/systeme/module-reboot/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/modules/systeme/module-reboot/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/modules/systeme/module-reboot/)
 - **Pourquoi ici :** Catalogue / approfondissement modules Ansible : chaque page est une référence ; à consulter selon le besoin après le tronc. Référence catalogue « Module reboot » : garder sous le coude et ouvrir quand le besoin concret apparaît.
 - **À retenir :**
   - Référence : Module reboot
@@ -1086,7 +1092,7 @@ Toutes les pages modules restantes (réseau, système, diagnostic, etc.) : aucun
 - [ ] Page lue / pratiquée
 
 #### 131. Module SELinux
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/modules/systeme/module-selinux/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/modules/systeme/module-selinux/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/modules/systeme/module-selinux/)
 - **Pourquoi ici :** Catalogue / approfondissement modules Ansible : chaque page est une référence ; à consulter selon le besoin après le tronc. Référence catalogue « Module SELinux » : garder sous le coude et ouvrir quand le besoin concret apparaît.
 - **À retenir :**
   - Référence : Module SELinux
@@ -1094,7 +1100,7 @@ Toutes les pages modules restantes (réseau, système, diagnostic, etc.) : aucun
 - [ ] Page lue / pratiquée
 
 #### 132. Module sysctl
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/modules/systeme/module-sysctl/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/modules/systeme/module-sysctl/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/modules/systeme/module-sysctl/)
 - **Pourquoi ici :** Catalogue / approfondissement modules Ansible : chaque page est une référence ; à consulter selon le besoin après le tronc. Référence catalogue « Module sysctl » : garder sous le coude et ouvrir quand le besoin concret apparaît.
 - **À retenir :**
   - Référence : Module sysctl
@@ -1105,7 +1111,7 @@ Toutes les pages modules restantes (réseau, système, diagnostic, etc.) : aucun
 Structure de rôles, Galaxy CLI, Molecule, publication.
 
 #### 133. Vue d'ensemble
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/roles/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/roles/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/roles/)
 - **Pourquoi ici :** Rôles + Molecule : réutilisation et tests après maîtrise du code de base. Vue d'ensemble / jalon « Vue d'ensemble » : survol rapide, l'apprentissage se fait dans les pages suivantes.
 - **À retenir :**
   - Vue d'ensemble
@@ -1113,7 +1119,7 @@ Structure de rôles, Galaxy CLI, Molecule, publication.
 - [ ] Page lue / pratiquée
 
 #### 134. ansible-galaxy CLI
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/roles/ansible-galaxy-cli/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/roles/ansible-galaxy-cli/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/roles/ansible-galaxy-cli/)
 - **Pourquoi ici :** Rôles + Molecule : réutilisation et tests après maîtrise du code de base. La page « ansible-galaxy CLI » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - ansible-galaxy CLI
@@ -1121,7 +1127,7 @@ Structure de rôles, Galaxy CLI, Molecule, publication.
 - [ ] Page lue / pratiquée
 
 #### 135. ansible-lint production
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/roles/ansible-lint-production-profile/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/roles/ansible-lint-production-profile/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/roles/ansible-lint-production-profile/)
 - **Pourquoi ici :** Rôles + Molecule : réutilisation et tests après maîtrise du code de base. La page « ansible-lint production » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - ansible-lint production
@@ -1129,7 +1135,7 @@ Structure de rôles, Galaxy CLI, Molecule, publication.
 - [ ] Page lue / pratiquée
 
 #### 136. argument_specs.yml
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/roles/argument-specs/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/roles/argument-specs/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/roles/argument-specs/)
 - **Pourquoi ici :** Rôles + Molecule : réutilisation et tests après maîtrise du code de base. La page « argument_specs.yml » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - argument_specs.yml
@@ -1137,7 +1143,7 @@ Structure de rôles, Galaxy CLI, Molecule, publication.
 - [ ] Page lue / pratiquée
 
 #### 137. Auditer un rôle existant
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/roles/auditer-role-existant/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/roles/auditer-role-existant/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/roles/auditer-role-existant/)
 - **Pourquoi ici :** Rôles + Molecule : réutilisation et tests après maîtrise du code de base. La page « Auditer un rôle existant » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Auditer un rôle existant
@@ -1145,7 +1151,7 @@ Structure de rôles, Galaxy CLI, Molecule, publication.
 - [ ] Page lue / pratiquée
 
 #### 138. CI GitHub Actions
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/roles/ci-github-actions/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/roles/ci-github-actions/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/roles/ci-github-actions/)
 - **Pourquoi ici :** Rôles + Molecule : réutilisation et tests après maîtrise du code de base. La page « CI GitHub Actions » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - CI GitHub Actions
@@ -1153,7 +1159,7 @@ Structure de rôles, Galaxy CLI, Molecule, publication.
 - [ ] Page lue / pratiquée
 
 #### 139. CI GitLab
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/roles/ci-gitlab/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/roles/ci-gitlab/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/roles/ci-gitlab/)
 - **Pourquoi ici :** Rôles + Molecule : réutilisation et tests après maîtrise du code de base. La page « CI GitLab » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - CI GitLab
@@ -1161,7 +1167,7 @@ Structure de rôles, Galaxy CLI, Molecule, publication.
 - [ ] Page lue / pratiquée
 
 #### 140. Consommer un rôle
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/roles/consommer-role/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/roles/consommer-role/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/roles/consommer-role/)
 - **Pourquoi ici :** Rôles + Molecule : réutilisation et tests après maîtrise du code de base. La page « Consommer un rôle » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Consommer un rôle
@@ -1169,7 +1175,7 @@ Structure de rôles, Galaxy CLI, Molecule, publication.
 - [ ] Page lue / pratiquée
 
 #### 141. Créer son premier rôle
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/roles/creer-premier-role/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/roles/creer-premier-role/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/roles/creer-premier-role/)
 - **Pourquoi ici :** Rôles + Molecule : réutilisation et tests après maîtrise du code de base. La page « Créer son premier rôle » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Créer son premier rôle
@@ -1177,7 +1183,7 @@ Structure de rôles, Galaxy CLI, Molecule, publication.
 - [ ] Page lue / pratiquée
 
 #### 142. Découvrir les rôles
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/roles/decouvrir-roles/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/roles/decouvrir-roles/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/roles/decouvrir-roles/)
 - **Pourquoi ici :** Rôles + Molecule : réutilisation et tests après maîtrise du code de base. La page « Découvrir les rôles » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Découvrir les rôles
@@ -1185,7 +1191,7 @@ Structure de rôles, Galaxy CLI, Molecule, publication.
 - [ ] Page lue / pratiquée
 
 #### 143. Dépendances entre rôles
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/roles/dependencies/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/roles/dependencies/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/roles/dependencies/)
 - **Pourquoi ici :** Rôles + Molecule : réutilisation et tests après maîtrise du code de base. La page « Dépendances entre rôles » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Dépendances entre rôles
@@ -1193,7 +1199,7 @@ Structure de rôles, Galaxy CLI, Molecule, publication.
 - [ ] Page lue / pratiquée
 
 #### 144. Handlers et meta
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/roles/handlers-meta/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/roles/handlers-meta/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/roles/handlers-meta/)
 - **Pourquoi ici :** Rôles + Molecule : réutilisation et tests après maîtrise du code de base. La page « Handlers et meta » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Handlers et meta
@@ -1201,7 +1207,7 @@ Structure de rôles, Galaxy CLI, Molecule, publication.
 - [ ] Page lue / pratiquée
 
 #### 145. Installer rôles Galaxy
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/roles/installer-roles-galaxy/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/roles/installer-roles-galaxy/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/roles/installer-roles-galaxy/)
 - **Pourquoi ici :** Rôles + Molecule : réutilisation et tests après maîtrise du code de base. La page « Installer rôles Galaxy » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Installer rôles Galaxy
@@ -1209,7 +1215,7 @@ Structure de rôles, Galaxy CLI, Molecule, publication.
 - [ ] Page lue / pratiquée
 
 #### 146. Installer et configurer Molecule
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/roles/molecule-installation-config/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/roles/molecule-installation-config/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/roles/molecule-installation-config/)
 - **Pourquoi ici :** Rôles + Molecule : réutilisation et tests après maîtrise du code de base. La page « Installer et configurer Molecule » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Installer et configurer Molecule
@@ -1217,7 +1223,7 @@ Structure de rôles, Galaxy CLI, Molecule, publication.
 - [ ] Page lue / pratiquée
 
 #### 147. Scenarios multi-distro
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/roles/molecule-scenarios-multi-distro/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/roles/molecule-scenarios-multi-distro/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/roles/molecule-scenarios-multi-distro/)
 - **Pourquoi ici :** Rôles + Molecule : réutilisation et tests après maîtrise du code de base. La page « Scenarios multi-distro » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Scenarios multi-distro
@@ -1225,7 +1231,7 @@ Structure de rôles, Galaxy CLI, Molecule, publication.
 - [ ] Page lue / pratiquée
 
 #### 148. Cycle TDD complet
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/roles/molecule-tdd-cycle/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/roles/molecule-tdd-cycle/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/roles/molecule-tdd-cycle/)
 - **Pourquoi ici :** Rôles + Molecule : réutilisation et tests après maîtrise du code de base. La page « Cycle TDD complet » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Cycle TDD complet
@@ -1233,7 +1239,7 @@ Structure de rôles, Galaxy CLI, Molecule, publication.
 - [ ] Page lue / pratiquée
 
 #### 149. RHEL System Roles
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/roles/rhel-system-roles/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/roles/rhel-system-roles/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/roles/rhel-system-roles/)
 - **Pourquoi ici :** Rôles + Molecule : réutilisation et tests après maîtrise du code de base. La page « RHEL System Roles » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - RHEL System Roles
@@ -1241,7 +1247,7 @@ Structure de rôles, Galaxy CLI, Molecule, publication.
 - [ ] Page lue / pratiquée
 
 #### 150. Structure standard
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/roles/structure-standard/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/roles/structure-standard/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/roles/structure-standard/)
 - **Pourquoi ici :** Rôles + Molecule : réutilisation et tests après maîtrise du code de base. La page « Structure standard » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Structure standard
@@ -1249,7 +1255,7 @@ Structure de rôles, Galaxy CLI, Molecule, publication.
 - [ ] Page lue / pratiquée
 
 #### 151. Introduction TDD Molecule
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/roles/tdd-molecule-introduction/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/roles/tdd-molecule-introduction/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/roles/tdd-molecule-introduction/)
 - **Pourquoi ici :** Rôles + Molecule : réutilisation et tests après maîtrise du code de base. La page « Introduction TDD Molecule » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Introduction TDD Molecule
@@ -1257,7 +1263,7 @@ Structure de rôles, Galaxy CLI, Molecule, publication.
 - [ ] Page lue / pratiquée
 
 #### 152. Tests avec testinfra
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/roles/tests-testinfra/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/roles/tests-testinfra/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/roles/tests-testinfra/)
 - **Pourquoi ici :** Rôles + Molecule : réutilisation et tests après maîtrise du code de base. La page « Tests avec testinfra » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Tests avec testinfra
@@ -1265,7 +1271,7 @@ Structure de rôles, Galaxy CLI, Molecule, publication.
 - [ ] Page lue / pratiquée
 
 #### 153. Tests tox multi-versions
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/roles/tests-tox-multiversion/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/roles/tests-tox-multiversion/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/roles/tests-tox-multiversion/)
 - **Pourquoi ici :** Rôles + Molecule : réutilisation et tests après maîtrise du code de base. La page « Tests tox multi-versions » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Tests tox multi-versions
@@ -1273,7 +1279,7 @@ Structure de rôles, Galaxy CLI, Molecule, publication.
 - [ ] Page lue / pratiquée
 
 #### 154. Variables : defaults vs vars
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/roles/variables-defaults-vars/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/roles/variables-defaults-vars/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/roles/variables-defaults-vars/)
 - **Pourquoi ici :** Rôles + Molecule : réutilisation et tests après maîtrise du code de base. La page « Variables : defaults vs vars » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Variables : defaults vs vars
@@ -1281,7 +1287,7 @@ Structure de rôles, Galaxy CLI, Molecule, publication.
 - [ ] Page lue / pratiquée
 
 #### 155. Versionner et publier
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/roles/versionner-publier/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/roles/versionner-publier/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/roles/versionner-publier/)
 - **Pourquoi ici :** Rôles + Molecule : réutilisation et tests après maîtrise du code de base. La page « Versionner et publier » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Versionner et publier
@@ -1292,7 +1298,7 @@ Structure de rôles, Galaxy CLI, Molecule, publication.
 Industrialisation de l'écosystème Ansible.
 
 #### 156. Vue d'ensemble
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/collections/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/collections/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/collections/)
 - **Pourquoi ici :** Collections Galaxy et Execution Environments : écosystème après les rôles. Vue d'ensemble / jalon « Vue d'ensemble » : survol rapide, l'apprentissage se fait dans les pages suivantes.
 - **À retenir :**
   - Vue d'ensemble
@@ -1300,7 +1306,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 157. Créer une collection custom
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/collections/creer-collection-custom/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/collections/creer-collection-custom/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/collections/creer-collection-custom/)
 - **Pourquoi ici :** Collections Galaxy et Execution Environments : écosystème après les rôles. La page « Créer une collection custom » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Créer une collection custom
@@ -1308,7 +1314,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 158. Découvrir une collection
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/collections/decouvrir-collection/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/collections/decouvrir-collection/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/collections/decouvrir-collection/)
 - **Pourquoi ici :** Collections Galaxy et Execution Environments : écosystème après les rôles. La page « Découvrir une collection » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Découvrir une collection
@@ -1316,7 +1322,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 159. Migration rôle → collection
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/collections/migration-role/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/collections/migration-role/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/collections/migration-role/)
 - **Pourquoi ici :** Collections Galaxy et Execution Environments : écosystème après les rôles. La page « Migration rôle → collection » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Migration rôle → collection
@@ -1324,7 +1330,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 160. Pipeline CI matrice
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/collections/pipeline-ci/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/collections/pipeline-ci/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/collections/pipeline-ci/)
 - **Pourquoi ici :** Collections Galaxy et Execution Environments : écosystème après les rôles. La page « Pipeline CI matrice » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Pipeline CI matrice
@@ -1332,7 +1338,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 161. requirements.yml multi-sources
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/collections/requirements-yml/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/collections/requirements-yml/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/collections/requirements-yml/)
 - **Pourquoi ici :** Collections Galaxy et Execution Environments : écosystème après les rôles. La page « requirements.yml multi-sources » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - requirements.yml multi-sources
@@ -1340,7 +1346,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 162. Vue d'ensemble
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/execution-environments/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/execution-environments/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/execution-environments/)
 - **Pourquoi ici :** Collections Galaxy et Execution Environments : écosystème après les rôles. Vue d'ensemble / jalon « Vue d'ensemble » : survol rapide, l'apprentissage se fait dans les pages suivantes.
 - **À retenir :**
   - Vue d'ensemble
@@ -1348,7 +1354,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 163. Debug d'un EE cassé
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/execution-environments/debug-ee-casse/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/execution-environments/debug-ee-casse/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/execution-environments/debug-ee-casse/)
 - **Pourquoi ici :** Collections Galaxy et Execution Environments : écosystème après les rôles. La page « Debug d'un EE cassé » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Debug d'un EE cassé
@@ -1356,7 +1362,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 164. Construire un EE custom
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/execution-environments/ee-builder/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/execution-environments/ee-builder/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/execution-environments/ee-builder/)
 - **Pourquoi ici :** Collections Galaxy et Execution Environments : écosystème après les rôles. La page « Construire un EE custom » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Construire un EE custom
@@ -1364,7 +1370,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 165. Exécution en CI/CD
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/execution-environments/exec-playbook/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/execution-environments/exec-playbook/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/execution-environments/exec-playbook/)
 - **Pourquoi ici :** Collections Galaxy et Execution Environments : écosystème après les rôles. La page « Exécution en CI/CD » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Exécution en CI/CD
@@ -1372,7 +1378,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 166. Installation et configuration
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/execution-environments/installation-config/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/execution-environments/installation-config/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/execution-environments/installation-config/)
 - **Pourquoi ici :** Collections Galaxy et Execution Environments : écosystème après les rôles. La page « Installation et configuration » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Installation et configuration
@@ -1380,7 +1386,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 167. Inspecter un EE
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/execution-environments/lookup-doc/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/execution-environments/lookup-doc/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/execution-environments/lookup-doc/)
 - **Pourquoi ici :** Collections Galaxy et Execution Environments : écosystème après les rôles. La page « Inspecter un EE » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Inspecter un EE
@@ -1388,7 +1394,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 168. Modes interactifs (TUI / stdout)
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/execution-environments/modes-interactifs/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/execution-environments/modes-interactifs/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/execution-environments/modes-interactifs/)
 - **Pourquoi ici :** Collections Galaxy et Execution Environments : écosystème après les rôles. La page « Modes interactifs (TUI / stdout) » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Modes interactifs (TUI / stdout)
@@ -1396,7 +1402,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 169. Présentation des EE
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/execution-environments/presentation/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/execution-environments/presentation/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/execution-environments/presentation/)
 - **Pourquoi ici :** Collections Galaxy et Execution Environments : écosystème après les rôles. La page « Présentation des EE » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Présentation des EE
@@ -1404,7 +1410,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 170. Vue d'ensemble
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/secrets-vault/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/secrets-vault/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/secrets-vault/)
 - **Pourquoi ici :** Ansible Vault / secrets : obligatoire dès que le code est versionné hors lab. Vue d'ensemble / jalon « Vue d'ensemble » : survol rapide, l'apprentissage se fait dans les pages suivantes.
 - **À retenir :**
   - Vue d'ensemble
@@ -1412,7 +1418,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 171. Introduction à Ansible Vault
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/secrets-vault/ansible-vault-introduction/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/secrets-vault/ansible-vault-introduction/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/secrets-vault/ansible-vault-introduction/)
 - **Pourquoi ici :** Ansible Vault / secrets : obligatoire dès que le code est versionné hors lab. La page « Introduction à Ansible Vault » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Introduction à Ansible Vault
@@ -1420,7 +1426,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 172. Chiffrer fichier ou variable
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/secrets-vault/chiffrer-fichier-variable/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/secrets-vault/chiffrer-fichier-variable/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/secrets-vault/chiffrer-fichier-variable/)
 - **Pourquoi ici :** Ansible Vault / secrets : obligatoire dès que le code est versionné hors lab. La page « Chiffrer fichier ou variable » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Chiffrer fichier ou variable
@@ -1428,7 +1434,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 173. HashiCorp Vault / OpenBao
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/secrets-vault/integration-hashicorp-vault/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/secrets-vault/integration-hashicorp-vault/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/secrets-vault/integration-hashicorp-vault/)
 - **Pourquoi ici :** Ansible Vault / secrets : obligatoire dès que le code est versionné hors lab. La page « HashiCorp Vault / OpenBao » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - HashiCorp Vault / OpenBao
@@ -1436,7 +1442,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 174. Passbolt (équipes)
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/secrets-vault/integration-passbolt/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/secrets-vault/integration-passbolt/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/secrets-vault/integration-passbolt/)
 - **Pourquoi ici :** Ansible Vault / secrets : obligatoire dès que le code est versionné hors lab. La page « Passbolt (équipes) » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Passbolt (équipes)
@@ -1444,7 +1450,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 175. Playbooks mixtes
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/secrets-vault/playbooks-mixtes/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/secrets-vault/playbooks-mixtes/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/secrets-vault/playbooks-mixtes/)
 - **Pourquoi ici :** Ansible Vault / secrets : obligatoire dès que le code est versionné hors lab. La page « Playbooks mixtes » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Playbooks mixtes
@@ -1452,7 +1458,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 176. Vault dans les rôles
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/secrets-vault/vault-dans-roles/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/secrets-vault/vault-dans-roles/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/secrets-vault/vault-dans-roles/)
 - **Pourquoi ici :** Ansible Vault / secrets : obligatoire dès que le code est versionné hors lab. La page « Vault dans les rôles » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Vault dans les rôles
@@ -1460,7 +1466,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 177. Vault-id multiples (dev/prod)
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/secrets-vault/vault-id-multiples/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/secrets-vault/vault-id-multiples/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/secrets-vault/vault-id-multiples/)
 - **Pourquoi ici :** Ansible Vault / secrets : obligatoire dès que le code est versionné hors lab. La page « Vault-id multiples (dev/prod) » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Vault-id multiples (dev/prod)
@@ -1468,7 +1474,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 178. AWX : concepts et avenir
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/awx/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/awx/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/awx/)
 - **Pourquoi ici :** AWX : exécution collaborative après maîtrise CLI et playbooks. La page « AWX : concepts et avenir » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - AWX : concepts et avenir
@@ -1476,7 +1482,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 179. Administrer AWX
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/awx/administration/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/awx/administration/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/awx/administration/)
 - **Pourquoi ici :** AWX : exécution collaborative après maîtrise CLI et playbooks. La page « Administrer AWX » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Administrer AWX
@@ -1484,7 +1490,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 180. Utiliser AWX au quotidien
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/awx/utilisation/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/awx/utilisation/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/awx/utilisation/)
 - **Pourquoi ici :** AWX : exécution collaborative après maîtrise CLI et playbooks. La page « Utiliser AWX au quotidien » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Utiliser AWX au quotidien
@@ -1492,7 +1498,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 181. Installer avec l'operator
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/awx/administration/installation-kubernetes-operator/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/awx/administration/installation-kubernetes-operator/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/awx/administration/installation-kubernetes-operator/)
 - **Pourquoi ici :** AWX : exécution collaborative après maîtrise CLI et playbooks. La page « Installer avec l'operator » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Installer avec l'operator
@@ -1500,7 +1506,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 182. Installer Ascender sur k3s
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/awx/administration/installer-ascender-k3s/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/awx/administration/installer-ascender-k3s/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/awx/administration/installer-ascender-k3s/)
 - **Pourquoi ici :** AWX : exécution collaborative après maîtrise CLI et playbooks. La page « Installer Ascender sur k3s » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Installer Ascender sur k3s
@@ -1508,7 +1514,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 183. Premières actions d'administration
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/awx/administration/premieres-actions/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/awx/administration/premieres-actions/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/awx/administration/premieres-actions/)
 - **Pourquoi ici :** AWX : exécution collaborative après maîtrise CLI et playbooks. La page « Premières actions d'administration » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Premières actions d'administration
@@ -1516,7 +1522,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 184. Premiers pas
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/awx/utilisation/premiers-pas/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/awx/utilisation/premiers-pas/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/awx/utilisation/premiers-pas/)
 - **Pourquoi ici :** AWX : exécution collaborative après maîtrise CLI et playbooks. La page « Premiers pas » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Premiers pas
@@ -1526,7 +1532,7 @@ Industrialisation de l'écosystème Ansible.
 **B9 — Pratiques, sécurité, troubleshooting**
 
 #### 185. Pratiques — Vue d'ensemble
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/pratiques/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/pratiques/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/pratiques/)
 - **Pourquoi ici :** Pratiques, sécu, outillage et debug Ansible. La page « Pratiques — Vue d'ensemble » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Pratiques — Vue d'ensemble
@@ -1534,7 +1540,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 186. ansible-pull (GitOps Edge / IoT)
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/pratiques/ansible-pull-gitops/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/pratiques/ansible-pull-gitops/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/pratiques/ansible-pull-gitops/)
 - **Pourquoi ici :** Pratiques, sécu, outillage et debug Ansible. La page « ansible-pull (GitOps Edge / IoT) » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - ansible-pull (GitOps Edge / IoT)
@@ -1542,7 +1548,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 187. Build images en parallèle
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/pratiques/build-images-paralleles/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/pratiques/build-images-paralleles/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/pratiques/build-images-paralleles/)
 - **Pourquoi ici :** Pratiques, sécu, outillage et debug Ansible. La page « Build images en parallèle » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Build images en parallèle
@@ -1550,7 +1556,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 188. Versionner avec Git
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/pratiques/versionner-git/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/pratiques/versionner-git/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/pratiques/versionner-git/)
 - **Pourquoi ici :** Pratiques, sécu, outillage et debug Ansible. La page « Versionner avec Git » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Versionner avec Git
@@ -1558,7 +1564,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 189. Sécurité Ansible — Vue d'ensemble
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/securite/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/securite/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/securite/)
 - **Pourquoi ici :** Pratiques, sécu, outillage et debug Ansible. « Sécurité Ansible — Vue d'ensemble » renforce le réflexe DevSecOps ; croiser avec le dossier `05-securite` si besoin.
 - **À retenir :**
   - Sécurité Ansible — Vue d'ensemble
@@ -1566,7 +1572,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 190. Outillage — Vue d'ensemble
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/outillage/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/outillage/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/outillage/)
 - **Pourquoi ici :** Pratiques, sécu, outillage et debug Ansible. La page « Outillage — Vue d'ensemble » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Outillage — Vue d'ensemble
@@ -1574,7 +1580,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 191. Extension VS Code Ansible
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/outillage/extension-vscode/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/outillage/extension-vscode/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/outillage/extension-vscode/)
 - **Pourquoi ici :** Pratiques, sécu, outillage et debug Ansible. La page « Extension VS Code Ansible » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Extension VS Code Ansible
@@ -1582,7 +1588,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 192. Steampunk Spotter
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/outillage/steampunk-spotter/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/outillage/steampunk-spotter/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/outillage/steampunk-spotter/)
 - **Pourquoi ici :** Pratiques, sécu, outillage et debug Ansible. La page « Steampunk Spotter » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Steampunk Spotter
@@ -1590,7 +1596,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 193. Développement — Vue d'ensemble
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/developpement/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/developpement/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/developpement/)
 - **Pourquoi ici :** Pratiques, sécu, outillage et debug Ansible. La page « Développement — Vue d'ensemble » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Développement — Vue d'ensemble
@@ -1598,7 +1604,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 194. Développer des action plugins
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/developpement/action-plugins/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/developpement/action-plugins/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/developpement/action-plugins/)
 - **Pourquoi ici :** Pratiques, sécu, outillage et debug Ansible. La page « Développer des action plugins » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Développer des action plugins
@@ -1606,7 +1612,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 195. Écrire des filter plugins
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/developpement/filter-plugins/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/developpement/filter-plugins/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/developpement/filter-plugins/)
 - **Pourquoi ici :** Pratiques, sécu, outillage et debug Ansible. La page « Écrire des filter plugins » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Écrire des filter plugins
@@ -1614,7 +1620,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 196. Développer des modules Python
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/developpement/modules-python/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/developpement/modules-python/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/developpement/modules-python/)
 - **Pourquoi ici :** Pratiques, sécu, outillage et debug Ansible. La page « Développer des modules Python » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Développer des modules Python
@@ -1622,7 +1628,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 197. Vue d'ensemble
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/troubleshooting/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/troubleshooting/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/troubleshooting/)
 - **Pourquoi ici :** Pratiques, sécu, outillage et debug Ansible. Vue d'ensemble / jalon « Vue d'ensemble » : survol rapide, l'apprentissage se fait dans les pages suivantes.
 - **À retenir :**
   - Vue d'ensemble
@@ -1630,7 +1636,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 198. Débogueur interactif
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/troubleshooting/debugger-interactif/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/troubleshooting/debugger-interactif/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/troubleshooting/debugger-interactif/)
 - **Pourquoi ici :** Pratiques, sécu, outillage et debug Ansible. La page « Débogueur interactif » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Débogueur interactif
@@ -1638,7 +1644,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 199. Idempotence et tuning
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/troubleshooting/idempotence-cassee/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/troubleshooting/idempotence-cassee/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/troubleshooting/idempotence-cassee/)
 - **Pourquoi ici :** Pratiques, sécu, outillage et debug Ansible. La page « Idempotence et tuning » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Idempotence et tuning
@@ -1646,7 +1652,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 200. Verbosité (-v à -vvvv)
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/troubleshooting/verbosite-vvv/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/troubleshooting/verbosite-vvv/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/troubleshooting/verbosite-vvv/)
 - **Pourquoi ici :** Pratiques, sécu, outillage et debug Ansible. La page « Verbosité (-v à -vvvv) » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Verbosité (-v à -vvvv)
@@ -1654,7 +1660,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 201. Changelog de la formation
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/changelog/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/changelog/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/changelog/)
 - **Pourquoi ici :** Pratiques, sécu, outillage et debug Ansible. La page « Changelog de la formation » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Changelog de la formation
@@ -1664,7 +1670,7 @@ Industrialisation de l'écosystème Ansible.
 **B10 — Certifications Ansible**
 
 #### 202. Choisir sa certification
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/certifications/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/certifications/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/certifications/)
 - **Pourquoi ici :** Certifications Ansible : après pratique solide (pas avant les labs). « Choisir sa certification » oriente une prep certif : utile seulement après la pratique des labs du tronc.
 - **À retenir :**
   - Choisir sa certification
@@ -1672,7 +1678,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 203. Préparer l'EX374
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/certifications/ex374/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/certifications/ex374/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/certifications/ex374/)
 - **Pourquoi ici :** Certifications Ansible : après pratique solide (pas avant les labs). « Préparer l'EX374 » oriente une prep certif : utile seulement après la pratique des labs du tronc.
 - **À retenir :**
   - Préparer l'EX374
@@ -1680,7 +1686,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 204. Préparer l'EX467
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/certifications/ex467/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/certifications/ex467/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/certifications/ex467/)
 - **Pourquoi ici :** Certifications Ansible : après pratique solide (pas avant les labs). « Préparer l'EX467 » oriente une prep certif : utile seulement après la pratique des labs du tronc.
 - **À retenir :**
   - Préparer l'EX467
@@ -1688,7 +1694,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 205. RHCE
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/certifications/rhce/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/certifications/rhce/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/certifications/rhce/)
 - **Pourquoi ici :** Certifications Ansible : après pratique solide (pas avant les labs). « RHCE » oriente une prep certif : utile seulement après la pratique des labs du tronc.
 - **À retenir :**
   - RHCE
@@ -1696,7 +1702,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 206. Aide-mémoire RHCE
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/certifications/rhce/commandes-essentielles/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/certifications/rhce/commandes-essentielles/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/certifications/rhce/commandes-essentielles/)
 - **Pourquoi ici :** Certifications Ansible : après pratique solide (pas avant les labs). « Aide-mémoire RHCE » oriente une prep certif : utile seulement après la pratique des labs du tronc.
 - **À retenir :**
   - Aide-mémoire RHCE
@@ -1704,7 +1710,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 207. Doc pendant l'examen
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/certifications/rhce/documentation-pendant-examen/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/certifications/rhce/documentation-pendant-examen/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/certifications/rhce/documentation-pendant-examen/)
 - **Pourquoi ici :** Certifications Ansible : après pratique solide (pas avant les labs). « Doc pendant l'examen » oriente une prep certif : utile seulement après la pratique des labs du tronc.
 - **À retenir :**
   - Doc pendant l'examen
@@ -1712,7 +1718,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 208. Exercices RHCE
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/certifications/rhce/exercices/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/certifications/rhce/exercices/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/certifications/rhce/exercices/)
 - **Pourquoi ici :** Certifications Ansible : après pratique solide (pas avant les labs). « Exercices RHCE » oriente une prep certif : utile seulement après la pratique des labs du tronc.
 - **À retenir :**
   - Exercices RHCE
@@ -1720,7 +1726,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 209. Workflow VS Code + Dev Container
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/ansible/certifications/rhce/workflow-vscode-devcontainer-navigator/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/certifications/rhce/workflow-vscode-devcontainer-navigator/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/ansible/certifications/rhce/workflow-vscode-devcontainer-navigator/)
 - **Pourquoi ici :** Certifications Ansible : après pratique solide (pas avant les labs). « Workflow VS Code + Dev Container » oriente une prep certif : utile seulement après la pratique des labs du tronc.
 - **À retenir :**
   - Workflow VS Code + Dev Container
@@ -1731,7 +1737,7 @@ Industrialisation de l'écosystème Ansible.
 Élargir la culture config management après le track Ansible.
 
 #### 210. Alternatives à Ansible
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/alternatives-ansible/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/alternatives-ansible/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/alternatives-ansible/)
 - **Pourquoi ici :** Alternatives config management : culture large après Ansible (ne pas tout re-pratiquer). La page « Alternatives à Ansible » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Alternatives à Ansible
@@ -1739,7 +1745,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 211. Chef
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/chef/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/chef/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/chef/)
 - **Pourquoi ici :** Alternatives config management : culture large après Ansible (ne pas tout re-pratiquer). La page « Chef » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Chef
@@ -1747,7 +1753,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 212. Les attributs
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/chef/attributs/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/chef/attributs/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/chef/attributs/)
 - **Pourquoi ici :** Alternatives config management : culture large après Ansible (ne pas tout re-pratiquer). La page « Les attributs » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Les attributs
@@ -1755,7 +1761,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 213. Exploiter Chef sans serveur
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/chef/chef-sans-serveur/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/chef/chef-sans-serveur/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/chef/chef-sans-serveur/)
 - **Pourquoi ici :** Alternatives config management : culture large après Ansible (ne pas tout re-pratiquer). La page « Exploiter Chef sans serveur » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Exploiter Chef sans serveur
@@ -1763,7 +1769,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 214. chef-vault : secrets par nœud
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/chef/chef-vault/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/chef/chef-vault/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/chef/chef-vault/)
 - **Pourquoi ici :** Alternatives config management : culture large après Ansible (ne pas tout re-pratiquer). La page « chef-vault : secrets par nœud » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - chef-vault : secrets par nœud
@@ -1771,7 +1777,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 215. ChefSpec : tests unitaires
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/chef/chefspec/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/chef/chefspec/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/chef/chefspec/)
 - **Pourquoi ici :** Alternatives config management : culture large après Ansible (ne pas tout re-pratiquer). La page « ChefSpec : tests unitaires » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - ChefSpec : tests unitaires
@@ -1779,7 +1785,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 216. CI/CD des cookbooks
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/chef/ci-cd-cookbooks/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/chef/ci-cd-cookbooks/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/chef/ci-cd-cookbooks/)
 - **Pourquoi ici :** Alternatives config management : culture large après Ansible (ne pas tout re-pratiquer). La page « CI/CD des cookbooks » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - CI/CD des cookbooks
@@ -1787,7 +1793,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 217. Conformité continue
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/chef/conformite-continue/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/chef/conformite-continue/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/chef/conformite-continue/)
 - **Pourquoi ici :** Alternatives config management : culture large après Ansible (ne pas tout re-pratiquer). La page « Conformité continue » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Conformité continue
@@ -1795,7 +1801,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 218. Cookbooks communautaires
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/chef/cookbooks-communautaires/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/chef/cookbooks-communautaires/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/chef/cookbooks-communautaires/)
 - **Pourquoi ici :** Alternatives config management : culture large après Ansible (ne pas tout re-pratiquer). La page « Cookbooks communautaires » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Cookbooks communautaires
@@ -1803,7 +1809,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 219. Cookstyle : linter
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/chef/cookstyle/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/chef/cookstyle/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/chef/cookstyle/)
 - **Pourquoi ici :** Alternatives config management : culture large après Ansible (ne pas tout re-pratiquer). La page « Cookstyle : linter » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Cookstyle : linter
@@ -1811,7 +1817,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 220. Les secrets avec des data bags chiffrés
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/chef/data-bags-secrets/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/chef/data-bags-secrets/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/chef/data-bags-secrets/)
 - **Pourquoi ici :** Alternatives config management : culture large après Ansible (ne pas tout re-pratiquer). La page « Les secrets avec des data bags chiffrés » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Les secrets avec des data bags chiffrés
@@ -1819,7 +1825,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 221. Déboguer Chef
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/chef/debogage/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/chef/debogage/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/chef/debogage/)
 - **Pourquoi ici :** Alternatives config management : culture large après Ansible (ne pas tout re-pratiquer). La page « Déboguer Chef » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Déboguer Chef
@@ -1827,7 +1833,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 222. Dépendances de cookbooks
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/chef/dependances-cookbooks/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/chef/dependances-cookbooks/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/chef/dependances-cookbooks/)
 - **Pourquoi ici :** Alternatives config management : culture large après Ansible (ne pas tout re-pratiquer). La page « Dépendances de cookbooks » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Dépendances de cookbooks
@@ -1835,7 +1841,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 223. Déployer sur une VM (knife-zero)
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/chef/deployer-vm-knife-zero/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/chef/deployer-vm-knife-zero/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/chef/deployer-vm-knife-zero/)
 - **Pourquoi ici :** Alternatives config management : culture large après Ansible (ne pas tout re-pratiquer). La page « Déployer sur une VM (knife-zero) » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Déployer sur une VM (knife-zero)
@@ -1843,7 +1849,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 224. Idempotence et mode unifié
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/chef/idempotence-mode-unifie/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/chef/idempotence-mode-unifie/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/chef/idempotence-mode-unifie/)
 - **Pourquoi ici :** Alternatives config management : culture large après Ansible (ne pas tout re-pratiquer). La page « Idempotence et mode unifié » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Idempotence et mode unifié
@@ -1851,7 +1857,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 225. InSpec : vérifier sur la VM
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/chef/inspec/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/chef/inspec/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/chef/inspec/)
 - **Pourquoi ici :** Alternatives config management : culture large après Ansible (ne pas tout re-pratiquer). La page « InSpec : vérifier sur la VM » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - InSpec : vérifier sur la VM
@@ -1859,7 +1865,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 226. Installer un serveur CINC
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/chef/installer-cinc-server/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/chef/installer-cinc-server/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/chef/installer-cinc-server/)
 - **Pourquoi ici :** Alternatives config management : culture large après Ansible (ne pas tout re-pratiquer). La page « Installer un serveur CINC » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Installer un serveur CINC
@@ -1867,7 +1873,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 227. Installer CINC Workstation
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/chef/installer-cinc-workstation/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/chef/installer-cinc-workstation/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/chef/installer-cinc-workstation/)
 - **Pourquoi ici :** Alternatives config management : culture large après Ansible (ne pas tout re-pratiquer). La page « Installer CINC Workstation » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Installer CINC Workstation
@@ -1875,7 +1881,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 228. Test Kitchen : boucler avec verify
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/chef/kitchen-verify/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/chef/kitchen-verify/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/chef/kitchen-verify/)
 - **Pourquoi ici :** Alternatives config management : culture large après Ansible (ne pas tout re-pratiquer). La page « Test Kitchen : boucler avec verify » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Test Kitchen : boucler avec verify
@@ -1883,7 +1889,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 229. Local mode ou serveur ?
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/chef/local-mode-ou-serveur/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/chef/local-mode-ou-serveur/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/chef/local-mode-ou-serveur/)
 - **Pourquoi ici :** Alternatives config management : culture large après Ansible (ne pas tout re-pratiquer). La page « Local mode ou serveur ? » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Local mode ou serveur ?
@@ -1891,7 +1897,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 230. Mode pull : convergence planifiée et recherche
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/chef/mode-pull-recherche/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/chef/mode-pull-recherche/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/chef/mode-pull-recherche/)
 - **Pourquoi ici :** Alternatives config management : culture large après Ansible (ne pas tout re-pratiquer). La page « Mode pull : convergence planifiée et recherche » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Mode pull : convergence planifiée et recherche
@@ -1899,7 +1905,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 231. Notifications et ordre d'exécution
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/chef/notifications/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/chef/notifications/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/chef/notifications/)
 - **Pourquoi ici :** Alternatives config management : culture large après Ansible (ne pas tout re-pratiquer). La page « Notifications et ordre d'exécution » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Notifications et ordre d'exécution
@@ -1907,7 +1913,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 232. Ohai et portabilité multi-distribution
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/chef/ohai-multi-distribution/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/chef/ohai-multi-distribution/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/chef/ohai-multi-distribution/)
 - **Pourquoi ici :** Alternatives config management : culture large après Ansible (ne pas tout re-pratiquer). La page « Ohai et portabilité multi-distribution » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Ohai et portabilité multi-distribution
@@ -1915,7 +1921,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 233. Survivre dans un parc Chef legacy
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/chef/parc-legacy/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/chef/parc-legacy/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/chef/parc-legacy/)
 - **Pourquoi ici :** Alternatives config management : culture large après Ansible (ne pas tout re-pratiquer). La page « Survivre dans un parc Chef legacy » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Survivre dans un parc Chef legacy
@@ -1923,7 +1929,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 234. Mon parcours Suivi
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/chef/parcours/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/chef/parcours/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/chef/parcours/)
 - **Pourquoi ici :** Alternatives config management : culture large après Ansible (ne pas tout re-pratiquer). La page « Mon parcours Suivi » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Mon parcours Suivi
@@ -1931,7 +1937,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 235. Quel avenir pour Chef et CINC ?
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/chef/perennite-cinc/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/chef/perennite-cinc/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/chef/perennite-cinc/)
 - **Pourquoi ici :** Alternatives config management : culture large après Ansible (ne pas tout re-pratiquer). La page « Quel avenir pour Chef et CINC ? » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Quel avenir pour Chef et CINC ?
@@ -1939,7 +1945,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 236. Policy groups : promouvoir en production
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/chef/policy-groups-promotion/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/chef/policy-groups-promotion/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/chef/policy-groups-promotion/)
 - **Pourquoi ici :** Alternatives config management : culture large après Ansible (ne pas tout re-pratiquer). La page « Policy groups : promouvoir en production » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Policy groups : promouvoir en production
@@ -1947,7 +1953,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 237. Policyfiles : verrouiller et déployer
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/chef/policyfiles/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/chef/policyfiles/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/chef/policyfiles/)
 - **Pourquoi ici :** Alternatives config management : culture large après Ansible (ne pas tout re-pratiquer). La page « Policyfiles : verrouiller et déployer » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Policyfiles : verrouiller et déployer
@@ -1955,7 +1961,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 238. Premier cookbook avec Test Kitchen
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/chef/premier-cookbook/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/chef/premier-cookbook/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/chef/premier-cookbook/)
 - **Pourquoi ici :** Alternatives config management : culture large après Ansible (ne pas tout re-pratiquer). La page « Premier cookbook avec Test Kitchen » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Premier cookbook avec Test Kitchen
@@ -1963,7 +1969,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 239. Recettes et DSL Ruby
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/chef/recettes-dsl/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/chef/recettes-dsl/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/chef/recettes-dsl/)
 - **Pourquoi ici :** Alternatives config management : culture large après Ansible (ne pas tout re-pratiquer). La page « Recettes et DSL Ruby » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Recettes et DSL Ruby
@@ -1971,7 +1977,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 240. Ressources personnalisées
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/chef/ressources-personnalisees/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/chef/ressources-personnalisees/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/chef/ressources-personnalisees/)
 - **Pourquoi ici :** Alternatives config management : culture large après Ansible (ne pas tout re-pratiquer). La page « Ressources personnalisées » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Ressources personnalisées
@@ -1979,7 +1985,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 241. Les ressources
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/chef/ressources/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/chef/ressources/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/chef/ressources/)
 - **Pourquoi ici :** Alternatives config management : culture large après Ansible (ne pas tout re-pratiquer). La page « Les ressources » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Les ressources
@@ -1987,7 +1993,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 242. Structurer un cookbook
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/chef/structurer-cookbook/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/chef/structurer-cookbook/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/chef/structurer-cookbook/)
 - **Pourquoi ici :** Alternatives config management : culture large après Ansible (ne pas tout re-pratiquer). La page « Structurer un cookbook » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Structurer un cookbook
@@ -1995,7 +2001,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 243. Templates et fichiers
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/chef/templates-fichiers/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/chef/templates-fichiers/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/chef/templates-fichiers/)
 - **Pourquoi ici :** Alternatives config management : culture large après Ansible (ne pas tout re-pratiquer). La page « Templates et fichiers » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Templates et fichiers
@@ -2003,7 +2009,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 244. Présentation
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/salt/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/salt/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/salt/)
 - **Pourquoi ici :** Alternatives config management : culture large après Ansible (ne pas tout re-pratiquer). La page « Présentation » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Présentation
@@ -2011,7 +2017,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 245. Bonnes pratiques
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/salt/bonnes-pratiques/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/salt/bonnes-pratiques/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/salt/bonnes-pratiques/)
 - **Pourquoi ici :** Alternatives config management : culture large après Ansible (ne pas tout re-pratiquer). La page « Bonnes pratiques » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Bonnes pratiques
@@ -2019,7 +2025,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 246. Projet final : une VM née conforme
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/salt/capstone/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/salt/capstone/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/salt/capstone/)
 - **Pourquoi ici :** Alternatives config management : culture large après Ansible (ne pas tout re-pratiquer). La page « Projet final : une VM née conforme » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Projet final : une VM née conforme
@@ -2027,7 +2033,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 247. Les commandes distantes
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/salt/commandes-distantes/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/salt/commandes-distantes/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/salt/commandes-distantes/)
 - **Pourquoi ici :** Alternatives config management : culture large après Ansible (ne pas tout re-pratiquer). La page « Les commandes distantes » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Les commandes distantes
@@ -2035,7 +2041,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 248. Découvrir Salt
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/salt/decouvrir/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/salt/decouvrir/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/salt/decouvrir/)
 - **Pourquoi ici :** Alternatives config management : culture large après Ansible (ne pas tout re-pratiquer). La page « Découvrir Salt » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Découvrir Salt
@@ -2043,7 +2049,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 249. Le bus d'événements
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/salt/event-bus/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/salt/event-bus/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/salt/event-bus/)
 - **Pourquoi ici :** Alternatives config management : culture large après Ansible (ne pas tout re-pratiquer). La page « Le bus d'événements » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Le bus d'événements
@@ -2051,7 +2057,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 250. Gestion des fichiers
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/salt/gestion-fichiers/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/salt/gestion-fichiers/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/salt/gestion-fichiers/)
 - **Pourquoi ici :** Alternatives config management : culture large après Ansible (ne pas tout re-pratiquer). La page « Gestion des fichiers » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Gestion des fichiers
@@ -2059,7 +2065,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 251. Les grains
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/salt/grains/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/salt/grains/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/salt/grains/)
 - **Pourquoi ici :** Alternatives config management : culture large après Ansible (ne pas tout re-pratiquer). La page « Les grains » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Les grains
@@ -2067,7 +2073,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 252. Jinja
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/salt/jinja/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/salt/jinja/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/salt/jinja/)
 - **Pourquoi ici :** Alternatives config management : culture large après Ansible (ne pas tout re-pratiquer). La page « Jinja » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Jinja
@@ -2075,7 +2081,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 253. Les modules Salt
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/salt/modules/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/salt/modules/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/salt/modules/)
 - **Pourquoi ici :** Alternatives config management : culture large après Ansible (ne pas tout re-pratiquer). La page « Les modules Salt » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Les modules Salt
@@ -2083,7 +2089,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 254. Orchestration
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/salt/orchestration/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/salt/orchestration/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/salt/orchestration/)
 - **Pourquoi ici :** Alternatives config management : culture large après Ansible (ne pas tout re-pratiquer). La page « Orchestration » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Orchestration
@@ -2091,7 +2097,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 255. Mon parcours Suivi
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/salt/parcours/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/salt/parcours/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/salt/parcours/)
 - **Pourquoi ici :** Alternatives config management : culture large après Ansible (ne pas tout re-pratiquer). La page « Mon parcours Suivi » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Mon parcours Suivi
@@ -2099,7 +2105,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 256. Les pillars
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/salt/pillars/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/salt/pillars/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/salt/pillars/)
 - **Pourquoi ici :** Alternatives config management : culture large après Ansible (ne pas tout re-pratiquer). La page « Les pillars » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Les pillars
@@ -2107,7 +2113,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 257. Salt en production
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/salt/production/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/salt/production/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/salt/production/)
 - **Pourquoi ici :** Alternatives config management : culture large après Ansible (ne pas tout re-pratiquer). La page « Salt en production » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Salt en production
@@ -2115,7 +2121,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 258. Salt SSH
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/salt/salt-ssh/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/salt/salt-ssh/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/salt/salt-ssh/)
 - **Pourquoi ici :** Alternatives config management : culture large après Ansible (ne pas tout re-pratiquer). La page « Salt SSH » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Salt SSH
@@ -2123,7 +2129,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 259. Gestion des secrets
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/salt/secrets/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/salt/secrets/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/salt/secrets/)
 - **Pourquoi ici :** Alternatives config management : culture large après Ansible (ne pas tout re-pratiquer). La page « Gestion des secrets » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Gestion des secrets
@@ -2131,7 +2137,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 260. Les states
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/salt/states/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/salt/states/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/salt/states/)
 - **Pourquoi ici :** Alternatives config management : culture large après Ansible (ne pas tout re-pratiquer). La page « Les states » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Les states
@@ -2139,7 +2145,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 261. Rudder
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/rudder/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/rudder/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/rudder/)
 - **Pourquoi ici :** Alternatives config management : culture large après Ansible (ne pas tout re-pratiquer). La page « Rudder » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Rudder
@@ -2147,7 +2153,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 262. Automatiser le durcissement avec Rudder
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/rudder/cis-benchmarks/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/rudder/cis-benchmarks/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/rudder/cis-benchmarks/)
 - **Pourquoi ici :** Alternatives config management : culture large après Ansible (ne pas tout re-pratiquer). La page « Automatiser le durcissement avec Rudder » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Automatiser le durcissement avec Rudder
@@ -2155,7 +2161,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 263. La conformité avec Rudder
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/rudder/compliance/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/rudder/compliance/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/rudder/compliance/)
 - **Pourquoi ici :** Alternatives config management : culture large après Ansible (ne pas tout re-pratiquer). La page « La conformité avec Rudder » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - La conformité avec Rudder
@@ -2163,7 +2169,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 264. Concepts clés de Rudder
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/rudder/concepts/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/rudder/concepts/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/rudder/concepts/)
 - **Pourquoi ici :** Alternatives config management : culture large après Ansible (ne pas tout re-pratiquer). La page « Concepts clés de Rudder » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Concepts clés de Rudder
@@ -2171,7 +2177,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 265. Gérer les CVE avec Rudder
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/rudder/cve/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/rudder/cve/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/rudder/cve/)
 - **Pourquoi ici :** Alternatives config management : culture large après Ansible (ne pas tout re-pratiquer). La page « Gérer les CVE avec Rudder » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Gérer les CVE avec Rudder
@@ -2179,7 +2185,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 266. Installation de Rudder
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/rudder/installation/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/rudder/installation/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/rudder/installation/)
 - **Pourquoi ici :** Alternatives config management : culture large après Ansible (ne pas tout re-pratiquer). La page « Installation de Rudder » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Installation de Rudder
@@ -2187,7 +2193,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 267. Durcissez vos serveurs avec OpenScap
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/rudder/openscap/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/rudder/openscap/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/rudder/openscap/)
 - **Pourquoi ici :** Alternatives config management : culture large après Ansible (ne pas tout re-pratiquer). La page « Durcissez vos serveurs avec OpenScap » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Durcissez vos serveurs avec OpenScap
@@ -2195,7 +2201,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 268. Premier cas d'usage avec Rudder
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/rudder/premier-cas-usage/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/rudder/premier-cas-usage/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/rudder/premier-cas-usage/)
 - **Pourquoi ici :** Alternatives config management : culture large après Ansible (ne pas tout re-pratiquer). La page « Premier cas d'usage avec Rudder » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Premier cas d'usage avec Rudder
@@ -2203,7 +2209,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 269. Les campagnes de Patch avec Rudder
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/rudder/system-updates/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/rudder/system-updates/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/rudder/system-updates/)
 - **Pourquoi ici :** Alternatives config management : culture large après Ansible (ne pas tout re-pratiquer). La page « Les campagnes de Patch avec Rudder » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Les campagnes de Patch avec Rudder
@@ -2211,7 +2217,7 @@ Industrialisation de l'écosystème Ansible.
 - [ ] Page lue / pratiquée
 
 #### 270. Puppet
-- **Lien :** `/docs/infra-as-code/gestion-de-configuration/puppet/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/puppet/](https://blog.stephane-robert.info/docs/infra-as-code/gestion-de-configuration/puppet/)
 - **Pourquoi ici :** Alternatives config management : culture large après Ansible (ne pas tout re-pratiquer). La page « Puppet » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Puppet
@@ -2224,7 +2230,7 @@ Terraform en track principal : découvrir → premières infras → HCL → stat
 **C1 — Entrée provisionnement & découvrir Terraform**
 
 #### 271. Introduction
-- **Lien :** `/docs/infra-as-code/provisionnement/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/)
 - **Pourquoi ici :** Carte des outils de provisionnement. « Introduction » sert de carte ou de jalon : lire pour se repérer, puis enchaîner sur les pages filles dans l'ordre indiqué.
 - **À retenir :**
   - Introduction
@@ -2232,7 +2238,7 @@ Terraform en track principal : découvrir → premières infras → HCL → stat
 - [ ] Page lue / pratiquée
 
 #### 272. Terraform
-- **Lien :** `/docs/infra-as-code/provisionnement/terraform/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/)
 - **Pourquoi ici :** Découverte Terraform : provisionnement déclaratif après fondamentaux IaC (+ Ansible utile). La page « Terraform » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Terraform
@@ -2240,7 +2246,7 @@ Terraform en track principal : découvrir → premières infras → HCL → stat
 - [ ] Page lue / pratiquée
 
 #### 273. Mon parcours Suivi
-- **Lien :** `/docs/infra-as-code/provisionnement/terraform/parcours/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/parcours/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/parcours/)
 - **Pourquoi ici :** Jalon parcours site Terraform. La page « Mon parcours Suivi » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Mon parcours Suivi
@@ -2248,7 +2254,7 @@ Terraform en track principal : découvrir → premières infras → HCL → stat
 - [ ] Page lue / pratiquée
 
 #### 274. Vue d'ensemble
-- **Lien :** `/docs/infra-as-code/provisionnement/terraform/decouvrir/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/decouvrir/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/decouvrir/)
 - **Pourquoi ici :** Découverte Terraform : provisionnement déclaratif après fondamentaux IaC (+ Ansible utile). Vue d'ensemble / jalon « Vue d'ensemble » : survol rapide, l'apprentissage se fait dans les pages suivantes.
 - **À retenir :**
   - Vue d'ensemble
@@ -2256,7 +2262,7 @@ Terraform en track principal : découvrir → premières infras → HCL → stat
 - [ ] Page lue / pratiquée
 
 #### 275. La CLI Terraform
-- **Lien :** `/docs/infra-as-code/provisionnement/terraform/decouvrir/cli-terraform/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/decouvrir/cli-terraform/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/decouvrir/cli-terraform/)
 - **Pourquoi ici :** Découverte Terraform : provisionnement déclaratif après fondamentaux IaC (+ Ansible utile). La page « La CLI Terraform » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - La CLI Terraform
@@ -2264,7 +2270,7 @@ Terraform en track principal : découvrir → premières infras → HCL → stat
 - [ ] Page lue / pratiquée
 
 #### 276. Déclaratif vs impératif
-- **Lien :** `/docs/infra-as-code/provisionnement/terraform/decouvrir/declaratif-vs-imperatif/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/decouvrir/declaratif-vs-imperatif/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/decouvrir/declaratif-vs-imperatif/)
 - **Pourquoi ici :** Découverte Terraform : provisionnement déclaratif après fondamentaux IaC (+ Ansible utile). La page « Déclaratif vs impératif » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Déclaratif vs impératif
@@ -2272,7 +2278,7 @@ Terraform en track principal : découvrir → premières infras → HCL → stat
 - [ ] Page lue / pratiquée
 
 #### 277. Installer Terraform
-- **Lien :** `/docs/infra-as-code/provisionnement/terraform/decouvrir/installer-terraform/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/decouvrir/installer-terraform/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/decouvrir/installer-terraform/)
 - **Pourquoi ici :** Découverte Terraform : provisionnement déclaratif après fondamentaux IaC (+ Ansible utile). La page « Installer Terraform » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Installer Terraform
@@ -2280,7 +2286,7 @@ Terraform en track principal : découvrir → premières infras → HCL → stat
 - [ ] Page lue / pratiquée
 
 #### 278. Présentation de Terraform
-- **Lien :** `/docs/infra-as-code/provisionnement/terraform/decouvrir/presentation-terraform/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/decouvrir/presentation-terraform/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/decouvrir/presentation-terraform/)
 - **Pourquoi ici :** Découverte Terraform : provisionnement déclaratif après fondamentaux IaC (+ Ansible utile). La page « Présentation de Terraform » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Présentation de Terraform
@@ -2288,7 +2294,7 @@ Terraform en track principal : découvrir → premières infras → HCL → stat
 - [ ] Page lue / pratiquée
 
 #### 279. Providers, resources, data sources
-- **Lien :** `/docs/infra-as-code/provisionnement/terraform/decouvrir/providers-resources-data-sources/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/decouvrir/providers-resources-data-sources/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/decouvrir/providers-resources-data-sources/)
 - **Pourquoi ici :** Découverte Terraform : provisionnement déclaratif après fondamentaux IaC (+ Ansible utile). La page « Providers, resources, data sources » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Providers, resources, data sources
@@ -2296,7 +2302,7 @@ Terraform en track principal : découvrir → premières infras → HCL → stat
 - [ ] Page lue / pratiquée
 
 #### 280. Quiz Découvrir Terraform
-- **Lien :** `/docs/infra-as-code/provisionnement/terraform/decouvrir/quiz/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/decouvrir/quiz/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/decouvrir/quiz/)
 - **Pourquoi ici :** Découverte Terraform : provisionnement déclaratif après fondamentaux IaC (+ Ansible utile). « Quiz Découvrir Terraform » valide ce qui précède : à faire avant de passer à la sous-phase suivante.
 - **À retenir :**
   - Quiz Découvrir Terraform
@@ -2304,7 +2310,7 @@ Terraform en track principal : découvrir → premières infras → HCL → stat
 - [ ] Page lue / pratiquée
 
 #### 281. Structure d'un projet
-- **Lien :** `/docs/infra-as-code/provisionnement/terraform/decouvrir/structure-projet-terraform/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/decouvrir/structure-projet-terraform/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/decouvrir/structure-projet-terraform/)
 - **Pourquoi ici :** Découverte Terraform : provisionnement déclaratif après fondamentaux IaC (+ Ansible utile). La page « Structure d'un projet » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Structure d'un projet
@@ -2312,7 +2318,7 @@ Terraform en track principal : découvrir → premières infras → HCL → stat
 - [ ] Page lue / pratiquée
 
 #### 282. Terraform vs OpenTofu
-- **Lien :** `/docs/infra-as-code/provisionnement/terraform/decouvrir/terraform-vs-opentofu/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/decouvrir/terraform-vs-opentofu/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/decouvrir/terraform-vs-opentofu/)
 - **Pourquoi ici :** Découverte Terraform : provisionnement déclaratif après fondamentaux IaC (+ Ansible utile). La page « Terraform vs OpenTofu » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Terraform vs OpenTofu
@@ -2320,7 +2326,7 @@ Terraform en track principal : découvrir → premières infras → HCL → stat
 - [ ] Page lue / pratiquée
 
 #### 283. Le workflow Terraform
-- **Lien :** `/docs/infra-as-code/provisionnement/terraform/decouvrir/workflow-terraform/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/decouvrir/workflow-terraform/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/decouvrir/workflow-terraform/)
 - **Pourquoi ici :** Découverte Terraform : provisionnement déclaratif après fondamentaux IaC (+ Ansible utile). La page « Le workflow Terraform » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Le workflow Terraform
@@ -2330,7 +2336,7 @@ Terraform en track principal : découvrir → premières infras → HCL → stat
 **C2 — Premières infrastructures**
 
 #### 284. Vue d'ensemble
-- **Lien :** `/docs/infra-as-code/provisionnement/terraform/premieres-infras/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/premieres-infras/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/premieres-infras/)
 - **Pourquoi ici :** Premières infras : workflow init / plan / apply. Vue d'ensemble / jalon « Vue d'ensemble » : survol rapide, l'apprentissage se fait dans les pages suivantes.
 - **À retenir :**
   - Vue d'ensemble
@@ -2338,7 +2344,7 @@ Terraform en track principal : découvrir → premières infras → HCL → stat
 - [ ] Page lue / pratiquée
 
 #### 285. Provider Ansible
-- **Lien :** `/docs/infra-as-code/provisionnement/terraform/premieres-infras/ansible/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/premieres-infras/ansible/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/premieres-infras/ansible/)
 - **Pourquoi ici :** Premières infras : workflow init / plan / apply. La page « Provider Ansible » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Provider Ansible
@@ -2346,7 +2352,7 @@ Terraform en track principal : découvrir → premières infras → HCL → stat
 - [ ] Page lue / pratiquée
 
 #### 286. Déboguer un apply
-- **Lien :** `/docs/infra-as-code/provisionnement/terraform/premieres-infras/debug-apply/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/premieres-infras/debug-apply/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/premieres-infras/debug-apply/)
 - **Pourquoi ici :** Premières infras : workflow init / plan / apply. La page « Déboguer un apply » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Déboguer un apply
@@ -2354,7 +2360,7 @@ Terraform en track principal : découvrir → premières infras → HCL → stat
 - [ ] Page lue / pratiquée
 
 #### 287. Détruire proprement
-- **Lien :** `/docs/infra-as-code/provisionnement/terraform/premieres-infras/destroy-propre/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/premieres-infras/destroy-propre/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/premieres-infras/destroy-propre/)
 - **Pourquoi ici :** Premières infras : workflow init / plan / apply. La page « Détruire proprement » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Détruire proprement
@@ -2362,7 +2368,7 @@ Terraform en track principal : découvrir → premières infras → HCL → stat
 - [ ] Page lue / pratiquée
 
 #### 288. Première infrastructure
-- **Lien :** `/docs/infra-as-code/provisionnement/terraform/premieres-infras/premiere-infrastructure/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/premieres-infras/premiere-infrastructure/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/premieres-infras/premiere-infrastructure/)
 - **Pourquoi ici :** Premières infras : workflow init / plan / apply. La page « Première infrastructure » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Première infrastructure
@@ -2370,7 +2376,7 @@ Terraform en track principal : découvrir → premières infras → HCL → stat
 - [ ] Page lue / pratiquée
 
 #### 289. Quiz Premières infrastructures Terraform
-- **Lien :** `/docs/infra-as-code/provisionnement/terraform/premieres-infras/quiz/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/premieres-infras/quiz/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/premieres-infras/quiz/)
 - **Pourquoi ici :** Premières infras : workflow init / plan / apply. « Quiz Premières infrastructures Terraform » valide ce qui précède : à faire avant de passer à la sous-phase suivante.
 - **À retenir :**
   - Quiz Premières infrastructures Terraform
@@ -2378,7 +2384,7 @@ Terraform en track principal : découvrir → premières infras → HCL → stat
 - [ ] Page lue / pratiquée
 
 #### 290. Créer un réseau virtuel
-- **Lien :** `/docs/infra-as-code/provisionnement/terraform/premieres-infras/reseau-virtuel/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/premieres-infras/reseau-virtuel/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/premieres-infras/reseau-virtuel/)
 - **Pourquoi ici :** Premières infras : workflow init / plan / apply. La page « Créer un réseau virtuel » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Créer un réseau virtuel
@@ -2386,7 +2392,7 @@ Terraform en track principal : découvrir → premières infras → HCL → stat
 - [ ] Page lue / pratiquée
 
 #### 291. Variables et outputs
-- **Lien :** `/docs/infra-as-code/provisionnement/terraform/premieres-infras/variables-outputs/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/premieres-infras/variables-outputs/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/premieres-infras/variables-outputs/)
 - **Pourquoi ici :** Premières infras : workflow init / plan / apply. La page « Variables et outputs » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Variables et outputs
@@ -2394,7 +2400,7 @@ Terraform en track principal : découvrir → premières infras → HCL → stat
 - [ ] Page lue / pratiquée
 
 #### 292. Créer une VM avec libvirt
-- **Lien :** `/docs/infra-as-code/provisionnement/terraform/premieres-infras/vm-libvirt/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/premieres-infras/vm-libvirt/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/premieres-infras/vm-libvirt/)
 - **Pourquoi ici :** Premières infras : workflow init / plan / apply. La page « Créer une VM avec libvirt » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Créer une VM avec libvirt
@@ -2404,7 +2410,7 @@ Terraform en track principal : découvrir → premières infras → HCL → stat
 **C3 — Écrire du code HCL**
 
 #### 293. Vue d'ensemble
-- **Lien :** `/docs/infra-as-code/provisionnement/terraform/ecrire-code/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/ecrire-code/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/ecrire-code/)
 - **Pourquoi ici :** Écrire du HCL : variables, expressions, meta-arguments. Vue d'ensemble / jalon « Vue d'ensemble » : survol rapide, l'apprentissage se fait dans les pages suivantes.
 - **À retenir :**
   - Vue d'ensemble
@@ -2412,7 +2418,7 @@ Terraform en track principal : découvrir → premières infras → HCL → stat
 - [ ] Page lue / pratiquée
 
 #### 294. Blocs dynamiques
-- **Lien :** `/docs/infra-as-code/provisionnement/terraform/ecrire-code/blocs-dynamiques/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/ecrire-code/blocs-dynamiques/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/ecrire-code/blocs-dynamiques/)
 - **Pourquoi ici :** Écrire du HCL : variables, expressions, meta-arguments. La page « Blocs dynamiques » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Blocs dynamiques
@@ -2420,7 +2426,7 @@ Terraform en track principal : découvrir → premières infras → HCL → stat
 - [ ] Page lue / pratiquée
 
 #### 295. Boucles for : transformer les collections
-- **Lien :** `/docs/infra-as-code/provisionnement/terraform/ecrire-code/boucles-for-terraform/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/ecrire-code/boucles-for-terraform/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/ecrire-code/boucles-for-terraform/)
 - **Pourquoi ici :** Écrire du HCL : variables, expressions, meta-arguments. La page « Boucles for : transformer les collections » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Boucles for : transformer les collections
@@ -2428,7 +2434,7 @@ Terraform en track principal : découvrir → premières infras → HCL → stat
 - [ ] Page lue / pratiquée
 
 #### 296. Conditions et ternaires
-- **Lien :** `/docs/infra-as-code/provisionnement/terraform/ecrire-code/conditions-terraform/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/ecrire-code/conditions-terraform/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/ecrire-code/conditions-terraform/)
 - **Pourquoi ici :** Écrire du HCL : variables, expressions, meta-arguments. La page « Conditions et ternaires » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Conditions et ternaires
@@ -2436,7 +2442,7 @@ Terraform en track principal : découvrir → premières infras → HCL → stat
 - [ ] Page lue / pratiquée
 
 #### 297. count : N ressources identiques
-- **Lien :** `/docs/infra-as-code/provisionnement/terraform/ecrire-code/count-terraform/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/ecrire-code/count-terraform/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/ecrire-code/count-terraform/)
 - **Pourquoi ici :** Écrire du HCL : variables, expressions, meta-arguments. La page « count : N ressources identiques » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - count : N ressources identiques
@@ -2444,7 +2450,7 @@ Terraform en track principal : découvrir → premières infras → HCL → stat
 - [ ] Page lue / pratiquée
 
 #### 298. Les data sources
-- **Lien :** `/docs/infra-as-code/provisionnement/terraform/ecrire-code/data-sources/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/ecrire-code/data-sources/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/ecrire-code/data-sources/)
 - **Pourquoi ici :** Écrire du HCL : variables, expressions, meta-arguments. La page « Les data sources » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Les data sources
@@ -2452,7 +2458,7 @@ Terraform en track principal : découvrir → premières infras → HCL → stat
 - [ ] Page lue / pratiquée
 
 #### 299. Déclarer des ressources
-- **Lien :** `/docs/infra-as-code/provisionnement/terraform/ecrire-code/declarer-ressources/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/ecrire-code/declarer-ressources/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/ecrire-code/declarer-ressources/)
 - **Pourquoi ici :** Écrire du HCL : variables, expressions, meta-arguments. La page « Déclarer des ressources » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Déclarer des ressources
@@ -2460,7 +2466,7 @@ Terraform en track principal : découvrir → premières infras → HCL → stat
 - [ ] Page lue / pratiquée
 
 #### 300. depends_on : dépendances explicites
-- **Lien :** `/docs/infra-as-code/provisionnement/terraform/ecrire-code/depends-on/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/ecrire-code/depends-on/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/ecrire-code/depends-on/)
 - **Pourquoi ici :** Écrire du HCL : variables, expressions, meta-arguments. La page « depends_on : dépendances explicites » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - depends_on : dépendances explicites
@@ -2468,7 +2474,7 @@ Terraform en track principal : découvrir → premières infras → HCL → stat
 - [ ] Page lue / pratiquée
 
 #### 301. Expressions Terraform
-- **Lien :** `/docs/infra-as-code/provisionnement/terraform/ecrire-code/expressions-terraform/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/ecrire-code/expressions-terraform/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/ecrire-code/expressions-terraform/)
 - **Pourquoi ici :** Écrire du HCL : variables, expressions, meta-arguments. La page « Expressions Terraform » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Expressions Terraform
@@ -2476,7 +2482,7 @@ Terraform en track principal : découvrir → premières infras → HCL → stat
 - [ ] Page lue / pratiquée
 
 #### 302. Fichiers tfvars
-- **Lien :** `/docs/infra-as-code/provisionnement/terraform/ecrire-code/fichiers-tfvars/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/ecrire-code/fichiers-tfvars/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/ecrire-code/fichiers-tfvars/)
 - **Pourquoi ici :** Écrire du HCL : variables, expressions, meta-arguments. La page « Fichiers tfvars » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Fichiers tfvars
@@ -2484,7 +2490,7 @@ Terraform en track principal : découvrir → premières infras → HCL → stat
 - [ ] Page lue / pratiquée
 
 #### 303. Les fonctions Terraform
-- **Lien :** `/docs/infra-as-code/provisionnement/terraform/ecrire-code/fonctions-terraform/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/ecrire-code/fonctions-terraform/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/ecrire-code/fonctions-terraform/)
 - **Pourquoi ici :** Écrire du HCL : variables, expressions, meta-arguments. La page « Les fonctions Terraform » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Les fonctions Terraform
@@ -2492,7 +2498,7 @@ Terraform en track principal : découvrir → premières infras → HCL → stat
 - [ ] Page lue / pratiquée
 
 #### 304. for_each : instances nommées
-- **Lien :** `/docs/infra-as-code/provisionnement/terraform/ecrire-code/for-each-terraform/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/ecrire-code/for-each-terraform/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/ecrire-code/for-each-terraform/)
 - **Pourquoi ici :** Écrire du HCL : variables, expressions, meta-arguments. La page « for_each : instances nommées » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - for_each : instances nommées
@@ -2500,7 +2506,7 @@ Terraform en track principal : découvrir → premières infras → HCL → stat
 - [ ] Page lue / pratiquée
 
 #### 305. lifecycle : cycle de vie des ressources
-- **Lien :** `/docs/infra-as-code/provisionnement/terraform/ecrire-code/lifecycle-terraform/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/ecrire-code/lifecycle-terraform/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/ecrire-code/lifecycle-terraform/)
 - **Pourquoi ici :** Écrire du HCL : variables, expressions, meta-arguments. La page « lifecycle : cycle de vie des ressources » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - lifecycle : cycle de vie des ressources
@@ -2508,7 +2514,7 @@ Terraform en track principal : découvrir → premières infras → HCL → stat
 - [ ] Page lue / pratiquée
 
 #### 306. Locals Terraform
-- **Lien :** `/docs/infra-as-code/provisionnement/terraform/ecrire-code/locals-terraform/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/ecrire-code/locals-terraform/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/ecrire-code/locals-terraform/)
 - **Pourquoi ici :** Écrire du HCL : variables, expressions, meta-arguments. La page « Locals Terraform » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Locals Terraform
@@ -2516,7 +2522,7 @@ Terraform en track principal : découvrir → premières infras → HCL → stat
 - [ ] Page lue / pratiquée
 
 #### 307. Outputs Terraform
-- **Lien :** `/docs/infra-as-code/provisionnement/terraform/ecrire-code/outputs-terraform/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/ecrire-code/outputs-terraform/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/ecrire-code/outputs-terraform/)
 - **Pourquoi ici :** Écrire du HCL : variables, expressions, meta-arguments. La page « Outputs Terraform » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Outputs Terraform
@@ -2524,7 +2530,7 @@ Terraform en track principal : découvrir → premières infras → HCL → stat
 - [ ] Page lue / pratiquée
 
 #### 308. Les providers Terraform
-- **Lien :** `/docs/infra-as-code/provisionnement/terraform/ecrire-code/providers-terraform/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/ecrire-code/providers-terraform/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/ecrire-code/providers-terraform/)
 - **Pourquoi ici :** Écrire du HCL : variables, expressions, meta-arguments. La page « Les providers Terraform » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Les providers Terraform
@@ -2532,7 +2538,7 @@ Terraform en track principal : découvrir → premières infras → HCL → stat
 - [ ] Page lue / pratiquée
 
 #### 309. Quiz Écrire du code Terraform
-- **Lien :** `/docs/infra-as-code/provisionnement/terraform/ecrire-code/quiz/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/ecrire-code/quiz/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/ecrire-code/quiz/)
 - **Pourquoi ici :** Écrire du HCL : variables, expressions, meta-arguments. « Quiz Écrire du code Terraform » valide ce qui précède : à faire avant de passer à la sous-phase suivante.
 - **À retenir :**
   - Quiz Écrire du code Terraform
@@ -2540,7 +2546,7 @@ Terraform en track principal : découvrir → premières infras → HCL → stat
 - [ ] Page lue / pratiquée
 
 #### 310. Style guide Terraform
-- **Lien :** `/docs/infra-as-code/provisionnement/terraform/ecrire-code/style-guide-terraform/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/ecrire-code/style-guide-terraform/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/ecrire-code/style-guide-terraform/)
 - **Pourquoi ici :** Écrire du HCL : variables, expressions, meta-arguments. La page « Style guide Terraform » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Style guide Terraform
@@ -2548,7 +2554,7 @@ Terraform en track principal : découvrir → premières infras → HCL → stat
 - [ ] Page lue / pratiquée
 
 #### 311. Variables Terraform
-- **Lien :** `/docs/infra-as-code/provisionnement/terraform/ecrire-code/variables-terraform/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/ecrire-code/variables-terraform/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/ecrire-code/variables-terraform/)
 - **Pourquoi ici :** Écrire du HCL : variables, expressions, meta-arguments. La page « Variables Terraform » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Variables Terraform
@@ -2556,7 +2562,7 @@ Terraform en track principal : découvrir → premières infras → HCL → stat
 - [ ] Page lue / pratiquée
 
 #### 312. Contraintes de version Terraform
-- **Lien :** `/docs/infra-as-code/provisionnement/terraform/ecrire-code/version-constraints-terraform/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/ecrire-code/version-constraints-terraform/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/ecrire-code/version-constraints-terraform/)
 - **Pourquoi ici :** Écrire du HCL : variables, expressions, meta-arguments. La page « Contraintes de version Terraform » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Contraintes de version Terraform
@@ -2564,7 +2570,7 @@ Terraform en track principal : découvrir → premières infras → HCL → stat
 - [ ] Page lue / pratiquée
 
 #### 313. Ressources éphémères
-- **Lien :** `/docs/infra-as-code/provisionnement/terraform/ecrire-code/gestion-donnees-sensibles/ephemeral-values/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/ecrire-code/gestion-donnees-sensibles/ephemeral-values/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/ecrire-code/gestion-donnees-sensibles/ephemeral-values/)
 - **Pourquoi ici :** Écrire du HCL : variables, expressions, meta-arguments. La page « Ressources éphémères » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Ressources éphémères
@@ -2572,7 +2578,7 @@ Terraform en track principal : découvrir → premières infras → HCL → stat
 - [ ] Page lue / pratiquée
 
 #### 314. sensitive : masquer les valeurs
-- **Lien :** `/docs/infra-as-code/provisionnement/terraform/ecrire-code/gestion-donnees-sensibles/sensitive-terraform/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/ecrire-code/gestion-donnees-sensibles/sensitive-terraform/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/ecrire-code/gestion-donnees-sensibles/sensitive-terraform/)
 - **Pourquoi ici :** Écrire du HCL : variables, expressions, meta-arguments. La page « sensitive : masquer les valeurs » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - sensitive : masquer les valeurs
@@ -2580,7 +2586,7 @@ Terraform en track principal : découvrir → premières infras → HCL → stat
 - [ ] Page lue / pratiquée
 
 #### 315. Arguments write-only
-- **Lien :** `/docs/infra-as-code/provisionnement/terraform/ecrire-code/gestion-donnees-sensibles/write-only-arguments/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/ecrire-code/gestion-donnees-sensibles/write-only-arguments/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/ecrire-code/gestion-donnees-sensibles/write-only-arguments/)
 - **Pourquoi ici :** Écrire du HCL : variables, expressions, meta-arguments. La page « Arguments write-only » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Arguments write-only
@@ -2590,7 +2596,7 @@ Terraform en track principal : découvrir → premières infras → HCL → stat
 **C4 — State**
 
 #### 316. Gérer le state
-- **Lien :** `/docs/infra-as-code/provisionnement/terraform/state/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/state/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/state/)
 - **Pourquoi ici :** State : backend, lock, drift — cœur opérationnel avant de scaler. La page « Gérer le state » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Gérer le state
@@ -2598,7 +2604,7 @@ Terraform en track principal : découvrir → premières infras → HCL → stat
 - [ ] Page lue / pratiquée
 
 #### 317. Backends Terraform
-- **Lien :** `/docs/infra-as-code/provisionnement/terraform/state/backends-terraform/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/state/backends-terraform/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/state/backends-terraform/)
 - **Pourquoi ici :** State : backend, lock, drift — cœur opérationnel avant de scaler. La page « Backends Terraform » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Backends Terraform
@@ -2606,7 +2612,7 @@ Terraform en track principal : découvrir → premières infras → HCL → stat
 - [ ] Page lue / pratiquée
 
 #### 318. Comprendre le state
-- **Lien :** `/docs/infra-as-code/provisionnement/terraform/state/comprendre-state/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/state/comprendre-state/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/state/comprendre-state/)
 - **Pourquoi ici :** State : backend, lock, drift — cœur opérationnel avant de scaler. La page « Comprendre le state » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Comprendre le state
@@ -2614,7 +2620,7 @@ Terraform en track principal : découvrir → premières infras → HCL → stat
 - [ ] Page lue / pratiquée
 
 #### 319. Diagnostiquer le state
-- **Lien :** `/docs/infra-as-code/provisionnement/terraform/state/diagnostiquer-state/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/state/diagnostiquer-state/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/state/diagnostiquer-state/)
 - **Pourquoi ici :** State : backend, lock, drift — cœur opérationnel avant de scaler. La page « Diagnostiquer le state » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Diagnostiquer le state
@@ -2622,7 +2628,7 @@ Terraform en track principal : découvrir → premières infras → HCL → stat
 - [ ] Page lue / pratiquée
 
 #### 320. Quiz Gérer le state Terraform
-- **Lien :** `/docs/infra-as-code/provisionnement/terraform/state/quiz/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/state/quiz/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/state/quiz/)
 - **Pourquoi ici :** State : backend, lock, drift — cœur opérationnel avant de scaler. « Quiz Gérer le state Terraform » valide ce qui précède : à faire avant de passer à la sous-phase suivante.
 - **À retenir :**
   - Quiz Gérer le state Terraform
@@ -2630,7 +2636,7 @@ Terraform en track principal : découvrir → premières infras → HCL → stat
 - [ ] Page lue / pratiquée
 
 #### 321. Sauvegarder et restaurer
-- **Lien :** `/docs/infra-as-code/provisionnement/terraform/state/sauvegarder-restaurer-state/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/state/sauvegarder-restaurer-state/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/state/sauvegarder-restaurer-state/)
 - **Pourquoi ici :** State : backend, lock, drift — cœur opérationnel avant de scaler. La page « Sauvegarder et restaurer » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Sauvegarder et restaurer
@@ -2638,7 +2644,7 @@ Terraform en track principal : découvrir → premières infras → HCL → stat
 - [ ] Page lue / pratiquée
 
 #### 322. terraform state list
-- **Lien :** `/docs/infra-as-code/provisionnement/terraform/state/terraform-state-list/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/state/terraform-state-list/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/state/terraform-state-list/)
 - **Pourquoi ici :** State : backend, lock, drift — cœur opérationnel avant de scaler. La page « terraform state list » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - terraform state list
@@ -2646,7 +2652,7 @@ Terraform en track principal : découvrir → premières infras → HCL → stat
 - [ ] Page lue / pratiquée
 
 #### 323. terraform state mv
-- **Lien :** `/docs/infra-as-code/provisionnement/terraform/state/terraform-state-mv/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/state/terraform-state-mv/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/state/terraform-state-mv/)
 - **Pourquoi ici :** State : backend, lock, drift — cœur opérationnel avant de scaler. La page « terraform state mv » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - terraform state mv
@@ -2654,7 +2660,7 @@ Terraform en track principal : découvrir → premières infras → HCL → stat
 - [ ] Page lue / pratiquée
 
 #### 324. terraform state rm
-- **Lien :** `/docs/infra-as-code/provisionnement/terraform/state/terraform-state-rm/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/state/terraform-state-rm/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/state/terraform-state-rm/)
 - **Pourquoi ici :** State : backend, lock, drift — cœur opérationnel avant de scaler. La page « terraform state rm » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - terraform state rm
@@ -2662,7 +2668,7 @@ Terraform en track principal : découvrir → premières infras → HCL → stat
 - [ ] Page lue / pratiquée
 
 #### 325. terraform state show
-- **Lien :** `/docs/infra-as-code/provisionnement/terraform/state/terraform-state-show/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/state/terraform-state-show/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/state/terraform-state-show/)
 - **Pourquoi ici :** State : backend, lock, drift — cœur opérationnel avant de scaler. La page « terraform state show » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - terraform state show
@@ -2670,7 +2676,7 @@ Terraform en track principal : découvrir → premières infras → HCL → stat
 - [ ] Page lue / pratiquée
 
 #### 326. Verrouillage du state
-- **Lien :** `/docs/infra-as-code/provisionnement/terraform/state/verrouillage-state/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/state/verrouillage-state/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/state/verrouillage-state/)
 - **Pourquoi ici :** State : backend, lock, drift — cœur opérationnel avant de scaler. La page « Verrouillage du state » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Verrouillage du state
@@ -2681,7 +2687,7 @@ Terraform en track principal : découvrir → premières infras → HCL → stat
 Création, composition et registry de modules (volume modéré : une seule sous-phase).
 
 #### 327. Vue d'ensemble modules
-- **Lien :** `/docs/infra-as-code/provisionnement/terraform/modules/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/modules/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/modules/)
 - **Pourquoi ici :** Modules Terraform : créer, composer, publier (tronc). Vue d'ensemble / jalon « Vue d'ensemble modules » : survol rapide, l'apprentissage se fait dans les pages suivantes.
 - **À retenir :**
   - Vue d'ensemble modules
@@ -2689,7 +2695,7 @@ Création, composition et registry de modules (volume modéré : une seule sous-
 - [ ] Page lue / pratiquée
 
 #### 328. Anti-patterns
-- **Lien :** `/docs/infra-as-code/provisionnement/terraform/modules/anti-patterns-modules/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/modules/anti-patterns-modules/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/modules/anti-patterns-modules/)
 - **Pourquoi ici :** Modules Terraform : créer, composer, publier (tronc). La page « Anti-patterns » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Anti-patterns
@@ -2697,7 +2703,7 @@ Création, composition et registry de modules (volume modéré : une seule sous-
 - [ ] Page lue / pratiquée
 
 #### 329. Bonnes pratiques
-- **Lien :** `/docs/infra-as-code/provisionnement/terraform/modules/bonnes-pratiques-modules/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/modules/bonnes-pratiques-modules/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/modules/bonnes-pratiques-modules/)
 - **Pourquoi ici :** Modules Terraform : créer, composer, publier (tronc). La page « Bonnes pratiques » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Bonnes pratiques
@@ -2705,7 +2711,7 @@ Création, composition et registry de modules (volume modéré : une seule sous-
 - [ ] Page lue / pratiquée
 
 #### 330. Créer un module
-- **Lien :** `/docs/infra-as-code/provisionnement/terraform/modules/creation-modules/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/modules/creation-modules/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/modules/creation-modules/)
 - **Pourquoi ici :** Modules Terraform : créer, composer, publier (tronc). La page « Créer un module » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Créer un module
@@ -2713,7 +2719,7 @@ Création, composition et registry de modules (volume modéré : une seule sous-
 - [ ] Page lue / pratiquée
 
 #### 331. Module local partagé
-- **Lien :** `/docs/infra-as-code/provisionnement/terraform/modules/module-local/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/modules/module-local/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/modules/module-local/)
 - **Pourquoi ici :** Modules Terraform : créer, composer, publier (tronc). La page « Module local partagé » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Module local partagé
@@ -2721,7 +2727,7 @@ Création, composition et registry de modules (volume modéré : une seule sous-
 - [ ] Page lue / pratiquée
 
 #### 332. Module du Registry
-- **Lien :** `/docs/infra-as-code/provisionnement/terraform/modules/module-registry/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/modules/module-registry/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/modules/module-registry/)
 - **Pourquoi ici :** Modules Terraform : créer, composer, publier (tronc). La page « Module du Registry » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Module du Registry
@@ -2729,7 +2735,7 @@ Création, composition et registry de modules (volume modéré : une seule sous-
 - [ ] Page lue / pratiquée
 
 #### 333. Quiz Créer des modules Terraform
-- **Lien :** `/docs/infra-as-code/provisionnement/terraform/modules/quiz/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/modules/quiz/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/modules/quiz/)
 - **Pourquoi ici :** Modules Terraform : créer, composer, publier (tronc). « Quiz Créer des modules Terraform » valide ce qui précède : à faire avant de passer à la sous-phase suivante.
 - **À retenir :**
   - Quiz Créer des modules Terraform
@@ -2737,7 +2743,7 @@ Création, composition et registry de modules (volume modéré : une seule sous-
 - [ ] Page lue / pratiquée
 
 #### 334. Structure d'un module
-- **Lien :** `/docs/infra-as-code/provisionnement/terraform/modules/structure-module/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/modules/structure-module/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/modules/structure-module/)
 - **Pourquoi ici :** Modules Terraform : créer, composer, publier (tronc). La page « Structure d'un module » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Structure d'un module
@@ -2745,7 +2751,7 @@ Création, composition et registry de modules (volume modéré : une seule sous-
 - [ ] Page lue / pratiquée
 
 #### 335. Tester un module
-- **Lien :** `/docs/infra-as-code/provisionnement/terraform/modules/tester-module/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/modules/tester-module/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/modules/tester-module/)
 - **Pourquoi ici :** Modules Terraform : créer, composer, publier (tronc). La page « Tester un module » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Tester un module
@@ -2753,7 +2759,7 @@ Création, composition et registry de modules (volume modéré : une seule sous-
 - [ ] Page lue / pratiquée
 
 #### 336. Variables et outputs
-- **Lien :** `/docs/infra-as-code/provisionnement/terraform/modules/variables-outputs-module/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/modules/variables-outputs-module/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/modules/variables-outputs-module/)
 - **Pourquoi ici :** Modules Terraform : créer, composer, publier (tronc). La page « Variables et outputs » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Variables et outputs
@@ -2761,7 +2767,7 @@ Création, composition et registry de modules (volume modéré : une seule sous-
 - [ ] Page lue / pratiquée
 
 #### 337. Versionner ses modules
-- **Lien :** `/docs/infra-as-code/provisionnement/terraform/modules/versionner-modules/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/modules/versionner-modules/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/modules/versionner-modules/)
 - **Pourquoi ici :** Modules Terraform : créer, composer, publier (tronc). La page « Versionner ses modules » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Versionner ses modules
@@ -2771,7 +2777,7 @@ Création, composition et registry de modules (volume modéré : une seule sous-
 **C6 — Environnements & HCP Terraform**
 
 #### 338. Gérer les environnements
-- **Lien :** `/docs/infra-as-code/provisionnement/terraform/environnements/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/environnements/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/environnements/)
 - **Pourquoi ici :** Environnements multi-stages et collaboration. La page « Gérer les environnements » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Gérer les environnements
@@ -2779,7 +2785,7 @@ Création, composition et registry de modules (volume modéré : une seule sous-
 - [ ] Page lue / pratiquée
 
 #### 339. Monorepo vs repo par stack
-- **Lien :** `/docs/infra-as-code/provisionnement/terraform/environnements/monorepo-vs-repo-par-stack/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/environnements/monorepo-vs-repo-par-stack/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/environnements/monorepo-vs-repo-par-stack/)
 - **Pourquoi ici :** Environnements multi-stages et collaboration. La page « Monorepo vs repo par stack » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Monorepo vs repo par stack
@@ -2787,7 +2793,7 @@ Création, composition et registry de modules (volume modéré : une seule sous-
 - [ ] Page lue / pratiquée
 
 #### 340. Organiser un dépôt Terraform
-- **Lien :** `/docs/infra-as-code/provisionnement/terraform/environnements/organiser-repo-terraform/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/environnements/organiser-repo-terraform/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/environnements/organiser-repo-terraform/)
 - **Pourquoi ici :** Environnements multi-stages et collaboration. La page « Organiser un dépôt Terraform » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Organiser un dépôt Terraform
@@ -2795,7 +2801,7 @@ Création, composition et registry de modules (volume modéré : une seule sous-
 - [ ] Page lue / pratiquée
 
 #### 341. Quand utiliser les workspaces
-- **Lien :** `/docs/infra-as-code/provisionnement/terraform/environnements/quand-utiliser-workspaces/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/environnements/quand-utiliser-workspaces/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/environnements/quand-utiliser-workspaces/)
 - **Pourquoi ici :** Environnements multi-stages et collaboration. La page « Quand utiliser les workspaces » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Quand utiliser les workspaces
@@ -2803,7 +2809,7 @@ Création, composition et registry de modules (volume modéré : une seule sous-
 - [ ] Page lue / pratiquée
 
 #### 342. Quiz Organiser les environnements Terraform
-- **Lien :** `/docs/infra-as-code/provisionnement/terraform/environnements/quiz/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/environnements/quiz/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/environnements/quiz/)
 - **Pourquoi ici :** Environnements multi-stages et collaboration. « Quiz Organiser les environnements Terraform » valide ce qui précède : à faire avant de passer à la sous-phase suivante.
 - **À retenir :**
   - Quiz Organiser les environnements Terraform
@@ -2811,7 +2817,7 @@ Création, composition et registry de modules (volume modéré : une seule sous-
 - [ ] Page lue / pratiquée
 
 #### 343. Séparer dev, staging et prod
-- **Lien :** `/docs/infra-as-code/provisionnement/terraform/environnements/separer-environnements/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/environnements/separer-environnements/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/environnements/separer-environnements/)
 - **Pourquoi ici :** Environnements multi-stages et collaboration. La page « Séparer dev, staging et prod » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Séparer dev, staging et prod
@@ -2819,7 +2825,7 @@ Création, composition et registry de modules (volume modéré : une seule sous-
 - [ ] Page lue / pratiquée
 
 #### 344. Variables par environnement
-- **Lien :** `/docs/infra-as-code/provisionnement/terraform/environnements/variables-par-environnement/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/environnements/variables-par-environnement/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/environnements/variables-par-environnement/)
 - **Pourquoi ici :** Environnements multi-stages et collaboration. La page « Variables par environnement » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Variables par environnement
@@ -2827,7 +2833,7 @@ Création, composition et registry de modules (volume modéré : une seule sous-
 - [ ] Page lue / pratiquée
 
 #### 345. Les Workspaces Terraform
-- **Lien :** `/docs/infra-as-code/provisionnement/terraform/environnements/workspace/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/environnements/workspace/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/environnements/workspace/)
 - **Pourquoi ici :** Environnements multi-stages et collaboration. La page « Les Workspaces Terraform » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Les Workspaces Terraform
@@ -2835,7 +2841,7 @@ Création, composition et registry de modules (volume modéré : une seule sous-
 - [ ] Page lue / pratiquée
 
 #### 346. Introduction
-- **Lien :** `/docs/infra-as-code/provisionnement/terraform/hcp-terraform/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/hcp-terraform/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/hcp-terraform/)
 - **Pourquoi ici :** HCP Terraform / Cloud : remote runs après maîtrise CLI. La page « Introduction » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Introduction
@@ -2843,7 +2849,7 @@ Création, composition et registry de modules (volume modéré : une seule sous-
 - [ ] Page lue / pratiquée
 
 #### 347. Credentials et partage
-- **Lien :** `/docs/infra-as-code/provisionnement/terraform/hcp-terraform/credentials-partage/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/hcp-terraform/credentials-partage/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/hcp-terraform/credentials-partage/)
 - **Pourquoi ici :** HCP Terraform / Cloud : remote runs après maîtrise CLI. La page « Credentials et partage » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Credentials et partage
@@ -2851,7 +2857,7 @@ Création, composition et registry de modules (volume modéré : une seule sous-
 - [ ] Page lue / pratiquée
 
 #### 348. Policy as Code
-- **Lien :** `/docs/infra-as-code/provisionnement/terraform/hcp-terraform/policy-as-code/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/hcp-terraform/policy-as-code/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/hcp-terraform/policy-as-code/)
 - **Pourquoi ici :** HCP Terraform / Cloud : remote runs après maîtrise CLI. La page « Policy as Code » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Policy as Code
@@ -2859,7 +2865,7 @@ Création, composition et registry de modules (volume modéré : une seule sous-
 - [ ] Page lue / pratiquée
 
 #### 349. Découvrir HCP Terraform
-- **Lien :** `/docs/infra-as-code/provisionnement/terraform/hcp-terraform/presentation-hcp-terraform/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/hcp-terraform/presentation-hcp-terraform/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/hcp-terraform/presentation-hcp-terraform/)
 - **Pourquoi ici :** HCP Terraform / Cloud : remote runs après maîtrise CLI. La page « Découvrir HCP Terraform » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Découvrir HCP Terraform
@@ -2867,7 +2873,7 @@ Création, composition et registry de modules (volume modéré : une seule sous-
 - [ ] Page lue / pratiquée
 
 #### 350. Projects et équipes
-- **Lien :** `/docs/infra-as-code/provisionnement/terraform/hcp-terraform/projects-equipes/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/hcp-terraform/projects-equipes/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/hcp-terraform/projects-equipes/)
 - **Pourquoi ici :** HCP Terraform / Cloud : remote runs après maîtrise CLI. La page « Projects et équipes » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Projects et équipes
@@ -2875,7 +2881,7 @@ Création, composition et registry de modules (volume modéré : une seule sous-
 - [ ] Page lue / pratiquée
 
 #### 351. Quiz HCP Terraform
-- **Lien :** `/docs/infra-as-code/provisionnement/terraform/hcp-terraform/quiz/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/hcp-terraform/quiz/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/hcp-terraform/quiz/)
 - **Pourquoi ici :** HCP Terraform / Cloud : remote runs après maîtrise CLI. « Quiz HCP Terraform » valide ce qui précède : à faire avant de passer à la sous-phase suivante.
 - **À retenir :**
   - Quiz HCP Terraform
@@ -2883,7 +2889,7 @@ Création, composition et registry de modules (volume modéré : une seule sous-
 - [ ] Page lue / pratiquée
 
 #### 352. Remote runs
-- **Lien :** `/docs/infra-as-code/provisionnement/terraform/hcp-terraform/remote-runs/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/hcp-terraform/remote-runs/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/hcp-terraform/remote-runs/)
 - **Pourquoi ici :** HCP Terraform / Cloud : remote runs après maîtrise CLI. La page « Remote runs » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Remote runs
@@ -2891,7 +2897,7 @@ Création, composition et registry de modules (volume modéré : une seule sous-
 - [ ] Page lue / pratiquée
 
 #### 353. Variables et variable sets
-- **Lien :** `/docs/infra-as-code/provisionnement/terraform/hcp-terraform/variable-sets/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/hcp-terraform/variable-sets/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/hcp-terraform/variable-sets/)
 - **Pourquoi ici :** HCP Terraform / Cloud : remote runs après maîtrise CLI. La page « Variables et variable sets » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Variables et variable sets
@@ -2899,7 +2905,7 @@ Création, composition et registry de modules (volume modéré : une seule sous-
 - [ ] Page lue / pratiquée
 
 #### 354. Workspaces HCP
-- **Lien :** `/docs/infra-as-code/provisionnement/terraform/hcp-terraform/workspaces-hcp/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/hcp-terraform/workspaces-hcp/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/hcp-terraform/workspaces-hcp/)
 - **Pourquoi ici :** HCP Terraform / Cloud : remote runs après maîtrise CLI. La page « Workspaces HCP » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Workspaces HCP
@@ -2909,7 +2915,7 @@ Création, composition et registry de modules (volume modéré : une seule sous-
 **C7 — Cas AWS**
 
 #### 355. De libvirt à AWS
-- **Lien :** `/docs/infra-as-code/provisionnement/terraform/aws/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/aws/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/aws/)
 - **Pourquoi ici :** Cas AWS : après provider et state maîtrisés. La page « De libvirt à AWS » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - De libvirt à AWS
@@ -2917,7 +2923,7 @@ Création, composition et registry de modules (volume modéré : une seule sous-
 - [ ] Page lue / pratiquée
 
 #### 356. Backend S3 et remote state
-- **Lien :** `/docs/infra-as-code/provisionnement/terraform/aws/backend-s3-remote-state/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/aws/backend-s3-remote-state/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/aws/backend-s3-remote-state/)
 - **Pourquoi ici :** Cas AWS : après provider et state maîtrisés. La page « Backend S3 et remote state » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Backend S3 et remote state
@@ -2925,7 +2931,7 @@ Création, composition et registry de modules (volume modéré : une seule sous-
 - [ ] Page lue / pratiquée
 
 #### 357. IAM : rôle, policy, instance profile
-- **Lien :** `/docs/infra-as-code/provisionnement/terraform/aws/iam-role-policy-instance-profile/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/aws/iam-role-policy-instance-profile/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/aws/iam-role-policy-instance-profile/)
 - **Pourquoi ici :** Cas AWS : après provider et state maîtrisés. La page « IAM : rôle, policy, instance profile » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - IAM : rôle, policy, instance profile
@@ -2933,7 +2939,7 @@ Création, composition et registry de modules (volume modéré : une seule sous-
 - [ ] Page lue / pratiquée
 
 #### 358. Import, moved, drift
-- **Lien :** `/docs/infra-as-code/provisionnement/terraform/aws/import-moved-drift/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/aws/import-moved-drift/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/aws/import-moved-drift/)
 - **Pourquoi ici :** Cas AWS : après provider et state maîtrisés. La page « Import, moved, drift » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Import, moved, drift
@@ -2941,7 +2947,7 @@ Création, composition et registry de modules (volume modéré : une seule sous-
 - [ ] Page lue / pratiquée
 
 #### 359. Launch template et autoscaling
-- **Lien :** `/docs/infra-as-code/provisionnement/terraform/aws/launch-template-autoscaling/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/aws/launch-template-autoscaling/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/aws/launch-template-autoscaling/)
 - **Pourquoi ici :** Cas AWS : après provider et state maîtrisés. La page « Launch template et autoscaling » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Launch template et autoscaling
@@ -2949,7 +2955,7 @@ Création, composition et registry de modules (volume modéré : une seule sous-
 - [ ] Page lue / pratiquée
 
 #### 360. Provider AWS et première EC2
-- **Lien :** `/docs/infra-as-code/provisionnement/terraform/aws/provider-aws-premiere-ec2/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/aws/provider-aws-premiere-ec2/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/aws/provider-aws-premiere-ec2/)
 - **Pourquoi ici :** Cas AWS : après provider et state maîtrisés. La page « Provider AWS et première EC2 » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Provider AWS et première EC2
@@ -2957,7 +2963,7 @@ Création, composition et registry de modules (volume modéré : une seule sous-
 - [ ] Page lue / pratiquée
 
 #### 361. AMI, subnet, security groups
-- **Lien :** `/docs/infra-as-code/provisionnement/terraform/aws/sg-subnet-instance/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/aws/sg-subnet-instance/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/aws/sg-subnet-instance/)
 - **Pourquoi ici :** Cas AWS : après provider et state maîtrisés. La page « AMI, subnet, security groups » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - AMI, subnet, security groups
@@ -2967,7 +2973,7 @@ Création, composition et registry de modules (volume modéré : une seule sous-
 **C8 — Certifications Terraform**
 
 #### 362. Choisir sa certification
-- **Lien :** `/docs/infra-as-code/provisionnement/terraform/certifications/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/certifications/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/certifications/)
 - **Pourquoi ici :** Certifications Terraform. « Choisir sa certification » oriente une prep certif : utile seulement après la pratique des labs du tronc.
 - **À retenir :**
   - Choisir sa certification
@@ -2975,7 +2981,7 @@ Création, composition et registry de modules (volume modéré : une seule sous-
 - [ ] Page lue / pratiquée
 
 #### 363. Associate
-- **Lien :** `/docs/infra-as-code/provisionnement/terraform/certifications/associate/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/certifications/associate/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/certifications/associate/)
 - **Pourquoi ici :** Certifications Terraform. « Associate » oriente une prep certif : utile seulement après la pratique des labs du tronc.
 - **À retenir :**
   - Associate
@@ -2983,7 +2989,7 @@ Création, composition et registry de modules (volume modéré : une seule sous-
 - [ ] Page lue / pratiquée
 
 #### 364. Professional
-- **Lien :** `/docs/infra-as-code/provisionnement/terraform/certifications/professional/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/certifications/professional/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/certifications/professional/)
 - **Pourquoi ici :** Certifications Terraform. « Professional » oriente une prep certif : utile seulement après la pratique des labs du tronc.
 - **À retenir :**
   - Professional
@@ -2991,7 +2997,7 @@ Création, composition et registry de modules (volume modéré : une seule sous-
 - [ ] Page lue / pratiquée
 
 #### 365. Commandes essentielles
-- **Lien :** `/docs/infra-as-code/provisionnement/terraform/certifications/associate/commandes-essentielles/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/certifications/associate/commandes-essentielles/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/certifications/associate/commandes-essentielles/)
 - **Pourquoi ici :** Certifications Terraform. « Commandes essentielles » oriente une prep certif : utile seulement après la pratique des labs du tronc.
 - **À retenir :**
   - Commandes essentielles
@@ -2999,7 +3005,7 @@ Création, composition et registry de modules (volume modéré : une seule sous-
 - [ ] Page lue / pratiquée
 
 #### 366. Exercices QCM
-- **Lien :** `/docs/infra-as-code/provisionnement/terraform/certifications/associate/exercices/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/certifications/associate/exercices/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/certifications/associate/exercices/)
 - **Pourquoi ici :** Certifications Terraform. « Exercices QCM » oriente une prep certif : utile seulement après la pratique des labs du tronc.
 - **À retenir :**
   - Exercices QCM
@@ -3007,7 +3013,7 @@ Création, composition et registry de modules (volume modéré : une seule sous-
 - [ ] Page lue / pratiquée
 
 #### 367. Commandes essentielles
-- **Lien :** `/docs/infra-as-code/provisionnement/terraform/certifications/professional/commandes-essentielles/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/certifications/professional/commandes-essentielles/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/certifications/professional/commandes-essentielles/)
 - **Pourquoi ici :** Certifications Terraform. « Commandes essentielles » oriente une prep certif : utile seulement après la pratique des labs du tronc.
 - **À retenir :**
   - Commandes essentielles
@@ -3015,7 +3021,7 @@ Création, composition et registry de modules (volume modéré : une seule sous-
 - [ ] Page lue / pratiquée
 
 #### 368. Exercices lab
-- **Lien :** `/docs/infra-as-code/provisionnement/terraform/certifications/professional/exercices/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/certifications/professional/exercices/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terraform/certifications/professional/exercices/)
 - **Pourquoi ici :** Certifications Terraform. « Exercices lab » oriente une prep certif : utile seulement après la pratique des labs du tronc.
 - **À retenir :**
   - Exercices lab
@@ -3026,7 +3032,7 @@ Création, composition et registry de modules (volume modéré : une seule sous-
 Sujets avancés / alternatives de provisionnement après le track Terraform.
 
 #### 369. Terragrunt
-- **Lien :** `/docs/infra-as-code/provisionnement/terragrunt/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terragrunt/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terragrunt/)
 - **Pourquoi ici :** Terragrunt : factorisation multi-env après aisance Terraform. La page « Terragrunt » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Terragrunt
@@ -3034,7 +3040,7 @@ Sujets avancés / alternatives de provisionnement après le track Terraform.
 - [ ] Page lue / pratiquée
 
 #### 370. Catalogues et scaffold
-- **Lien :** `/docs/infra-as-code/provisionnement/terragrunt/catalogues-et-scaffold/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terragrunt/catalogues-et-scaffold/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terragrunt/catalogues-et-scaffold/)
 - **Pourquoi ici :** Terragrunt : factorisation multi-env après aisance Terraform. La page « Catalogues et scaffold » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Catalogues et scaffold
@@ -3042,7 +3048,7 @@ Sujets avancés / alternatives de provisionnement après le track Terraform.
 - [ ] Page lue / pratiquée
 
 #### 371. Centraliser backend et provider
-- **Lien :** `/docs/infra-as-code/provisionnement/terragrunt/centraliser-backend-provider/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terragrunt/centraliser-backend-provider/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terragrunt/centraliser-backend-provider/)
 - **Pourquoi ici :** Terragrunt : factorisation multi-env après aisance Terraform. La page « Centraliser backend et provider » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Centraliser backend et provider
@@ -3050,7 +3056,7 @@ Sujets avancés / alternatives de provisionnement après le track Terraform.
 - [ ] Page lue / pratiquée
 
 #### 372. Debug cache, hooks et logs
-- **Lien :** `/docs/infra-as-code/provisionnement/terragrunt/debug-cache-hooks-logs/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terragrunt/debug-cache-hooks-logs/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terragrunt/debug-cache-hooks-logs/)
 - **Pourquoi ici :** Terragrunt : factorisation multi-env après aisance Terraform. La page « Debug cache, hooks et logs » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Debug cache, hooks et logs
@@ -3058,7 +3064,7 @@ Sujets avancés / alternatives de provisionnement après le track Terraform.
 - [ ] Page lue / pratiquée
 
 #### 373. Dependances et mock_outputs
-- **Lien :** `/docs/infra-as-code/provisionnement/terragrunt/dependances-et-mock-outputs/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terragrunt/dependances-et-mock-outputs/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terragrunt/dependances-et-mock-outputs/)
 - **Pourquoi ici :** Terragrunt : factorisation multi-env après aisance Terraform. La page « Dependances et mock_outputs » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Dependances et mock_outputs
@@ -3066,7 +3072,7 @@ Sujets avancés / alternatives de provisionnement après le track Terraform.
 - [ ] Page lue / pratiquée
 
 #### 374. Installer Terragrunt
-- **Lien :** `/docs/infra-as-code/provisionnement/terragrunt/installer-terragrunt/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terragrunt/installer-terragrunt/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terragrunt/installer-terragrunt/)
 - **Pourquoi ici :** Terragrunt : factorisation multi-env après aisance Terraform. La page « Installer Terragrunt » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Installer Terragrunt
@@ -3074,7 +3080,7 @@ Sujets avancés / alternatives de provisionnement après le track Terraform.
 - [ ] Page lue / pratiquée
 
 #### 375. Pourquoi utiliser Terragrunt
-- **Lien :** `/docs/infra-as-code/provisionnement/terragrunt/pourquoi-utiliser-terragrunt/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terragrunt/pourquoi-utiliser-terragrunt/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terragrunt/pourquoi-utiliser-terragrunt/)
 - **Pourquoi ici :** Terragrunt : factorisation multi-env après aisance Terraform. La page « Pourquoi utiliser Terragrunt » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Pourquoi utiliser Terragrunt
@@ -3082,7 +3088,7 @@ Sujets avancés / alternatives de provisionnement après le track Terraform.
 - [ ] Page lue / pratiquée
 
 #### 376. Premier projet Terragrunt
-- **Lien :** `/docs/infra-as-code/provisionnement/terragrunt/premier-projet-terragrunt/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terragrunt/premier-projet-terragrunt/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terragrunt/premier-projet-terragrunt/)
 - **Pourquoi ici :** Terragrunt : factorisation multi-env après aisance Terraform. La page « Premier projet Terragrunt » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Premier projet Terragrunt
@@ -3090,7 +3096,7 @@ Sujets avancés / alternatives de provisionnement après le track Terraform.
 - [ ] Page lue / pratiquée
 
 #### 377. Run queue et filtres
-- **Lien :** `/docs/infra-as-code/provisionnement/terragrunt/run-all-run-queue-filtres/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terragrunt/run-all-run-queue-filtres/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terragrunt/run-all-run-queue-filtres/)
 - **Pourquoi ici :** Terragrunt : factorisation multi-env après aisance Terraform. La page « Run queue et filtres » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Run queue et filtres
@@ -3098,7 +3104,7 @@ Sujets avancés / alternatives de provisionnement après le track Terraform.
 - [ ] Page lue / pratiquée
 
 #### 378. Stacks implicites ou explicites
-- **Lien :** `/docs/infra-as-code/provisionnement/terragrunt/stacks-implicites-explicites/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terragrunt/stacks-implicites-explicites/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terragrunt/stacks-implicites-explicites/)
 - **Pourquoi ici :** Terragrunt : factorisation multi-env après aisance Terraform. La page « Stacks implicites ou explicites » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Stacks implicites ou explicites
@@ -3106,7 +3112,7 @@ Sujets avancés / alternatives de provisionnement après le track Terraform.
 - [ ] Page lue / pratiquée
 
 #### 379. Structurer un live repo
-- **Lien :** `/docs/infra-as-code/provisionnement/terragrunt/structurer-live-repo/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terragrunt/structurer-live-repo/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terragrunt/structurer-live-repo/)
 - **Pourquoi ici :** Terragrunt : factorisation multi-env après aisance Terraform. La page « Structurer un live repo » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Structurer un live repo
@@ -3114,7 +3120,7 @@ Sujets avancés / alternatives de provisionnement après le track Terraform.
 - [ ] Page lue / pratiquée
 
 #### 380. Terragrunt en CI/CD
-- **Lien :** `/docs/infra-as-code/provisionnement/terragrunt/terragrunt-cicd/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terragrunt/terragrunt-cicd/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terragrunt/terragrunt-cicd/)
 - **Pourquoi ici :** Terragrunt : factorisation multi-env après aisance Terraform. La page « Terragrunt en CI/CD » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Terragrunt en CI/CD
@@ -3122,7 +3128,7 @@ Sujets avancés / alternatives de provisionnement après le track Terraform.
 - [ ] Page lue / pratiquée
 
 #### 381. terragrunt.stack.hcl
-- **Lien :** `/docs/infra-as-code/provisionnement/terragrunt/terragrunt-stack-hcl/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terragrunt/terragrunt-stack-hcl/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/terragrunt/terragrunt-stack-hcl/)
 - **Pourquoi ici :** Terragrunt : factorisation multi-env après aisance Terraform. La page « terragrunt.stack.hcl » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - terragrunt.stack.hcl
@@ -3130,7 +3136,7 @@ Sujets avancés / alternatives de provisionnement après le track Terraform.
 - [ ] Page lue / pratiquée
 
 #### 382. OpenTofu
-- **Lien :** `/docs/infra-as-code/provisionnement/opentofu/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/opentofu/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/opentofu/)
 - **Pourquoi ici :** OpenTofu : fork compatible, après le tronc Terraform. La page « OpenTofu » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - OpenTofu
@@ -3138,7 +3144,7 @@ Sujets avancés / alternatives de provisionnement après le track Terraform.
 - [ ] Page lue / pratiquée
 
 #### 383. Chiffrer state et plans
-- **Lien :** `/docs/infra-as-code/provisionnement/opentofu/chiffrer-state-plans/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/opentofu/chiffrer-state-plans/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/opentofu/chiffrer-state-plans/)
 - **Pourquoi ici :** OpenTofu : fork compatible, après le tronc Terraform. La page « Chiffrer state et plans » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Chiffrer state et plans
@@ -3146,7 +3152,7 @@ Sujets avancés / alternatives de provisionnement après le track Terraform.
 - [ ] Page lue / pratiquée
 
 #### 384. Migrer depuis Terraform
-- **Lien :** `/docs/infra-as-code/provisionnement/opentofu/migrer-depuis-terraform/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/opentofu/migrer-depuis-terraform/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/opentofu/migrer-depuis-terraform/)
 - **Pourquoi ici :** OpenTofu : fork compatible, après le tronc Terraform. La page « Migrer depuis Terraform » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Migrer depuis Terraform
@@ -3154,7 +3160,7 @@ Sujets avancés / alternatives de provisionnement après le track Terraform.
 - [ ] Page lue / pratiquée
 
 #### 385. Refactor, import et removed
-- **Lien :** `/docs/infra-as-code/provisionnement/opentofu/refactor-import-moved-removed/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/opentofu/refactor-import-moved-removed/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/opentofu/refactor-import-moved-removed/)
 - **Pourquoi ici :** OpenTofu : fork compatible, après le tronc Terraform. La page « Refactor, import et removed » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Refactor, import et removed
@@ -3162,7 +3168,7 @@ Sujets avancés / alternatives de provisionnement après le track Terraform.
 - [ ] Page lue / pratiquée
 
 #### 386. Registry, CLI et OCI
-- **Lien :** `/docs/infra-as-code/provisionnement/opentofu/registry-cli-oci/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/opentofu/registry-cli-oci/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/opentofu/registry-cli-oci/)
 - **Pourquoi ici :** OpenTofu : fork compatible, après le tronc Terraform. La page « Registry, CLI et OCI » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Registry, CLI et OCI
@@ -3170,7 +3176,7 @@ Sujets avancés / alternatives de provisionnement après le track Terraform.
 - [ ] Page lue / pratiquée
 
 #### 387. Variables dans backend et modules
-- **Lien :** `/docs/infra-as-code/provisionnement/opentofu/variables-backend-sources-modules/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/opentofu/variables-backend-sources-modules/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/opentofu/variables-backend-sources-modules/)
 - **Pourquoi ici :** OpenTofu : fork compatible, après le tronc Terraform. La page « Variables dans backend et modules » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Variables dans backend et modules
@@ -3178,7 +3184,7 @@ Sujets avancés / alternatives de provisionnement après le track Terraform.
 - [ ] Page lue / pratiquée
 
 #### 388. Pulumi
-- **Lien :** `/docs/infra-as-code/provisionnement/pulumi/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/pulumi/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/pulumi/)
 - **Pourquoi ici :** Pulumi : IaC en langages généraux — comparaison. La page « Pulumi » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Pulumi
@@ -3186,7 +3192,7 @@ Sujets avancés / alternatives de provisionnement après le track Terraform.
 - [ ] Page lue / pratiquée
 
 #### 389. Concepts, stacks et state
-- **Lien :** `/docs/infra-as-code/provisionnement/pulumi/concepts-stacks-state/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/pulumi/concepts-stacks-state/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/pulumi/concepts-stacks-state/)
 - **Pourquoi ici :** Pulumi : IaC en langages généraux — comparaison. La page « Concepts, stacks et state » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Concepts, stacks et state
@@ -3194,7 +3200,7 @@ Sujets avancés / alternatives de provisionnement après le track Terraform.
 - [ ] Page lue / pratiquée
 
 #### 390. Inputs, outputs, config et secrets
-- **Lien :** `/docs/infra-as-code/provisionnement/pulumi/inputs-outputs-config-secrets/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/pulumi/inputs-outputs-config-secrets/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/pulumi/inputs-outputs-config-secrets/)
 - **Pourquoi ici :** Pulumi : IaC en langages généraux — comparaison. La page « Inputs, outputs, config et secrets » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Inputs, outputs, config et secrets
@@ -3202,7 +3208,7 @@ Sujets avancés / alternatives de provisionnement après le track Terraform.
 - [ ] Page lue / pratiquée
 
 #### 391. Premiere VM KVM
-- **Lien :** `/docs/infra-as-code/provisionnement/pulumi/premiere-stack-kvm/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/pulumi/premiere-stack-kvm/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/pulumi/premiere-stack-kvm/)
 - **Pourquoi ici :** Pulumi : IaC en langages généraux — comparaison. La page « Premiere VM KVM » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Premiere VM KVM
@@ -3210,7 +3216,7 @@ Sujets avancés / alternatives de provisionnement après le track Terraform.
 - [ ] Page lue / pratiquée
 
 #### 392. Preparer le backend local
-- **Lien :** `/docs/infra-as-code/provisionnement/pulumi/preparer-backend-local/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/pulumi/preparer-backend-local/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/pulumi/preparer-backend-local/)
 - **Pourquoi ici :** Pulumi : IaC en langages généraux — comparaison. La page « Preparer le backend local » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Preparer le backend local
@@ -3218,7 +3224,7 @@ Sujets avancés / alternatives de provisionnement après le track Terraform.
 - [ ] Page lue / pratiquée
 
 #### 393. Preview, tests et CI
-- **Lien :** `/docs/infra-as-code/provisionnement/pulumi/preview-tests-ci/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/pulumi/preview-tests-ci/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/pulumi/preview-tests-ci/)
 - **Pourquoi ici :** Pulumi : IaC en langages généraux — comparaison. La page « Preview, tests et CI » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Preview, tests et CI
@@ -3226,7 +3232,7 @@ Sujets avancés / alternatives de provisionnement après le track Terraform.
 - [ ] Page lue / pratiquée
 
 #### 394. Securiser Pulumi en equipe
-- **Lien :** `/docs/infra-as-code/provisionnement/pulumi/securiser-pulumi/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/pulumi/securiser-pulumi/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/pulumi/securiser-pulumi/)
 - **Pourquoi ici :** Pulumi : IaC en langages généraux — comparaison. « Securiser Pulumi en equipe » renforce le réflexe DevSecOps ; croiser avec le dossier `05-securite` si besoin.
 - **À retenir :**
   - Securiser Pulumi en equipe
@@ -3234,7 +3240,7 @@ Sujets avancés / alternatives de provisionnement après le track Terraform.
 - [ ] Page lue / pratiquée
 
 #### 395. Structure de projet et composants
-- **Lien :** `/docs/infra-as-code/provisionnement/pulumi/structure-projet-composants/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/pulumi/structure-projet-composants/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/pulumi/structure-projet-composants/)
 - **Pourquoi ici :** Pulumi : IaC en langages généraux — comparaison. La page « Structure de projet et composants » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Structure de projet et composants
@@ -3242,7 +3248,7 @@ Sujets avancés / alternatives de provisionnement après le track Terraform.
 - [ ] Page lue / pratiquée
 
 #### 396. Packer
-- **Lien :** `/docs/infra-as-code/provisionnement/packer/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/packer/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/packer/)
 - **Pourquoi ici :** Packer : golden images (lien utile avec virtualisation / conteneurs). La page « Packer » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Packer
@@ -3250,7 +3256,7 @@ Sujets avancés / alternatives de provisionnement après le track Terraform.
 - [ ] Page lue / pratiquée
 
 #### 397. Bonnes pratiques
-- **Lien :** `/docs/infra-as-code/provisionnement/packer/bonnes-pratiques/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/packer/bonnes-pratiques/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/packer/bonnes-pratiques/)
 - **Pourquoi ici :** Packer : golden images (lien utile avec virtualisation / conteneurs). La page « Bonnes pratiques » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Bonnes pratiques
@@ -3258,7 +3264,7 @@ Sujets avancés / alternatives de provisionnement après le track Terraform.
 - [ ] Page lue / pratiquée
 
 #### 398. Concepts et architecture
-- **Lien :** `/docs/infra-as-code/provisionnement/packer/concepts/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/packer/concepts/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/packer/concepts/)
 - **Pourquoi ici :** Packer : golden images (lien utile avec virtualisation / conteneurs). La page « Concepts et architecture » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Concepts et architecture
@@ -3266,7 +3272,7 @@ Sujets avancés / alternatives de provisionnement après le track Terraform.
 - [ ] Page lue / pratiquée
 
 #### 399. Templates HCL2
-- **Lien :** `/docs/infra-as-code/provisionnement/packer/hcl-templates/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/packer/hcl-templates/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/packer/hcl-templates/)
 - **Pourquoi ici :** Packer : golden images (lien utile avec virtualisation / conteneurs). La page « Templates HCL2 » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Templates HCL2
@@ -3274,7 +3280,7 @@ Sujets avancés / alternatives de provisionnement après le track Terraform.
 - [ ] Page lue / pratiquée
 
 #### 400. Installation
-- **Lien :** `/docs/infra-as-code/provisionnement/packer/installation/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/packer/installation/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/packer/installation/)
 - **Pourquoi ici :** Packer : golden images (lien utile avec virtualisation / conteneurs). La page « Installation » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Installation
@@ -3282,7 +3288,7 @@ Sujets avancés / alternatives de provisionnement après le track Terraform.
 - [ ] Page lue / pratiquée
 
 #### 401. Mon parcours Suivi
-- **Lien :** `/docs/infra-as-code/provisionnement/packer/parcours/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/packer/parcours/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/packer/parcours/)
 - **Pourquoi ici :** Packer : golden images (lien utile avec virtualisation / conteneurs). La page « Mon parcours Suivi » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Mon parcours Suivi
@@ -3290,7 +3296,7 @@ Sujets avancés / alternatives de provisionnement après le track Terraform.
 - [ ] Page lue / pratiquée
 
 #### 402. Post-processors
-- **Lien :** `/docs/infra-as-code/provisionnement/packer/post-processors/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/packer/post-processors/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/packer/post-processors/)
 - **Pourquoi ici :** Packer : golden images (lien utile avec virtualisation / conteneurs). La page « Post-processors » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Post-processors
@@ -3298,7 +3304,7 @@ Sujets avancés / alternatives de provisionnement après le track Terraform.
 - [ ] Page lue / pratiquée
 
 #### 403. Provisioners
-- **Lien :** `/docs/infra-as-code/provisionnement/packer/provisioners/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/packer/provisioners/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/packer/provisioners/)
 - **Pourquoi ici :** Packer : golden images (lien utile avec virtualisation / conteneurs). La page « Provisioners » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Provisioners
@@ -3306,7 +3312,7 @@ Sujets avancés / alternatives de provisionnement après le track Terraform.
 - [ ] Page lue / pratiquée
 
 #### 404. Variables et fonctions
-- **Lien :** `/docs/infra-as-code/provisionnement/packer/variables-fonctions/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/packer/variables-fonctions/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/packer/variables-fonctions/)
 - **Pourquoi ici :** Packer : golden images (lien utile avec virtualisation / conteneurs). La page « Variables et fonctions » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Variables et fonctions
@@ -3314,7 +3320,7 @@ Sujets avancés / alternatives de provisionnement après le track Terraform.
 - [ ] Page lue / pratiquée
 
 #### 405. CloudFormation
-- **Lien :** `/docs/infra-as-code/provisionnement/cloudformation/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/cloudformation/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/cloudformation/)
 - **Pourquoi ici :** Autres outils de provisionnement (culture, hors track principal). La page « CloudFormation » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - CloudFormation
@@ -3322,7 +3328,7 @@ Sujets avancés / alternatives de provisionnement après le track Terraform.
 - [ ] Page lue / pratiquée
 
 #### 406. Vagrant
-- **Lien :** `/docs/infra-as-code/provisionnement/vagrant/`
+- **Lien :** [https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/vagrant/](https://blog.stephane-robert.info/docs/infra-as-code/provisionnement/vagrant/)
 - **Pourquoi ici :** Autres outils de provisionnement (culture, hors track principal). La page « Vagrant » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Vagrant
@@ -3335,9 +3341,3 @@ Sujets avancés / alternatives de provisionnement après le track Terraform.
 - Gérer secrets (Vault) et industrialiser via collections / EE / AWX
 - Provisionner avec Terraform (HCL, state, modules, multi-env)
 - Situer Terragrunt, OpenTofu, Pulumi et Packer dans une stack IaC
-
-## Checklist globale
-- [ ] Phase A — Fondamentaux IaC terminée
-- [ ] Phase B — Gestion de configuration (Ansible d'abord) terminée
-- [ ] Phase C — Provisionnement (Terraform puis alternatives) terminée
-- [ ] Dossier validé

@@ -4,6 +4,15 @@
 > Source : https://blog.stephane-robert.info/docs/pipeline-cicd/
 > Les liens sont relatifs au site (chemins `/docs/...`).
 
+## Checklist globale
+- [ ] Phase A — Définir, comprendre les échecs, bonnes pratiques terminée
+- [ ] Phase B — Track principal : GitHub Actions terminée
+- [ ] Phase C — Second track : GitLab CI terminée
+- [ ] Phase D — GitOps (Argo CD puis Flux) terminée
+- [ ] Phase E — Dagger & Jenkins terminée
+- [ ] Phase F — Sécurité transverse du pipeline & annexes terminée
+- [ ] Dossier validé
+
 ## Vision du dossier
 Ce dossier transforme le code et l'infrastructure en flux de livraison automatisé : intégration continue, déploiement continu, GitOps et sécurisation du pipeline.
 
@@ -25,7 +34,7 @@ Plutôt que de juxtaposer les outils comme le menu du site, on commence par le �
 Avant tout outil : vocabulaire CI/CD, causes d'échec, anti-patterns. Prérequis : Git/apps (04), IaC (09), conteneurs (10), sensibilisation sécu (05).
 
 #### 1. CI/CD
-- **Lien :** `/docs/pipeline-cicd/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/](https://blog.stephane-robert.info/docs/pipeline-cicd/)
 - **Pourquoi ici :** Entrée CI/CD du site. « CI/CD » sert de carte ou de jalon : lire pour se repérer, puis enchaîner sur les pages filles dans l'ordre indiqué.
 - **À retenir :**
   - CI/CD
@@ -33,7 +42,7 @@ Avant tout outil : vocabulaire CI/CD, causes d'échec, anti-patterns. Prérequis
 - [ ] Page lue / pratiquée
 
 #### 2. Qu'est-ce qu'une pipeline CI/CD ?
-- **Lien :** `/docs/pipeline-cicd/definition/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/definition/](https://blog.stephane-robert.info/docs/pipeline-cicd/definition/)
 - **Pourquoi ici :** Cadre conceptuel : définir CI/CD et comprendre pourquoi les pipelines échouent — avant tout YAML d'outil. « Qu'est-ce qu'une pipeline CI/CD ? » sert de carte ou de jalon : lire pour se repérer, puis enchaîner sur les pages filles dans l'ordre indiqué.
 - **À retenir :**
   - Qu'est-ce qu'une pipeline CI/CD ?
@@ -41,7 +50,7 @@ Avant tout outil : vocabulaire CI/CD, causes d'échec, anti-patterns. Prérequis
 - [ ] Page lue / pratiquée
 
 #### 3. Approfondir : CI vs Delivery vs Deployment
-- **Lien :** `/docs/pipeline-cicd/ci-vs-cd/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/ci-vs-cd/](https://blog.stephane-robert.info/docs/pipeline-cicd/ci-vs-cd/)
 - **Pourquoi ici :** Cadre conceptuel : définir CI/CD et comprendre pourquoi les pipelines échouent — avant tout YAML d'outil. « Approfondir : CI vs Delivery vs Deployment » sert de carte ou de jalon : lire pour se repérer, puis enchaîner sur les pages filles dans l'ordre indiqué.
 - **À retenir :**
   - Approfondir : CI vs Delivery vs Deployment
@@ -49,7 +58,7 @@ Avant tout outil : vocabulaire CI/CD, causes d'échec, anti-patterns. Prérequis
 - [ ] Page lue / pratiquée
 
 #### 4. Formes modernes de pipelines
-- **Lien :** `/docs/pipeline-cicd/formes/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/formes/](https://blog.stephane-robert.info/docs/pipeline-cicd/formes/)
 - **Pourquoi ici :** Cadre conceptuel : définir CI/CD et comprendre pourquoi les pipelines échouent — avant tout YAML d'outil. « Formes modernes de pipelines » sert de carte ou de jalon : lire pour se repérer, puis enchaîner sur les pages filles dans l'ordre indiqué.
 - **À retenir :**
   - Formes modernes de pipelines
@@ -57,7 +66,7 @@ Avant tout outil : vocabulaire CI/CD, causes d'échec, anti-patterns. Prérequis
 - [ ] Page lue / pratiquée
 
 #### 5. Pourquoi les pipelines échouent
-- **Lien :** `/docs/pipeline-cicd/pourquoi-echouent-elles/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/pourquoi-echouent-elles/](https://blog.stephane-robert.info/docs/pipeline-cicd/pourquoi-echouent-elles/)
 - **Pourquoi ici :** Cadre conceptuel : définir CI/CD et comprendre pourquoi les pipelines échouent — avant tout YAML d'outil. « Pourquoi les pipelines échouent » sert de carte ou de jalon : lire pour se repérer, puis enchaîner sur les pages filles dans l'ordre indiqué.
 - **À retenir :**
   - Pourquoi les pipelines échouent
@@ -65,7 +74,7 @@ Avant tout outil : vocabulaire CI/CD, causes d'échec, anti-patterns. Prérequis
 - [ ] Page lue / pratiquée
 
 #### 6. Confiance implicite
-- **Lien :** `/docs/pipeline-cicd/confiance-implicite/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/confiance-implicite/](https://blog.stephane-robert.info/docs/pipeline-cicd/confiance-implicite/)
 - **Pourquoi ici :** Cadre conceptuel : définir CI/CD et comprendre pourquoi les pipelines échouent — avant tout YAML d'outil. « Confiance implicite » sert de carte ou de jalon : lire pour se repérer, puis enchaîner sur les pages filles dans l'ordre indiqué.
 - **À retenir :**
   - Confiance implicite
@@ -73,7 +82,7 @@ Avant tout outil : vocabulaire CI/CD, causes d'échec, anti-patterns. Prérequis
 - [ ] Page lue / pratiquée
 
 #### 7. Pourquoi bloquer ne suffit pas
-- **Lien :** `/docs/pipeline-cicd/securite-punitive/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/securite-punitive/](https://blog.stephane-robert.info/docs/pipeline-cicd/securite-punitive/)
 - **Pourquoi ici :** Cadre conceptuel : définir CI/CD et comprendre pourquoi les pipelines échouent — avant tout YAML d'outil. « Pourquoi bloquer ne suffit pas » sert de carte ou de jalon : lire pour se repérer, puis enchaîner sur les pages filles dans l'ordre indiqué.
 - **À retenir :**
   - Pourquoi bloquer ne suffit pas
@@ -81,7 +90,7 @@ Avant tout outil : vocabulaire CI/CD, causes d'échec, anti-patterns. Prérequis
 - [ ] Page lue / pratiquée
 
 #### 8. Bonnes pratiques CI/CD
-- **Lien :** `/docs/pipeline-cicd/bonnes-pratiques/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/bonnes-pratiques/](https://blog.stephane-robert.info/docs/pipeline-cicd/bonnes-pratiques/)
 - **Pourquoi ici :** Bonnes pratiques et anti-patterns : règles du jeu avant GitHub Actions / GitLab CI. « Bonnes pratiques CI/CD » sert de carte ou de jalon : lire pour se repérer, puis enchaîner sur les pages filles dans l'ordre indiqué.
 - **À retenir :**
   - Bonnes pratiques CI/CD
@@ -89,7 +98,7 @@ Avant tout outil : vocabulaire CI/CD, causes d'échec, anti-patterns. Prérequis
 - [ ] Page lue / pratiquée
 
 #### 9. Anti-patterns CI/CD
-- **Lien :** `/docs/pipeline-cicd/anti-patterns/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/anti-patterns/](https://blog.stephane-robert.info/docs/pipeline-cicd/anti-patterns/)
 - **Pourquoi ici :** Bonnes pratiques et anti-patterns : règles du jeu avant GitHub Actions / GitLab CI. « Anti-patterns CI/CD » sert de carte ou de jalon : lire pour se repérer, puis enchaîner sur les pages filles dans l'ordre indiqué.
 - **À retenir :**
   - Anti-patterns CI/CD
@@ -102,7 +111,7 @@ Un seul outil approfondi en premier pour construire des réflexes transférables
 **B1 — Entrée & parcours GitHub Actions**
 
 #### 10. Introduction
-- **Lien :** `/docs/pipeline-cicd/github/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/github/](https://blog.stephane-robert.info/docs/pipeline-cicd/github/)
 - **Pourquoi ici :** Track principal : GitHub Actions (fondations → workflows → runners → optimisation → sécu). « Introduction » sert de carte ou de jalon : lire pour se repérer, puis enchaîner sur les pages filles dans l'ordre indiqué.
 - **À retenir :**
   - Introduction
@@ -110,7 +119,7 @@ Un seul outil approfondi en premier pour construire des réflexes transférables
 - [ ] Page lue / pratiquée
 
 #### 11. Mon parcours Suivi
-- **Lien :** `/docs/pipeline-cicd/github/parcours/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/github/parcours/](https://blog.stephane-robert.info/docs/pipeline-cicd/github/parcours/)
 - **Pourquoi ici :** Jalon parcours site ; suivre l'ordre de ce fichier. La page « Mon parcours Suivi » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Mon parcours Suivi
@@ -120,7 +129,7 @@ Un seul outil approfondi en premier pour construire des réflexes transférables
 **B2 — Fondations**
 
 #### 12. Introduction
-- **Lien :** `/docs/pipeline-cicd/github/fondations/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/github/fondations/](https://blog.stephane-robert.info/docs/pipeline-cicd/github/fondations/)
 - **Pourquoi ici :** Track principal : GitHub Actions (fondations → workflows → runners → optimisation → sécu). La page « Introduction » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Introduction
@@ -128,7 +137,7 @@ Un seul outil approfondi en premier pour construire des réflexes transférables
 - [ ] Page lue / pratiquée
 
 #### 13. La Marketplace
-- **Lien :** `/docs/pipeline-cicd/github/fondations/marketplace/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/github/fondations/marketplace/](https://blog.stephane-robert.info/docs/pipeline-cicd/github/fondations/marketplace/)
 - **Pourquoi ici :** Track principal : GitHub Actions (fondations → workflows → runners → optimisation → sécu). La page « La Marketplace » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - La Marketplace
@@ -136,7 +145,7 @@ Un seul outil approfondi en premier pour construire des réflexes transférables
 - [ ] Page lue / pratiquée
 
 #### 14. Gestion des Secrets
-- **Lien :** `/docs/pipeline-cicd/github/fondations/secrets/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/github/fondations/secrets/](https://blog.stephane-robert.info/docs/pipeline-cicd/github/fondations/secrets/)
 - **Pourquoi ici :** Track principal : GitHub Actions (fondations → workflows → runners → optimisation → sécu). La page « Gestion des Secrets » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Gestion des Secrets
@@ -144,7 +153,7 @@ Un seul outil approfondi en premier pour construire des réflexes transférables
 - [ ] Page lue / pratiquée
 
 #### 15. Sécurité : les bases
-- **Lien :** `/docs/pipeline-cicd/github/fondations/securite-bases/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/github/fondations/securite-bases/](https://blog.stephane-robert.info/docs/pipeline-cicd/github/fondations/securite-bases/)
 - **Pourquoi ici :** Track principal : GitHub Actions (fondations → workflows → runners → optimisation → sécu). « Sécurité : les bases » renforce le réflexe DevSecOps ; croiser avec le dossier `05-securite` si besoin.
 - **À retenir :**
   - Sécurité : les bases
@@ -152,7 +161,7 @@ Un seul outil approfondi en premier pour construire des réflexes transférables
 - [ ] Page lue / pratiquée
 
 #### 16. Qu'est-ce qu'un workflow ?
-- **Lien :** `/docs/pipeline-cicd/github/fondations/workflow/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/github/fondations/workflow/](https://blog.stephane-robert.info/docs/pipeline-cicd/github/fondations/workflow/)
 - **Pourquoi ici :** Track principal : GitHub Actions (fondations → workflows → runners → optimisation → sécu). La page « Qu'est-ce qu'un workflow ? » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Qu'est-ce qu'un workflow ?
@@ -162,7 +171,7 @@ Un seul outil approfondi en premier pour construire des réflexes transférables
 **B3 — Workflows**
 
 #### 17. Introduction
-- **Lien :** `/docs/pipeline-cicd/github/workflows/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/github/workflows/](https://blog.stephane-robert.info/docs/pipeline-cicd/github/workflows/)
 - **Pourquoi ici :** Track principal : GitHub Actions (fondations → workflows → runners → optimisation → sécu). La page « Introduction » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Introduction
@@ -170,7 +179,7 @@ Un seul outil approfondi en premier pour construire des réflexes transférables
 - [ ] Page lue / pratiquée
 
 #### 18. Actions composites
-- **Lien :** `/docs/pipeline-cicd/github/workflows/composite-actions/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/github/workflows/composite-actions/](https://blog.stephane-robert.info/docs/pipeline-cicd/github/workflows/composite-actions/)
 - **Pourquoi ici :** Track principal : GitHub Actions (fondations → workflows → runners → optimisation → sécu). La page « Actions composites » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Actions composites
@@ -178,7 +187,7 @@ Un seul outil approfondi en premier pour construire des réflexes transférables
 - [ ] Page lue / pratiquée
 
 #### 19. Conditions (if)
-- **Lien :** `/docs/pipeline-cicd/github/workflows/conditions-if/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/github/workflows/conditions-if/](https://blog.stephane-robert.info/docs/pipeline-cicd/github/workflows/conditions-if/)
 - **Pourquoi ici :** Track principal : GitHub Actions (fondations → workflows → runners → optimisation → sécu). La page « Conditions (if) » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Conditions (if)
@@ -186,7 +195,7 @@ Un seul outil approfondi en premier pour construire des réflexes transférables
 - [ ] Page lue / pratiquée
 
 #### 20. Contexts et expressions
-- **Lien :** `/docs/pipeline-cicd/github/workflows/contexts-expressions/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/github/workflows/contexts-expressions/](https://blog.stephane-robert.info/docs/pipeline-cicd/github/workflows/contexts-expressions/)
 - **Pourquoi ici :** Track principal : GitHub Actions (fondations → workflows → runners → optimisation → sécu). La page « Contexts et expressions » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Contexts et expressions
@@ -194,7 +203,7 @@ Un seul outil approfondi en premier pour construire des réflexes transférables
 - [ ] Page lue / pratiquée
 
 #### 21. Déclencheurs
-- **Lien :** `/docs/pipeline-cicd/github/workflows/declencheurs/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/github/workflows/declencheurs/](https://blog.stephane-robert.info/docs/pipeline-cicd/github/workflows/declencheurs/)
 - **Pourquoi ici :** Track principal : GitHub Actions (fondations → workflows → runners → optimisation → sécu). La page « Déclencheurs » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Déclencheurs
@@ -202,7 +211,7 @@ Un seul outil approfondi en premier pour construire des réflexes transférables
 - [ ] Page lue / pratiquée
 
 #### 22. Matrix strategy
-- **Lien :** `/docs/pipeline-cicd/github/workflows/matrix-strategy/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/github/workflows/matrix-strategy/](https://blog.stephane-robert.info/docs/pipeline-cicd/github/workflows/matrix-strategy/)
 - **Pourquoi ici :** Track principal : GitHub Actions (fondations → workflows → runners → optimisation → sécu). La page « Matrix strategy » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Matrix strategy
@@ -210,7 +219,7 @@ Un seul outil approfondi en premier pour construire des réflexes transférables
 - [ ] Page lue / pratiquée
 
 #### 23. Workflows réutilisables
-- **Lien :** `/docs/pipeline-cicd/github/workflows/reusable-workflows/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/github/workflows/reusable-workflows/](https://blog.stephane-robert.info/docs/pipeline-cicd/github/workflows/reusable-workflows/)
 - **Pourquoi ici :** Track principal : GitHub Actions (fondations → workflows → runners → optimisation → sécu). La page « Workflows réutilisables » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Workflows réutilisables
@@ -218,7 +227,7 @@ Un seul outil approfondi en premier pour construire des réflexes transférables
 - [ ] Page lue / pratiquée
 
 #### 24. Variables et secrets
-- **Lien :** `/docs/pipeline-cicd/github/workflows/variables-secrets/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/github/workflows/variables-secrets/](https://blog.stephane-robert.info/docs/pipeline-cicd/github/workflows/variables-secrets/)
 - **Pourquoi ici :** Track principal : GitHub Actions (fondations → workflows → runners → optimisation → sécu). La page « Variables et secrets » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Variables et secrets
@@ -228,7 +237,7 @@ Un seul outil approfondi en premier pour construire des réflexes transférables
 **B4 — Runners**
 
 #### 25. Introduction
-- **Lien :** `/docs/pipeline-cicd/github/runners/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/github/runners/](https://blog.stephane-robert.info/docs/pipeline-cicd/github/runners/)
 - **Pourquoi ici :** Track principal : GitHub Actions (fondations → workflows → runners → optimisation → sécu). La page « Introduction » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Introduction
@@ -236,7 +245,7 @@ Un seul outil approfondi en premier pour construire des réflexes transférables
 - [ ] Page lue / pratiquée
 
 #### 26. Runners éphémères
-- **Lien :** `/docs/pipeline-cicd/github/runners/ephemeres/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/github/runners/ephemeres/](https://blog.stephane-robert.info/docs/pipeline-cicd/github/runners/ephemeres/)
 - **Pourquoi ici :** Track principal : GitHub Actions (fondations → workflows → runners → optimisation → sécu). La page « Runners éphémères » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Runners éphémères
@@ -244,7 +253,7 @@ Un seul outil approfondi en premier pour construire des réflexes transférables
 - [ ] Page lue / pratiquée
 
 #### 27. Hosted vs Self-hosted
-- **Lien :** `/docs/pipeline-cicd/github/runners/hosted-vs-self-hosted/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/github/runners/hosted-vs-self-hosted/](https://blog.stephane-robert.info/docs/pipeline-cicd/github/runners/hosted-vs-self-hosted/)
 - **Pourquoi ici :** Track principal : GitHub Actions (fondations → workflows → runners → optimisation → sécu). La page « Hosted vs Self-hosted » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Hosted vs Self-hosted
@@ -252,7 +261,7 @@ Un seul outil approfondi en premier pour construire des réflexes transférables
 - [ ] Page lue / pratiquée
 
 #### 28. Isolation
-- **Lien :** `/docs/pipeline-cicd/github/runners/isolation/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/github/runners/isolation/](https://blog.stephane-robert.info/docs/pipeline-cicd/github/runners/isolation/)
 - **Pourquoi ici :** Track principal : GitHub Actions (fondations → workflows → runners → optimisation → sécu). La page « Isolation » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Isolation
@@ -260,7 +269,7 @@ Un seul outil approfondi en premier pour construire des réflexes transférables
 - [ ] Page lue / pratiquée
 
 #### 29. Maintenance
-- **Lien :** `/docs/pipeline-cicd/github/runners/maintenance/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/github/runners/maintenance/](https://blog.stephane-robert.info/docs/pipeline-cicd/github/runners/maintenance/)
 - **Pourquoi ici :** Track principal : GitHub Actions (fondations → workflows → runners → optimisation → sécu). La page « Maintenance » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Maintenance
@@ -268,7 +277,7 @@ Un seul outil approfondi en premier pour construire des réflexes transférables
 - [ ] Page lue / pratiquée
 
 #### 30. Sécuriser les runners
-- **Lien :** `/docs/pipeline-cicd/github/runners/securiser/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/github/runners/securiser/](https://blog.stephane-robert.info/docs/pipeline-cicd/github/runners/securiser/)
 - **Pourquoi ici :** Track principal : GitHub Actions (fondations → workflows → runners → optimisation → sécu). « Sécuriser les runners » renforce le réflexe DevSecOps ; croiser avec le dossier `05-securite` si besoin.
 - **À retenir :**
   - Sécuriser les runners
@@ -278,7 +287,7 @@ Un seul outil approfondi en premier pour construire des réflexes transférables
 **B5 — Optimiser**
 
 #### 31. Introduction
-- **Lien :** `/docs/pipeline-cicd/github/optimiser/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/github/optimiser/](https://blog.stephane-robert.info/docs/pipeline-cicd/github/optimiser/)
 - **Pourquoi ici :** Track principal : GitHub Actions (fondations → workflows → runners → optimisation → sécu). La page « Introduction » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Introduction
@@ -286,7 +295,7 @@ Un seul outil approfondi en premier pour construire des réflexes transférables
 - [ ] Page lue / pratiquée
 
 #### 32. Artifacts vs Cache
-- **Lien :** `/docs/pipeline-cicd/github/optimiser/artifacts-vs-cache/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/github/optimiser/artifacts-vs-cache/](https://blog.stephane-robert.info/docs/pipeline-cicd/github/optimiser/artifacts-vs-cache/)
 - **Pourquoi ici :** Track principal : GitHub Actions (fondations → workflows → runners → optimisation → sécu). La page « Artifacts vs Cache » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Artifacts vs Cache
@@ -294,7 +303,7 @@ Un seul outil approfondi en premier pour construire des réflexes transférables
 - [ ] Page lue / pratiquée
 
 #### 33. Partager entre jobs (Artifacts)
-- **Lien :** `/docs/pipeline-cicd/github/optimiser/artifacts/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/github/optimiser/artifacts/](https://blog.stephane-robert.info/docs/pipeline-cicd/github/optimiser/artifacts/)
 - **Pourquoi ici :** Track principal : GitHub Actions (fondations → workflows → runners → optimisation → sécu). La page « Partager entre jobs (Artifacts) » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Partager entre jobs (Artifacts)
@@ -302,7 +311,7 @@ Un seul outil approfondi en premier pour construire des réflexes transférables
 - [ ] Page lue / pratiquée
 
 #### 34. Cache Java
-- **Lien :** `/docs/pipeline-cicd/github/optimiser/cache-java/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/github/optimiser/cache-java/](https://blog.stephane-robert.info/docs/pipeline-cicd/github/optimiser/cache-java/)
 - **Pourquoi ici :** Track principal : GitHub Actions (fondations → workflows → runners → optimisation → sécu). La page « Cache Java » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Cache Java
@@ -310,7 +319,7 @@ Un seul outil approfondi en premier pour construire des réflexes transférables
 - [ ] Page lue / pratiquée
 
 #### 35. Cache Node.js
-- **Lien :** `/docs/pipeline-cicd/github/optimiser/cache-node/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/github/optimiser/cache-node/](https://blog.stephane-robert.info/docs/pipeline-cicd/github/optimiser/cache-node/)
 - **Pourquoi ici :** Track principal : GitHub Actions (fondations → workflows → runners → optimisation → sécu). La page « Cache Node.js » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Cache Node.js
@@ -318,7 +327,7 @@ Un seul outil approfondi en premier pour construire des réflexes transférables
 - [ ] Page lue / pratiquée
 
 #### 36. Cache Python
-- **Lien :** `/docs/pipeline-cicd/github/optimiser/cache-python/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/github/optimiser/cache-python/](https://blog.stephane-robert.info/docs/pipeline-cicd/github/optimiser/cache-python/)
 - **Pourquoi ici :** Track principal : GitHub Actions (fondations → workflows → runners → optimisation → sécu). La page « Cache Python » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Cache Python
@@ -326,7 +335,7 @@ Un seul outil approfondi en premier pour construire des réflexes transférables
 - [ ] Page lue / pratiquée
 
 #### 37. Accélérer avec le cache
-- **Lien :** `/docs/pipeline-cicd/github/optimiser/cache/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/github/optimiser/cache/](https://blog.stephane-robert.info/docs/pipeline-cicd/github/optimiser/cache/)
 - **Pourquoi ici :** Track principal : GitHub Actions (fondations → workflows → runners → optimisation → sécu). La page « Accélérer avec le cache » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Accélérer avec le cache
@@ -334,7 +343,7 @@ Un seul outil approfondi en premier pour construire des réflexes transférables
 - [ ] Page lue / pratiquée
 
 #### 38. Concurrency
-- **Lien :** `/docs/pipeline-cicd/github/optimiser/concurrency/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/github/optimiser/concurrency/](https://blog.stephane-robert.info/docs/pipeline-cicd/github/optimiser/concurrency/)
 - **Pourquoi ici :** Track principal : GitHub Actions (fondations → workflows → runners → optimisation → sécu). La page « Concurrency » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Concurrency
@@ -342,7 +351,7 @@ Un seul outil approfondi en premier pour construire des réflexes transférables
 - [ ] Page lue / pratiquée
 
 #### 39. Debug des workflows
-- **Lien :** `/docs/pipeline-cicd/github/optimiser/debug/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/github/optimiser/debug/](https://blog.stephane-robert.info/docs/pipeline-cicd/github/optimiser/debug/)
 - **Pourquoi ici :** Track principal : GitHub Actions (fondations → workflows → runners → optimisation → sécu). La page « Debug des workflows » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Debug des workflows
@@ -352,7 +361,7 @@ Un seul outil approfondi en premier pour construire des réflexes transférables
 **B6 — Outils locaux (act, actionlint, gh)**
 
 #### 40. ACT (tests locaux)
-- **Lien :** `/docs/pipeline-cicd/github/act/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/github/act/](https://blog.stephane-robert.info/docs/pipeline-cicd/github/act/)
 - **Pourquoi ici :** Track principal : GitHub Actions (fondations → workflows → runners → optimisation → sécu). La page « ACT (tests locaux) » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - ACT (tests locaux)
@@ -360,7 +369,7 @@ Un seul outil approfondi en premier pour construire des réflexes transférables
 - [ ] Page lue / pratiquée
 
 #### 41. ActionLint (linter)
-- **Lien :** `/docs/pipeline-cicd/github/actionlint/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/github/actionlint/](https://blog.stephane-robert.info/docs/pipeline-cicd/github/actionlint/)
 - **Pourquoi ici :** Track principal : GitHub Actions (fondations → workflows → runners → optimisation → sécu). La page « ActionLint (linter) » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - ActionLint (linter)
@@ -368,7 +377,7 @@ Un seul outil approfondi en premier pour construire des réflexes transférables
 - [ ] Page lue / pratiquée
 
 #### 42. GitHub CLI (gh)
-- **Lien :** `/docs/pipeline-cicd/github/gh-cli/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/github/gh-cli/](https://blog.stephane-robert.info/docs/pipeline-cicd/github/gh-cli/)
 - **Pourquoi ici :** Track principal : GitHub Actions (fondations → workflows → runners → optimisation → sécu). La page « GitHub CLI (gh) » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - GitHub CLI (gh)
@@ -379,7 +388,7 @@ Un seul outil approfondi en premier pour construire des réflexes transférables
 Permissions, OIDC, pinning, supply chain — croiser `05-securite`.
 
 #### 43. Introduction
-- **Lien :** `/docs/pipeline-cicd/github/securite/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/github/securite/](https://blog.stephane-robert.info/docs/pipeline-cicd/github/securite/)
 - **Pourquoi ici :** Track principal : GitHub Actions (fondations → workflows → runners → optimisation → sécu). « Introduction » renforce le réflexe DevSecOps ; croiser avec le dossier `05-securite` si besoin.
 - **À retenir :**
   - Introduction
@@ -387,7 +396,7 @@ Permissions, OIDC, pinning, supply chain — croiser `05-securite`.
 - [ ] Page lue / pratiquée
 
 #### 44. Attaques supply chain
-- **Lien :** `/docs/pipeline-cicd/github/securite/attaques-supply-chain/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/github/securite/attaques-supply-chain/](https://blog.stephane-robert.info/docs/pipeline-cicd/github/securite/attaques-supply-chain/)
 - **Pourquoi ici :** Track principal : GitHub Actions (fondations → workflows → runners → optimisation → sécu). « Attaques supply chain » renforce le réflexe DevSecOps ; croiser avec le dossier `05-securite` si besoin.
 - **À retenir :**
   - Attaques supply chain
@@ -395,7 +404,7 @@ Permissions, OIDC, pinning, supply chain — croiser `05-securite`.
 - [ ] Page lue / pratiquée
 
 #### 45. Attestations
-- **Lien :** `/docs/pipeline-cicd/github/securite/attestations/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/github/securite/attestations/](https://blog.stephane-robert.info/docs/pipeline-cicd/github/securite/attestations/)
 - **Pourquoi ici :** Track principal : GitHub Actions (fondations → workflows → runners → optimisation → sécu). « Attestations » renforce le réflexe DevSecOps ; croiser avec le dossier `05-securite` si besoin.
 - **À retenir :**
   - Attestations
@@ -403,7 +412,7 @@ Permissions, OIDC, pinning, supply chain — croiser `05-securite`.
 - [ ] Page lue / pratiquée
 
 #### 46. Checklist sécurité
-- **Lien :** `/docs/pipeline-cicd/github/securite/checklist/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/github/securite/checklist/](https://blog.stephane-robert.info/docs/pipeline-cicd/github/securite/checklist/)
 - **Pourquoi ici :** Track principal : GitHub Actions (fondations → workflows → runners → optimisation → sécu). « Checklist sécurité » renforce le réflexe DevSecOps ; croiser avec le dossier `05-securite` si besoin.
 - **À retenir :**
   - Checklist sécurité
@@ -411,7 +420,7 @@ Permissions, OIDC, pinning, supply chain — croiser `05-securite`.
 - [ ] Page lue / pratiquée
 
 #### 47. Durcir avec Harden-Runner
-- **Lien :** `/docs/pipeline-cicd/github/securite/harden-runner/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/github/securite/harden-runner/](https://blog.stephane-robert.info/docs/pipeline-cicd/github/securite/harden-runner/)
 - **Pourquoi ici :** Track principal : GitHub Actions (fondations → workflows → runners → optimisation → sécu). « Durcir avec Harden-Runner » renforce le réflexe DevSecOps ; croiser avec le dossier `05-securite` si besoin.
 - **À retenir :**
   - Durcir avec Harden-Runner
@@ -419,7 +428,7 @@ Permissions, OIDC, pinning, supply chain — croiser `05-securite`.
 - [ ] Page lue / pratiquée
 
 #### 48. Vue d'ensemble
-- **Lien :** `/docs/pipeline-cicd/github/securite/lab/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/github/securite/lab/](https://blog.stephane-robert.info/docs/pipeline-cicd/github/securite/lab/)
 - **Pourquoi ici :** Track principal : GitHub Actions (fondations → workflows → runners → optimisation → sécu). « Vue d'ensemble » renforce le réflexe DevSecOps ; croiser avec le dossier `05-securite` si besoin.
 - **À retenir :**
   - Vue d'ensemble
@@ -427,7 +436,7 @@ Permissions, OIDC, pinning, supply chain — croiser `05-securite`.
 - [ ] Page lue / pratiquée
 
 #### 49. OIDC Cloud (AWS/Azure/GCP)
-- **Lien :** `/docs/pipeline-cicd/github/securite/oidc-cloud/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/github/securite/oidc-cloud/](https://blog.stephane-robert.info/docs/pipeline-cicd/github/securite/oidc-cloud/)
 - **Pourquoi ici :** Track principal : GitHub Actions (fondations → workflows → runners → optimisation → sécu). « OIDC Cloud (AWS/Azure/GCP) » renforce le réflexe DevSecOps ; croiser avec le dossier `05-securite` si besoin.
 - **À retenir :**
   - OIDC Cloud (AWS/Azure/GCP)
@@ -435,7 +444,7 @@ Permissions, OIDC, pinning, supply chain — croiser `05-securite`.
 - [ ] Page lue / pratiquée
 
 #### 50. OIDC
-- **Lien :** `/docs/pipeline-cicd/github/securite/oidc/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/github/securite/oidc/](https://blog.stephane-robert.info/docs/pipeline-cicd/github/securite/oidc/)
 - **Pourquoi ici :** Track principal : GitHub Actions (fondations → workflows → runners → optimisation → sécu). « OIDC » renforce le réflexe DevSecOps ; croiser avec le dossier `05-securite` si besoin.
 - **À retenir :**
   - OIDC
@@ -443,7 +452,7 @@ Permissions, OIDC, pinning, supply chain — croiser `05-securite`.
 - [ ] Page lue / pratiquée
 
 #### 51. Permissions
-- **Lien :** `/docs/pipeline-cicd/github/securite/permissions/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/github/securite/permissions/](https://blog.stephane-robert.info/docs/pipeline-cicd/github/securite/permissions/)
 - **Pourquoi ici :** Track principal : GitHub Actions (fondations → workflows → runners → optimisation → sécu). « Permissions » renforce le réflexe DevSecOps ; croiser avec le dossier `05-securite` si besoin.
 - **À retenir :**
   - Permissions
@@ -451,7 +460,7 @@ Permissions, OIDC, pinning, supply chain — croiser `05-securite`.
 - [ ] Page lue / pratiquée
 
 #### 52. Épingler par SHA
-- **Lien :** `/docs/pipeline-cicd/github/securite/pinner-sha/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/github/securite/pinner-sha/](https://blog.stephane-robert.info/docs/pipeline-cicd/github/securite/pinner-sha/)
 - **Pourquoi ici :** Track principal : GitHub Actions (fondations → workflows → runners → optimisation → sécu). « Épingler par SHA » renforce le réflexe DevSecOps ; croiser avec le dossier `05-securite` si besoin.
 - **À retenir :**
   - Épingler par SHA
@@ -459,7 +468,7 @@ Permissions, OIDC, pinning, supply chain — croiser `05-securite`.
 - [ ] Page lue / pratiquée
 
 #### 53. Scanner avec poutine
-- **Lien :** `/docs/pipeline-cicd/github/securite/poutine/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/github/securite/poutine/](https://blog.stephane-robert.info/docs/pipeline-cicd/github/securite/poutine/)
 - **Pourquoi ici :** Track principal : GitHub Actions (fondations → workflows → runners → optimisation → sécu). « Scanner avec poutine » renforce le réflexe DevSecOps ; croiser avec le dossier `05-securite` si besoin.
 - **À retenir :**
   - Scanner avec poutine
@@ -467,7 +476,7 @@ Permissions, OIDC, pinning, supply chain — croiser `05-securite`.
 - [ ] Page lue / pratiquée
 
 #### 54. pull_request_target
-- **Lien :** `/docs/pipeline-cicd/github/securite/pull-request-target/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/github/securite/pull-request-target/](https://blog.stephane-robert.info/docs/pipeline-cicd/github/securite/pull-request-target/)
 - **Pourquoi ici :** Track principal : GitHub Actions (fondations → workflows → runners → optimisation → sécu). « pull_request_target » renforce le réflexe DevSecOps ; croiser avec le dossier `05-securite` si besoin.
 - **À retenir :**
   - pull_request_target
@@ -475,7 +484,7 @@ Permissions, OIDC, pinning, supply chain — croiser `05-securite`.
 - [ ] Page lue / pratiquée
 
 #### 55. Vérifier les attestations
-- **Lien :** `/docs/pipeline-cicd/github/securite/verifier-attestations/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/github/securite/verifier-attestations/](https://blog.stephane-robert.info/docs/pipeline-cicd/github/securite/verifier-attestations/)
 - **Pourquoi ici :** Track principal : GitHub Actions (fondations → workflows → runners → optimisation → sécu). « Vérifier les attestations » renforce le réflexe DevSecOps ; croiser avec le dossier `05-securite` si besoin.
 - **À retenir :**
   - Vérifier les attestations
@@ -483,7 +492,7 @@ Permissions, OIDC, pinning, supply chain — croiser `05-securite`.
 - [ ] Page lue / pratiquée
 
 #### 56. Auditer avec zizmor
-- **Lien :** `/docs/pipeline-cicd/github/securite/zizmor/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/github/securite/zizmor/](https://blog.stephane-robert.info/docs/pipeline-cicd/github/securite/zizmor/)
 - **Pourquoi ici :** Track principal : GitHub Actions (fondations → workflows → runners → optimisation → sécu). « Auditer avec zizmor » renforce le réflexe DevSecOps ; croiser avec le dossier `05-securite` si besoin.
 - **À retenir :**
   - Auditer avec zizmor
@@ -491,7 +500,7 @@ Permissions, OIDC, pinning, supply chain — croiser `05-securite`.
 - [ ] Page lue / pratiquée
 
 #### 57. 1. Bootstrap sécurisé
-- **Lien :** `/docs/pipeline-cicd/github/securite/lab/bootstrap/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/github/securite/lab/bootstrap/](https://blog.stephane-robert.info/docs/pipeline-cicd/github/securite/lab/bootstrap/)
 - **Pourquoi ici :** Track principal : GitHub Actions (fondations → workflows → runners → optimisation → sécu). « 1. Bootstrap sécurisé » renforce le réflexe DevSecOps ; croiser avec le dossier `05-securite` si besoin.
 - **À retenir :**
   - 1. Bootstrap sécurisé
@@ -499,7 +508,7 @@ Permissions, OIDC, pinning, supply chain — croiser `05-securite`.
 - [ ] Page lue / pratiquée
 
 #### 58. 3. Build vérifiable
-- **Lien :** `/docs/pipeline-cicd/github/securite/lab/build-verifiable/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/github/securite/lab/build-verifiable/](https://blog.stephane-robert.info/docs/pipeline-cicd/github/securite/lab/build-verifiable/)
 - **Pourquoi ici :** Track principal : GitHub Actions (fondations → workflows → runners → optimisation → sécu). « 3. Build vérifiable » renforce le réflexe DevSecOps ; croiser avec le dossier `05-securite` si besoin.
 - **À retenir :**
   - 3. Build vérifiable
@@ -507,7 +516,7 @@ Permissions, OIDC, pinning, supply chain — croiser `05-securite`.
 - [ ] Page lue / pratiquée
 
 #### 59. 2. Pipeline CI durci
-- **Lien :** `/docs/pipeline-cicd/github/securite/lab/pipeline-ci/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/github/securite/lab/pipeline-ci/](https://blog.stephane-robert.info/docs/pipeline-cicd/github/securite/lab/pipeline-ci/)
 - **Pourquoi ici :** Track principal : GitHub Actions (fondations → workflows → runners → optimisation → sécu). « 2. Pipeline CI durci » renforce le réflexe DevSecOps ; croiser avec le dossier `05-securite` si besoin.
 - **À retenir :**
   - 2. Pipeline CI durci
@@ -515,7 +524,7 @@ Permissions, OIDC, pinning, supply chain — croiser `05-securite`.
 - [ ] Page lue / pratiquée
 
 #### 60. 4. Protection et gouvernance
-- **Lien :** `/docs/pipeline-cicd/github/securite/lab/protection-gouvernance/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/github/securite/lab/protection-gouvernance/](https://blog.stephane-robert.info/docs/pipeline-cicd/github/securite/lab/protection-gouvernance/)
 - **Pourquoi ici :** Track principal : GitHub Actions (fondations → workflows → runners → optimisation → sécu). « 4. Protection et gouvernance » renforce le réflexe DevSecOps ; croiser avec le dossier `05-securite` si besoin.
 - **À retenir :**
   - 4. Protection et gouvernance
@@ -523,7 +532,7 @@ Permissions, OIDC, pinning, supply chain — croiser `05-securite`.
 - [ ] Page lue / pratiquée
 
 #### 61. 5. Scoring et durcissement
-- **Lien :** `/docs/pipeline-cicd/github/securite/lab/scoring-durcissement/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/github/securite/lab/scoring-durcissement/](https://blog.stephane-robert.info/docs/pipeline-cicd/github/securite/lab/scoring-durcissement/)
 - **Pourquoi ici :** Track principal : GitHub Actions (fondations → workflows → runners → optimisation → sécu). « 5. Scoring et durcissement » renforce le réflexe DevSecOps ; croiser avec le dossier `05-securite` si besoin.
 - **À retenir :**
   - 5. Scoring et durcissement
@@ -536,7 +545,7 @@ Reprendre les mêmes idées sur GitLab, puis solidifier avec les labs.
 **C1 — Entrée & parcours GitLab**
 
 #### 62. GitLab CI/CD
-- **Lien :** `/docs/pipeline-cicd/gitlab/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/](https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/)
 - **Pourquoi ici :** Second track : GitLab CI — transférer les concepts, puis labs d'ancrage. « GitLab CI/CD » sert de carte ou de jalon : lire pour se repérer, puis enchaîner sur les pages filles dans l'ordre indiqué.
 - **À retenir :**
   - GitLab CI/CD
@@ -544,7 +553,7 @@ Reprendre les mêmes idées sur GitLab, puis solidifier avec les labs.
 - [ ] Page lue / pratiquée
 
 #### 63. Mon parcours Suivi
-- **Lien :** `/docs/pipeline-cicd/gitlab/parcours/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/parcours/](https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/parcours/)
 - **Pourquoi ici :** Jalon parcours site GitLab. La page « Mon parcours Suivi » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Mon parcours Suivi
@@ -554,7 +563,7 @@ Reprendre les mêmes idées sur GitLab, puis solidifier avec les labs.
 **C2 — Fondamentaux GitLab CI**
 
 #### 64. Introduction
-- **Lien :** `/docs/pipeline-cicd/gitlab/fondamentaux/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/fondamentaux/](https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/fondamentaux/)
 - **Pourquoi ici :** Second track : GitLab CI — transférer les concepts, puis labs d'ancrage. La page « Introduction » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Introduction
@@ -562,7 +571,7 @@ Reprendre les mêmes idées sur GitLab, puis solidifier avec les labs.
 - [ ] Page lue / pratiquée
 
 #### 65. Artifacts et cache
-- **Lien :** `/docs/pipeline-cicd/gitlab/fondamentaux/artifacts-cache/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/fondamentaux/artifacts-cache/](https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/fondamentaux/artifacts-cache/)
 - **Pourquoi ici :** Second track : GitLab CI — transférer les concepts, puis labs d'ancrage. La page « Artifacts et cache » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Artifacts et cache
@@ -570,7 +579,7 @@ Reprendre les mêmes idées sur GitLab, puis solidifier avec les labs.
 - [ ] Page lue / pratiquée
 
 #### 66. Concepts de base
-- **Lien :** `/docs/pipeline-cicd/gitlab/fondamentaux/concepts-base/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/fondamentaux/concepts-base/](https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/fondamentaux/concepts-base/)
 - **Pourquoi ici :** Second track : GitLab CI — transférer les concepts, puis labs d'ancrage. La page « Concepts de base » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Concepts de base
@@ -578,7 +587,7 @@ Reprendre les mêmes idées sur GitLab, puis solidifier avec les labs.
 - [ ] Page lue / pratiquée
 
 #### 67. Debug logs
-- **Lien :** `/docs/pipeline-cicd/gitlab/fondamentaux/debug-logs/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/fondamentaux/debug-logs/](https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/fondamentaux/debug-logs/)
 - **Pourquoi ici :** Second track : GitLab CI — transférer les concepts, puis labs d'ancrage. La page « Debug logs » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Debug logs
@@ -586,7 +595,7 @@ Reprendre les mêmes idées sur GitLab, puis solidifier avec les labs.
 - [ ] Page lue / pratiquée
 
 #### 68. Debug pending
-- **Lien :** `/docs/pipeline-cicd/gitlab/fondamentaux/debug-pending/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/fondamentaux/debug-pending/](https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/fondamentaux/debug-pending/)
 - **Pourquoi ici :** Second track : GitLab CI — transférer les concepts, puis labs d'ancrage. La page « Debug pending » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Debug pending
@@ -594,7 +603,7 @@ Reprendre les mêmes idées sur GitLab, puis solidifier avec les labs.
 - [ ] Page lue / pratiquée
 
 #### 69. Debug skip
-- **Lien :** `/docs/pipeline-cicd/gitlab/fondamentaux/debug-skip/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/fondamentaux/debug-skip/](https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/fondamentaux/debug-skip/)
 - **Pourquoi ici :** Second track : GitLab CI — transférer les concepts, puis labs d'ancrage. La page « Debug skip » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Debug skip
@@ -602,7 +611,7 @@ Reprendre les mêmes idées sur GitLab, puis solidifier avec les labs.
 - [ ] Page lue / pratiquée
 
 #### 70. Déclencheurs
-- **Lien :** `/docs/pipeline-cicd/gitlab/fondamentaux/declencheurs/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/fondamentaux/declencheurs/](https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/fondamentaux/declencheurs/)
 - **Pourquoi ici :** Second track : GitLab CI — transférer les concepts, puis labs d'ancrage. La page « Déclencheurs » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Déclencheurs
@@ -610,7 +619,7 @@ Reprendre les mêmes idées sur GitLab, puis solidifier avec les labs.
 - [ ] Page lue / pratiquée
 
 #### 71. Environnements
-- **Lien :** `/docs/pipeline-cicd/gitlab/fondamentaux/environnements/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/fondamentaux/environnements/](https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/fondamentaux/environnements/)
 - **Pourquoi ici :** Second track : GitLab CI — transférer les concepts, puis labs d'ancrage. La page « Environnements » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Environnements
@@ -618,7 +627,7 @@ Reprendre les mêmes idées sur GitLab, puis solidifier avec les labs.
 - [ ] Page lue / pratiquée
 
 #### 72. Premier pipeline
-- **Lien :** `/docs/pipeline-cicd/gitlab/fondamentaux/premier-pipeline/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/fondamentaux/premier-pipeline/](https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/fondamentaux/premier-pipeline/)
 - **Pourquoi ici :** Second track : GitLab CI — transférer les concepts, puis labs d'ancrage. La page « Premier pipeline » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Premier pipeline
@@ -626,7 +635,7 @@ Reprendre les mêmes idées sur GitLab, puis solidifier avec les labs.
 - [ ] Page lue / pratiquée
 
 #### 73. Rapports qualité
-- **Lien :** `/docs/pipeline-cicd/gitlab/fondamentaux/rapports-qualite/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/fondamentaux/rapports-qualite/](https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/fondamentaux/rapports-qualite/)
 - **Pourquoi ici :** Second track : GitLab CI — transférer les concepts, puis labs d'ancrage. La page « Rapports qualité » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Rapports qualité
@@ -634,7 +643,7 @@ Reprendre les mêmes idées sur GitLab, puis solidifier avec les labs.
 - [ ] Page lue / pratiquée
 
 #### 74. Registries GitLab
-- **Lien :** `/docs/pipeline-cicd/gitlab/fondamentaux/registries/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/fondamentaux/registries/](https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/fondamentaux/registries/)
 - **Pourquoi ici :** Second track : GitLab CI — transférer les concepts, puis labs d'ancrage. La page « Registries GitLab » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Registries GitLab
@@ -642,7 +651,7 @@ Reprendre les mêmes idées sur GitLab, puis solidifier avec les labs.
 - [ ] Page lue / pratiquée
 
 #### 75. Conditions rules
-- **Lien :** `/docs/pipeline-cicd/gitlab/fondamentaux/rules/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/fondamentaux/rules/](https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/fondamentaux/rules/)
 - **Pourquoi ici :** Second track : GitLab CI — transférer les concepts, puis labs d'ancrage. La page « Conditions rules » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Conditions rules
@@ -650,7 +659,7 @@ Reprendre les mêmes idées sur GitLab, puis solidifier avec les labs.
 - [ ] Page lue / pratiquée
 
 #### 76. Les Runners
-- **Lien :** `/docs/pipeline-cicd/gitlab/fondamentaux/runners/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/fondamentaux/runners/](https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/fondamentaux/runners/)
 - **Pourquoi ici :** Second track : GitLab CI — transférer les concepts, puis labs d'ancrage. La page « Les Runners » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Les Runners
@@ -658,7 +667,7 @@ Reprendre les mêmes idées sur GitLab, puis solidifier avec les labs.
 - [ ] Page lue / pratiquée
 
 #### 77. Scanners de sécurité
-- **Lien :** `/docs/pipeline-cicd/gitlab/fondamentaux/securite-scanners/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/fondamentaux/securite-scanners/](https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/fondamentaux/securite-scanners/)
 - **Pourquoi ici :** Second track : GitLab CI — transférer les concepts, puis labs d'ancrage. « Scanners de sécurité » renforce le réflexe DevSecOps ; croiser avec le dossier `05-securite` si besoin.
 - **À retenir :**
   - Scanners de sécurité
@@ -666,7 +675,7 @@ Reprendre les mêmes idées sur GitLab, puis solidifier avec les labs.
 - [ ] Page lue / pratiquée
 
 #### 78. Synthèse pipeline
-- **Lien :** `/docs/pipeline-cicd/gitlab/fondamentaux/synthese-pipeline/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/fondamentaux/synthese-pipeline/](https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/fondamentaux/synthese-pipeline/)
 - **Pourquoi ici :** Second track : GitLab CI — transférer les concepts, puis labs d'ancrage. La page « Synthèse pipeline » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Synthèse pipeline
@@ -674,7 +683,7 @@ Reprendre les mêmes idées sur GitLab, puis solidifier avec les labs.
 - [ ] Page lue / pratiquée
 
 #### 79. Valider son pipeline
-- **Lien :** `/docs/pipeline-cicd/gitlab/fondamentaux/validation-pipeline/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/fondamentaux/validation-pipeline/](https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/fondamentaux/validation-pipeline/)
 - **Pourquoi ici :** Second track : GitLab CI — transférer les concepts, puis labs d'ancrage. La page « Valider son pipeline » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Valider son pipeline
@@ -682,7 +691,7 @@ Reprendre les mêmes idées sur GitLab, puis solidifier avec les labs.
 - [ ] Page lue / pratiquée
 
 #### 80. Variables et secrets
-- **Lien :** `/docs/pipeline-cicd/gitlab/fondamentaux/variables/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/fondamentaux/variables/](https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/fondamentaux/variables/)
 - **Pourquoi ici :** Second track : GitLab CI — transférer les concepts, puis labs d'ancrage. La page « Variables et secrets » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Variables et secrets
@@ -692,7 +701,7 @@ Reprendre les mêmes idées sur GitLab, puis solidifier avec les labs.
 **C3 — Industrialisation**
 
 #### 81. Introduction
-- **Lien :** `/docs/pipeline-cicd/gitlab/industrialisation/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/industrialisation/](https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/industrialisation/)
 - **Pourquoi ici :** Second track : GitLab CI — transférer les concepts, puis labs d'ancrage. La page « Introduction » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Introduction
@@ -700,7 +709,7 @@ Reprendre les mêmes idées sur GitLab, puis solidifier avec les labs.
 - [ ] Page lue / pratiquée
 
 #### 82. Capstone industrialisation
-- **Lien :** `/docs/pipeline-cicd/gitlab/industrialisation/capstone/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/industrialisation/capstone/](https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/industrialisation/capstone/)
 - **Pourquoi ici :** Second track : GitLab CI — transférer les concepts, puis labs d'ancrage. La page « Capstone industrialisation » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Capstone industrialisation
@@ -708,7 +717,7 @@ Reprendre les mêmes idées sur GitLab, puis solidifier avec les labs.
 - [ ] Page lue / pratiquée
 
 #### 83. Components & Catalog
-- **Lien :** `/docs/pipeline-cicd/gitlab/industrialisation/components-catalog/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/industrialisation/components-catalog/](https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/industrialisation/components-catalog/)
 - **Pourquoi ici :** Second track : GitLab CI — transférer les concepts, puis labs d'ancrage. La page « Components & Catalog » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Components & Catalog
@@ -716,7 +725,7 @@ Reprendre les mêmes idées sur GitLab, puis solidifier avec les labs.
 - [ ] Page lue / pratiquée
 
 #### 84. DAG et parallélisme
-- **Lien :** `/docs/pipeline-cicd/gitlab/industrialisation/dag-parallelisme/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/industrialisation/dag-parallelisme/](https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/industrialisation/dag-parallelisme/)
 - **Pourquoi ici :** Second track : GitLab CI — transférer les concepts, puis labs d'ancrage. La page « DAG et parallélisme » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - DAG et parallélisme
@@ -724,7 +733,7 @@ Reprendre les mêmes idées sur GitLab, puis solidifier avec les labs.
 - [ ] Page lue / pratiquée
 
 #### 85. Pipelines dynamiques
-- **Lien :** `/docs/pipeline-cicd/gitlab/industrialisation/dynamique/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/industrialisation/dynamique/](https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/industrialisation/dynamique/)
 - **Pourquoi ici :** Second track : GitLab CI — transférer les concepts, puis labs d'ancrage. La page « Pipelines dynamiques » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Pipelines dynamiques
@@ -732,7 +741,7 @@ Reprendre les mêmes idées sur GitLab, puis solidifier avec les labs.
 - [ ] Page lue / pratiquée
 
 #### 86. Extends et ancres YAML
-- **Lien :** `/docs/pipeline-cicd/gitlab/industrialisation/extends-anchors/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/industrialisation/extends-anchors/](https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/industrialisation/extends-anchors/)
 - **Pourquoi ici :** Second track : GitLab CI — transférer les concepts, puis labs d'ancrage. La page « Extends et ancres YAML » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Extends et ancres YAML
@@ -740,7 +749,7 @@ Reprendre les mêmes idées sur GitLab, puis solidifier avec les labs.
 - [ ] Page lue / pratiquée
 
 #### 87. Fiabilité
-- **Lien :** `/docs/pipeline-cicd/gitlab/industrialisation/fiabilite/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/industrialisation/fiabilite/](https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/industrialisation/fiabilite/)
 - **Pourquoi ici :** Second track : GitLab CI — transférer les concepts, puis labs d'ancrage. La page « Fiabilité » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Fiabilité
@@ -748,7 +757,7 @@ Reprendre les mêmes idées sur GitLab, puis solidifier avec les labs.
 - [ ] Page lue / pratiquée
 
 #### 88. Matrices (parallel:matrix)
-- **Lien :** `/docs/pipeline-cicd/gitlab/industrialisation/matrices/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/industrialisation/matrices/](https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/industrialisation/matrices/)
 - **Pourquoi ici :** Second track : GitLab CI — transférer les concepts, puis labs d'ancrage. La page « Matrices (parallel:matrix) » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Matrices (parallel:matrix)
@@ -756,7 +765,7 @@ Reprendre les mêmes idées sur GitLab, puis solidifier avec les labs.
 - [ ] Page lue / pratiquée
 
 #### 89. Multi-projet
-- **Lien :** `/docs/pipeline-cicd/gitlab/industrialisation/multi-projet/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/industrialisation/multi-projet/](https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/industrialisation/multi-projet/)
 - **Pourquoi ici :** Second track : GitLab CI — transférer les concepts, puis labs d'ancrage. La page « Multi-projet » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Multi-projet
@@ -764,7 +773,7 @@ Reprendre les mêmes idées sur GitLab, puis solidifier avec les labs.
 - [ ] Page lue / pratiquée
 
 #### 90. Pipelines parent-enfant
-- **Lien :** `/docs/pipeline-cicd/gitlab/industrialisation/parent-enfant/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/industrialisation/parent-enfant/](https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/industrialisation/parent-enfant/)
 - **Pourquoi ici :** Second track : GitLab CI — transférer les concepts, puis labs d'ancrage. La page « Pipelines parent-enfant » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Pipelines parent-enfant
@@ -772,7 +781,7 @@ Reprendre les mêmes idées sur GitLab, puis solidifier avec les labs.
 - [ ] Page lue / pratiquée
 
 #### 91. Services et cache avancé
-- **Lien :** `/docs/pipeline-cicd/gitlab/industrialisation/services-cache/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/industrialisation/services-cache/](https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/industrialisation/services-cache/)
 - **Pourquoi ici :** Second track : GitLab CI — transférer les concepts, puis labs d'ancrage. La page « Services et cache avancé » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Services et cache avancé
@@ -780,7 +789,7 @@ Reprendre les mêmes idées sur GitLab, puis solidifier avec les labs.
 - [ ] Page lue / pratiquée
 
 #### 92. Templates include
-- **Lien :** `/docs/pipeline-cicd/gitlab/industrialisation/templates/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/industrialisation/templates/](https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/industrialisation/templates/)
 - **Pourquoi ici :** Second track : GitLab CI — transférer les concepts, puis labs d'ancrage. La page « Templates include » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Templates include
@@ -788,7 +797,7 @@ Reprendre les mêmes idées sur GitLab, puis solidifier avec les labs.
 - [ ] Page lue / pratiquée
 
 #### 93. Workflows CI/CD
-- **Lien :** `/docs/pipeline-cicd/gitlab/industrialisation/workflows/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/industrialisation/workflows/](https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/industrialisation/workflows/)
 - **Pourquoi ici :** Second track : GitLab CI — transférer les concepts, puis labs d'ancrage. La page « Workflows CI/CD » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Workflows CI/CD
@@ -798,7 +807,7 @@ Reprendre les mêmes idées sur GitLab, puis solidifier avec les labs.
 **C4 — Sécurité GitLab CI**
 
 #### 94. Introduction
-- **Lien :** `/docs/pipeline-cicd/gitlab/securite/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/securite/](https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/securite/)
 - **Pourquoi ici :** Second track : GitLab CI — transférer les concepts, puis labs d'ancrage. « Introduction » renforce le réflexe DevSecOps ; croiser avec le dossier `05-securite` si besoin.
 - **À retenir :**
   - Introduction
@@ -806,7 +815,7 @@ Reprendre les mêmes idées sur GitLab, puis solidifier avec les labs.
 - [ ] Page lue / pratiquée
 
 #### 95. 7 attaques sur vos pipelines
-- **Lien :** `/docs/pipeline-cicd/gitlab/securite/attaques-pipelines/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/securite/attaques-pipelines/](https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/securite/attaques-pipelines/)
 - **Pourquoi ici :** Second track : GitLab CI — transférer les concepts, puis labs d'ancrage. « 7 attaques sur vos pipelines » renforce le réflexe DevSecOps ; croiser avec le dossier `05-securite` si besoin.
 - **À retenir :**
   - 7 attaques sur vos pipelines
@@ -814,7 +823,7 @@ Reprendre les mêmes idées sur GitLab, puis solidifier avec les labs.
 - [ ] Page lue / pratiquée
 
 #### 96. Audit et conformité
-- **Lien :** `/docs/pipeline-cicd/gitlab/securite/audit-conformite/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/securite/audit-conformite/](https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/securite/audit-conformite/)
 - **Pourquoi ici :** Second track : GitLab CI — transférer les concepts, puis labs d'ancrage. « Audit et conformité » renforce le réflexe DevSecOps ; croiser avec le dossier `05-securite` si besoin.
 - **À retenir :**
   - Audit et conformité
@@ -822,7 +831,7 @@ Reprendre les mêmes idées sur GitLab, puis solidifier avec les labs.
 - [ ] Page lue / pratiquée
 
 #### 97. Branches protégées et approbations
-- **Lien :** `/docs/pipeline-cicd/gitlab/securite/branches-protegees/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/securite/branches-protegees/](https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/securite/branches-protegees/)
 - **Pourquoi ici :** Second track : GitLab CI — transférer les concepts, puis labs d'ancrage. « Branches protégées et approbations » renforce le réflexe DevSecOps ; croiser avec le dossier `05-securite` si besoin.
 - **À retenir :**
   - Branches protégées et approbations
@@ -830,7 +839,7 @@ Reprendre les mêmes idées sur GitLab, puis solidifier avec les labs.
 - [ ] Page lue / pratiquée
 
 #### 98. Durcir vos pipelines
-- **Lien :** `/docs/pipeline-cicd/gitlab/securite/durcissement/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/securite/durcissement/](https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/securite/durcissement/)
 - **Pourquoi ici :** Second track : GitLab CI — transférer les concepts, puis labs d'ancrage. « Durcir vos pipelines » renforce le réflexe DevSecOps ; croiser avec le dossier `05-securite` si besoin.
 - **À retenir :**
   - Durcir vos pipelines
@@ -838,7 +847,7 @@ Reprendre les mêmes idées sur GitLab, puis solidifier avec les labs.
 - [ ] Page lue / pratiquée
 
 #### 99. Gérer les secrets
-- **Lien :** `/docs/pipeline-cicd/gitlab/securite/secrets/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/securite/secrets/](https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/securite/secrets/)
 - **Pourquoi ici :** Second track : GitLab CI — transférer les concepts, puis labs d'ancrage. « Gérer les secrets » renforce le réflexe DevSecOps ; croiser avec le dossier `05-securite` si besoin.
 - **À retenir :**
   - Gérer les secrets
@@ -846,7 +855,7 @@ Reprendre les mêmes idées sur GitLab, puis solidifier avec les labs.
 - [ ] Page lue / pratiquée
 
 #### 100. Supply chain (SBOM, attestations)
-- **Lien :** `/docs/pipeline-cicd/gitlab/securite/supply-chain/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/securite/supply-chain/](https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/securite/supply-chain/)
 - **Pourquoi ici :** Second track : GitLab CI — transférer les concepts, puis labs d'ancrage. « Supply chain (SBOM, attestations) » renforce le réflexe DevSecOps ; croiser avec le dossier `05-securite` si besoin.
 - **À retenir :**
   - Supply chain (SBOM, attestations)
@@ -856,7 +865,7 @@ Reprendre les mêmes idées sur GitLab, puis solidifier avec les labs.
 **C5 — Outils GitLab**
 
 #### 101. Présentation des outils
-- **Lien :** `/docs/pipeline-cicd/gitlab/outils/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/outils/](https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/outils/)
 - **Pourquoi ici :** Second track : GitLab CI — transférer les concepts, puis labs d'ancrage. La page « Présentation des outils » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Présentation des outils
@@ -864,7 +873,7 @@ Reprendre les mêmes idées sur GitLab, puis solidifier avec les labs.
 - [ ] Page lue / pratiquée
 
 #### 102. CLI GitLab (glab)
-- **Lien :** `/docs/pipeline-cicd/gitlab/outils/cli/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/outils/cli/](https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/outils/cli/)
 - **Pourquoi ici :** Second track : GitLab CI — transférer les concepts, puis labs d'ancrage. La page « CLI GitLab (glab) » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - CLI GitLab (glab)
@@ -872,7 +881,7 @@ Reprendre les mêmes idées sur GitLab, puis solidifier avec les labs.
 - [ ] Page lue / pratiquée
 
 #### 103. Plumber
-- **Lien :** `/docs/pipeline-cicd/gitlab/outils/plumber/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/outils/plumber/](https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/outils/plumber/)
 - **Pourquoi ici :** Second track : GitLab CI — transférer les concepts, puis labs d'ancrage. La page « Plumber » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Plumber
@@ -883,7 +892,7 @@ Reprendre les mêmes idées sur GitLab, puis solidifier avec les labs.
 Enchaîner les labs pour ancrer le second track.
 
 #### 104. Présentation des labs
-- **Lien :** `/docs/pipeline-cicd/gitlab/labs/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/labs/](https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/labs/)
 - **Pourquoi ici :** Second track : GitLab CI — transférer les concepts, puis labs d'ancrage. Lab « Présentation des labs » : pratiquer maintenant pour ancrer la théorie de la phase.
 - **À retenir :**
   - Présentation des labs
@@ -891,7 +900,7 @@ Enchaîner les labs pour ancrer le second track.
 - [ ] Page lue / pratiquée
 
 #### 105. Lab 01 — Premier pipeline
-- **Lien :** `/docs/pipeline-cicd/gitlab/labs/lab-01-premier-pipeline/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/labs/lab-01-premier-pipeline/](https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/labs/lab-01-premier-pipeline/)
 - **Pourquoi ici :** Second track : GitLab CI — transférer les concepts, puis labs d'ancrage. Lab « Lab 01 — Premier pipeline » : pratiquer maintenant pour ancrer la théorie de la phase.
 - **À retenir :**
   - Lab 01 — Premier pipeline
@@ -899,7 +908,7 @@ Enchaîner les labs pour ancrer le second track.
 - [ ] Page lue / pratiquée
 
 #### 106. Lab 02 — Lire un échec
-- **Lien :** `/docs/pipeline-cicd/gitlab/labs/lab-02-lire-un-echec/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/labs/lab-02-lire-un-echec/](https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/labs/lab-02-lire-un-echec/)
 - **Pourquoi ici :** Second track : GitLab CI — transférer les concepts, puis labs d'ancrage. Lab « Lab 02 — Lire un échec » : pratiquer maintenant pour ancrer la théorie de la phase.
 - **À retenir :**
   - Lab 02 — Lire un échec
@@ -907,7 +916,7 @@ Enchaîner les labs pour ancrer le second track.
 - [ ] Page lue / pratiquée
 
 #### 107. Lab 03 — Images et runners
-- **Lien :** `/docs/pipeline-cicd/gitlab/labs/lab-03-images-et-runners/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/labs/lab-03-images-et-runners/](https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/labs/lab-03-images-et-runners/)
 - **Pourquoi ici :** Second track : GitLab CI — transférer les concepts, puis labs d'ancrage. Lab « Lab 03 — Images et runners » : pratiquer maintenant pour ancrer la théorie de la phase.
 - **À retenir :**
   - Lab 03 — Images et runners
@@ -915,7 +924,7 @@ Enchaîner les labs pour ancrer le second track.
 - [ ] Page lue / pratiquée
 
 #### 108. Lab 04 — Artifacts et cache
-- **Lien :** `/docs/pipeline-cicd/gitlab/labs/lab-04-artifacts-et-cache/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/labs/lab-04-artifacts-et-cache/](https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/labs/lab-04-artifacts-et-cache/)
 - **Pourquoi ici :** Second track : GitLab CI — transférer les concepts, puis labs d'ancrage. Lab « Lab 04 — Artifacts et cache » : pratiquer maintenant pour ancrer la théorie de la phase.
 - **À retenir :**
   - Lab 04 — Artifacts et cache
@@ -923,7 +932,7 @@ Enchaîner les labs pour ancrer le second track.
 - [ ] Page lue / pratiquée
 
 #### 109. Lab 05 — Sortir les secrets
-- **Lien :** `/docs/pipeline-cicd/gitlab/labs/lab-05-sortir-les-secrets/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/labs/lab-05-sortir-les-secrets/](https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/labs/lab-05-sortir-les-secrets/)
 - **Pourquoi ici :** Second track : GitLab CI — transférer les concepts, puis labs d'ancrage. Lab « Lab 05 — Sortir les secrets » : pratiquer maintenant pour ancrer la théorie de la phase.
 - **À retenir :**
   - Lab 05 — Sortir les secrets
@@ -931,7 +940,7 @@ Enchaîner les labs pour ancrer le second track.
 - [ ] Page lue / pratiquée
 
 #### 110. Lab 06 — Contrôler l'exécution
-- **Lien :** `/docs/pipeline-cicd/gitlab/labs/lab-06-controler-execution/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/labs/lab-06-controler-execution/](https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/labs/lab-06-controler-execution/)
 - **Pourquoi ici :** Second track : GitLab CI — transférer les concepts, puis labs d'ancrage. Lab « Lab 06 — Contrôler l'exécution » : pratiquer maintenant pour ancrer la théorie de la phase.
 - **À retenir :**
   - Lab 06 — Contrôler l'exécution
@@ -939,7 +948,7 @@ Enchaîner les labs pour ancrer le second track.
 - [ ] Page lue / pratiquée
 
 #### 111. Lab 07 — Valider pipeline
-- **Lien :** `/docs/pipeline-cicd/gitlab/labs/lab-07-valider-pipeline/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/labs/lab-07-valider-pipeline/](https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/labs/lab-07-valider-pipeline/)
 - **Pourquoi ici :** Second track : GitLab CI — transférer les concepts, puis labs d'ancrage. Lab « Lab 07 — Valider pipeline » : pratiquer maintenant pour ancrer la théorie de la phase.
 - **À retenir :**
   - Lab 07 — Valider pipeline
@@ -947,7 +956,7 @@ Enchaîner les labs pour ancrer le second track.
 - [ ] Page lue / pratiquée
 
 #### 112. Lab 08 — Déclencher pipeline
-- **Lien :** `/docs/pipeline-cicd/gitlab/labs/lab-08-declencher-pipeline/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/labs/lab-08-declencher-pipeline/](https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/labs/lab-08-declencher-pipeline/)
 - **Pourquoi ici :** Second track : GitLab CI — transférer les concepts, puis labs d'ancrage. Lab « Lab 08 — Déclencher pipeline » : pratiquer maintenant pour ancrer la théorie de la phase.
 - **À retenir :**
   - Lab 08 — Déclencher pipeline
@@ -955,7 +964,7 @@ Enchaîner les labs pour ancrer le second track.
 - [ ] Page lue / pratiquée
 
 #### 113. Lab 09 — Publier registry
-- **Lien :** `/docs/pipeline-cicd/gitlab/labs/lab-09-publier-registry/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/labs/lab-09-publier-registry/](https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/labs/lab-09-publier-registry/)
 - **Pourquoi ici :** Second track : GitLab CI — transférer les concepts, puis labs d'ancrage. Lab « Lab 09 — Publier registry » : pratiquer maintenant pour ancrer la théorie de la phase.
 - **À retenir :**
   - Lab 09 — Publier registry
@@ -963,7 +972,7 @@ Enchaîner les labs pour ancrer le second track.
 - [ ] Page lue / pratiquée
 
 #### 114. Lab 10 — Rapports qualité
-- **Lien :** `/docs/pipeline-cicd/gitlab/labs/lab-10-rapports-qualite/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/labs/lab-10-rapports-qualite/](https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/labs/lab-10-rapports-qualite/)
 - **Pourquoi ici :** Second track : GitLab CI — transférer les concepts, puis labs d'ancrage. Lab « Lab 10 — Rapports qualité » : pratiquer maintenant pour ancrer la théorie de la phase.
 - **À retenir :**
   - Lab 10 — Rapports qualité
@@ -971,7 +980,7 @@ Enchaîner les labs pour ancrer le second track.
 - [ ] Page lue / pratiquée
 
 #### 115. Lab 11 — Debugger job bloqué
-- **Lien :** `/docs/pipeline-cicd/gitlab/labs/lab-11-debugger-job-bloque/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/labs/lab-11-debugger-job-bloque/](https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/labs/lab-11-debugger-job-bloque/)
 - **Pourquoi ici :** Second track : GitLab CI — transférer les concepts, puis labs d'ancrage. Lab « Lab 11 — Debugger job bloqué » : pratiquer maintenant pour ancrer la théorie de la phase.
 - **À retenir :**
   - Lab 11 — Debugger job bloqué
@@ -979,7 +988,7 @@ Enchaîner les labs pour ancrer le second track.
 - [ ] Page lue / pratiquée
 
 #### 116. Lab 12 — Accélérer pipeline
-- **Lien :** `/docs/pipeline-cicd/gitlab/labs/lab-12-accelerer-pipeline/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/labs/lab-12-accelerer-pipeline/](https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/labs/lab-12-accelerer-pipeline/)
 - **Pourquoi ici :** Second track : GitLab CI — transférer les concepts, puis labs d'ancrage. Lab « Lab 12 — Accélérer pipeline » : pratiquer maintenant pour ancrer la théorie de la phase.
 - **À retenir :**
   - Lab 12 — Accélérer pipeline
@@ -987,7 +996,7 @@ Enchaîner les labs pour ancrer le second track.
 - [ ] Page lue / pratiquée
 
 #### 117. Lab 13 — DRY : extends et anchors
-- **Lien :** `/docs/pipeline-cicd/gitlab/labs/lab-13-extends-anchors/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/labs/lab-13-extends-anchors/](https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/labs/lab-13-extends-anchors/)
 - **Pourquoi ici :** Second track : GitLab CI — transférer les concepts, puis labs d'ancrage. Lab « Lab 13 — DRY : extends et anchors » : pratiquer maintenant pour ancrer la théorie de la phase.
 - **À retenir :**
   - Lab 13 — DRY : extends et anchors
@@ -995,7 +1004,7 @@ Enchaîner les labs pour ancrer le second track.
 - [ ] Page lue / pratiquée
 
 #### 118. Lab 14 — Templates partagés
-- **Lien :** `/docs/pipeline-cicd/gitlab/labs/lab-14-templates-include/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/labs/lab-14-templates-include/](https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/labs/lab-14-templates-include/)
 - **Pourquoi ici :** Second track : GitLab CI — transférer les concepts, puis labs d'ancrage. Lab « Lab 14 — Templates partagés » : pratiquer maintenant pour ancrer la théorie de la phase.
 - **À retenir :**
   - Lab 14 — Templates partagés
@@ -1003,7 +1012,7 @@ Enchaîner les labs pour ancrer le second track.
 - [ ] Page lue / pratiquée
 
 #### 119. Lab 15 — Matrices multi-versions
-- **Lien :** `/docs/pipeline-cicd/gitlab/labs/lab-15-matrices/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/labs/lab-15-matrices/](https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/labs/lab-15-matrices/)
 - **Pourquoi ici :** Second track : GitLab CI — transférer les concepts, puis labs d'ancrage. Lab « Lab 15 — Matrices multi-versions » : pratiquer maintenant pour ancrer la théorie de la phase.
 - **À retenir :**
   - Lab 15 — Matrices multi-versions
@@ -1011,7 +1020,7 @@ Enchaîner les labs pour ancrer le second track.
 - [ ] Page lue / pratiquée
 
 #### 120. Lab 16 — Pipeline parent-enfant
-- **Lien :** `/docs/pipeline-cicd/gitlab/labs/lab-16-pipelines-dynamiques/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/labs/lab-16-pipelines-dynamiques/](https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/labs/lab-16-pipelines-dynamiques/)
 - **Pourquoi ici :** Second track : GitLab CI — transférer les concepts, puis labs d'ancrage. Lab « Lab 16 — Pipeline parent-enfant » : pratiquer maintenant pour ancrer la théorie de la phase.
 - **À retenir :**
   - Lab 16 — Pipeline parent-enfant
@@ -1019,7 +1028,7 @@ Enchaîner les labs pour ancrer le second track.
 - [ ] Page lue / pratiquée
 
 #### 121. Lab 17 — Workflows branches et MR
-- **Lien :** `/docs/pipeline-cicd/gitlab/labs/lab-17-workflows/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/labs/lab-17-workflows/](https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/labs/lab-17-workflows/)
 - **Pourquoi ici :** Second track : GitLab CI — transférer les concepts, puis labs d'ancrage. Lab « Lab 17 — Workflows branches et MR » : pratiquer maintenant pour ancrer la théorie de la phase.
 - **À retenir :**
   - Lab 17 — Workflows branches et MR
@@ -1027,7 +1036,7 @@ Enchaîner les labs pour ancrer le second track.
 - [ ] Page lue / pratiquée
 
 #### 122. Lab 18 — Fiabilité et retry
-- **Lien :** `/docs/pipeline-cicd/gitlab/labs/lab-18-fiabilite/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/labs/lab-18-fiabilite/](https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/labs/lab-18-fiabilite/)
 - **Pourquoi ici :** Second track : GitLab CI — transférer les concepts, puis labs d'ancrage. Lab « Lab 18 — Fiabilité et retry » : pratiquer maintenant pour ancrer la théorie de la phase.
 - **À retenir :**
   - Lab 18 — Fiabilité et retry
@@ -1035,7 +1044,7 @@ Enchaîner les labs pour ancrer le second track.
 - [ ] Page lue / pratiquée
 
 #### 123. Lab 19 — Capstone industriel
-- **Lien :** `/docs/pipeline-cicd/gitlab/labs/lab-19-capstone-industriel/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/labs/lab-19-capstone-industriel/](https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/labs/lab-19-capstone-industriel/)
 - **Pourquoi ici :** Second track : GitLab CI — transférer les concepts, puis labs d'ancrage. Lab « Lab 19 — Capstone industriel » : pratiquer maintenant pour ancrer la théorie de la phase.
 - **À retenir :**
   - Lab 19 — Capstone industriel
@@ -1045,7 +1054,7 @@ Enchaîner les labs pour ancrer le second track.
 **C7 — Certifications & reste GitLab**
 
 #### 124. Vue d'ensemble
-- **Lien :** `/docs/pipeline-cicd/gitlab/certifications/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/certifications/](https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/certifications/)
 - **Pourquoi ici :** Second track : GitLab CI — transférer les concepts, puis labs d'ancrage. « Vue d'ensemble » oriente une prep certif : utile seulement après la pratique des labs du tronc.
 - **À retenir :**
   - Vue d'ensemble
@@ -1053,7 +1062,7 @@ Enchaîner les labs pour ancrer le second track.
 - [ ] Page lue / pratiquée
 
 #### 125. GitLab CI/CD Associate
-- **Lien :** `/docs/pipeline-cicd/gitlab/certifications/cicd-associate/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/certifications/cicd-associate/](https://blog.stephane-robert.info/docs/pipeline-cicd/gitlab/certifications/cicd-associate/)
 - **Pourquoi ici :** Second track : GitLab CI — transférer les concepts, puis labs d'ancrage. « GitLab CI/CD Associate » oriente une prep certif : utile seulement après la pratique des labs du tronc.
 - **À retenir :**
   - GitLab CI/CD Associate
@@ -1066,7 +1075,7 @@ Séparer build (CI) et déploiement continu déclaratif sur Kubernetes.
 **D1 — Argo CD**
 
 #### 126. Vue d'ensemble
-- **Lien :** `/docs/pipeline-cicd/argocd/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/argocd/](https://blog.stephane-robert.info/docs/pipeline-cicd/argocd/)
 - **Pourquoi ici :** GitOps Argo CD : après une CI qui produit des artefacts et des bases K8s (10). « Vue d'ensemble » sert de carte ou de jalon : lire pour se repérer, puis enchaîner sur les pages filles dans l'ordre indiqué.
 - **À retenir :**
   - Vue d'ensemble
@@ -1074,7 +1083,7 @@ Séparer build (CI) et déploiement continu déclaratif sur Kubernetes.
 - [ ] Page lue / pratiquée
 
 #### 127. Mon parcours
-- **Lien :** `/docs/pipeline-cicd/argocd/parcours/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/argocd/parcours/](https://blog.stephane-robert.info/docs/pipeline-cicd/argocd/parcours/)
 - **Pourquoi ici :** GitOps Argo CD : après une CI qui produit des artefacts et des bases K8s (10). La page « Mon parcours » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Mon parcours
@@ -1082,7 +1091,7 @@ Séparer build (CI) et déploiement continu déclaratif sur Kubernetes.
 - [ ] Page lue / pratiquée
 
 #### 128. Concepts et architecture
-- **Lien :** `/docs/pipeline-cicd/argocd/concepts/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/argocd/concepts/](https://blog.stephane-robert.info/docs/pipeline-cicd/argocd/concepts/)
 - **Pourquoi ici :** GitOps Argo CD : après une CI qui produit des artefacts et des bases K8s (10). La page « Concepts et architecture » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Concepts et architecture
@@ -1090,7 +1099,7 @@ Séparer build (CI) et déploiement continu déclaratif sur Kubernetes.
 - [ ] Page lue / pratiquée
 
 #### 129. Installation
-- **Lien :** `/docs/pipeline-cicd/argocd/installation/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/argocd/installation/](https://blog.stephane-robert.info/docs/pipeline-cicd/argocd/installation/)
 - **Pourquoi ici :** GitOps Argo CD : après une CI qui produit des artefacts et des bases K8s (10). La page « Installation » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Installation
@@ -1098,7 +1107,7 @@ Séparer build (CI) et déploiement continu déclaratif sur Kubernetes.
 - [ ] Page lue / pratiquée
 
 #### 130. Première application
-- **Lien :** `/docs/pipeline-cicd/argocd/premiere-application/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/argocd/premiere-application/](https://blog.stephane-robert.info/docs/pipeline-cicd/argocd/premiere-application/)
 - **Pourquoi ici :** GitOps Argo CD : après une CI qui produit des artefacts et des bases K8s (10). La page « Première application » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Première application
@@ -1106,7 +1115,7 @@ Séparer build (CI) et déploiement continu déclaratif sur Kubernetes.
 - [ ] Page lue / pratiquée
 
 #### 131. Maîtriser la synchronisation
-- **Lien :** `/docs/pipeline-cicd/argocd/sync-strategies/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/argocd/sync-strategies/](https://blog.stephane-robert.info/docs/pipeline-cicd/argocd/sync-strategies/)
 - **Pourquoi ici :** GitOps Argo CD : après une CI qui produit des artefacts et des bases K8s (10). La page « Maîtriser la synchronisation » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Maîtriser la synchronisation
@@ -1114,7 +1123,7 @@ Séparer build (CI) et déploiement continu déclaratif sur Kubernetes.
 - [ ] Page lue / pratiquée
 
 #### 132. App of Apps
-- **Lien :** `/docs/pipeline-cicd/argocd/app-of-apps/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/argocd/app-of-apps/](https://blog.stephane-robert.info/docs/pipeline-cicd/argocd/app-of-apps/)
 - **Pourquoi ici :** GitOps Argo CD : après une CI qui produit des artefacts et des bases K8s (10). La page « App of Apps » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - App of Apps
@@ -1122,7 +1131,7 @@ Séparer build (CI) et déploiement continu déclaratif sur Kubernetes.
 - [ ] Page lue / pratiquée
 
 #### 133. Multi-environnements
-- **Lien :** `/docs/pipeline-cicd/argocd/multi-env/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/argocd/multi-env/](https://blog.stephane-robert.info/docs/pipeline-cicd/argocd/multi-env/)
 - **Pourquoi ici :** GitOps Argo CD : après une CI qui produit des artefacts et des bases K8s (10). La page « Multi-environnements » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Multi-environnements
@@ -1130,7 +1139,7 @@ Séparer build (CI) et déploiement continu déclaratif sur Kubernetes.
 - [ ] Page lue / pratiquée
 
 #### 134. Intégration CI/CD
-- **Lien :** `/docs/pipeline-cicd/argocd/integration-ci/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/argocd/integration-ci/](https://blog.stephane-robert.info/docs/pipeline-cicd/argocd/integration-ci/)
 - **Pourquoi ici :** GitOps Argo CD : après une CI qui produit des artefacts et des bases K8s (10). La page « Intégration CI/CD » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Intégration CI/CD
@@ -1138,7 +1147,7 @@ Séparer build (CI) et déploiement continu déclaratif sur Kubernetes.
 - [ ] Page lue / pratiquée
 
 #### 135. Déploiements progressifs
-- **Lien :** `/docs/pipeline-cicd/argocd/progressive-delivery/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/argocd/progressive-delivery/](https://blog.stephane-robert.info/docs/pipeline-cicd/argocd/progressive-delivery/)
 - **Pourquoi ici :** GitOps Argo CD : après une CI qui produit des artefacts et des bases K8s (10). La page « Déploiements progressifs » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Déploiements progressifs
@@ -1146,7 +1155,7 @@ Séparer build (CI) et déploiement continu déclaratif sur Kubernetes.
 - [ ] Page lue / pratiquée
 
 #### 136. Rollback et reprise
-- **Lien :** `/docs/pipeline-cicd/argocd/rollback-reprise/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/argocd/rollback-reprise/](https://blog.stephane-robert.info/docs/pipeline-cicd/argocd/rollback-reprise/)
 - **Pourquoi ici :** GitOps Argo CD : après une CI qui produit des artefacts et des bases K8s (10). La page « Rollback et reprise » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Rollback et reprise
@@ -1154,7 +1163,7 @@ Séparer build (CI) et déploiement continu déclaratif sur Kubernetes.
 - [ ] Page lue / pratiquée
 
 #### 137. Notifications
-- **Lien :** `/docs/pipeline-cicd/argocd/notifications/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/argocd/notifications/](https://blog.stephane-robert.info/docs/pipeline-cicd/argocd/notifications/)
 - **Pourquoi ici :** GitOps Argo CD : après une CI qui produit des artefacts et des bases K8s (10). La page « Notifications » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Notifications
@@ -1162,7 +1171,7 @@ Séparer build (CI) et déploiement continu déclaratif sur Kubernetes.
 - [ ] Page lue / pratiquée
 
 #### 138. Superviser avec Prometheus
-- **Lien :** `/docs/pipeline-cicd/argocd/monitoring/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/argocd/monitoring/](https://blog.stephane-robert.info/docs/pipeline-cicd/argocd/monitoring/)
 - **Pourquoi ici :** GitOps Argo CD : après une CI qui produit des artefacts et des bases K8s (10). La page « Superviser avec Prometheus » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Superviser avec Prometheus
@@ -1170,7 +1179,7 @@ Séparer build (CI) et déploiement continu déclaratif sur Kubernetes.
 - [ ] Page lue / pratiquée
 
 #### 139. Admission Controllers
-- **Lien :** `/docs/pipeline-cicd/argocd/admission-controllers/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/argocd/admission-controllers/](https://blog.stephane-robert.info/docs/pipeline-cicd/argocd/admission-controllers/)
 - **Pourquoi ici :** GitOps Argo CD : après une CI qui produit des artefacts et des bases K8s (10). La page « Admission Controllers » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Admission Controllers
@@ -1178,7 +1187,7 @@ Séparer build (CI) et déploiement continu déclaratif sur Kubernetes.
 - [ ] Page lue / pratiquée
 
 #### 140. Sécuriser ArgoCD
-- **Lien :** `/docs/pipeline-cicd/argocd/securiser/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/argocd/securiser/](https://blog.stephane-robert.info/docs/pipeline-cicd/argocd/securiser/)
 - **Pourquoi ici :** GitOps Argo CD : après une CI qui produit des artefacts et des bases K8s (10). « Sécuriser ArgoCD » renforce le réflexe DevSecOps ; croiser avec le dossier `05-securite` si besoin.
 - **À retenir :**
   - Sécuriser ArgoCD
@@ -1186,7 +1195,7 @@ Séparer build (CI) et déploiement continu déclaratif sur Kubernetes.
 - [ ] Page lue / pratiquée
 
 #### 141. Dépannage
-- **Lien :** `/docs/pipeline-cicd/argocd/depannage/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/argocd/depannage/](https://blog.stephane-robert.info/docs/pipeline-cicd/argocd/depannage/)
 - **Pourquoi ici :** GitOps Argo CD : après une CI qui produit des artefacts et des bases K8s (10). La page « Dépannage » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Dépannage
@@ -1196,7 +1205,7 @@ Séparer build (CI) et déploiement continu déclaratif sur Kubernetes.
 **D2 — Flux CD**
 
 #### 142. Vue d'ensemble
-- **Lien :** `/docs/pipeline-cicd/fluxcd/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/fluxcd/](https://blog.stephane-robert.info/docs/pipeline-cicd/fluxcd/)
 - **Pourquoi ici :** Flux CD : alternative GitOps à comparer après Argo. « Vue d'ensemble » sert de carte ou de jalon : lire pour se repérer, puis enchaîner sur les pages filles dans l'ordre indiqué.
 - **À retenir :**
   - Vue d'ensemble
@@ -1204,7 +1213,7 @@ Séparer build (CI) et déploiement continu déclaratif sur Kubernetes.
 - [ ] Page lue / pratiquée
 
 #### 143. Concepts et architecture
-- **Lien :** `/docs/pipeline-cicd/fluxcd/concepts/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/fluxcd/concepts/](https://blog.stephane-robert.info/docs/pipeline-cicd/fluxcd/concepts/)
 - **Pourquoi ici :** Flux CD : alternative GitOps à comparer après Argo. La page « Concepts et architecture » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Concepts et architecture
@@ -1212,7 +1221,7 @@ Séparer build (CI) et déploiement continu déclaratif sur Kubernetes.
 - [ ] Page lue / pratiquée
 
 #### 144. Bootstrap et installation
-- **Lien :** `/docs/pipeline-cicd/fluxcd/installation/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/fluxcd/installation/](https://blog.stephane-robert.info/docs/pipeline-cicd/fluxcd/installation/)
 - **Pourquoi ici :** Flux CD : alternative GitOps à comparer après Argo. La page « Bootstrap et installation » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Bootstrap et installation
@@ -1220,7 +1229,7 @@ Séparer build (CI) et déploiement continu déclaratif sur Kubernetes.
 - [ ] Page lue / pratiquée
 
 #### 145. Première application
-- **Lien :** `/docs/pipeline-cicd/fluxcd/premiere-application/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/fluxcd/premiere-application/](https://blog.stephane-robert.info/docs/pipeline-cicd/fluxcd/premiere-application/)
 - **Pourquoi ici :** Flux CD : alternative GitOps à comparer après Argo. La page « Première application » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Première application
@@ -1228,7 +1237,7 @@ Séparer build (CI) et déploiement continu déclaratif sur Kubernetes.
 - [ ] Page lue / pratiquée
 
 #### 146. Déploiements Helm
-- **Lien :** `/docs/pipeline-cicd/fluxcd/helm/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/fluxcd/helm/](https://blog.stephane-robert.info/docs/pipeline-cicd/fluxcd/helm/)
 - **Pourquoi ici :** Flux CD : alternative GitOps à comparer après Argo. La page « Déploiements Helm » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Déploiements Helm
@@ -1236,7 +1245,7 @@ Séparer build (CI) et déploiement continu déclaratif sur Kubernetes.
 - [ ] Page lue / pratiquée
 
 #### 147. Automatisation d'images
-- **Lien :** `/docs/pipeline-cicd/fluxcd/image-automation/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/fluxcd/image-automation/](https://blog.stephane-robert.info/docs/pipeline-cicd/fluxcd/image-automation/)
 - **Pourquoi ici :** Flux CD : alternative GitOps à comparer après Argo. La page « Automatisation d'images » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Automatisation d'images
@@ -1244,7 +1253,7 @@ Séparer build (CI) et déploiement continu déclaratif sur Kubernetes.
 - [ ] Page lue / pratiquée
 
 #### 148. Monitoring et alertes
-- **Lien :** `/docs/pipeline-cicd/fluxcd/monitoring/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/fluxcd/monitoring/](https://blog.stephane-robert.info/docs/pipeline-cicd/fluxcd/monitoring/)
 - **Pourquoi ici :** Flux CD : alternative GitOps à comparer après Argo. La page « Monitoring et alertes » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Monitoring et alertes
@@ -1252,7 +1261,7 @@ Séparer build (CI) et déploiement continu déclaratif sur Kubernetes.
 - [ ] Page lue / pratiquée
 
 #### 149. Multi-tenancy
-- **Lien :** `/docs/pipeline-cicd/fluxcd/multi-tenancy/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/fluxcd/multi-tenancy/](https://blog.stephane-robert.info/docs/pipeline-cicd/fluxcd/multi-tenancy/)
 - **Pourquoi ici :** Flux CD : alternative GitOps à comparer après Argo. La page « Multi-tenancy » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Multi-tenancy
@@ -1263,7 +1272,7 @@ Séparer build (CI) et déploiement continu déclaratif sur Kubernetes.
 Pipelines portables (Dagger) et héritage Jenkins.
 
 #### 150. Dagger
-- **Lien :** `/docs/pipeline-cicd/dagger/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/dagger/](https://blog.stephane-robert.info/docs/pipeline-cicd/dagger/)
 - **Pourquoi ici :** Dagger : pipelines as code portables après un CI classique. « Dagger » sert de carte ou de jalon : lire pour se repérer, puis enchaîner sur les pages filles dans l'ordre indiqué.
 - **À retenir :**
   - Dagger
@@ -1271,7 +1280,7 @@ Pipelines portables (Dagger) et héritage Jenkins.
 - [ ] Page lue / pratiquée
 
 #### 151. Introduction
-- **Lien :** `/docs/pipeline-cicd/dagger/fondamentaux/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/dagger/fondamentaux/](https://blog.stephane-robert.info/docs/pipeline-cicd/dagger/fondamentaux/)
 - **Pourquoi ici :** Dagger : pipelines as code portables après un CI classique. La page « Introduction » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Introduction
@@ -1279,7 +1288,7 @@ Pipelines portables (Dagger) et héritage Jenkins.
 - [ ] Page lue / pratiquée
 
 #### 152. Concepts
-- **Lien :** `/docs/pipeline-cicd/dagger/fondamentaux/concepts/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/dagger/fondamentaux/concepts/](https://blog.stephane-robert.info/docs/pipeline-cicd/dagger/fondamentaux/concepts/)
 - **Pourquoi ici :** Dagger : pipelines as code portables après un CI classique. La page « Concepts » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Concepts
@@ -1287,7 +1296,7 @@ Pipelines portables (Dagger) et héritage Jenkins.
 - [ ] Page lue / pratiquée
 
 #### 153. Connexion, cycle async, erreurs
-- **Lien :** `/docs/pipeline-cicd/dagger/fondamentaux/connexion-async/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/dagger/fondamentaux/connexion-async/](https://blog.stephane-robert.info/docs/pipeline-cicd/dagger/fondamentaux/connexion-async/)
 - **Pourquoi ici :** Dagger : pipelines as code portables après un CI classique. La page « Connexion, cycle async, erreurs » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Connexion, cycle async, erreurs
@@ -1295,7 +1304,7 @@ Pipelines portables (Dagger) et héritage Jenkins.
 - [ ] Page lue / pratiquée
 
 #### 154. Container API : images, exec, env
-- **Lien :** `/docs/pipeline-cicd/dagger/fondamentaux/container-api/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/dagger/fondamentaux/container-api/](https://blog.stephane-robert.info/docs/pipeline-cicd/dagger/fondamentaux/container-api/)
 - **Pourquoi ici :** Dagger : pipelines as code portables après un CI classique. La page « Container API : images, exec, env » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Container API : images, exec, env
@@ -1303,7 +1312,7 @@ Pipelines portables (Dagger) et héritage Jenkins.
 - [ ] Page lue / pratiquée
 
 #### 155. Installation
-- **Lien :** `/docs/pipeline-cicd/dagger/fondamentaux/installation/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/dagger/fondamentaux/installation/](https://blog.stephane-robert.info/docs/pipeline-cicd/dagger/fondamentaux/installation/)
 - **Pourquoi ici :** Dagger : pipelines as code portables après un CI classique. La page « Installation » apporte le détail opérationnel à ce stade du parcours.
 - **À retenir :**
   - Installation
@@ -1311,7 +1320,7 @@ Pipelines portables (Dagger) et héritage Jenkins.
 - [ ] Page lue / pratiquée
 
 #### 156. Jenkins
-- **Lien :** `/docs/pipeline-cicd/jenkins/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/jenkins/](https://blog.stephane-robert.info/docs/pipeline-cicd/jenkins/)
 - **Pourquoi ici :** Jenkins : héritage CI, culture utile en fin de parcours outils. « Jenkins » sert de carte ou de jalon : lire pour se repérer, puis enchaîner sur les pages filles dans l'ordre indiqué.
 - **À retenir :**
   - Jenkins
@@ -1322,7 +1331,7 @@ Pipelines portables (Dagger) et héritage Jenkins.
 Gates sécu, scan de secrets, durcissement — lien explicite avec `05-securite`.
 
 #### 157. Sécuriser une pipeline CI/CD
-- **Lien :** `/docs/pipeline-cicd/securiser/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/securiser/](https://blog.stephane-robert.info/docs/pipeline-cicd/securiser/)
 - **Pourquoi ici :** Sécurité transverse du pipeline (dossier 05) : secrets, supply chain, gates. « Sécuriser une pipeline CI/CD » sert de carte ou de jalon : lire pour se repérer, puis enchaîner sur les pages filles dans l'ordre indiqué.
 - **À retenir :**
   - Sécuriser une pipeline CI/CD
@@ -1330,7 +1339,7 @@ Gates sécu, scan de secrets, durcissement — lien explicite avec `05-securite`
 - [ ] Page lue / pratiquée
 
 #### 158. Secrets Scanning (guide complet)
-- **Lien :** `/docs/pipeline-cicd/security/secrets-scanning/`
+- **Lien :** [https://blog.stephane-robert.info/docs/pipeline-cicd/security/secrets-scanning/](https://blog.stephane-robert.info/docs/pipeline-cicd/security/secrets-scanning/)
 - **Pourquoi ici :** Sécurité transverse du pipeline (dossier 05) : secrets, supply chain, gates. « Secrets Scanning (guide complet) » renforce le réflexe DevSecOps ; croiser avec le dossier `05-securite` si besoin.
 - **À retenir :**
   - Secrets Scanning (guide complet)
@@ -1343,12 +1352,3 @@ Gates sécu, scan de secrets, durcissement — lien explicite avec `05-securite`
 - Écrire et industrialiser des pipelines GitLab CI (y compris via labs)
 - Mettre en place un déploiement GitOps avec Argo CD (et situer Flux)
 - Ajouter des contrôles sécurité (secrets, supply chain, permissions) au pipeline
-
-## Checklist globale
-- [ ] Phase A — Définir, comprendre les échecs, bonnes pratiques terminée
-- [ ] Phase B — Track principal : GitHub Actions terminée
-- [ ] Phase C — Second track : GitLab CI terminée
-- [ ] Phase D — GitOps (Argo CD puis Flux) terminée
-- [ ] Phase E — Dagger & Jenkins terminée
-- [ ] Phase F — Sécurité transverse du pipeline & annexes terminée
-- [ ] Dossier validé

@@ -4,6 +4,17 @@
 > Source : https://blog.stephane-robert.info/docs/services/
 > Les liens sont relatifs au site (chemins `/docs/...`).
 
+## Checklist globale
+
+- [ ] Phase A — Services web terminée
+- [ ] Phase B — Bases de données terminée
+- [ ] Phase C — Identité terminée
+- [ ] Phase D — Stockage terminée
+- [ ] Phase E — Réseau services terminée
+- [ ] Phase F — Scheduling terminée
+- [ ] Phase G — Tooling DevOps terminée
+- [ ] Dossier validé
+
 ## Vision du dossier
 
 Administrer des services, c’est faire tourner durablement ce dont les applications dépendent : web, bases de données, identité, stockage, exposition réseau, ordonnancement et forges DevOps. Ce dossier transforme un Linux correctement administré (`02`) et un réseau compris (`03`) en plateforme opérationnelle.
@@ -30,7 +41,7 @@ PostgreSQL est priorisé avant MySQL comme premier SGBD pédagogique (écosystè
 Servir du HTTP localement : Nginx (référence), Caddy (TLS facile), Apache (héritage).
 
 #### 1. Administrer des services — vue d’ensemble
-- **Lien :** `/docs/services/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/](https://blog.stephane-robert.info/docs/services/)
 - **Pourquoi ici :** Dans la phase « Services web », « Svc » (services) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Svc
@@ -39,7 +50,7 @@ Servir du HTTP localement : Nginx (référence), Caddy (TLS facile), Apache (hé
 - [ ] Page lue / pratiquée
 
 #### 2. Introduction
-- **Lien :** `/docs/services/web/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/web/](https://blog.stephane-robert.info/docs/services/web/)
 - **Pourquoi ici :** Dans la phase « Services web », « Introduction » (web) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Introduction
@@ -48,7 +59,7 @@ Servir du HTTP localement : Nginx (référence), Caddy (TLS facile), Apache (hé
 - [ ] Page lue / pratiquée
 
 #### 3. Nginx
-- **Lien :** `/docs/services/web/nginx/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/web/nginx/](https://blog.stephane-robert.info/docs/services/web/nginx/)
 - **Pourquoi ici :** Dans la phase « Services web », « Nginx » (web › nginx) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Nginx
@@ -57,7 +68,7 @@ Servir du HTTP localement : Nginx (référence), Caddy (TLS facile), Apache (hé
 - [ ] Page lue / pratiquée
 
 #### 4. Caddy Web Server
-- **Lien :** `/docs/services/web/caddy/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/web/caddy/](https://blog.stephane-robert.info/docs/services/web/caddy/)
 - **Pourquoi ici :** Dans la phase « Services web », « Caddy Web Server » (web › caddy) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Caddy Web Server
@@ -66,7 +77,7 @@ Servir du HTTP localement : Nginx (référence), Caddy (TLS facile), Apache (hé
 - [ ] Page lue / pratiquée
 
 #### 5. httpd
-- **Lien :** `/docs/services/web/apache/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/web/apache/](https://blog.stephane-robert.info/docs/services/web/apache/)
 - **Pourquoi ici :** Dans la phase « Services web », « httpd » (web › apache) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : httpd
@@ -78,7 +89,7 @@ Servir du HTTP localement : Nginx (référence), Caddy (TLS facile), Apache (hé
 Données persistantes : fondamentaux relationnels, PostgreSQL en profondeur, puis MySQL, SQLite et intro vectorielle.
 
 #### 6. Introduction
-- **Lien :** `/docs/services/bdd/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/bdd/](https://blog.stephane-robert.info/docs/services/bdd/)
 - **Pourquoi ici :** Dans la phase « Bases de données », « Introduction » (bdd) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Introduction
@@ -87,7 +98,7 @@ Données persistantes : fondamentaux relationnels, PostgreSQL en profondeur, pui
 - [ ] Page lue / pratiquée
 
 #### 7. Introduction
-- **Lien :** `/docs/services/bdd/relationnelles/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/bdd/relationnelles/](https://blog.stephane-robert.info/docs/services/bdd/relationnelles/)
 - **Pourquoi ici :** Dans la phase « Bases de données », « Introduction » (bdd › relationnelles) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Introduction
@@ -96,7 +107,7 @@ Données persistantes : fondamentaux relationnels, PostgreSQL en profondeur, pui
 - [ ] Page lue / pratiquée
 
 #### 8. PostgreSQL
-- **Lien :** `/docs/services/bdd/relationnelles/postgresql/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/bdd/relationnelles/postgresql/](https://blog.stephane-robert.info/docs/services/bdd/relationnelles/postgresql/)
 - **Pourquoi ici :** Dans la phase « Bases de données », « PostgreSQL » (bdd › relationnelles › postgresql) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : PostgreSQL
@@ -105,7 +116,7 @@ Données persistantes : fondamentaux relationnels, PostgreSQL en profondeur, pui
 - [ ] Page lue / pratiquée
 
 #### 9. Découvrir PostgreSQL
-- **Lien :** `/docs/services/bdd/relationnelles/postgresql/decouvrir-postgresql/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/bdd/relationnelles/postgresql/decouvrir-postgresql/](https://blog.stephane-robert.info/docs/services/bdd/relationnelles/postgresql/decouvrir-postgresql/)
 - **Pourquoi ici :** Dans la phase « Bases de données », « Découvrir PostgreSQL » (bdd › relationnelles › postgresql › decouvrir-postgresql) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Découvrir PostgreSQL
@@ -114,7 +125,7 @@ Données persistantes : fondamentaux relationnels, PostgreSQL en profondeur, pui
 - [ ] Page lue / pratiquée
 
 #### 10. Installation
-- **Lien :** `/docs/services/bdd/relationnelles/postgresql/installation/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/bdd/relationnelles/postgresql/installation/](https://blog.stephane-robert.info/docs/services/bdd/relationnelles/postgresql/installation/)
 - **Pourquoi ici :** Dans la phase « Bases de données », « Installation » (bdd › relationnelles › postgresql › installation) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Installation
@@ -123,7 +134,7 @@ Données persistantes : fondamentaux relationnels, PostgreSQL en profondeur, pui
 - [ ] Page lue / pratiquée
 
 #### 11. Prise en main de psql
-- **Lien :** `/docs/services/bdd/relationnelles/postgresql/prise-en-main-psql/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/bdd/relationnelles/postgresql/prise-en-main-psql/](https://blog.stephane-robert.info/docs/services/bdd/relationnelles/postgresql/prise-en-main-psql/)
 - **Pourquoi ici :** Dans la phase « Bases de données », « Prise en main de psql » (bdd › relationnelles › postgresql › prise-en-main-psql) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Prise en main de psql
@@ -132,7 +143,7 @@ Données persistantes : fondamentaux relationnels, PostgreSQL en profondeur, pui
 - [ ] Page lue / pratiquée
 
 #### 12. Configuration
-- **Lien :** `/docs/services/bdd/relationnelles/postgresql/configuration/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/bdd/relationnelles/postgresql/configuration/](https://blog.stephane-robert.info/docs/services/bdd/relationnelles/postgresql/configuration/)
 - **Pourquoi ici :** Dans la phase « Bases de données », « Configuration » (bdd › relationnelles › postgresql › configuration) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Configuration
@@ -141,7 +152,7 @@ Données persistantes : fondamentaux relationnels, PostgreSQL en profondeur, pui
 - [ ] Page lue / pratiquée
 
 #### 13. Sécurisation
-- **Lien :** `/docs/services/bdd/relationnelles/postgresql/securisation/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/bdd/relationnelles/postgresql/securisation/](https://blog.stephane-robert.info/docs/services/bdd/relationnelles/postgresql/securisation/)
 - **Pourquoi ici :** Dans la phase « Bases de données », « Sécurisation » (bdd › relationnelles › postgresql › securisation) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Sécurisation
@@ -150,7 +161,7 @@ Données persistantes : fondamentaux relationnels, PostgreSQL en profondeur, pui
 - [ ] Page lue / pratiquée
 
 #### 14. Sauvegarde et restauration
-- **Lien :** `/docs/services/bdd/relationnelles/postgresql/sauvegarde-restauration/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/bdd/relationnelles/postgresql/sauvegarde-restauration/](https://blog.stephane-robert.info/docs/services/bdd/relationnelles/postgresql/sauvegarde-restauration/)
 - **Pourquoi ici :** Dans la phase « Bases de données », « Sauvegarde et restauration » (bdd › relationnelles › postgresql › sauvegarde-restauration) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Sauvegarde et restauration
@@ -159,7 +170,7 @@ Données persistantes : fondamentaux relationnels, PostgreSQL en profondeur, pui
 - [ ] Page lue / pratiquée
 
 #### 15. Réplication
-- **Lien :** `/docs/services/bdd/relationnelles/postgresql/replication/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/bdd/relationnelles/postgresql/replication/](https://blog.stephane-robert.info/docs/services/bdd/relationnelles/postgresql/replication/)
 - **Pourquoi ici :** Dans la phase « Bases de données », « Réplication » (bdd › relationnelles › postgresql › replication) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Réplication
@@ -168,7 +179,7 @@ Données persistantes : fondamentaux relationnels, PostgreSQL en profondeur, pui
 - [ ] Page lue / pratiquée
 
 #### 16. Monitoring et maintenance
-- **Lien :** `/docs/services/bdd/relationnelles/postgresql/monitoring-maintenance/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/bdd/relationnelles/postgresql/monitoring-maintenance/](https://blog.stephane-robert.info/docs/services/bdd/relationnelles/postgresql/monitoring-maintenance/)
 - **Pourquoi ici :** Dans la phase « Bases de données », « Monitoring et maintenance » (bdd › relationnelles › postgresql › monitoring-maintenance) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Monitoring et maintenance
@@ -177,7 +188,7 @@ Données persistantes : fondamentaux relationnels, PostgreSQL en profondeur, pui
 - [ ] Page lue / pratiquée
 
 #### 17. MySQL
-- **Lien :** `/docs/services/bdd/relationnelles/mysql/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/bdd/relationnelles/mysql/](https://blog.stephane-robert.info/docs/services/bdd/relationnelles/mysql/)
 - **Pourquoi ici :** Dans la phase « Bases de données », « MySQL » (bdd › relationnelles › mysql) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : MySQL
@@ -186,7 +197,7 @@ Données persistantes : fondamentaux relationnels, PostgreSQL en profondeur, pui
 - [ ] Page lue / pratiquée
 
 #### 18. Découvrir MySQL
-- **Lien :** `/docs/services/bdd/relationnelles/mysql/decouvrir-mysql/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/bdd/relationnelles/mysql/decouvrir-mysql/](https://blog.stephane-robert.info/docs/services/bdd/relationnelles/mysql/decouvrir-mysql/)
 - **Pourquoi ici :** Dans la phase « Bases de données », « Découvrir MySQL » (bdd › relationnelles › mysql › decouvrir-mysql) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Découvrir MySQL
@@ -195,7 +206,7 @@ Données persistantes : fondamentaux relationnels, PostgreSQL en profondeur, pui
 - [ ] Page lue / pratiquée
 
 #### 19. Installation
-- **Lien :** `/docs/services/bdd/relationnelles/mysql/installation/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/bdd/relationnelles/mysql/installation/](https://blog.stephane-robert.info/docs/services/bdd/relationnelles/mysql/installation/)
 - **Pourquoi ici :** Dans la phase « Bases de données », « Installation » (bdd › relationnelles › mysql › installation) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Installation
@@ -204,7 +215,7 @@ Données persistantes : fondamentaux relationnels, PostgreSQL en profondeur, pui
 - [ ] Page lue / pratiquée
 
 #### 20. Prise en main de mysql
-- **Lien :** `/docs/services/bdd/relationnelles/mysql/prise-en-main-mysql-cli/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/bdd/relationnelles/mysql/prise-en-main-mysql-cli/](https://blog.stephane-robert.info/docs/services/bdd/relationnelles/mysql/prise-en-main-mysql-cli/)
 - **Pourquoi ici :** Dans la phase « Bases de données », « Prise en main de mysql » (bdd › relationnelles › mysql › prise-en-main-mysql-cli) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Prise en main de mysql
@@ -213,7 +224,7 @@ Données persistantes : fondamentaux relationnels, PostgreSQL en profondeur, pui
 - [ ] Page lue / pratiquée
 
 #### 21. Configuration
-- **Lien :** `/docs/services/bdd/relationnelles/mysql/configuration/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/bdd/relationnelles/mysql/configuration/](https://blog.stephane-robert.info/docs/services/bdd/relationnelles/mysql/configuration/)
 - **Pourquoi ici :** Dans la phase « Bases de données », « Configuration » (bdd › relationnelles › mysql › configuration) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Configuration
@@ -222,7 +233,7 @@ Données persistantes : fondamentaux relationnels, PostgreSQL en profondeur, pui
 - [ ] Page lue / pratiquée
 
 #### 22. Sécurisation
-- **Lien :** `/docs/services/bdd/relationnelles/mysql/securisation/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/bdd/relationnelles/mysql/securisation/](https://blog.stephane-robert.info/docs/services/bdd/relationnelles/mysql/securisation/)
 - **Pourquoi ici :** Dans la phase « Bases de données », « Sécurisation » (bdd › relationnelles › mysql › securisation) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Sécurisation
@@ -231,7 +242,7 @@ Données persistantes : fondamentaux relationnels, PostgreSQL en profondeur, pui
 - [ ] Page lue / pratiquée
 
 #### 23. Sauvegarde et restauration
-- **Lien :** `/docs/services/bdd/relationnelles/mysql/sauvegarde-restauration/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/bdd/relationnelles/mysql/sauvegarde-restauration/](https://blog.stephane-robert.info/docs/services/bdd/relationnelles/mysql/sauvegarde-restauration/)
 - **Pourquoi ici :** Dans la phase « Bases de données », « Sauvegarde et restauration » (bdd › relationnelles › mysql › sauvegarde-restauration) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Sauvegarde et restauration
@@ -240,7 +251,7 @@ Données persistantes : fondamentaux relationnels, PostgreSQL en profondeur, pui
 - [ ] Page lue / pratiquée
 
 #### 24. Réplication
-- **Lien :** `/docs/services/bdd/relationnelles/mysql/replication/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/bdd/relationnelles/mysql/replication/](https://blog.stephane-robert.info/docs/services/bdd/relationnelles/mysql/replication/)
 - **Pourquoi ici :** Dans la phase « Bases de données », « Réplication » (bdd › relationnelles › mysql › replication) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Réplication
@@ -249,7 +260,7 @@ Données persistantes : fondamentaux relationnels, PostgreSQL en profondeur, pui
 - [ ] Page lue / pratiquée
 
 #### 25. Monitoring et maintenance
-- **Lien :** `/docs/services/bdd/relationnelles/mysql/monitoring-maintenance/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/bdd/relationnelles/mysql/monitoring-maintenance/](https://blog.stephane-robert.info/docs/services/bdd/relationnelles/mysql/monitoring-maintenance/)
 - **Pourquoi ici :** Dans la phase « Bases de données », « Monitoring et maintenance » (bdd › relationnelles › mysql › monitoring-maintenance) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Monitoring et maintenance
@@ -258,7 +269,7 @@ Données persistantes : fondamentaux relationnels, PostgreSQL en profondeur, pui
 - [ ] Page lue / pratiquée
 
 #### 26. SQLite
-- **Lien :** `/docs/services/bdd/relationnelles/sqlite/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/bdd/relationnelles/sqlite/](https://blog.stephane-robert.info/docs/services/bdd/relationnelles/sqlite/)
 - **Pourquoi ici :** Dans la phase « Bases de données », « SQLite » (bdd › relationnelles › sqlite) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : SQLite
@@ -267,7 +278,7 @@ Données persistantes : fondamentaux relationnels, PostgreSQL en profondeur, pui
 - [ ] Page lue / pratiquée
 
 #### 27. Introduction
-- **Lien :** `/docs/services/bdd/vectorielles/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/bdd/vectorielles/](https://blog.stephane-robert.info/docs/services/bdd/vectorielles/)
 - **Pourquoi ici :** Dans la phase « Bases de données », « Introduction » (bdd › vectorielles) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Introduction
@@ -279,7 +290,7 @@ Données persistantes : fondamentaux relationnels, PostgreSQL en profondeur, pui
 Qui accède à quoi : IAM, protocoles (OAuth2/OIDC/SAML), puis Keycloak / authentik / LLDAP.
 
 #### 28. Introduction
-- **Lien :** `/docs/services/identite/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/identite/](https://blog.stephane-robert.info/docs/services/identite/)
 - **Pourquoi ici :** Dans la phase « Identité », « Introduction » (identite) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Introduction
@@ -288,7 +299,7 @@ Qui accède à quoi : IAM, protocoles (OAuth2/OIDC/SAML), puis Keycloak / authen
 - [ ] Page lue / pratiquée
 
 #### 29. Bases de l'IAM
-- **Lien :** `/docs/services/identite/fondamentaux/bases-iam/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/identite/fondamentaux/bases-iam/](https://blog.stephane-robert.info/docs/services/identite/fondamentaux/bases-iam/)
 - **Pourquoi ici :** Dans la phase « Identité », « Bases de l'IAM » (identite › fondamentaux › bases-iam) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Bases de l'IAM
@@ -297,7 +308,7 @@ Qui accède à quoi : IAM, protocoles (OAuth2/OIDC/SAML), puis Keycloak / authen
 - [ ] Page lue / pratiquée
 
 #### 30. Autorisation (RBAC, ABAC, ReBAC)
-- **Lien :** `/docs/services/identite/fondamentaux/autorisation/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/identite/fondamentaux/autorisation/](https://blog.stephane-robert.info/docs/services/identite/fondamentaux/autorisation/)
 - **Pourquoi ici :** Dans la phase « Identité », « Autorisation (RBAC, ABAC, ReBAC) » (identite › fondamentaux › autorisation) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Autorisation (RBAC, ABAC, ReBAC)
@@ -306,7 +317,7 @@ Qui accède à quoi : IAM, protocoles (OAuth2/OIDC/SAML), puis Keycloak / authen
 - [ ] Page lue / pratiquée
 
 #### 31. LDAP et annuaires
-- **Lien :** `/docs/services/identite/fondamentaux/ldap-annuaires/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/identite/fondamentaux/ldap-annuaires/](https://blog.stephane-robert.info/docs/services/identite/fondamentaux/ldap-annuaires/)
 - **Pourquoi ici :** Dans la phase « Identité », « LDAP et annuaires » (identite › fondamentaux › ldap-annuaires) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : LDAP et annuaires
@@ -315,7 +326,7 @@ Qui accède à quoi : IAM, protocoles (OAuth2/OIDC/SAML), puis Keycloak / authen
 - [ ] Page lue / pratiquée
 
 #### 32. OAuth 2.0
-- **Lien :** `/docs/services/identite/fondamentaux/oauth2/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/identite/fondamentaux/oauth2/](https://blog.stephane-robert.info/docs/services/identite/fondamentaux/oauth2/)
 - **Pourquoi ici :** Dans la phase « Identité », « OAuth 2.0 » (identite › fondamentaux › oauth2) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : OAuth 2.0
@@ -324,7 +335,7 @@ Qui accède à quoi : IAM, protocoles (OAuth2/OIDC/SAML), puis Keycloak / authen
 - [ ] Page lue / pratiquée
 
 #### 33. OpenID Connect
-- **Lien :** `/docs/services/identite/fondamentaux/oidc/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/identite/fondamentaux/oidc/](https://blog.stephane-robert.info/docs/services/identite/fondamentaux/oidc/)
 - **Pourquoi ici :** Dans la phase « Identité », « OpenID Connect » (identite › fondamentaux › oidc) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : OpenID Connect
@@ -333,7 +344,7 @@ Qui accède à quoi : IAM, protocoles (OAuth2/OIDC/SAML), puis Keycloak / authen
 - [ ] Page lue / pratiquée
 
 #### 34. SAML 2.0
-- **Lien :** `/docs/services/identite/fondamentaux/saml/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/identite/fondamentaux/saml/](https://blog.stephane-robert.info/docs/services/identite/fondamentaux/saml/)
 - **Pourquoi ici :** Dans la phase « Identité », « SAML 2.0 » (identite › fondamentaux › saml) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : SAML 2.0
@@ -342,7 +353,7 @@ Qui accède à quoi : IAM, protocoles (OAuth2/OIDC/SAML), puis Keycloak / authen
 - [ ] Page lue / pratiquée
 
 #### 35. SCIM
-- **Lien :** `/docs/services/identite/fondamentaux/scim/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/identite/fondamentaux/scim/](https://blog.stephane-robert.info/docs/services/identite/fondamentaux/scim/)
 - **Pourquoi ici :** Dans la phase « Identité », « SCIM » (identite › fondamentaux › scim) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : SCIM
@@ -351,7 +362,7 @@ Qui accède à quoi : IAM, protocoles (OAuth2/OIDC/SAML), puis Keycloak / authen
 - [ ] Page lue / pratiquée
 
 #### 36. MFA et WebAuthn
-- **Lien :** `/docs/services/identite/fondamentaux/mfa-webauthn/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/identite/fondamentaux/mfa-webauthn/](https://blog.stephane-robert.info/docs/services/identite/fondamentaux/mfa-webauthn/)
 - **Pourquoi ici :** Dans la phase « Identité », « MFA et WebAuthn » (identite › fondamentaux › mfa-webauthn) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : MFA et WebAuthn
@@ -360,7 +371,7 @@ Qui accède à quoi : IAM, protocoles (OAuth2/OIDC/SAML), puis Keycloak / authen
 - [ ] Page lue / pratiquée
 
 #### 37. Sécurité opérationnelle
-- **Lien :** `/docs/services/identite/fondamentaux/securite-operationnelle/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/identite/fondamentaux/securite-operationnelle/](https://blog.stephane-robert.info/docs/services/identite/fondamentaux/securite-operationnelle/)
 - **Pourquoi ici :** Dans la phase « Identité », « Sécurité opérationnelle » (identite › fondamentaux › securite-operationnelle) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Sécurité opérationnelle
@@ -369,7 +380,7 @@ Qui accède à quoi : IAM, protocoles (OAuth2/OIDC/SAML), puis Keycloak / authen
 - [ ] Page lue / pratiquée
 
 #### 38. LLDAP
-- **Lien :** `/docs/services/identite/lldap/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/identite/lldap/](https://blog.stephane-robert.info/docs/services/identite/lldap/)
 - **Pourquoi ici :** Dans la phase « Identité », « LLDAP » (identite › lldap) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : LLDAP
@@ -378,7 +389,7 @@ Qui accède à quoi : IAM, protocoles (OAuth2/OIDC/SAML), puis Keycloak / authen
 - [ ] Page lue / pratiquée
 
 #### 39. Keycloak
-- **Lien :** `/docs/services/identite/keycloak/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/identite/keycloak/](https://blog.stephane-robert.info/docs/services/identite/keycloak/)
 - **Pourquoi ici :** Dans la phase « Identité », « Keycloak » (identite › keycloak) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Keycloak
@@ -387,7 +398,7 @@ Qui accède à quoi : IAM, protocoles (OAuth2/OIDC/SAML), puis Keycloak / authen
 - [ ] Page lue / pratiquée
 
 #### 40. Plan de formation
-- **Lien :** `/docs/services/identite/keycloak/formation/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/identite/keycloak/formation/](https://blog.stephane-robert.info/docs/services/identite/keycloak/formation/)
 - **Pourquoi ici :** Dans la phase « Identité », « Plan de formation » (identite › keycloak › formation) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Plan de formation
@@ -396,7 +407,7 @@ Qui accède à quoi : IAM, protocoles (OAuth2/OIDC/SAML), puis Keycloak / authen
 - [ ] Page lue / pratiquée
 
 #### 41. Installation de Keycloak
-- **Lien :** `/docs/services/identite/keycloak/installation/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/identite/keycloak/installation/](https://blog.stephane-robert.info/docs/services/identite/keycloak/installation/)
 - **Pourquoi ici :** Dans la phase « Identité », « Installation de Keycloak » (identite › keycloak › installation) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Installation de Keycloak
@@ -405,7 +416,7 @@ Qui accède à quoi : IAM, protocoles (OAuth2/OIDC/SAML), puis Keycloak / authen
 - [ ] Page lue / pratiquée
 
 #### 42. Administration de Keycloak
-- **Lien :** `/docs/services/identite/keycloak/administration/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/identite/keycloak/administration/](https://blog.stephane-robert.info/docs/services/identite/keycloak/administration/)
 - **Pourquoi ici :** Dans la phase « Identité », « Administration de Keycloak » (identite › keycloak › administration) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Administration de Keycloak
@@ -414,7 +425,7 @@ Qui accède à quoi : IAM, protocoles (OAuth2/OIDC/SAML), puis Keycloak / authen
 - [ ] Page lue / pratiquée
 
 #### 43. Fédérer un annuaire LDAP/AD
-- **Lien :** `/docs/services/identite/keycloak/federation-ldap/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/identite/keycloak/federation-ldap/](https://blog.stephane-robert.info/docs/services/identite/keycloak/federation-ldap/)
 - **Pourquoi ici :** Dans la phase « Identité », « Fédérer un annuaire LDAP/AD » (identite › keycloak › federation-ldap) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Fédérer un annuaire LDAP/AD
@@ -423,7 +434,7 @@ Qui accède à quoi : IAM, protocoles (OAuth2/OIDC/SAML), puis Keycloak / authen
 - [ ] Page lue / pratiquée
 
 #### 44. Sécuriser une application (OIDC)
-- **Lien :** `/docs/services/identite/keycloak/securiser-application-oidc/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/identite/keycloak/securiser-application-oidc/](https://blog.stephane-robert.info/docs/services/identite/keycloak/securiser-application-oidc/)
 - **Pourquoi ici :** Dans la phase « Identité », « Sécuriser une application (OIDC) » (identite › keycloak › securiser-application-oidc) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Sécuriser une application (OIDC)
@@ -432,7 +443,7 @@ Qui accède à quoi : IAM, protocoles (OAuth2/OIDC/SAML), puis Keycloak / authen
 - [ ] Page lue / pratiquée
 
 #### 45. Déployer sur Kubernetes (Operator)
-- **Lien :** `/docs/services/identite/keycloak/kubernetes/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/identite/keycloak/kubernetes/](https://blog.stephane-robert.info/docs/services/identite/keycloak/kubernetes/)
 - **Pourquoi ici :** Dans la phase « Identité », « Déployer sur Kubernetes (Operator) » (identite › keycloak › kubernetes) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Déployer sur Kubernetes (Operator)
@@ -441,7 +452,7 @@ Qui accède à quoi : IAM, protocoles (OAuth2/OIDC/SAML), puis Keycloak / authen
 - [ ] Page lue / pratiquée
 
 #### 46. Comprendre authentik
-- **Lien :** `/docs/services/identite/authentik/comprendre/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/identite/authentik/comprendre/](https://blog.stephane-robert.info/docs/services/identite/authentik/comprendre/)
 - **Pourquoi ici :** Dans la phase « Identité », « Comprendre authentik » (identite › authentik › comprendre) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Comprendre authentik
@@ -450,7 +461,7 @@ Qui accède à quoi : IAM, protocoles (OAuth2/OIDC/SAML), puis Keycloak / authen
 - [ ] Page lue / pratiquée
 
 #### 47. Installation Docker Compose
-- **Lien :** `/docs/services/identite/authentik/installation-docker-compose/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/identite/authentik/installation-docker-compose/](https://blog.stephane-robert.info/docs/services/identite/authentik/installation-docker-compose/)
 - **Pourquoi ici :** Dans la phase « Identité », « Installation Docker Compose » (identite › authentik › installation-docker-compose) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Installation Docker Compose
@@ -462,7 +473,7 @@ Qui accède à quoi : IAM, protocoles (OAuth2/OIDC/SAML), puis Keycloak / authen
 Du partage classique (NFS/SMB/iSCSI) au objet S3-compatible, puis distribué et stockage K8s.
 
 #### 48. Introduction
-- **Lien :** `/docs/services/stockage/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/stockage/](https://blog.stephane-robert.info/docs/services/stockage/)
 - **Pourquoi ici :** Dans la phase « Stockage », « Introduction » (stockage) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Introduction
@@ -471,7 +482,7 @@ Du partage classique (NFS/SMB/iSCSI) au objet S3-compatible, puis distribué et 
 - [ ] Page lue / pratiquée
 
 #### 49. NFS
-- **Lien :** `/docs/services/stockage/nfs/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/stockage/nfs/](https://blog.stephane-robert.info/docs/services/stockage/nfs/)
 - **Pourquoi ici :** Dans la phase « Stockage », « NFS » (stockage › nfs) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : NFS
@@ -480,7 +491,7 @@ Du partage classique (NFS/SMB/iSCSI) au objet S3-compatible, puis distribué et 
 - [ ] Page lue / pratiquée
 
 #### 50. SMB/CIFS (Samba)
-- **Lien :** `/docs/services/stockage/smb/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/stockage/smb/](https://blog.stephane-robert.info/docs/services/stockage/smb/)
 - **Pourquoi ici :** Dans la phase « Stockage », « SMB/CIFS (Samba) » (stockage › smb) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : SMB/CIFS (Samba)
@@ -489,7 +500,7 @@ Du partage classique (NFS/SMB/iSCSI) au objet S3-compatible, puis distribué et 
 - [ ] Page lue / pratiquée
 
 #### 51. iSCSI
-- **Lien :** `/docs/services/stockage/iscsi/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/stockage/iscsi/](https://blog.stephane-robert.info/docs/services/stockage/iscsi/)
 - **Pourquoi ici :** Dans la phase « Stockage », « iSCSI » (stockage › iscsi) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : iSCSI
@@ -498,7 +509,7 @@ Du partage classique (NFS/SMB/iSCSI) au objet S3-compatible, puis distribué et 
 - [ ] Page lue / pratiquée
 
 #### 52. Le Stockage Objet MinIO
-- **Lien :** `/docs/services/stockage/minio/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/stockage/minio/](https://blog.stephane-robert.info/docs/services/stockage/minio/)
 - **Pourquoi ici :** Dans la phase « Stockage », « Le Stockage Objet MinIO » (stockage › minio) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Le Stockage Objet MinIO
@@ -507,7 +518,7 @@ Du partage classique (NFS/SMB/iSCSI) au objet S3-compatible, puis distribué et 
 - [ ] Page lue / pratiquée
 
 #### 53. Comparatif S3 (alternatives à MinIO)
-- **Lien :** `/docs/services/stockage/comparatif-s3/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/stockage/comparatif-s3/](https://blog.stephane-robert.info/docs/services/stockage/comparatif-s3/)
 - **Pourquoi ici :** Dans la phase « Stockage », « Comparatif S3 (alternatives à MinIO) » (stockage › comparatif-s3) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Comparatif S3 (alternatives à MinIO)
@@ -516,7 +527,7 @@ Du partage classique (NFS/SMB/iSCSI) au objet S3-compatible, puis distribué et 
 - [ ] Page lue / pratiquée
 
 #### 54. Le Stockage Objet Garage
-- **Lien :** `/docs/services/stockage/garage/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/stockage/garage/](https://blog.stephane-robert.info/docs/services/stockage/garage/)
 - **Pourquoi ici :** Dans la phase « Stockage », « Le Stockage Objet Garage » (stockage › garage) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Le Stockage Objet Garage
@@ -525,7 +536,7 @@ Du partage classique (NFS/SMB/iSCSI) au objet S3-compatible, puis distribué et 
 - [ ] Page lue / pratiquée
 
 #### 55. Le Stockage Objet RustFS
-- **Lien :** `/docs/services/stockage/rustfs/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/stockage/rustfs/](https://blog.stephane-robert.info/docs/services/stockage/rustfs/)
 - **Pourquoi ici :** Dans la phase « Stockage », « Le Stockage Objet RustFS » (stockage › rustfs) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Le Stockage Objet RustFS
@@ -534,7 +545,7 @@ Du partage classique (NFS/SMB/iSCSI) au objet S3-compatible, puis distribué et 
 - [ ] Page lue / pratiquée
 
 #### 56. Le Stockage Distribué SeaweedFS
-- **Lien :** `/docs/services/stockage/seaweedfs/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/stockage/seaweedfs/](https://blog.stephane-robert.info/docs/services/stockage/seaweedfs/)
 - **Pourquoi ici :** Dans la phase « Stockage », « Le Stockage Distribué SeaweedFS » (stockage › seaweedfs) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Le Stockage Distribué SeaweedFS
@@ -543,7 +554,7 @@ Du partage classique (NFS/SMB/iSCSI) au objet S3-compatible, puis distribué et 
 - [ ] Page lue / pratiquée
 
 #### 57. Le Stockage Distribué GlusterFS
-- **Lien :** `/docs/services/stockage/glusterfs/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/stockage/glusterfs/](https://blog.stephane-robert.info/docs/services/stockage/glusterfs/)
 - **Pourquoi ici :** Dans la phase « Stockage », « Le Stockage Distribué GlusterFS » (stockage › glusterfs) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Le Stockage Distribué GlusterFS
@@ -552,7 +563,7 @@ Du partage classique (NFS/SMB/iSCSI) au objet S3-compatible, puis distribué et 
 - [ ] Page lue / pratiquée
 
 #### 58. Le Stockage Distribué Ceph
-- **Lien :** `/docs/services/stockage/ceph/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/stockage/ceph/](https://blog.stephane-robert.info/docs/services/stockage/ceph/)
 - **Pourquoi ici :** Dans la phase « Stockage », « Le Stockage Distribué Ceph » (stockage › ceph) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Le Stockage Distribué Ceph
@@ -561,7 +572,7 @@ Du partage classique (NFS/SMB/iSCSI) au objet S3-compatible, puis distribué et 
 - [ ] Page lue / pratiquée
 
 #### 59. Synchronisation de fichiers Syncthing
-- **Lien :** `/docs/services/stockage/syncthing/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/stockage/syncthing/](https://blog.stephane-robert.info/docs/services/stockage/syncthing/)
 - **Pourquoi ici :** Dans la phase « Stockage », « Synchronisation de fichiers Syncthing » (stockage › syncthing) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Synchronisation de fichiers Syncthing
@@ -570,7 +581,7 @@ Du partage classique (NFS/SMB/iSCSI) au objet S3-compatible, puis distribué et 
 - [ ] Page lue / pratiquée
 
 #### 60. Le Stockage Kubernetes Longhorn
-- **Lien :** `/docs/services/stockage/longhorn/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/stockage/longhorn/](https://blog.stephane-robert.info/docs/services/stockage/longhorn/)
 - **Pourquoi ici :** Dans la phase « Stockage », « Le Stockage Kubernetes Longhorn » (stockage › longhorn) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Le Stockage Kubernetes Longhorn
@@ -579,7 +590,7 @@ Du partage classique (NFS/SMB/iSCSI) au objet S3-compatible, puis distribué et 
 - [ ] Page lue / pratiquée
 
 #### 61. Le Stockage Kubernetes OpenEBS
-- **Lien :** `/docs/services/stockage/openebs/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/stockage/openebs/](https://blog.stephane-robert.info/docs/services/stockage/openebs/)
 - **Pourquoi ici :** Dans la phase « Stockage », « Le Stockage Kubernetes OpenEBS » (stockage › openebs) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Le Stockage Kubernetes OpenEBS
@@ -591,7 +602,7 @@ Du partage classique (NFS/SMB/iSCSI) au objet S3-compatible, puis distribué et 
 SSH, temps (NTP), DNS (PowerDNS), reverse-proxy / load-balancer (HAProxy, Traefik).
 
 #### 62. Configuration d'un serveur SSH
-- **Lien :** `/docs/services/reseau/ssh/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/reseau/ssh/](https://blog.stephane-robert.info/docs/services/reseau/ssh/)
 - **Pourquoi ici :** Dans la phase « Réseau services », « Configuration d'un serveur SSH » (reseau › ssh) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Configuration d'un serveur SSH
@@ -600,7 +611,7 @@ SSH, temps (NTP), DNS (PowerDNS), reverse-proxy / load-balancer (HAProxy, Traefi
 - [ ] Page lue / pratiquée
 
 #### 63. Chrony et NTP
-- **Lien :** `/docs/services/reseau/chrony/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/reseau/chrony/](https://blog.stephane-robert.info/docs/services/reseau/chrony/)
 - **Pourquoi ici :** Dans la phase « Réseau services », « Chrony et NTP » (reseau › chrony) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Chrony et NTP
@@ -609,7 +620,7 @@ SSH, temps (NTP), DNS (PowerDNS), reverse-proxy / load-balancer (HAProxy, Traefi
 - [ ] Page lue / pratiquée
 
 #### 64. Installation de PowerDNS
-- **Lien :** `/docs/services/reseau/powerdns/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/reseau/powerdns/](https://blog.stephane-robert.info/docs/services/reseau/powerdns/)
 - **Pourquoi ici :** Dans la phase « Réseau services », « Installation de PowerDNS » (reseau › powerdns) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Installation de PowerDNS
@@ -618,7 +629,7 @@ SSH, temps (NTP), DNS (PowerDNS), reverse-proxy / load-balancer (HAProxy, Traefi
 - [ ] Page lue / pratiquée
 
 #### 65. Poweradmin : interface web
-- **Lien :** `/docs/services/reseau/powerdns/poweradmin/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/reseau/powerdns/poweradmin/](https://blog.stephane-robert.info/docs/services/reseau/powerdns/poweradmin/)
 - **Pourquoi ici :** Dans la phase « Réseau services », « Poweradmin : interface web » (reseau › powerdns › poweradmin) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Poweradmin : interface web
@@ -627,7 +638,7 @@ SSH, temps (NTP), DNS (PowerDNS), reverse-proxy / load-balancer (HAProxy, Traefi
 - [ ] Page lue / pratiquée
 
 #### 66. PowerDNS-Admin (legacy)
-- **Lien :** `/docs/services/reseau/powerdns/powerdns-admin/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/reseau/powerdns/powerdns-admin/](https://blog.stephane-robert.info/docs/services/reseau/powerdns/powerdns-admin/)
 - **Pourquoi ici :** Dans la phase « Réseau services », « PowerDNS-Admin (legacy) » (reseau › powerdns › powerdns-admin) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : PowerDNS-Admin (legacy)
@@ -636,7 +647,7 @@ SSH, temps (NTP), DNS (PowerDNS), reverse-proxy / load-balancer (HAProxy, Traefi
 - [ ] Page lue / pratiquée
 
 #### 67. Introduction
-- **Lien :** `/docs/services/reseau/reverse-proxy/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/reseau/reverse-proxy/](https://blog.stephane-robert.info/docs/services/reseau/reverse-proxy/)
 - **Pourquoi ici :** Dans la phase « Réseau services », « Introduction » (reseau › reverse-proxy) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Introduction
@@ -645,7 +656,7 @@ SSH, temps (NTP), DNS (PowerDNS), reverse-proxy / load-balancer (HAProxy, Traefi
 - [ ] Page lue / pratiquée
 
 #### 68. Exposer des Services Web avec HAProxy
-- **Lien :** `/docs/services/reseau/haproxy/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/reseau/haproxy/](https://blog.stephane-robert.info/docs/services/reseau/haproxy/)
 - **Pourquoi ici :** Dans la phase « Réseau services », « Exposer des Services Web avec HAProxy » (reseau › haproxy) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Exposer des Services Web avec HAProxy
@@ -654,7 +665,7 @@ SSH, temps (NTP), DNS (PowerDNS), reverse-proxy / load-balancer (HAProxy, Traefi
 - [ ] Page lue / pratiquée
 
 #### 69. Introduction
-- **Lien :** `/docs/services/reseau/traefik/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/reseau/traefik/](https://blog.stephane-robert.info/docs/services/reseau/traefik/)
 - **Pourquoi ici :** Dans la phase « Réseau services », « Introduction » (reseau › traefik) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Introduction
@@ -663,7 +674,7 @@ SSH, temps (NTP), DNS (PowerDNS), reverse-proxy / load-balancer (HAProxy, Traefi
 - [ ] Page lue / pratiquée
 
 #### 70. Installation
-- **Lien :** `/docs/services/reseau/traefik-installation/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/reseau/traefik-installation/](https://blog.stephane-robert.info/docs/services/reseau/traefik-installation/)
 - **Pourquoi ici :** Dans la phase « Réseau services », « Installation » (reseau › traefik-installation) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Installation
@@ -672,7 +683,7 @@ SSH, temps (NTP), DNS (PowerDNS), reverse-proxy / load-balancer (HAProxy, Traefi
 - [ ] Page lue / pratiquée
 
 #### 71. Docker
-- **Lien :** `/docs/services/reseau/traefik-docker/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/reseau/traefik-docker/](https://blog.stephane-robert.info/docs/services/reseau/traefik-docker/)
 - **Pourquoi ici :** Dans la phase « Réseau services », « Docker » (reseau › traefik-docker) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Docker
@@ -681,7 +692,7 @@ SSH, temps (NTP), DNS (PowerDNS), reverse-proxy / load-balancer (HAProxy, Traefi
 - [ ] Page lue / pratiquée
 
 #### 72. SSL/TLS & Let's Encrypt
-- **Lien :** `/docs/services/reseau/traefik-tls-acme/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/reseau/traefik-tls-acme/](https://blog.stephane-robert.info/docs/services/reseau/traefik-tls-acme/)
 - **Pourquoi ici :** Dans la phase « Réseau services », « SSL/TLS & Let's Encrypt » (reseau › traefik-tls-acme) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : SSL/TLS & Let's Encrypt
@@ -690,7 +701,7 @@ SSH, temps (NTP), DNS (PowerDNS), reverse-proxy / load-balancer (HAProxy, Traefi
 - [ ] Page lue / pratiquée
 
 #### 73. Middlewares
-- **Lien :** `/docs/services/reseau/traefik-middlewares/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/reseau/traefik-middlewares/](https://blog.stephane-robert.info/docs/services/reseau/traefik-middlewares/)
 - **Pourquoi ici :** Dans la phase « Réseau services », « Middlewares » (reseau › traefik-middlewares) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Middlewares
@@ -699,7 +710,7 @@ SSH, temps (NTP), DNS (PowerDNS), reverse-proxy / load-balancer (HAProxy, Traefi
 - [ ] Page lue / pratiquée
 
 #### 74. Sécurité
-- **Lien :** `/docs/services/reseau/traefik-securite/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/reseau/traefik-securite/](https://blog.stephane-robert.info/docs/services/reseau/traefik-securite/)
 - **Pourquoi ici :** Dans la phase « Réseau services », « Sécurité » (reseau › traefik-securite) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Sécurité
@@ -708,7 +719,7 @@ SSH, temps (NTP), DNS (PowerDNS), reverse-proxy / load-balancer (HAProxy, Traefi
 - [ ] Page lue / pratiquée
 
 #### 75. Observabilité
-- **Lien :** `/docs/services/reseau/traefik-observability/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/reseau/traefik-observability/](https://blog.stephane-robert.info/docs/services/reseau/traefik-observability/)
 - **Pourquoi ici :** Dans la phase « Réseau services », « Observabilité » (reseau › traefik-observability) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Observabilité
@@ -717,7 +728,7 @@ SSH, temps (NTP), DNS (PowerDNS), reverse-proxy / load-balancer (HAProxy, Traefi
 - [ ] Page lue / pratiquée
 
 #### 76. Kubernetes
-- **Lien :** `/docs/services/reseau/traefik-kubernetes/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/reseau/traefik-kubernetes/](https://blog.stephane-robert.info/docs/services/reseau/traefik-kubernetes/)
 - **Pourquoi ici :** Dans la phase « Réseau services », « Kubernetes » (reseau › traefik-kubernetes) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Kubernetes
@@ -729,7 +740,7 @@ SSH, temps (NTP), DNS (PowerDNS), reverse-proxy / load-balancer (HAProxy, Traefi
 Planifier et piloter des tâches : cron distribué, Rundeck, Airflow.
 
 #### 77. dkron : cron distribué et HA
-- **Lien :** `/docs/services/scheduling/dkron/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/scheduling/dkron/](https://blog.stephane-robert.info/docs/services/scheduling/dkron/)
 - **Pourquoi ici :** Dans la phase « Scheduling », « dkron : cron distribué et HA » (scheduling › dkron) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : dkron : cron distribué et HA
@@ -738,7 +749,7 @@ Planifier et piloter des tâches : cron distribué, Rundeck, Airflow.
 - [ ] Page lue / pratiquée
 
 #### 78. Rundeck : l'ordonnanceur
-- **Lien :** `/docs/services/scheduling/rundeck/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/scheduling/rundeck/](https://blog.stephane-robert.info/docs/services/scheduling/rundeck/)
 - **Pourquoi ici :** Dans la phase « Scheduling », « Rundeck : l'ordonnanceur » (scheduling › rundeck) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Rundeck : l'ordonnanceur
@@ -747,7 +758,7 @@ Planifier et piloter des tâches : cron distribué, Rundeck, Airflow.
 - [ ] Page lue / pratiquée
 
 #### 79. Installer Rundeck 6
-- **Lien :** `/docs/services/scheduling/rundeck/installer/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/scheduling/rundeck/installer/](https://blog.stephane-robert.info/docs/services/scheduling/rundeck/installer/)
 - **Pourquoi ici :** Dans la phase « Scheduling », « Installer Rundeck 6 » (scheduling › rundeck › installer) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Installer Rundeck 6
@@ -756,7 +767,7 @@ Planifier et piloter des tâches : cron distribué, Rundeck, Airflow.
 - [ ] Page lue / pratiquée
 
 #### 80. Introduction sur Apache Airflow
-- **Lien :** `/docs/services/scheduling/apache-airflow/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/scheduling/apache-airflow/](https://blog.stephane-robert.info/docs/services/scheduling/apache-airflow/)
 - **Pourquoi ici :** Dans la phase « Scheduling », « Introduction sur Apache Airflow » (scheduling › apache-airflow) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Introduction sur Apache Airflow
@@ -768,7 +779,7 @@ Planifier et piloter des tâches : cron distribué, Rundeck, Airflow.
 Forges self-managed, runners, gestion d’infra (CMDB/IPAM), supervision de processus.
 
 #### 81. Introduction à Gitea self-managed
-- **Lien :** `/docs/services/devops/gitea/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/devops/gitea/](https://blog.stephane-robert.info/docs/services/devops/gitea/)
 - **Pourquoi ici :** Dans la phase « DevOps tooling », « Introduction à Gitea self-managed » (devops › gitea) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Introduction à Gitea self-managed
@@ -777,7 +788,7 @@ Forges self-managed, runners, gestion d’infra (CMDB/IPAM), supervision de proc
 - [ ] Page lue / pratiquée
 
 #### 82. Gitea : présentation de la forge Git
-- **Lien :** `/docs/services/devops/gitea/presentation/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/devops/gitea/presentation/](https://blog.stephane-robert.info/docs/services/devops/gitea/presentation/)
 - **Pourquoi ici :** Dans la phase « DevOps tooling », « Gitea : présentation de la forge Git » (devops › gitea › presentation) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Gitea : présentation de la forge Git
@@ -786,7 +797,7 @@ Forges self-managed, runners, gestion d’infra (CMDB/IPAM), supervision de proc
 - [ ] Page lue / pratiquée
 
 #### 83. Installer Gitea sur Linux
-- **Lien :** `/docs/services/devops/gitea/installation/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/devops/gitea/installation/](https://blog.stephane-robert.info/docs/services/devops/gitea/installation/)
 - **Pourquoi ici :** Dans la phase « DevOps tooling », « Installer Gitea sur Linux » (devops › gitea › installation) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Installer Gitea sur Linux
@@ -795,7 +806,7 @@ Forges self-managed, runners, gestion d’infra (CMDB/IPAM), supervision de proc
 - [ ] Page lue / pratiquée
 
 #### 84. Configuration initiale
-- **Lien :** `/docs/services/devops/gitea/configuration-initiale/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/devops/gitea/configuration-initiale/](https://blog.stephane-robert.info/docs/services/devops/gitea/configuration-initiale/)
 - **Pourquoi ici :** Dans la phase « DevOps tooling », « Configuration initiale » (devops › gitea › configuration-initiale) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Configuration initiale
@@ -804,7 +815,7 @@ Forges self-managed, runners, gestion d’infra (CMDB/IPAM), supervision de proc
 - [ ] Page lue / pratiquée
 
 #### 85. Sauvegarder et restaurer Gitea
-- **Lien :** `/docs/services/devops/gitea/sauvegarder-restaurer/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/devops/gitea/sauvegarder-restaurer/](https://blog.stephane-robert.info/docs/services/devops/gitea/sauvegarder-restaurer/)
 - **Pourquoi ici :** Dans la phase « DevOps tooling », « Sauvegarder et restaurer Gitea » (devops › gitea › sauvegarder-restaurer) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Sauvegarder et restaurer Gitea
@@ -813,7 +824,7 @@ Forges self-managed, runners, gestion d’infra (CMDB/IPAM), supervision de proc
 - [ ] Page lue / pratiquée
 
 #### 86. Mettre à jour Gitea
-- **Lien :** `/docs/services/devops/gitea/upgrade/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/devops/gitea/upgrade/](https://blog.stephane-robert.info/docs/services/devops/gitea/upgrade/)
 - **Pourquoi ici :** Dans la phase « DevOps tooling », « Mettre à jour Gitea » (devops › gitea › upgrade) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Mettre à jour Gitea
@@ -822,7 +833,7 @@ Forges self-managed, runners, gestion d’infra (CMDB/IPAM), supervision de proc
 - [ ] Page lue / pratiquée
 
 #### 87. Introduction à Forgejo self-managed
-- **Lien :** `/docs/services/devops/forgejo/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/devops/forgejo/](https://blog.stephane-robert.info/docs/services/devops/forgejo/)
 - **Pourquoi ici :** Dans la phase « DevOps tooling », « Introduction à Forgejo self-managed » (devops › forgejo) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Introduction à Forgejo self-managed
@@ -831,7 +842,7 @@ Forges self-managed, runners, gestion d’infra (CMDB/IPAM), supervision de proc
 - [ ] Page lue / pratiquée
 
 #### 88. Forgejo : présentation de la forge Git
-- **Lien :** `/docs/services/devops/forgejo/presentation/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/devops/forgejo/presentation/](https://blog.stephane-robert.info/docs/services/devops/forgejo/presentation/)
 - **Pourquoi ici :** Dans la phase « DevOps tooling », « Forgejo : présentation de la forge Git » (devops › forgejo › presentation) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Forgejo : présentation de la forge Git
@@ -840,7 +851,7 @@ Forges self-managed, runners, gestion d’infra (CMDB/IPAM), supervision de proc
 - [ ] Page lue / pratiquée
 
 #### 89. Installer Forgejo sur Linux
-- **Lien :** `/docs/services/devops/forgejo/installation/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/devops/forgejo/installation/](https://blog.stephane-robert.info/docs/services/devops/forgejo/installation/)
 - **Pourquoi ici :** Dans la phase « DevOps tooling », « Installer Forgejo sur Linux » (devops › forgejo › installation) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Installer Forgejo sur Linux
@@ -849,7 +860,7 @@ Forges self-managed, runners, gestion d’infra (CMDB/IPAM), supervision de proc
 - [ ] Page lue / pratiquée
 
 #### 90. Configuration initiale
-- **Lien :** `/docs/services/devops/forgejo/configuration-initiale/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/devops/forgejo/configuration-initiale/](https://blog.stephane-robert.info/docs/services/devops/forgejo/configuration-initiale/)
 - **Pourquoi ici :** Dans la phase « DevOps tooling », « Configuration initiale » (devops › forgejo › configuration-initiale) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Configuration initiale
@@ -858,7 +869,7 @@ Forges self-managed, runners, gestion d’infra (CMDB/IPAM), supervision de proc
 - [ ] Page lue / pratiquée
 
 #### 91. Sauvegarder et restaurer Forgejo
-- **Lien :** `/docs/services/devops/forgejo/sauvegarder-restaurer/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/devops/forgejo/sauvegarder-restaurer/](https://blog.stephane-robert.info/docs/services/devops/forgejo/sauvegarder-restaurer/)
 - **Pourquoi ici :** Dans la phase « DevOps tooling », « Sauvegarder et restaurer Forgejo » (devops › forgejo › sauvegarder-restaurer) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Sauvegarder et restaurer Forgejo
@@ -867,7 +878,7 @@ Forges self-managed, runners, gestion d’infra (CMDB/IPAM), supervision de proc
 - [ ] Page lue / pratiquée
 
 #### 92. Mettre à jour Forgejo
-- **Lien :** `/docs/services/devops/forgejo/upgrade/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/devops/forgejo/upgrade/](https://blog.stephane-robert.info/docs/services/devops/forgejo/upgrade/)
 - **Pourquoi ici :** Dans la phase « DevOps tooling », « Mettre à jour Forgejo » (devops › forgejo › upgrade) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Mettre à jour Forgejo
@@ -876,7 +887,7 @@ Forges self-managed, runners, gestion d’infra (CMDB/IPAM), supervision de proc
 - [ ] Page lue / pratiquée
 
 #### 93. Introduction à GitLab self-managed
-- **Lien :** `/docs/services/devops/gitlab/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/devops/gitlab/](https://blog.stephane-robert.info/docs/services/devops/gitlab/)
 - **Pourquoi ici :** Dans la phase « DevOps tooling », « Introduction à GitLab self-managed » (devops › gitlab) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Introduction à GitLab self-managed
@@ -885,7 +896,7 @@ Forges self-managed, runners, gestion d’infra (CMDB/IPAM), supervision de proc
 - [ ] Page lue / pratiquée
 
 #### 94. GitLab : plateforme DevSecOps complète
-- **Lien :** `/docs/services/devops/gitlab/presentation/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/devops/gitlab/presentation/](https://blog.stephane-robert.info/docs/services/devops/gitlab/presentation/)
 - **Pourquoi ici :** Dans la phase « DevOps tooling », « GitLab : plateforme DevSecOps complète » (devops › gitlab › presentation) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : GitLab : plateforme DevSecOps complète
@@ -894,7 +905,7 @@ Forges self-managed, runners, gestion d’infra (CMDB/IPAM), supervision de proc
 - [ ] Page lue / pratiquée
 
 #### 95. Installer GitLab CE sur Linux
-- **Lien :** `/docs/services/devops/gitlab/installation/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/devops/gitlab/installation/](https://blog.stephane-robert.info/docs/services/devops/gitlab/installation/)
 - **Pourquoi ici :** Dans la phase « DevOps tooling », « Installer GitLab CE sur Linux » (devops › gitlab › installation) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Installer GitLab CE sur Linux
@@ -903,7 +914,7 @@ Forges self-managed, runners, gestion d’infra (CMDB/IPAM), supervision de proc
 - [ ] Page lue / pratiquée
 
 #### 96. Configuration initiale
-- **Lien :** `/docs/services/devops/gitlab/configuration-initiale/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/devops/gitlab/configuration-initiale/](https://blog.stephane-robert.info/docs/services/devops/gitlab/configuration-initiale/)
 - **Pourquoi ici :** Dans la phase « DevOps tooling », « Configuration initiale » (devops › gitlab › configuration-initiale) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Configuration initiale
@@ -912,7 +923,7 @@ Forges self-managed, runners, gestion d’infra (CMDB/IPAM), supervision de proc
 - [ ] Page lue / pratiquée
 
 #### 97. GitLab Runner : installation et configuration
-- **Lien :** `/docs/services/devops/gitlab/runner/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/devops/gitlab/runner/](https://blog.stephane-robert.info/docs/services/devops/gitlab/runner/)
 - **Pourquoi ici :** Dans la phase « DevOps tooling », « GitLab Runner : installation et configuration » (devops › gitlab › runner) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : GitLab Runner : installation et configuration
@@ -921,7 +932,7 @@ Forges self-managed, runners, gestion d’infra (CMDB/IPAM), supervision de proc
 - [ ] Page lue / pratiquée
 
 #### 98. Runners GitLab sur Kubernetes
-- **Lien :** `/docs/services/devops/gitlab/runner-kubernetes/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/devops/gitlab/runner-kubernetes/](https://blog.stephane-robert.info/docs/services/devops/gitlab/runner-kubernetes/)
 - **Pourquoi ici :** Dans la phase « DevOps tooling », « Runners GitLab sur Kubernetes » (devops › gitlab › runner-kubernetes) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Runners GitLab sur Kubernetes
@@ -930,7 +941,7 @@ Forges self-managed, runners, gestion d’infra (CMDB/IPAM), supervision de proc
 - [ ] Page lue / pratiquée
 
 #### 99. Sauvegarder et restaurer GitLab
-- **Lien :** `/docs/services/devops/gitlab/sauvegarder-restaurer/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/devops/gitlab/sauvegarder-restaurer/](https://blog.stephane-robert.info/docs/services/devops/gitlab/sauvegarder-restaurer/)
 - **Pourquoi ici :** Dans la phase « DevOps tooling », « Sauvegarder et restaurer GitLab » (devops › gitlab › sauvegarder-restaurer) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Sauvegarder et restaurer GitLab
@@ -939,7 +950,7 @@ Forges self-managed, runners, gestion d’infra (CMDB/IPAM), supervision de proc
 - [ ] Page lue / pratiquée
 
 #### 100. Mettre à jour GitLab
-- **Lien :** `/docs/services/devops/gitlab/upgrade/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/devops/gitlab/upgrade/](https://blog.stephane-robert.info/docs/services/devops/gitlab/upgrade/)
 - **Pourquoi ici :** Dans la phase « DevOps tooling », « Mettre à jour GitLab » (devops › gitlab › upgrade) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Mettre à jour GitLab
@@ -948,7 +959,7 @@ Forges self-managed, runners, gestion d’infra (CMDB/IPAM), supervision de proc
 - [ ] Page lue / pratiquée
 
 #### 101. Vue d'ensemble
-- **Lien :** `/docs/services/devops/garm/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/devops/garm/](https://blog.stephane-robert.info/docs/services/devops/garm/)
 - **Pourquoi ici :** Dans la phase « DevOps tooling », « Vue d'ensemble » (devops › garm) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Vue d'ensemble
@@ -957,7 +968,7 @@ Forges self-managed, runners, gestion d’infra (CMDB/IPAM), supervision de proc
 - [ ] Page lue / pratiquée
 
 #### 102. Installation
-- **Lien :** `/docs/services/devops/garm/installation/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/devops/garm/installation/](https://blog.stephane-robert.info/docs/services/devops/garm/installation/)
 - **Pourquoi ici :** Dans la phase « DevOps tooling », « Installation » (devops › garm › installation) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Installation
@@ -966,7 +977,7 @@ Forges self-managed, runners, gestion d’infra (CMDB/IPAM), supervision de proc
 - [ ] Page lue / pratiquée
 
 #### 103. Intégration Gitea
-- **Lien :** `/docs/services/devops/garm/integration-gitea/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/devops/garm/integration-gitea/](https://blog.stephane-robert.info/docs/services/devops/garm/integration-gitea/)
 - **Pourquoi ici :** Dans la phase « DevOps tooling », « Intégration Gitea » (devops › garm › integration-gitea) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Intégration Gitea
@@ -975,7 +986,7 @@ Forges self-managed, runners, gestion d’infra (CMDB/IPAM), supervision de proc
 - [ ] Page lue / pratiquée
 
 #### 104. Plane : alternative open-source à Jira
-- **Lien :** `/docs/services/devops/plane/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/devops/plane/](https://blog.stephane-robert.info/docs/services/devops/plane/)
 - **Pourquoi ici :** Dans la phase « DevOps tooling », « Plane : alternative open-source à Jira » (devops › plane) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Plane : alternative open-source à Jira
@@ -984,7 +995,7 @@ Forges self-managed, runners, gestion d’infra (CMDB/IPAM), supervision de proc
 - [ ] Page lue / pratiquée
 
 #### 105. CMDB : La cartographie de l'infrastructure
-- **Lien :** `/docs/services/gestion/cmdb/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/gestion/cmdb/](https://blog.stephane-robert.info/docs/services/gestion/cmdb/)
 - **Pourquoi ici :** Dans la phase « DevOps tooling », « CMDB : La cartographie de l'infrastructure » (gestion › cmdb) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : CMDB : La cartographie de l'infrastructure
@@ -993,7 +1004,7 @@ Forges self-managed, runners, gestion d’infra (CMDB/IPAM), supervision de proc
 - [ ] Page lue / pratiquée
 
 #### 106. IPAM : Gestion des Adresses IP
-- **Lien :** `/docs/services/gestion/ipam/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/gestion/ipam/](https://blog.stephane-robert.info/docs/services/gestion/ipam/)
 - **Pourquoi ici :** Dans la phase « DevOps tooling », « IPAM : Gestion des Adresses IP » (gestion › ipam) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : IPAM : Gestion des Adresses IP
@@ -1002,7 +1013,7 @@ Forges self-managed, runners, gestion d’infra (CMDB/IPAM), supervision de proc
 - [ ] Page lue / pratiquée
 
 #### 107. Processus
-- **Lien :** `/docs/services/processus/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/processus/](https://blog.stephane-robert.info/docs/services/processus/)
 - **Pourquoi ici :** Dans la phase « DevOps tooling », « Processus » (processus) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Processus
@@ -1011,7 +1022,7 @@ Forges self-managed, runners, gestion d’infra (CMDB/IPAM), supervision de proc
 - [ ] Page lue / pratiquée
 
 #### 108. Supervisor
-- **Lien :** `/docs/services/processus/supervisor/`
+- **Lien :** [https://blog.stephane-robert.info/docs/services/processus/supervisor/](https://blog.stephane-robert.info/docs/services/processus/supervisor/)
 - **Pourquoi ici :** Dans la phase « DevOps tooling », « Supervisor » (processus › supervisor) vient après les prérequis immédiats de la même famille. Lisez-la pour progresser sans sauter d’étape, puis pratiquez minimalement avant de continuer.
 - **À retenir :**
   - Idée centrale : Supervisor
@@ -1028,14 +1039,3 @@ Forges self-managed, runners, gestion d’infra (CMDB/IPAM), supervision de proc
 - Exposer des services via Traefik/HAProxy avec TLS
 - Installer une forge Git self-managed et ses runners
 - Ordonnancer des jobs (Rundeck/Airflow/dkron)
-
-## Checklist globale
-
-- [ ] Phase A — Services web terminée
-- [ ] Phase B — Bases de données terminée
-- [ ] Phase C — Identité terminée
-- [ ] Phase D — Stockage terminée
-- [ ] Phase E — Réseau services terminée
-- [ ] Phase F — Scheduling terminée
-- [ ] Phase G — Tooling DevOps terminée
-- [ ] Dossier validé
