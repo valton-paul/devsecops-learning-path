@@ -7,7 +7,7 @@
 ## Checklist globale
 
 - [x] Phase A — Cadre métier terminée
-- [ ] Phase B — Lab installé (VM ou VPS)
+- [x] Phase B — Lab installé (VM ou VPS)
 - [ ] Phases C–F — Fondamentaux validés (fichiers, shell, users, paquets, réseau/logs)
 - [ ] Phases G–I — Exploitation + systemd + maintenance
 - [ ] Phase J — Stockage pratiqué (au moins partitions + LVM + fstab)
@@ -217,7 +217,7 @@ Choisir une distro et installer une VM avant de mémoriser des commandes : le te
   - Commande(s) de vérification
   - Piège classique à éviter
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
 
 
 
@@ -230,7 +230,7 @@ Choisir une distro et installer une VM avant de mémoriser des commandes : le te
   - Commande(s) de vérification
   - Piège classique à éviter
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
 
 
 
@@ -308,8 +308,8 @@ Choisir une distro et installer une VM avant de mémoriser des commandes : le te
   - Commande(s) de vérification
   - Piège classique à éviter
 
-- [ ] Page lue / pratiquée
-
+- [x] Page lue / pratiquée
+- Quiz 6/6
 
 
 #### 20. Anatomie d'une commande
@@ -321,8 +321,8 @@ Choisir une distro et installer une VM avant de mémoriser des commandes : le te
   - Commande(s) de vérification
   - Piège classique à éviter
 
-- [ ] Page lue / pratiquée
-
+- [x] Page lue / pratiquée
+- Quiz 6/6
 
 
 #### 21. Obtenir de l'aide
@@ -334,8 +334,8 @@ Choisir une distro et installer une VM avant de mémoriser des commandes : le te
   - Commande(s) de vérification
   - Piège classique à éviter
 
-- [ ] Page lue / pratiquée
-
+- [x] Page lue / pratiquée
+- Quiz 6/6 
 
 
 ### Phase C — Se repérer dans les fichiers et le texte
