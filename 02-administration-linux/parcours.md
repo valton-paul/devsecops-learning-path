@@ -152,7 +152,7 @@ Choisir une distro et installer une VM avant de mémoriser des commandes : le te
   - Commande(s) de vérification
   - Piège classique à éviter
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
 
 
 
@@ -165,7 +165,7 @@ Choisir une distro et installer une VM avant de mémoriser des commandes : le te
   - Commande(s) de vérification
   - Piège classique à éviter
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
 
 
 
@@ -178,9 +178,9 @@ Choisir une distro et installer une VM avant de mémoriser des commandes : le te
   - Commande(s) de vérification
   - Piège classique à éviter
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
 
-
+- Quiz : 5/6 (False : Par quel mécanisme un programme en mode utilisateur peut-il franchir la frontière vers le mode noyau ? (Les appels système))
 
 #### 10. Choisir une distribution serveur
 
@@ -191,7 +191,7 @@ Choisir une distro et installer une VM avant de mémoriser des commandes : le te
   - Commande(s) de vérification
   - Piège classique à éviter
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
 
 
 
@@ -204,7 +204,7 @@ Choisir une distro et installer une VM avant de mémoriser des commandes : le te
   - Commande(s) de vérification
   - Piège classique à éviter
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
 
 
 
@@ -243,7 +243,7 @@ Choisir une distro et installer une VM avant de mémoriser des commandes : le te
   - Commande(s) de vérification
   - Piège classique à éviter
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
 
 
 
@@ -295,7 +295,7 @@ Choisir une distro et installer une VM avant de mémoriser des commandes : le te
   - Commande(s) de vérification
   - Piège classique à éviter
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
 
 
 
