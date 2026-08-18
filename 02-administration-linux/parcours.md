@@ -6,7 +6,7 @@
 
 ## Checklist globale
 
-- [ ] Phase A — Cadre métier terminée
+- [x] Phase A — Cadre métier terminée
 - [ ] Phase B — Lab installé (VM ou VPS)
 - [ ] Phases C–F — Fondamentaux validés (fichiers, shell, users, paquets, réseau/logs)
 - [ ] Phases G–I — Exploitation + systemd + maintenance
@@ -122,7 +122,7 @@ On commence par le *pourquoi* de l'admin sys (runbooks, toil, dette) avant les c
   - Commande(s) de vérification
   - Piège classique à éviter
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
 
 
 
@@ -135,7 +135,7 @@ On commence par le *pourquoi* de l'admin sys (runbooks, toil, dette) avant les c
   - Commande(s) de vérification
   - Piège classique à éviter
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
 
 
 
