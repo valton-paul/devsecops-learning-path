@@ -364,7 +364,7 @@ FHS, navigation, pipes : le quotidien de tout admin. Sans ça, SSH et systemd re
   - Commande(s) de vérification
   - Piège classique à éviter
 
-- [X] Page lue / pratiquée
+- [] Page lue / pratiquée
 
 
 
