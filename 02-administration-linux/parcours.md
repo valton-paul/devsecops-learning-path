@@ -474,6 +474,8 @@ FHS, navigation, pipes : le quotidien de tout admin. Sans ça, SSH et systemd re
 
 - [x] Page lue / pratiquée
 
+- Quiz 6/6
+
 
 
 #### 31. Redirections et pipes
@@ -485,7 +487,9 @@ FHS, navigation, pipes : le quotidien de tout admin. Sans ça, SSH et systemd re
   - Commande(s) de vérification
   - Piège classique à éviter
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
+
+- Quiz 5/6
 
 
 
@@ -499,6 +503,8 @@ FHS, navigation, pipes : le quotidien de tout admin. Sans ça, SSH et systemd re
   - Piège classique à éviter
 
 - [ ] Page lue / pratiquée
+
+- Quiz ?/6
 
 
 
