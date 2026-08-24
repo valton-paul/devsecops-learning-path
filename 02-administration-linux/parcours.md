@@ -258,7 +258,7 @@ Choisir une distro et installer une VM avant de mémoriser des commandes : le te
   - Commande(s) de vérification
   - Piège classique à éviter
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
 
 
 
@@ -418,7 +418,7 @@ FHS, navigation, pipes : le quotidien de tout admin. Sans ça, SSH et systemd re
   - Commande(s) de vérification
   - Piège classique à éviter
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
 
 
 
@@ -431,7 +431,7 @@ FHS, navigation, pipes : le quotidien de tout admin. Sans ça, SSH et systemd re
   - Commande(s) de vérification
   - Piège classique à éviter
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
 
 
 
@@ -444,7 +444,7 @@ FHS, navigation, pipes : le quotidien de tout admin. Sans ça, SSH et systemd re
   - Commande(s) de vérification
   - Piège classique à éviter
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
 
 
 
@@ -457,7 +457,9 @@ FHS, navigation, pipes : le quotidien de tout admin. Sans ça, SSH et systemd re
   - Commande(s) de vérification
   - Piège classique à éviter
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
+
+- Quiz 5/6
 
 
 
@@ -470,7 +472,7 @@ FHS, navigation, pipes : le quotidien de tout admin. Sans ça, SSH et systemd re
   - Commande(s) de vérification
   - Piège classique à éviter
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
 
 
 
