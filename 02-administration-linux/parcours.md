@@ -182,6 +182,8 @@ Choisir une distro et installer une VM avant de mémoriser des commandes : le te
 
 - Quiz : 5/6 (False : Par quel mécanisme un programme en mode utilisateur peut-il franchir la frontière vers le mode noyau ? (Les appels système))
 
+
+
 #### 10. Choisir une distribution serveur
 
 - **Lien :** [https://blog.stephane-robert.info/docs/admin-serveurs/linux/fondamentaux/decouvrir-linux/distributions-serveur/](https://blog.stephane-robert.info/docs/admin-serveurs/linux/fondamentaux/decouvrir-linux/distributions-serveur/)
@@ -309,7 +311,9 @@ Choisir une distro et installer une VM avant de mémoriser des commandes : le te
   - Piège classique à éviter
 
 - [x] Page lue / pratiquée
+
 - Quiz 6/6
+
 
 
 #### 20. Anatomie d'une commande
@@ -322,7 +326,9 @@ Choisir une distro et installer une VM avant de mémoriser des commandes : le te
   - Piège classique à éviter
 
 - [x] Page lue / pratiquée
+
 - Quiz 6/6
+
 
 
 #### 21. Obtenir de l'aide
@@ -335,7 +341,9 @@ Choisir une distro et installer une VM avant de mémoriser des commandes : le te
   - Piège classique à éviter
 
 - [x] Page lue / pratiquée
-- Quiz 6/6 
+
+- Quiz 6/6
+
 
 
 ### Phase C — Se repérer dans les fichiers et le texte
@@ -364,7 +372,10 @@ FHS, navigation, pipes : le quotidien de tout admin. Sans ça, SSH et systemd re
   - Commande(s) de vérification
   - Piège classique à éviter
 
-- [] Page lue / pratiquée
+- [x] Page lue / pratiquée 
+
+- Quiz 4/6
+- 2nd quiz 6/6
 
 
 
@@ -377,7 +388,9 @@ FHS, navigation, pipes : le quotidien de tout admin. Sans ça, SSH et systemd re
   - Commande(s) de vérification
   - Piège classique à éviter
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
+
+- Quiz 6/6
 
 
 
@@ -390,7 +403,9 @@ FHS, navigation, pipes : le quotidien de tout admin. Sans ça, SSH et systemd re
   - Commande(s) de vérification
   - Piège classique à éviter
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
+
+- Quiz 6/6
 
 
 
