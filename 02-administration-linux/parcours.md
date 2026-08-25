@@ -6,8 +6,8 @@
 
 ## Checklist globale
 
-- [ ] Phase A — Cadre métier terminée
-- [ ] Phase B — Lab installé (VM ou VPS)
+- [x] Phase A — Cadre métier terminée
+- [x] Phase B — Lab installé (VM ou VPS)
 - [ ] Phases C–F — Fondamentaux validés (fichiers, shell, users, paquets, réseau/logs)
 - [ ] Phases G–I — Exploitation + systemd + maintenance
 - [ ] Phase J — Stockage pratiqué (au moins partitions + LVM + fstab)
@@ -17,6 +17,8 @@
 - [ ] Annexes P–Q consultées au besoin
 - [ ] Phase R — (optionnel) plan de certification
 - [ ] Dossier `02-administration-linux` validé — prêt pour `03` / `08` / suite du cursus
+
+
 
 ## Vision du dossier
 
@@ -68,7 +70,7 @@ On commence par le *pourquoi* de l'admin sys (runbooks, toil, dette) avant les c
   - Commande(s) de vérification
   - Piège classique à éviter
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
 
 
 
@@ -81,7 +83,7 @@ On commence par le *pourquoi* de l'admin sys (runbooks, toil, dette) avant les c
   - Commande(s) de vérification
   - Piège classique à éviter
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
 
 
 
@@ -94,7 +96,7 @@ On commence par le *pourquoi* de l'admin sys (runbooks, toil, dette) avant les c
   - Commande(s) de vérification
   - Piège classique à éviter
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
 
 
 
@@ -107,7 +109,7 @@ On commence par le *pourquoi* de l'admin sys (runbooks, toil, dette) avant les c
   - Commande(s) de vérification
   - Piège classique à éviter
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
 
 
 
@@ -120,7 +122,7 @@ On commence par le *pourquoi* de l'admin sys (runbooks, toil, dette) avant les c
   - Commande(s) de vérification
   - Piège classique à éviter
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
 
 
 
@@ -133,7 +135,7 @@ On commence par le *pourquoi* de l'admin sys (runbooks, toil, dette) avant les c
   - Commande(s) de vérification
   - Piège classique à éviter
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
 
 
 
@@ -150,7 +152,7 @@ Choisir une distro et installer une VM avant de mémoriser des commandes : le te
   - Commande(s) de vérification
   - Piège classique à éviter
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
 
 
 
@@ -163,7 +165,7 @@ Choisir une distro et installer une VM avant de mémoriser des commandes : le te
   - Commande(s) de vérification
   - Piège classique à éviter
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
 
 
 
@@ -176,7 +178,9 @@ Choisir une distro et installer une VM avant de mémoriser des commandes : le te
   - Commande(s) de vérification
   - Piège classique à éviter
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
+
+- Quiz : 5/6 (False : Par quel mécanisme un programme en mode utilisateur peut-il franchir la frontière vers le mode noyau ? (Les appels système))
 
 
 
@@ -189,7 +193,7 @@ Choisir une distro et installer une VM avant de mémoriser des commandes : le te
   - Commande(s) de vérification
   - Piège classique à éviter
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
 
 
 
@@ -202,7 +206,7 @@ Choisir une distro et installer une VM avant de mémoriser des commandes : le te
   - Commande(s) de vérification
   - Piège classique à éviter
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
 
 
 
@@ -215,7 +219,7 @@ Choisir une distro et installer une VM avant de mémoriser des commandes : le te
   - Commande(s) de vérification
   - Piège classique à éviter
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
 
 
 
@@ -228,7 +232,7 @@ Choisir une distro et installer une VM avant de mémoriser des commandes : le te
   - Commande(s) de vérification
   - Piège classique à éviter
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
 
 
 
@@ -241,7 +245,7 @@ Choisir une distro et installer une VM avant de mémoriser des commandes : le te
   - Commande(s) de vérification
   - Piège classique à éviter
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
 
 
 
@@ -254,7 +258,7 @@ Choisir une distro et installer une VM avant de mémoriser des commandes : le te
   - Commande(s) de vérification
   - Piège classique à éviter
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
 
 
 
@@ -293,7 +297,7 @@ Choisir une distro et installer une VM avant de mémoriser des commandes : le te
   - Commande(s) de vérification
   - Piège classique à éviter
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
 
 
 
@@ -306,7 +310,9 @@ Choisir une distro et installer une VM avant de mémoriser des commandes : le te
   - Commande(s) de vérification
   - Piège classique à éviter
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
+
+- Quiz 6/6
 
 
 
@@ -319,7 +325,9 @@ Choisir une distro et installer une VM avant de mémoriser des commandes : le te
   - Commande(s) de vérification
   - Piège classique à éviter
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
+
+- Quiz 6/6
 
 
 
@@ -332,7 +340,9 @@ Choisir une distro et installer une VM avant de mémoriser des commandes : le te
   - Commande(s) de vérification
   - Piège classique à éviter
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
+
+- Quiz 6/6
 
 
 
@@ -349,7 +359,7 @@ FHS, navigation, pipes : le quotidien de tout admin. Sans ça, SSH et systemd re
   - Commande(s) de vérification
   - Piège classique à éviter
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
 
 
 
@@ -362,7 +372,10 @@ FHS, navigation, pipes : le quotidien de tout admin. Sans ça, SSH et systemd re
   - Commande(s) de vérification
   - Piège classique à éviter
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée 
+
+- Quiz 4/6
+- 2nd quiz 6/6
 
 
 
@@ -375,7 +388,9 @@ FHS, navigation, pipes : le quotidien de tout admin. Sans ça, SSH et systemd re
   - Commande(s) de vérification
   - Piège classique à éviter
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
+
+- Quiz 6/6
 
 
 
@@ -388,7 +403,9 @@ FHS, navigation, pipes : le quotidien de tout admin. Sans ça, SSH et systemd re
   - Commande(s) de vérification
   - Piège classique à éviter
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
+
+- Quiz 6/6
 
 
 
@@ -401,7 +418,7 @@ FHS, navigation, pipes : le quotidien de tout admin. Sans ça, SSH et systemd re
   - Commande(s) de vérification
   - Piège classique à éviter
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
 
 
 
@@ -414,7 +431,7 @@ FHS, navigation, pipes : le quotidien de tout admin. Sans ça, SSH et systemd re
   - Commande(s) de vérification
   - Piège classique à éviter
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
 
 
 
@@ -427,7 +444,7 @@ FHS, navigation, pipes : le quotidien de tout admin. Sans ça, SSH et systemd re
   - Commande(s) de vérification
   - Piège classique à éviter
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
 
 
 
@@ -440,7 +457,9 @@ FHS, navigation, pipes : le quotidien de tout admin. Sans ça, SSH et systemd re
   - Commande(s) de vérification
   - Piège classique à éviter
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
+
+- Quiz 5/6
 
 
 
@@ -453,7 +472,9 @@ FHS, navigation, pipes : le quotidien de tout admin. Sans ça, SSH et systemd re
   - Commande(s) de vérification
   - Piège classique à éviter
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
+
+- Quiz 6/6
 
 
 
@@ -466,7 +487,9 @@ FHS, navigation, pipes : le quotidien de tout admin. Sans ça, SSH et systemd re
   - Commande(s) de vérification
   - Piège classique à éviter
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
+
+- Quiz 5/6
 
 
 
@@ -480,6 +503,8 @@ FHS, navigation, pipes : le quotidien de tout admin. Sans ça, SSH et systemd re
   - Piège classique à éviter
 
 - [ ] Page lue / pratiquée
+
+- Quiz ?/6
 
 
 
@@ -2936,3 +2961,4 @@ En fin de parcours : LFCS puis RHCSA pour structurer la révision, une fois la p
 - Configurer le réseau Linux (ip, Netplan/NetworkManager) et diagnostiquer
 - Appliquer un socle de sécurisation OS et une méthode de dépannage
 - Situer namespaces/cgroups/eBPF pour la suite (conteneurs, obs)
+
