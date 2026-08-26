@@ -517,8 +517,8 @@ FHS, navigation, pipes : le quotidien de tout admin. Sans ça, SSH et systemd re
   - Commande(s) de vérification
   - Piège classique à éviter
 
-- [ ] Page lue / pratiquée
-
+- [x] Page lue / pratiquée
+- Quiz 6/6
 
 
 #### 34. Vi
@@ -530,8 +530,8 @@ FHS, navigation, pipes : le quotidien de tout admin. Sans ça, SSH et systemd re
   - Commande(s) de vérification
   - Piège classique à éviter
 
-- [ ] Page lue / pratiquée
-
+- [x] Page lue / pratiquée
+- Quiz 5/6
 
 
 ### Phase D — Devenir efficace dans le shell
