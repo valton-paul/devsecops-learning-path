@@ -518,7 +518,9 @@ FHS, navigation, pipes : le quotidien de tout admin. Sans ça, SSH et systemd re
   - Piège classique à éviter
 
 - [x] Page lue / pratiquée
+
 - Quiz 6/6
+
 
 
 #### 34. Vi
@@ -531,7 +533,9 @@ FHS, navigation, pipes : le quotidien de tout admin. Sans ça, SSH et systemd re
   - Piège classique à éviter
 
 - [x] Page lue / pratiquée
+
 - Quiz 5/6
+
 
 
 ### Phase D — Devenir efficace dans le shell
@@ -547,7 +551,7 @@ Bash, variables, expansions, premier script : on automatise ce qu'on vient de fa
   - Commande(s) de vérification
   - Piège classique à éviter
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
 
 
 
@@ -560,9 +564,9 @@ Bash, variables, expansions, premier script : on automatise ce qu'on vient de fa
   - tests [[ ]]
   - fonctions et debug
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
 
-
+- Quiz 6/6
 
 #### 37. Variables d'environnement
 
@@ -573,9 +577,9 @@ Bash, variables, expansions, premier script : on automatise ce qu'on vient de fa
   - Commande(s) de vérification
   - Piège classique à éviter
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
 
-
+- Quiz 5/6
 
 #### 38. Expansions du shell
 
@@ -586,9 +590,9 @@ Bash, variables, expansions, premier script : on automatise ce qu'on vient de fa
   - Commande(s) de vérification
   - Piège classique à éviter
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
 
-
+- Quiz 5/6
 
 #### 39. Personnaliser son shell
 
@@ -599,9 +603,9 @@ Bash, variables, expansions, premier script : on automatise ce qu'on vient de fa
   - Commande(s) de vérification
   - Piège classique à éviter
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
 
-
+- Quiz 6/6
 
 #### 40. Écrire un premier script
 
@@ -612,9 +616,9 @@ Bash, variables, expansions, premier script : on automatise ce qu'on vient de fa
   - tests [[ ]]
   - fonctions et debug
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
 
-
+- Quiz 6/6
 
 ### Phase E — Utilisateurs, droits et processus
 
