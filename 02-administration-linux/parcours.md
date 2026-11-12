@@ -633,7 +633,7 @@ Sécurité et stabilité commencent ici : qui peut quoi, et ce qui tourne sur la
   - Commande(s) de vérification
   - Piège classique à éviter
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
 
 
 
@@ -646,9 +646,9 @@ Sécurité et stabilité commencent ici : qui peut quoi, et ce qui tourne sur la
   - Commande(s) de vérification
   - Piège classique à éviter
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
 
-
+- Quiz 6/6
 
 #### 43. Permissions Linux
 
@@ -659,9 +659,9 @@ Sécurité et stabilité commencent ici : qui peut quoi, et ce qui tourne sur la
   - sudoers ciblé
   - moindre privilège
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
 
-
+- Quiz 6/6
 
 #### 44. Modifier les droits
 
@@ -672,9 +672,9 @@ Sécurité et stabilité commencent ici : qui peut quoi, et ce qui tourne sur la
   - Commande(s) de vérification
   - Piège classique à éviter
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
 
-
+- Quiz 4/6
 
 #### 45. Utiliser sudo
 
