@@ -685,9 +685,9 @@ Sécurité et stabilité commencent ici : qui peut quoi, et ce qui tourne sur la
   - sudoers ciblé
   - moindre privilège
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
 
-
+- Quiz 6/6
 
 #### 46. Comprendre les processus
 
