@@ -8,7 +8,7 @@
 
 - [x] Phase A — Cadre métier terminée
 - [x] Phase B — Lab installé (VM ou VPS)
-- [ ] Phases C–F — Fondamentaux validés (fichiers, shell, users, paquets, réseau/logs)
+- [x] Phases C–F — Fondamentaux validés (fichiers, shell, users, paquets, réseau/logs)
 - [ ] Phases G–I — Exploitation + systemd + maintenance
 - [ ] Phase J — Stockage pratiqué (au moins partitions + LVM + fstab)
 - [ ] Phases K–M — Réseau Linux, sécu socle, dépannage
@@ -793,7 +793,7 @@ Boucler le socle fondamentaux : installer des logiciels, tester le réseau, lire
   - Commande(s) de vérification
   - Piège classique à éviter
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
 
 
 
@@ -806,9 +806,9 @@ Boucler le socle fondamentaux : installer des logiciels, tester le réseau, lire
   - Commande(s) de vérification
   - Piège classique à éviter
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
 
-
+- Quiz 6/6
 
 #### 55. Tester la connectivité
 
@@ -819,9 +819,9 @@ Boucler le socle fondamentaux : installer des logiciels, tester le réseau, lire
   - Commande(s) de vérification
   - Piège classique à éviter
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
 
-
+- Quiz 6/6
 
 #### 56. Lire les logs avec journalctl
 
@@ -832,9 +832,9 @@ Boucler le socle fondamentaux : installer des logiciels, tester le réseau, lire
   - Commande(s) de vérification
   - Piège classique à éviter
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
 
-
+- Quiz 4/6
 
 #### 57. Premiers gestes de dépannage
 
@@ -845,9 +845,9 @@ Boucler le socle fondamentaux : installer des logiciels, tester le réseau, lire
   - Commande(s) de vérification
   - Piège classique à éviter
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
 
-
+- Quiz 5/6
 
 ### Phase G — Exploiter : texte avancé, transferts et SSH
 
