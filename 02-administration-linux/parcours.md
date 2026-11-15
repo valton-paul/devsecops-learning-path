@@ -698,9 +698,9 @@ Sécurité et stabilité commencent ici : qui peut quoi, et ce qui tourne sur la
   - Commande(s) de vérification
   - Piège classique à éviter
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
 
-
+- Quiz 6/6
 
 #### 47. Arrêter un processus
 
@@ -711,9 +711,9 @@ Sécurité et stabilité commencent ici : qui peut quoi, et ce qui tourne sur la
   - Commande(s) de vérification
   - Piège classique à éviter
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
 
-
+- Quiz 6/6
 
 ### Phase F — Paquets, réseau et logs de premier niveau
 
@@ -728,7 +728,7 @@ Boucler le socle fondamentaux : installer des logiciels, tester le réseau, lire
   - Commande(s) de vérification
   - Piège classique à éviter
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
 
 
 
@@ -741,9 +741,9 @@ Boucler le socle fondamentaux : installer des logiciels, tester le réseau, lire
   - MàJ vs upgrade
   - Rollback / historique
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
 
-
+- Quiz 5/6
 
 #### 50. Installer et supprimer des logiciels
 
@@ -754,9 +754,9 @@ Boucler le socle fondamentaux : installer des logiciels, tester le réseau, lire
   - Commande(s) de vérification
   - Piège classique à éviter
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
 
-
+- Quiz 5/6
 
 #### 51. Mettre à jour son système
 
@@ -767,9 +767,9 @@ Boucler le socle fondamentaux : installer des logiciels, tester le réseau, lire
   - Commande(s) de vérification
   - Piège classique à éviter
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
 
-
+- Quiz 5/6
 
 #### 52. Nettoyer et maintenir
 
@@ -780,9 +780,9 @@ Boucler le socle fondamentaux : installer des logiciels, tester le réseau, lire
   - Commande(s) de vérification
   - Piège classique à éviter
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
 
-
+- Quiz 4/6
 
 #### 53. Vue d'ensemble
 
