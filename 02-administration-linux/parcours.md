@@ -8,7 +8,7 @@
 
 - [x] Phase A — Cadre métier terminée
 - [x] Phase B — Lab installé (VM ou VPS)
-- [ ] Phases C–F — Fondamentaux validés (fichiers, shell, users, paquets, réseau/logs)
+- [x] Phases C–F — Fondamentaux validés (fichiers, shell, users, paquets, réseau/logs)
 - [ ] Phases G–I — Exploitation + systemd + maintenance
 - [ ] Phase J — Stockage pratiqué (au moins partitions + LVM + fstab)
 - [ ] Phases K–M — Réseau Linux, sécu socle, dépannage
@@ -502,9 +502,9 @@ FHS, navigation, pipes : le quotidien de tout admin. Sans ça, SSH et systemd re
   - Commande(s) de vérification
   - Piège classique à éviter
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
 
-- Quiz ?/6
+- Quiz 6/6
 
 
 
@@ -517,7 +517,9 @@ FHS, navigation, pipes : le quotidien de tout admin. Sans ça, SSH et systemd re
   - Commande(s) de vérification
   - Piège classique à éviter
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
+
+- Quiz 6/6
 
 
 
@@ -530,7 +532,9 @@ FHS, navigation, pipes : le quotidien de tout admin. Sans ça, SSH et systemd re
   - Commande(s) de vérification
   - Piège classique à éviter
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
+
+- Quiz 5/6
 
 
 
@@ -547,7 +551,7 @@ Bash, variables, expansions, premier script : on automatise ce qu'on vient de fa
   - Commande(s) de vérification
   - Piège classique à éviter
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
 
 
 
@@ -560,9 +564,9 @@ Bash, variables, expansions, premier script : on automatise ce qu'on vient de fa
   - tests [[ ]]
   - fonctions et debug
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
 
-
+- Quiz 6/6
 
 #### 37. Variables d'environnement
 
@@ -573,9 +577,9 @@ Bash, variables, expansions, premier script : on automatise ce qu'on vient de fa
   - Commande(s) de vérification
   - Piège classique à éviter
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
 
-
+- Quiz 5/6
 
 #### 38. Expansions du shell
 
@@ -586,9 +590,9 @@ Bash, variables, expansions, premier script : on automatise ce qu'on vient de fa
   - Commande(s) de vérification
   - Piège classique à éviter
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
 
-
+- Quiz 5/6
 
 #### 39. Personnaliser son shell
 
@@ -599,9 +603,9 @@ Bash, variables, expansions, premier script : on automatise ce qu'on vient de fa
   - Commande(s) de vérification
   - Piège classique à éviter
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
 
-
+- Quiz 6/6
 
 #### 40. Écrire un premier script
 
@@ -612,9 +616,9 @@ Bash, variables, expansions, premier script : on automatise ce qu'on vient de fa
   - tests [[ ]]
   - fonctions et debug
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
 
-
+- Quiz 6/6
 
 ### Phase E — Utilisateurs, droits et processus
 
@@ -629,7 +633,7 @@ Sécurité et stabilité commencent ici : qui peut quoi, et ce qui tourne sur la
   - Commande(s) de vérification
   - Piège classique à éviter
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
 
 
 
@@ -642,9 +646,9 @@ Sécurité et stabilité commencent ici : qui peut quoi, et ce qui tourne sur la
   - Commande(s) de vérification
   - Piège classique à éviter
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
 
-
+- Quiz 6/6
 
 #### 43. Permissions Linux
 
@@ -655,9 +659,9 @@ Sécurité et stabilité commencent ici : qui peut quoi, et ce qui tourne sur la
   - sudoers ciblé
   - moindre privilège
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
 
-
+- Quiz 6/6
 
 #### 44. Modifier les droits
 
@@ -668,9 +672,9 @@ Sécurité et stabilité commencent ici : qui peut quoi, et ce qui tourne sur la
   - Commande(s) de vérification
   - Piège classique à éviter
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
 
-
+- Quiz 4/6
 
 #### 45. Utiliser sudo
 
@@ -681,9 +685,9 @@ Sécurité et stabilité commencent ici : qui peut quoi, et ce qui tourne sur la
   - sudoers ciblé
   - moindre privilège
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
 
-
+- Quiz 6/6
 
 #### 46. Comprendre les processus
 
@@ -694,9 +698,9 @@ Sécurité et stabilité commencent ici : qui peut quoi, et ce qui tourne sur la
   - Commande(s) de vérification
   - Piège classique à éviter
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
 
-
+- Quiz 6/6
 
 #### 47. Arrêter un processus
 
@@ -707,9 +711,9 @@ Sécurité et stabilité commencent ici : qui peut quoi, et ce qui tourne sur la
   - Commande(s) de vérification
   - Piège classique à éviter
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
 
-
+- Quiz 6/6
 
 ### Phase F — Paquets, réseau et logs de premier niveau
 
@@ -724,7 +728,7 @@ Boucler le socle fondamentaux : installer des logiciels, tester le réseau, lire
   - Commande(s) de vérification
   - Piège classique à éviter
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
 
 
 
@@ -737,9 +741,9 @@ Boucler le socle fondamentaux : installer des logiciels, tester le réseau, lire
   - MàJ vs upgrade
   - Rollback / historique
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
 
-
+- Quiz 5/6
 
 #### 50. Installer et supprimer des logiciels
 
@@ -750,9 +754,9 @@ Boucler le socle fondamentaux : installer des logiciels, tester le réseau, lire
   - Commande(s) de vérification
   - Piège classique à éviter
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
 
-
+- Quiz 5/6
 
 #### 51. Mettre à jour son système
 
@@ -763,9 +767,9 @@ Boucler le socle fondamentaux : installer des logiciels, tester le réseau, lire
   - Commande(s) de vérification
   - Piège classique à éviter
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
 
-
+- Quiz 5/6
 
 #### 52. Nettoyer et maintenir
 
@@ -776,9 +780,9 @@ Boucler le socle fondamentaux : installer des logiciels, tester le réseau, lire
   - Commande(s) de vérification
   - Piège classique à éviter
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
 
-
+- Quiz 4/6
 
 #### 53. Vue d'ensemble
 
@@ -789,7 +793,7 @@ Boucler le socle fondamentaux : installer des logiciels, tester le réseau, lire
   - Commande(s) de vérification
   - Piège classique à éviter
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
 
 
 
@@ -802,9 +806,9 @@ Boucler le socle fondamentaux : installer des logiciels, tester le réseau, lire
   - Commande(s) de vérification
   - Piège classique à éviter
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
 
-
+- Quiz 6/6
 
 #### 55. Tester la connectivité
 
@@ -815,9 +819,9 @@ Boucler le socle fondamentaux : installer des logiciels, tester le réseau, lire
   - Commande(s) de vérification
   - Piège classique à éviter
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
 
-
+- Quiz 6/6
 
 #### 56. Lire les logs avec journalctl
 
@@ -828,9 +832,9 @@ Boucler le socle fondamentaux : installer des logiciels, tester le réseau, lire
   - Commande(s) de vérification
   - Piège classique à éviter
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
 
-
+- Quiz 4/6
 
 #### 57. Premiers gestes de dépannage
 
@@ -841,9 +845,9 @@ Boucler le socle fondamentaux : installer des logiciels, tester le réseau, lire
   - Commande(s) de vérification
   - Piège classique à éviter
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
 
-
+- Quiz 5/6
 
 ### Phase G — Exploiter : texte avancé, transferts et SSH
 
