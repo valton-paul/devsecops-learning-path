@@ -862,7 +862,7 @@ Passage du niveau découverte au travail réel : éditer, transformer, transfér
   - Commande(s) de vérification
   - Piège classique à éviter
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
 
 
 
@@ -875,9 +875,9 @@ Passage du niveau découverte au travail réel : éditer, transformer, transfér
   - Commande(s) de vérification
   - Piège classique à éviter
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
 
-
+- Quiz 6/6
 
 #### 60. Rechercher et remplacer dans un fichier
 
@@ -888,9 +888,9 @@ Passage du niveau découverte au travail réel : éditer, transformer, transfér
   - Commande(s) de vérification
   - Piège classique à éviter
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
 
-
+- Quiz 5/6
 
 #### 61. Transformer du texte avec cut, tr et paste
 
