@@ -4,7 +4,7 @@ Ce dépôt documente mon apprentissage et ma progression technique en suivant le
 
 ## Objectif
 
-L'objectif de ce projet est de construire une base de compétences solide en ingénierie système et pratique DevOps. Ce dépôt centralise les travaux pratiques, les scripts et les configurations réalisés au fil des chapitres du cursus.
+L'objectif de ce projet est de construire une base de compétences solide en ingénierie système et pratique DevOps. Ce dépôt suit le cursus (parcours, notes, scripts et essais perso) ; la pratique guidée et validée se fait surtout avec [dsoxlab](https://blog.stephane-robert.info/docs/dsoxlab/).
 
 Un tag "blank" est disponible si vous voulez cloner le projet vierge
 

@@ -927,9 +927,9 @@ Passage du niveau découverte au travail réel : éditer, transformer, transfér
   - Commande(s) de vérification
   - Piège classique à éviter
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
 
-
+- Quiz 6/6
 
 #### 64. Expressions régulières de base
 
@@ -940,9 +940,9 @@ Passage du niveau découverte au travail réel : éditer, transformer, transfér
   - Commande(s) de vérification
   - Piège classique à éviter
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
 
-
+- Quiz 5/6
 
 #### 65. Suivre un log en temps réel
 
@@ -953,9 +953,9 @@ Passage du niveau découverte au travail réel : éditer, transformer, transfér
   - Commande(s) de vérification
   - Piège classique à éviter
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
 
-
+- Quiz 6/6
 
 #### 66. Transformer du texte en flux avec sed
 
