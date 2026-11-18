@@ -901,9 +901,9 @@ Passage du niveau découverte au travail réel : éditer, transformer, transfér
   - Commande(s) de vérification
   - Piège classique à éviter
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
 
-
+- Quiz 4/6
 
 #### 62. Trier, compter et dédoublonner
 
@@ -914,9 +914,9 @@ Passage du niveau découverte au travail réel : éditer, transformer, transfér
   - Commande(s) de vérification
   - Piège classique à éviter
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
 
-
+- Quiz 5/6
 
 #### 63. Comparer des fichiers avec diff
 
