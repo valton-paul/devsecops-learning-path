@@ -966,9 +966,9 @@ Passage du niveau découverte au travail réel : éditer, transformer, transfér
   - Commande(s) de vérification
   - Piège classique à éviter
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
 
-
+- Quiz 6/6
 
 #### 67. Traiter des données avec awk
 
@@ -979,9 +979,9 @@ Passage du niveau découverte au travail réel : éditer, transformer, transfér
   - Commande(s) de vérification
   - Piège classique à éviter
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
 
-
+- Quiz 6/6
 
 #### 68. Redirections avancées et xargs
 
