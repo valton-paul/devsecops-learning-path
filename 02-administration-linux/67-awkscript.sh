@@ -4,14 +4,14 @@ echo "Début du script"
 echo "--------------------------------"
 echo "Les adresses IP et leurs méthodes HTTP"
 
-awk '{print $1, $6}' jeuDeDonnees.txt
+awk '{print $1, $6}' 67-jeuDeDonnees.txt
 
 echo "--------------------------------"
 
 echo "Compter le nombre de requêtes HTTP par adresse IP"
 
 # Rappel : il faut sort avant uniq pour que uniq puisse fonctionner correctement (uniq ne fonctionne que sur des lignes triées)
-awk '{print $1}' jeuDeDonnees.txt | sort |uniq -c
+awk '{print $1}' 67-jeuDeDonnees.txt | sort |uniq -c
 
 echo "--------------------------------"
 
@@ -23,7 +23,7 @@ awk -F, 'NR == 1 {next}
 }
 END {
     print "Chiffre d'\''affaire total : ", total, "€"
-}' jeuDeDonnees.csv
+}' 67-jeuDeDonnees.csv
 
 echo "--------------------------------"
 
@@ -35,7 +35,7 @@ awk -F, 'NR == 1 {next}
 } 
 END {
     for(a in article) printf "%-10s %6d€ \n", a, article[a]
-}' jeuDeDonnees.csv
+}' 67-jeuDeDonnees.csv
 
 echo "--------------------------------"
 echo "Fin du script"

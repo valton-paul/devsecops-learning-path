@@ -5,13 +5,13 @@ echo "Début du script"
 echo $' ----- Changement de la première occurrence -----\n'
 
 # Changer uniquement la première occurrence
-sed 's/des fêtes/de Noël/' test.txt
+sed 's/des fêtes/de Noël/' 60-data.txt
 
 # -e est l'équivalent de $''
 echo -e '\n ----- Changement de toutes les occurrences -----\n'
 
 # Changer toutes les occurrences
-sed 's/des fêtes/de Noël/g' test.txt
+sed 's/des fêtes/de Noël/g' 60-data.txt
 
 echo $'\n ----- Changement du fichier en cours... -----\n'
 
@@ -19,10 +19,10 @@ echo $'\n ----- Changement du fichier en cours... -----\n'
 sed -i.bak -E \
  -e 's/des fêtes/de Noël/g' \
  -e '/#/s/#//g' \
- test.txt
+ 60-data.txt
 
 # Changement du fichier avec un backup encore
 # ATTENTION : Le fichier cible est le même je vais donc écraser le backup précédent
-# sed -i.bak '/#/s/#//g' test.txt
+# sed -i.bak '/#/s/#//g' 60-data.txt
 
 echo 'Fin du script'
