@@ -992,9 +992,9 @@ Passage du niveau découverte au travail réel : éditer, transformer, transfér
   - Commande(s) de vérification
   - Piège classique à éviter
 
-- [ ] Page lue / pratiquée
+- [x] Page lue / pratiquée
 
-
+- Quiz 4/6
 
 #### 69. tar avancé : backups et restauration sélective
 
